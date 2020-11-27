@@ -676,12 +676,12 @@
   },
   "'to talk'-[de.verb]-'reden'": {
     "priorParams": [
-      0.9973886289958475,
-      0.9999999999999954,
+      1.250266312357229,
+      0.9999999999999887,
       149977.64727937384
     ],
-    "numDrills": 2,
-    "lastTime": 1606475824
+    "numDrills": 3,
+    "lastTime": 1606513750
   },
   "'to look/appear'-[de.verb]-'aussehen'": {
     "priorParams": [
@@ -712,12 +712,12 @@
   },
   "'to begin'-[de.verb]-'anfangen'": {
     "priorParams": [
-      0.856687292290191,
-      0.9999999999999618,
+      1.103560451839715,
+      0.9999999999999597,
       153892.79283873792
     ],
-    "numDrills": 3,
-    "lastTime": 1606475751
+    "numDrills": 4,
+    "lastTime": 1606513743
   },
   "'to expect'-[de.verb]-'erwarten'": {
     "priorParams": [
@@ -730,12 +730,12 @@
   },
   "'to live/reside'-[de.verb]-'wohnen'": {
     "priorParams": [
-      0.9971885991878006,
-      1.0000000000000044,
+      1.2500596148889207,
+      1.0000000000000029,
       149977.64727937384
     ],
-    "numDrills": 2,
-    "lastTime": 1606475821
+    "numDrills": 3,
+    "lastTime": 1606513746
   },
   "'to concern/affect'-[de.verb]-'betreffen'": {
     "priorParams": [
@@ -748,30 +748,30 @@
   },
   "'to wait'-[de.verb]-'warten'": {
     "priorParams": [
-      0.996895222135959,
-      0.9999999999999958,
+      1.250019608927303,
+      0.9999999999999954,
       149977.64727937384
     ],
-    "numDrills": 2,
-    "lastTime": 1606475792
+    "numDrills": 3,
+    "lastTime": 1606513755
   },
   "'to pass (time)'-[de.verb]-'vergehen'": {
     "priorParams": [
-      0.8564208730561331,
-      0.9999999999999928,
+      1.1033200247260584,
+      0.9999999999999923,
       153892.79283873792
     ],
-    "numDrills": 3,
-    "lastTime": 1606475756
+    "numDrills": 4,
+    "lastTime": 1606513752
   },
   "'to help'-[de.verb]-'helfen'": {
     "priorParams": [
-      0.8562064380628599,
-      1.000000000000009,
+      1.1030471074618855,
+      1.0000000000000073,
       153892.79283873792
     ],
-    "numDrills": 2,
-    "lastTime": 1606475761
+    "numDrills": 3,
+    "lastTime": 1606513748
   },
   "'to win/gain'-[de.verb]-'gewinnen'": {
     "priorParams": [
