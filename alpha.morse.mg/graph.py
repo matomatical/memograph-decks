@@ -1,6 +1,6 @@
 
 def graph():
-    for code, sym in ALPHAS:
+    for code, sym in ALPHABET:
         yield ("alpha.morse.alpha", sym, code)
     for code, sym in DIGITS:
         yield ("alpha.morse.digit", sym, code)
