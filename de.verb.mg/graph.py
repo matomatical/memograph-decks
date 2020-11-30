@@ -8,7 +8,8 @@ def graph():
 LINKS = """de -- en                                     # notes (ignored)
 sein          -- to be                                  # aux
 haben         -- to have                                # aux
-werden        -- to become, to will                     # aux, and modal?
+werden (1)    -- to become                              # aux?
+werden (2)    -- to will                                # modal?
 können        -- to can                                 # modal
 müssen        -- to must                                # modal
 sollen        -- to should/ought                        # modal
@@ -22,39 +23,44 @@ kommen        -- to come
 gehen         -- to go
 wissen        -- to know
 sehen         -- to see
-lassen        -- to let/allow, to have done
+lassen (1)    -- to let/allow
+lassen (2)    -- to have done
 stehen        -- to stand
 finden        -- to find
 bleiben       -- to stay (at)
 liegen        -- to lie (down)
 heißen        -- to hail/be called
 denken        -- to think
-nehmen        -- to take
+nehmen        -- to take (1)
 tun           -- to do/perform
 glauben       -- to believe
-halten        -- to halt, to hold
+halten (1)    -- to halt/stop
+halten (2)    -- to hold
 nennen        -- to name
 zeigen        -- to show
 führen        -- to lead
 sprechen      -- to speak
-bringen       -- to bring, to take
+bringen (1)   -- to bring
+bringen (2)   -- to take (2)
 leben         -- to live (alive)
-fahren        -- to go, to ride, to drive, ...
+fahren        -- to go/ride/drive/etc.
 meinen        -- to think/opine
 fragen        -- to ask
 kennen        -- to know
 gelten        -- to be valid (not expired)
-stellen       -- to set/place
+stellen       -- to place/set
 spielen       -- to play
 arbeiten      -- to work
 brauchen      -- to require/need
 folgen        -- to follow
 lernen        -- to learn
-bestehen      -- to exist, to insist, to pass (an exam) # be+stehen
-verstehen     -- to understand                          # ver+stehen
+bestehen (1)  -- to exist
+bestehen (2)  -- to insist
+bestehen (3)  -- to pass (an exam)                      # be + stehen
+verstehen     -- to understand                          # ver + stehen
 setzen        -- to set/place
-bekommen      -- to get/receive                         # be+kommen
-beginnen      -- to begin
+bekommen      -- to get/receive                         # be + kommen
+beginnen      -- to begin (1)
 erzählen      -- to tell                                # er + zählen
 versuchen     -- to try/attempt                         # ver + suchen
 schreiben     -- to write
@@ -63,19 +69,24 @@ erklären      -- to explain                             # er + klären
 entsprechen   -- to correspond                          # ent + sprechen
 sitzen        -- to sit
 ziehen        -- to pull/move
-scheinen      -- to shine, to seem/appear
+scheinen (1)  -- to shine
+scheinen (2)  -- to seem/appear (1)
 fallen        -- to fall
 gehören       -- to belong                              # ge + hören?
-entstehen     -- to originate/develop, to arise         # ent + stehen
+entstehen     -- to originate/develop
+entstehen     -- to arise                               # ent + stehen
 erhalten      -- to receive                             # er + halten
 treffen       -- to meet
 suchen        -- to search
 legen         -- to lay (sth. down)
-vorstellen    -- to introduce, to imagine               # vor + stellen
+vorstellen (1) -- to introduce                          # like, to 'set out'?
+vorstellen (2) -- to imagine                            # vor + stellen
 handeln       -- to deal/trade
 erreichen     -- to achieve/reach                       # er + reichen
-tragen        -- to carry, to wear
-schaffen      -- to manage, to create
+tragen (1)    -- to carry
+tragen (2)    -- to wear
+schaffen (1)  -- to manage
+schaffen (2)  -- to create
 lesen         -- to read
 verlieren     -- to lose                                # ver + lieren?
 darstellen    -- to portray/depict                      # dar + stellen
@@ -83,11 +94,12 @@ erkennen      -- to admit/recognise
 entwickeln    -- to develop                             # ent + wickeln
 reden         -- to talk
 aussehen      -- to look/appear
-erscheinen    -- to appear                              # er + scheinen
-bilden        -- to form, to educate
-anfangen      -- to begin                               # an + fangen
+erscheinen    -- to seem/appear (2)                     # er + scheinen
+bilden (1)    -- to form
+bilden (2)    -- to educate
+anfangen      -- to begin (2)                           # an + fangen
 erwarten      -- to expect                              # er + warten
-wohnen        -- to live/reside
+wohnen        -- to live (reside)
 betreffen     -- to concern/affect                      # be + treffen
 warten        -- to wait
 vergehen      -- to pass (time)                         # ver + gehen
@@ -95,16 +107,16 @@ helfen        -- to help
 gewinnen      -- to win/gain                            # not from winnen?
 schließen     -- to close
 fühlen        -- to feel
-bieten        -- to offer
+bieten        -- to offer (1)
 interessieren -- to interest
 erinnern      -- to remind
 ergeben       -- to result in
-anbieten      -- to offer
+anbieten      -- to offer (2)
 studieren     -- to study
 verbinden     -- to connect/link
 ansehen       -- to watch/look at
 fehlen        -- to lack
-bedeuten      -- to mean/to represent
+bedeuten      -- to mean/represent
 vergleichen   -- to compare
 möchten       -- to would like                          # modal, K2P of mögen
 """
