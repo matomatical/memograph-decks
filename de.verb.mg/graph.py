@@ -59,7 +59,7 @@ bestehen (2)  -- to insist
 bestehen (3)  -- to pass (an exam)                      # be + stehen
 verstehen     -- to understand                          # ver + stehen
 setzen        -- to set/place
-bekommen      -- to get/receive                         # be + kommen
+bekommen      -- to get                                 # be + kommen
 beginnen      -- to begin (1)
 erzählen      -- to tell                                # er + zählen
 versuchen     -- to try/attempt                         # ver + suchen
@@ -73,10 +73,11 @@ scheinen (1)  -- to shine
 scheinen (2)  -- to seem/appear (1)
 fallen        -- to fall
 gehören       -- to belong                              # ge + hören?
-entstehen     -- to originate/develop
-entstehen     -- to arise                               # ent + stehen
+entstehen (1) -- to originate/develop
+entstehen (2) -- to arise                               # ent + stehen
 erhalten      -- to receive                             # er + halten
-treffen       -- to meet
+treffen (1)   -- to meet
+treffen (2)   -- to hit
 suchen        -- to search
 legen         -- to lay (sth. down)
 vorstellen (1) -- to introduce                          # like, to 'set out'?
