@@ -46,7 +46,7 @@ der Grund         -- the grounding/basis/reason
 das Auge          -- the eye
 das Wort          -- the word
 das Geld          -- the money
-die Sache         -- the thing
+die Sache         -- the thing (1)
 die Art           -- the type/kind
 der Bereich       -- the area/region
 der Weg           -- the way/path
@@ -81,14 +81,15 @@ das Thema         -- the topic/theme
 die Person        -- the person
 der Euro          -- the euro (unit of currency)
 die Nacht         -- the night
-das Ding          -- the thing
+das Ding          -- the thing (2)
 der Raum          -- the room/space
 der Blick         -- the look/glance/view
 der Platz (1)     -- the place (2)
-der Platz (2)     -- the square
+der Platz (2)     -- the square (public square)
 die Zahl          -- the number
 das System        -- the system
-die Uhr           -- the clock/watch
+die Uhr (1)       -- the clock/watch
+die Uhr (2)       -- the o'clock
 pl. Eltern        -- the parents                        # plural only
 die Straße        -- the street
 die Minute        -- the minute
@@ -106,7 +107,8 @@ die Milliarde     -- the billion
 die Rolle (1)     -- the role
 die Rolle (2)     -- the roll
 die Tür           -- the door
-der Schüler       -- the pupil/student
+der Schüler       -- the pupil/student (m)
+die Schülerin     -- the pupil/student (f)
 die Bedeutung (1) -- the meaning
 die Bedeutung (2) -- the significance
 der Text          -- the text

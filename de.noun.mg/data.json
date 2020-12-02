@@ -59,200 +59,1026 @@
     "lastTime": 1606857655
   },
   "Mensch-[de.noun.gender]-der": {},
-  "the child-[de.noun.en]-Kind": {},
+  "the child-[de.noun.en]-Kind": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889364
+  },
   "Kind-[de.noun.gender]-das": {},
-  "the day-[de.noun.en]-Tag": {},
+  "the day-[de.noun.en]-Tag": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888627
+  },
   "Tag-[de.noun.gender]-der": {},
-  "the man-[de.noun.en]-Mann": {},
+  "the man-[de.noun.en]-Mann": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888410
+  },
   "Mann-[de.noun.gender]-der": {},
-  "the land/country-[de.noun.en]-Land": {},
+  "the land/country-[de.noun.en]-Land": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889314
+  },
   "Land-[de.noun.gender]-das": {},
-  "the question-[de.noun.en]-Frage": {},
+  "the question-[de.noun.en]-Frage": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889336
+  },
   "Frage-[de.noun.gender]-die": {},
-  "the house/home-[de.noun.en]-Haus": {},
+  "the house/home-[de.noun.en]-Haus": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888648
+  },
   "Haus-[de.noun.gender]-das": {},
-  "the fall-[de.noun.en]-Fall": {},
+  "the fall-[de.noun.en]-Fall": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889317
+  },
   "Fall-[de.noun.gender]-der": {},
-  "the people-[de.noun.en]-Leute": {},
+  "the people-[de.noun.en]-Leute": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888742
+  },
   "Leute-[de.noun.gender]-pl.": {},
-  "the work-[de.noun.en]-Arbeit": {},
+  "the work-[de.noun.en]-Arbeit": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889204
+  },
   "Arbeit-[de.noun.gender]-die": {},
-  "the percent-[de.noun.en]-Prozent": {},
+  "the percent-[de.noun.en]-Prozent": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888496
+  },
   "Prozent-[de.noun.gender]-das": {},
-  "the hand-[de.noun.en]-Hand": {},
+  "the hand-[de.noun.en]-Hand": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888685
+  },
   "Hand-[de.noun.gender]-die": {},
-  "the town/city-[de.noun.en]-Stadt": {},
+  "the town/city-[de.noun.en]-Stadt": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888733
+  },
   "Stadt-[de.noun.gender]-die": {},
-  "the man/husband-[de.noun.en]-Herr": {},
+  "the man/husband-[de.noun.en]-Herr": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889220
+  },
   "Herr-[de.noun.gender]-der": {},
-  "the part/section-[de.noun.en]-Teil": {},
+  "the part/section-[de.noun.en]-Teil": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888922
+  },
   "Teil-[de.noun.gender]-der": {},
-  "the problem-[de.noun.en]-Problem": {},
+  "the problem-[de.noun.en]-Problem": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888460
+  },
   "Problem-[de.noun.gender]-das": {},
-  "the world-[de.noun.en]-Welt": {},
+  "the world-[de.noun.en]-Welt": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889269
+  },
   "Welt-[de.noun.gender]-die": {},
-  "the right/law-[de.noun.en]-Recht": {},
+  "the right/law-[de.noun.en]-Recht": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889298
+  },
   "Recht-[de.noun.gender]-das": {},
-  "the end-[de.noun.en]-Ende": {},
+  "the end-[de.noun.en]-Ende": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888727
+  },
   "Ende-[de.noun.gender]-das": {},
-  "the million-[de.noun.en]-Million": {},
+  "the million-[de.noun.en]-Million": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889442
+  },
   "Million-[de.noun.gender]-die": {},
-  "the school-[de.noun.en]-Schule": {},
+  "the school-[de.noun.en]-Schule": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888479
+  },
   "Schule-[de.noun.gender]-die": {},
-  "the week-[de.noun.en]-Woche": {},
+  "the week-[de.noun.en]-Woche": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888747
+  },
   "Woche-[de.noun.gender]-die": {},
-  "the father-[de.noun.en]-Vater": {},
+  "the father-[de.noun.en]-Vater": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889331
+  },
   "Vater-[de.noun.gender]-der": {},
-  "the side-[de.noun.en]-Seite": {},
+  "the side-[de.noun.en]-Seite": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889224
+  },
   "Seite-[de.noun.gender]-die": {},
-  "the page-[de.noun.en]-Seite": {},
-  "the life-[de.noun.en]-Leben": {},
+  "the page-[de.noun.en]-Seite": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888663
+  },
+  "the life-[de.noun.en]-Leben": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889504
+  },
   "Leben-[de.noun.gender]-das": {},
-  "the mother-[de.noun.en]-Mutter": {},
+  "the mother-[de.noun.en]-Mutter": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888925
+  },
   "Mutter-[de.noun.gender]-die": {},
-  "the grounding/basis/reason-[de.noun.en]-Grund": {},
+  "the grounding/basis/reason-[de.noun.en]-Grund": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888778
+  },
   "Grund-[de.noun.gender]-der": {},
-  "the eye-[de.noun.en]-Auge": {},
+  "the eye-[de.noun.en]-Auge": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888414
+  },
   "Auge-[de.noun.gender]-das": {},
-  "the word-[de.noun.en]-Wort": {},
+  "the word-[de.noun.en]-Wort": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889295
+  },
   "Wort-[de.noun.gender]-das": {},
-  "the money-[de.noun.en]-Geld": {},
+  "the money-[de.noun.en]-Geld": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888757
+  },
   "Geld-[de.noun.gender]-das": {},
-  "the thing-[de.noun.en]-Sache": {},
+  "the thing-[de.noun.en]-Sache": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889239
+  },
   "Sache-[de.noun.gender]-die": {},
-  "the type/kind-[de.noun.en]-Art": {},
+  "the type/kind-[de.noun.en]-Art": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889449
+  },
   "Art-[de.noun.gender]-die": {},
-  "the area/region-[de.noun.en]-Bereich": {},
+  "the area/region-[de.noun.en]-Bereich": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888469
+  },
   "Bereich-[de.noun.gender]-der": {},
-  "the way/path-[de.noun.en]-Weg": {},
+  "the way/path-[de.noun.en]-Weg": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888639
+  },
   "Weg-[de.noun.gender]-der": {},
-  "the hour-[de.noun.en]-Stunde": {},
+  "the hour-[de.noun.en]-Stunde": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889227
+  },
   "Stunde-[de.noun.gender]-die": {},
-  "the name-[de.noun.en]-Name": {},
+  "the name-[de.noun.en]-Name": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889254
+  },
   "Name-[de.noun.gender]-der": {},
-  "the history-[de.noun.en]-Geschichte": {},
+  "the history-[de.noun.en]-Geschichte": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889477
+  },
   "Geschichte-[de.noun.gender]-die": {},
-  "the society/company-[de.noun.en]-Gesellschaft": {},
+  "the society/company-[de.noun.en]-Gesellschaft": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889209
+  },
   "Gesellschaft-[de.noun.gender]-die": {},
-  "the head-[de.noun.en]-Kopf": {},
+  "the head-[de.noun.en]-Kopf": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888942
+  },
   "Kopf-[de.noun.gender]-der": {},
-  "the pair/couple-[de.noun.en]-Paar": {},
+  "the pair/couple-[de.noun.en]-Paar": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889311
+  },
   "Paar-[de.noun.gender]-das": {},
-  "the likelihood/possibility-[de.noun.en]-M\u00f6glichkeit": {},
+  "the likelihood/possibility-[de.noun.en]-M\u00f6glichkeit": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889462
+  },
   "M\u00f6glichkeit-[de.noun.gender]-die": {},
-  "the enterprise/company-[de.noun.en]-Unternehmen": {},
+  "the enterprise/company-[de.noun.en]-Unternehmen": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888674
+  },
   "Unternehmen-[de.noun.gender]-das": {},
-  "the picture-[de.noun.en]-Bild": {},
+  "the picture-[de.noun.en]-Bild": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888714
+  },
   "Bild-[de.noun.gender]-das": {},
-  "the book-[de.noun.en]-Buch": {},
+  "the book-[de.noun.en]-Buch": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888520
+  },
   "Buch-[de.noun.gender]-das": {},
-  "the water-[de.noun.en]-Wasser": {},
+  "the water-[de.noun.en]-Wasser": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888452
+  },
   "Wasser-[de.noun.gender]-das": {},
-  "the place-[de.noun.en]-Stelle": {},
+  "the place-[de.noun.en]-Stelle": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888516
+  },
   "Stelle-[de.noun.gender]-die": {},
-  "the form/shape-[de.noun.en]-Form": {},
+  "the form/shape-[de.noun.en]-Form": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888448
+  },
   "Form-[de.noun.gender]-die": {},
-  "the mark-[de.noun.en]-Mark": {},
+  "the mark-[de.noun.en]-Mark": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889271
+  },
   "Mark-[de.noun.gender]-die": {},
-  "the development-[de.noun.en]-Entwiklung": {},
+  "the development-[de.noun.en]-Entwiklung": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889485
+  },
   "Entwiklung-[de.noun.gender]-die": {},
-  "the month-[de.noun.en]-Monat": {},
+  "the month-[de.noun.en]-Monat": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889366
+  },
   "Monat-[de.noun.gender]-der": {},
-  "the family-[de.noun.en]-Familie": {},
+  "the family-[de.noun.en]-Familie": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888431
+  },
   "Familie-[de.noun.gender]-die": {},
-  "the morning-[de.noun.en]-Morgen": {},
+  "the morning-[de.noun.en]-Morgen": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888774
+  },
   "Morgen-[de.noun.gender]-der": {},
-  "the evening-[de.noun.en]-Abend": {},
+  "the evening-[de.noun.en]-Abend": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889452
+  },
   "Abend-[de.noun.gender]-der": {},
-  "the task/asg./job-[de.noun.en]-Aufgabe": {},
+  "the task/asg./job-[de.noun.en]-Aufgabe": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888811
+  },
   "Aufgabe-[de.noun.gender]-die": {},
-  "the university-[de.noun.en]-Universit\u00e4t": {},
+  "the university-[de.noun.en]-Universit\u00e4t": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888635
+  },
   "Universit\u00e4t-[de.noun.gender]-die": {},
-  "the sense/meaning-[de.noun.en]-Sinn": {},
+  "the sense/meaning-[de.noun.en]-Sinn": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889230
+  },
   "Sinn-[de.noun.gender]-der": {},
-  "the state-[de.noun.en]-Staat": {},
+  "the state-[de.noun.en]-Staat": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888692
+  },
   "Staat-[de.noun.gender]-der": {},
-  "the goal-[de.noun.en]-Ziel": {},
+  "the goal-[de.noun.en]-Ziel": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889265
+  },
   "Ziel-[de.noun.gender]-das": {},
-  "the desination-[de.noun.en]-Ziel": {},
-  "the friend-[de.noun.en]-Freund": {},
+  "the desination-[de.noun.en]-Ziel": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888932
+  },
+  "the friend-[de.noun.en]-Freund": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888490
+  },
   "Freund-[de.noun.gender]-der": {},
-  "the friend-[de.noun.en]-Freundin": {},
+  "the friend-[de.noun.en]-Freundin": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889328
+  },
   "Freundin-[de.noun.gender]-die": {},
-  "the topic/theme-[de.noun.en]-Thema": {},
+  "the topic/theme-[de.noun.en]-Thema": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889458
+  },
   "Thema-[de.noun.gender]-das": {},
-  "the person-[de.noun.en]-Person": {},
+  "the person-[de.noun.en]-Person": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888438
+  },
   "Person-[de.noun.gender]-die": {},
-  "the euro-[de.noun.en]-Euro": {},
+  "the euro-[de.noun.en]-Euro": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889256
+  },
   "Euro-[de.noun.gender]-der": {},
-  "the night-[de.noun.en]-Nacht": {},
+  "the night-[de.noun.en]-Nacht": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888523
+  },
   "Nacht-[de.noun.gender]-die": {},
-  "the thing-[de.noun.en]-Ding": {},
+  "the thing-[de.noun.en]-Ding": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888503
+  },
   "Ding-[de.noun.gender]-das": {},
-  "the room/space-[de.noun.en]-Raum": {},
+  "the room/space-[de.noun.en]-Raum": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889326
+  },
   "Raum-[de.noun.gender]-der": {},
-  "the look/glance/view-[de.noun.en]-Blick": {},
+  "the look/glance/view-[de.noun.en]-Blick": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889354
+  },
   "Blick-[de.noun.gender]-der": {},
-  "the place-[de.noun.en]-Platz": {},
+  "the place-[de.noun.en]-Platz": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888939
+  },
   "Platz-[de.noun.gender]-der": {},
-  "the square-[de.noun.en]-Platz": {},
-  "the number-[de.noun.en]-Zahl": {},
+  "the square-[de.noun.en]-Platz": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888615
+  },
+  "the number-[de.noun.en]-Zahl": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889361
+  },
   "Zahl-[de.noun.gender]-die": {},
-  "the system-[de.noun.en]-System": {},
+  "the system-[de.noun.en]-System": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889467
+  },
   "System-[de.noun.gender]-das": {},
-  "the clock/watch-[de.noun.en]-Uhr": {},
+  "the clock/watch-[de.noun.en]-Uhr": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889198
+  },
   "Uhr-[de.noun.gender]-die": {},
-  "the parents-[de.noun.en]-Eltern": {},
+  "the parents-[de.noun.en]-Eltern": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889321
+  },
   "Eltern-[de.noun.gender]-pl.": {},
-  "the street-[de.noun.en]-Stra\u00dfe": {},
+  "the street-[de.noun.en]-Stra\u00dfe": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888717
+  },
   "Stra\u00dfe-[de.noun.gender]-die": {},
-  "the minute-[de.noun.en]-Minute": {},
+  "the minute-[de.noun.en]-Minute": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889324
+  },
   "Minute-[de.noun.gender]-die": {},
-  "the group-[de.noun.en]-Gruppe": {},
+  "the group-[de.noun.en]-Gruppe": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888643
+  },
   "Gruppe-[de.noun.gender]-die": {},
-  "the value/worth-[de.noun.en]-Wert": {},
+  "the value/worth-[de.noun.en]-Wert": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889369
+  },
   "Wert-[de.noun.gender]-der": {},
-  "the face-[de.noun.en]-Gesicht": {},
+  "the face-[de.noun.en]-Gesicht": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889233
+  },
   "Gesicht-[de.noun.gender]-das": {},
-  "the language-[de.noun.en]-Sprache": {},
+  "the language-[de.noun.en]-Sprache": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889441
+  },
   "Sprache-[de.noun.gender]-die": {},
-  "the beginning-[de.noun.en]-Anfang": {},
+  "the beginning-[de.noun.en]-Anfang": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889288
+  },
   "Anfang-[de.noun.gender]-der": {},
-  "the place/location-[de.noun.en]-Ort": {},
+  "the place/location-[de.noun.en]-Ort": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888765
+  },
   "Ort-[de.noun.gender]-der": {},
-  "the town-[de.noun.en]-Ort": {},
-  "the moment-[de.noun.en]-Moment": {},
+  "the town-[de.noun.en]-Ort": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888706
+  },
+  "the moment-[de.noun.en]-Moment": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888622
+  },
   "Moment-[de.noun.gender]-der": {},
-  "the result/consequence-[de.noun.en]-Folge": {},
+  "the result/consequence-[de.noun.en]-Folge": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888422
+  },
   "Folge-[de.noun.gender]-die": {},
-  "the interest-[de.noun.en]-Interesse": {},
+  "the interest-[de.noun.en]-Interesse": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889357
+  },
   "Interesse-[de.noun.gender]-das": {},
-  "the billion-[de.noun.en]-Milliarde": {},
+  "the billion-[de.noun.en]-Milliarde": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889346
+  },
   "Milliarde-[de.noun.gender]-die": {},
-  "the role-[de.noun.en]-Rolle": {},
+  "the role-[de.noun.en]-Rolle": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889340
+  },
   "Rolle-[de.noun.gender]-die": {},
-  "the roll-[de.noun.en]-Rolle": {},
-  "the door-[de.noun.en]-T\u00fcr": {},
+  "the roll-[de.noun.en]-Rolle": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889302
+  },
+  "the door-[de.noun.en]-T\u00fcr": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889243
+  },
   "T\u00fcr-[de.noun.gender]-die": {},
-  "the pupil/student-[de.noun.en]-Sch\u00fcler": {},
+  "the pupil/student-[de.noun.en]-Sch\u00fcler": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889489
+  },
   "Sch\u00fcler-[de.noun.gender]-der": {},
-  "the meaning-[de.noun.en]-Bedeutung": {},
+  "the meaning-[de.noun.en]-Bedeutung": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888405
+  },
   "Bedeutung-[de.noun.gender]-die": {},
-  "the significance-[de.noun.en]-Bedeutung": {},
-  "the text-[de.noun.en]-Text": {},
+  "the significance-[de.noun.en]-Bedeutung": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889279
+  },
+  "the text-[de.noun.en]-Text": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888856
+  },
   "Text-[de.noun.gender]-der": {},
-  "the result-[de.noun.en]-Ergebnis": {},
+  "the result-[de.noun.en]-Ergebnis": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889308
+  },
   "Ergebnis-[de.noun.gender]-das": {},
-  "the war-[de.noun.en]-Krieg": {},
+  "the war-[de.noun.en]-Krieg": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888917
+  },
   "Krieg-[de.noun.gender]-der": {},
-  "the way/manner-[de.noun.en]-Weise": {},
+  "the way/manner-[de.noun.en]-Weise": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889252
+  },
   "Weise-[de.noun.gender]-die": {},
-  "the rule/government-[de.noun.en]-Regierung": {},
+  "the rule/government-[de.noun.en]-Regierung": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889455
+  },
   "Regierung-[de.noun.gender]-die": {},
-  "the piece/bit/part-[de.noun.en]-St\u00fcck": {},
+  "the piece/bit/part-[de.noun.en]-St\u00fcck": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1606888723
+  },
   "St\u00fcck-[de.noun.gender]-das": {},
-  "the apartment-[de.noun.en]-Wohnung": {},
+  "the apartment-[de.noun.en]-Wohnung": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889481
+  },
   "Wohnung-[de.noun.gender]-die": {},
-  "the conversation-[de.noun.en]-Gespr\u00e4ch": {},
-  "Gespr\u00e4ch-[de.noun.gender]-das": {}
+  "the conversation-[de.noun.en]-Gespr\u00e4ch": {
+    "priorParams": [
+      1,
+      1,
+      60
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889798
+  },
+  "Gespr\u00e4ch-[de.noun.gender]-das": {},
+  "the o'clock-[de.noun.en]-Uhr": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889789
+  },
+  "the pupil/student-[de.noun.en]-Sch\u00fclerin": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1606889801
+  }
 }
