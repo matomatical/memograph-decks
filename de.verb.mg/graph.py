@@ -64,7 +64,7 @@ verstehen     -- to understand                          # ver + stehen
 setzen        -- to set/place
 bekommen      -- to get                                 # be + kommen
 beginnen      -- to begin (1)
-erzählen      -- to tell                                # er + zählen
+erzählen      -- to tell                                # er + zählen (?)
 versuchen     -- to try/attempt                         # ver + suchen
 schreiben     -- to write
 laufen        -- to walk
