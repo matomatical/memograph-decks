@@ -280,12 +280,12 @@
   },
   "to show-[de.verb]-zeigen": {
     "priorParams": [
-      4.051978546917678,
-      2.344950105825145,
-      106383.16184769961
+      1.3398059847264037,
+      2.451803223151592,
+      326086.21775173873
     ],
-    "numDrills": 15,
-    "lastTime": 1606769945
+    "numDrills": 16,
+    "lastTime": 1606857301
   },
   "to lead-[de.verb]-f\u00fchren": {
     "priorParams": [
@@ -496,12 +496,12 @@
   },
   "to tell-[de.verb]-erz\u00e4hlen": {
     "priorParams": [
-      2.3580578702844086,
-      3.340324783985818,
+      2.736995082204462,
+      3.34032478398579,
       152534.50487779098
     ],
-    "numDrills": 20,
-    "lastTime": 1606799513
+    "numDrills": 21,
+    "lastTime": 1606857314
   },
   "to try/attempt-[de.verb]-versuchen": {
     "priorParams": [
@@ -604,30 +604,30 @@
   },
   "to originate/develop-[de.verb]-entstehen": {
     "priorParams": [
-      4.4605984480416145,
-      5.148767458019413,
+      5.262882453378057,
+      5.148767458019406,
       71986.97670132418
     ],
-    "numDrills": 20,
-    "lastTime": 1606799504
+    "numDrills": 21,
+    "lastTime": 1606857258
   },
   "to arise-[de.verb]-entstehen": {
     "priorParams": [
-      4.460473425427703,
-      5.1487674580195,
+      5.262840779173501,
+      5.148767458019527,
       71986.97670132418
     ],
-    "numDrills": 20,
-    "lastTime": 1606799495
+    "numDrills": 21,
+    "lastTime": 1606857255
   },
   "to receive-[de.verb]-erhalten": {
     "priorParams": [
-      9.089879248146453,
-      4.833225240334413,
-      37971.22911404426
+      2.7017966248478995,
+      5.161297318882744,
+      116389.60781133371
     ],
-    "numDrills": 15,
-    "lastTime": 1606799508
+    "numDrills": 16,
+    "lastTime": 1606857244
   },
   "to meet-[de.verb]-treffen": {
     "priorParams": [
@@ -667,21 +667,21 @@
   },
   "to introduce-[de.verb]-vorstellen": {
     "priorParams": [
-      3.711678338486374,
-      4.544690015510505,
+      4.423085029782594,
+      4.544690015510545,
       81174.38408511993
     ],
-    "numDrills": 19,
-    "lastTime": 1606799491
+    "numDrills": 20,
+    "lastTime": 1606857239
   },
   "to imagine-[de.verb]-vorstellen": {
     "priorParams": [
-      3.711789210901395,
-      4.544690015510506,
+      4.423220540512048,
+      4.544690015510538,
       81174.38408511993
     ],
-    "numDrills": 19,
-    "lastTime": 1606799500
+    "numDrills": 20,
+    "lastTime": 1606857250
   },
   "to deal/trade-[de.verb]-handeln": {
     "priorParams": [
@@ -694,12 +694,12 @@
   },
   "to achieve/reach-[de.verb]-erreichen": {
     "priorParams": [
-      5.457743379097586,
-      3.2269039329915574,
+      6.169519645110287,
+      3.226903932991483,
       81174.38408511993
     ],
-    "numDrills": 15,
-    "lastTime": 1606799526
+    "numDrills": 16,
+    "lastTime": 1606857304
   },
   "to carry-[de.verb]-tragen": {
     "priorParams": [
@@ -721,21 +721,21 @@
   },
   "to create-[de.verb]-schaffen": {
     "priorParams": [
-      3.663369885948141,
-      2.9243102125271427,
+      4.206350551278476,
+      2.924310212527189,
       106383.16184769962
     ],
-    "numDrills": 16,
-    "lastTime": 1606799545
+    "numDrills": 17,
+    "lastTime": 1606857309
   },
   "to manage-[de.verb]-schaffen": {
     "priorParams": [
-      3.663426285851094,
-      2.9243102125271703,
+      4.206519750987266,
+      2.9243102125272165,
       106383.16184769962
     ],
-    "numDrills": 16,
-    "lastTime": 1606799551
+    "numDrills": 17,
+    "lastTime": 1606857327
   },
   "to read-[de.verb]-lesen": {
     "priorParams": [
@@ -748,12 +748,12 @@
   },
   "to lose-[de.verb]-verlieren": {
     "priorParams": [
-      1.2021356528268552,
-      2.108044590485532,
+      1.5041350181247144,
+      2.108044590485535,
       289179.4157046194
     ],
-    "numDrills": 8,
-    "lastTime": 1606769962
+    "numDrills": 9,
+    "lastTime": 1606857294
   },
   "to portray/depict-[de.verb]-darstellen": {
     "priorParams": [
@@ -775,12 +775,12 @@
   },
   "to develop-[de.verb]-entwickeln": {
     "priorParams": [
-      3.2642999244789226,
-      2.0736456300695596,
+      3.876208033006379,
+      2.073645630069544,
       94342.59686298472
     ],
-    "numDrills": 15,
-    "lastTime": 1606799555
+    "numDrills": 16,
+    "lastTime": 1606857284
   },
   "to talk-[de.verb]-reden": {
     "priorParams": [
@@ -793,21 +793,21 @@
   },
   "to look/appear-[de.verb]-aussehen": {
     "priorParams": [
-      0.9743146550524375,
+      1.276438510538893,
       1.3349904358297893,
       289179.4157046195
     ],
-    "numDrills": 11,
-    "lastTime": 1606769923
+    "numDrills": 12,
+    "lastTime": 1606857291
   },
   "to seem/appear-[de.verb]-erscheinen": {
     "priorParams": [
-      2.4060181677460672,
-      2.0652268223534422,
+      2.8877520774706045,
+      2.0652268223534693,
       119960.41556021891
     ],
-    "numDrills": 18,
-    "lastTime": 1606799536
+    "numDrills": 19,
+    "lastTime": 1606857325
   },
   "to form-[de.verb]-bilden": {
     "priorParams": [
@@ -838,12 +838,12 @@
   },
   "to expect-[de.verb]-erwarten": {
     "priorParams": [
-      1.3158352482324738,
-      2.1372633361261517,
+      1.6562878878379363,
+      2.1372633361261464,
       256449.76670228865
     ],
-    "numDrills": 16,
-    "lastTime": 1606769926
+    "numDrills": 17,
+    "lastTime": 1606857235
   },
   "to live-[de.verb]-wohnen": {
     "priorParams": [
@@ -919,12 +919,12 @@
   },
   "to offer-[de.verb]-bieten": {
     "priorParams": [
-      2.109589573805207,
-      2.1007051058776223,
+      2.5366746278662484,
+      2.100705105877635,
       135270.47938265037
     ],
-    "numDrills": 22,
-    "lastTime": 1606799539
+    "numDrills": 23,
+    "lastTime": 1606857311
   },
   "to interest-[de.verb]-interessieren": {
     "priorParams": [
@@ -937,12 +937,12 @@
   },
   "to remind-[de.verb]-erinnern": {
     "priorParams": [
-      1.3860249836400433,
-      1.8972386644466128,
+      1.7264932208420756,
+      1.897238664446615,
       256449.76670228865
     ],
-    "numDrills": 13,
-    "lastTime": 1606769985
+    "numDrills": 14,
+    "lastTime": 1606857298
   },
   "to study-[de.verb]-studieren": {
     "priorParams": [
@@ -1002,12 +1002,12 @@
   },
   "to watch/look at-[de.verb]-ansehen": {
     "priorParams": [
-      1.8236104445080497,
-      1.9886720532842492,
+      2.1987547182265423,
+      1.988672053284243,
       153892.79283873792
     ],
-    "numDrills": 8,
-    "lastTime": 1606799549
+    "numDrills": 9,
+    "lastTime": 1606857281
   },
   "to mean/represent-[de.verb]-bedeuten": {
     "priorParams": [
