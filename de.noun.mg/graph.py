@@ -74,7 +74,7 @@ die Universität   -- the university                     # abbr.: 'die Uni'
 der Sinn          -- the sense/meaning
 der Staat         -- the state
 das Ziel (1)      -- the goal
-das Ziel (2)      -- the desination
+das Ziel (2)      -- the destination
 der Freund        -- the friend (m)
 die Freundin      -- the friend (f)
 das Thema         -- the topic/theme
