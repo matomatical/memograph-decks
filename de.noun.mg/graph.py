@@ -64,7 +64,7 @@ das Wasser        -- the water
 die Stelle        -- the place (1)                      # stellen = to place
 die Form          -- the form/shape
 die Mark          -- the mark (old unit of currency)
-die Entwiklung    -- the development
+die Entwicklung   -- the development
 der Monat         -- the month
 die Familie       -- the family
 der Morgen        -- the morning                        # also 'tomorrow'?
