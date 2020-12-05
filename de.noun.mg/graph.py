@@ -18,7 +18,7 @@ die Frau          -- the woman/wife                     # also title 'Mrs.'
 der Mensch        -- the man/human
 das Kind          -- the child
 der Tag           -- the day
-der Mann          -- the man
+der Mann          -- the man/husband
 das Land          -- the land/country
 die Frage         -- the question
 das Haus          -- the house/home
@@ -28,7 +28,7 @@ die Arbeit        -- the work
 das Prozent       -- the percent
 die Hand          -- the hand
 die Stadt         -- the town/city (1)
-der Herr          -- the man/husband                    # also title 'Mr.'
+der Herr          -- the gentleman                      # also title 'Mr.'
 der Teil          -- the part/section
 das Problem       -- the problem
 die Welt          -- the world
