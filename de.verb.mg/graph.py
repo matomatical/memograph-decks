@@ -1,3 +1,5 @@
+from mg.graph import SpokenNode
+
 def graph():
     for line in LINKS.splitlines()[1:]:
         line = line.split("#", maxsplit=1)[0]
@@ -6,7 +8,11 @@ def graph():
         de, en = line.split("--")
         de = de.strip()
         en = en.strip()
-        yield ("de.verb", en, de)
+        yield (
+                SpokenNode(en, voice="english"),
+                SpokenNode(de, voice="german"),
+                "de.verb"
+            )
 
 LINKS = """de -- en                                     # notes (ignored)
 sein          -- to be                                  # aux

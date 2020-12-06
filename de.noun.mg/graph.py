@@ -1,13 +1,22 @@
+from mg.graph import SpokenNode
+
 def graph():
     for line in LINKS.splitlines()[1:]:
         de, en = line.split("#")[0].split("--")
-        article, de = de[:3], de[4:].strip()
+        art, de = de[:3], de[4:].strip()
         en = en.strip()
-        yield ("de.noun.en",  en, f"{de} ({article})")
-        if " (" not in de:
-            yield ("de.noun.gender", de, article)
-        elif "(1)" in de:
-            yield ("de.noun.gender", de.split(" (")[0], article)
+        yield (
+                SpokenNode(en, voice="english"),
+                SpokenNode(de, text=f"{art} {de}", voice="german"),
+                "de.noun.en"
+            )
+        if " (" not in de or "(1)" in de:
+            de = de.split(" (", maxsplit=1)[0]
+            yield (
+                    SpokenNode(de, voice="german"),
+                    SpokenNode(art, text=f"{art} {de}", voice="german"),
+                    "de.noun.gender"
+                )
 
 LINKS = """art de -- the en                             # notes (ignored)
 das Jahr          -- the year

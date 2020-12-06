@@ -694,12 +694,12 @@
   },
   "to achieve/reach-[de.verb]-erreichen": {
     "priorParams": [
-      2.303101109565785,
-      3.4259364476997782,
+      3.091530664705708,
+      3.4259364476997924,
       248816.14181141267
     ],
-    "numDrills": 19,
-    "lastTime": 1607033538
+    "numDrills": 20,
+    "lastTime": 1607229712
   },
   "to carry-[de.verb]-tragen": {
     "priorParams": [
@@ -1047,12 +1047,12 @@
   },
   "to hear-[de.verb]-h\u00f6ren": {
     "priorParams": [
-      1.4911631944444361,
-      0.999999999999994,
-      172800
+      0.9941426390362587,
+      1.0000000000000053,
+      529667.4534656998
     ],
-    "numDrills": 2,
-    "lastTime": 1606960858
+    "numDrills": 3,
+    "lastTime": 1607229750
   },
   "to laugh-[de.verb]-lachen": {
     "priorParams": [
@@ -1083,21 +1083,21 @@
   },
   "to eat-[de.verb]-essen": {
     "priorParams": [
-      1.4906828703703676,
-      0.9999999999999988,
-      172800
+      0.9590829050871441,
+      0.9999999999999873,
+      529667.4534656998
     ],
-    "numDrills": 2,
-    "lastTime": 1606960849
+    "numDrills": 3,
+    "lastTime": 1607211254
   },
   "to drink-[de.verb]-trinken": {
     "priorParams": [
-      1.491006944444446,
-      1.0000000000000002,
-      172800
+      0.9940406882751693,
+      1.0000000000000007,
+      529667.4534656998
     ],
-    "numDrills": 2,
-    "lastTime": 1606960874
+    "numDrills": 3,
+    "lastTime": 1607229739
   },
   "to feed-[de.verb]-fressen": {
     "priorParams": [
@@ -1146,12 +1146,12 @@
   },
   "to shop-[de.verb]-einkaufen": {
     "priorParams": [
-      1.4900115740740734,
-      0.9999999999999997,
-      172800
+      0.9588808915420513,
+      0.9999999999999976,
+      529667.4534656998
     ],
-    "numDrills": 2,
-    "lastTime": 1606960845
+    "numDrills": 3,
+    "lastTime": 1607211259
   },
   "to sell-[de.verb]-verkaufen": {
     "priorParams": [
@@ -1227,12 +1227,12 @@
   },
   "to please/appeal to-[de.verb]-gefallen": {
     "priorParams": [
-      1.4910879629629594,
-      0.9999999999999988,
-      172800
+      0.994091663655696,
+      0.9999999999999872,
+      529667.4534656998
     ],
-    "numDrills": 2,
-    "lastTime": 1606960864
+    "numDrills": 3,
+    "lastTime": 1607229742
   },
   "to sleep-[de.verb]-schlaffen": {
     "priorParams": [
@@ -1281,12 +1281,12 @@
   },
   "to rain-[de.verb]-regnen": {
     "priorParams": [
-      1.4907233796296315,
-      1.0000000000000029,
-      172800
+      0.959045145546023,
+      1.0000000000000104,
+      529667.4534656998
     ],
-    "numDrills": 2,
-    "lastTime": 1606960871
+    "numDrills": 3,
+    "lastTime": 1607211249
   },
   "to practice-[de.verb]-\u00fcben": {
     "priorParams": [
@@ -1308,12 +1308,12 @@
   },
   "to discuss-[de.verb]-diskutieren": {
     "priorParams": [
-      1.4906018518518538,
-      1.0000000000000013,
-      172800
+      0.9590187138672124,
+      0.9999999999999973,
+      529667.4534656998
     ],
-    "numDrills": 2,
-    "lastTime": 1606960867
+    "numDrills": 3,
+    "lastTime": 1607211252
   },
   "to analyse-[de.verb]-analysieren": {
     "priorParams": [
@@ -1326,12 +1326,12 @@
   },
   "to spell-[de.verb]-buchstabieren": {
     "priorParams": [
-      1.4902488425925948,
-      1.0000000000000029,
-      172800
+      0.958875227610893,
+      1.0000000000000115,
+      529667.4534656998
     ],
-    "numDrills": 2,
-    "lastTime": 1606960877
+    "numDrills": 3,
+    "lastTime": 1607211247
   },
   "to paint/smear-[de.verb]-streichen": {
     "priorParams": [
@@ -1398,12 +1398,12 @@
   },
   "to complete/enter/fill in-[de.verb]-erg\u00e4nzen": {
     "priorParams": [
-      1.4914062500000154,
-      1.0000000000000093,
-      172800
+      0.9942275980038177,
+      1.0000000000000082,
+      529667.4534656998
     ],
-    "numDrills": 2,
-    "lastTime": 1606960852
+    "numDrills": 3,
+    "lastTime": 1607229747
   },
   "to complete/complement-[de.verb]-erg\u00e4nzen": {
     "priorParams": [
@@ -1425,12 +1425,12 @@
   },
   "to collate-[de.verb]-zuordnen": {
     "priorParams": [
-      1.4913483796296343,
-      1.000000000000003,
-      172800
+      0.994218158118541,
+      1.000000000000013,
+      529667.4534656998
     ],
-    "numDrills": 2,
-    "lastTime": 1606960856
+    "numDrills": 3,
+    "lastTime": 1607229756
   },
   "to solve-[de.verb]-l\u00f6sen": {
     "priorParams": [
@@ -1443,12 +1443,12 @@
   },
   "to draw-[de.verb]-zeichnen": {
     "priorParams": [
-      1.4906712962962942,
+      0.9590206018442748,
       0.9999999999999981,
-      172800
+      529667.4534656998
     ],
-    "numDrills": 2,
-    "lastTime": 1606960869
+    "numDrills": 3,
+    "lastTime": 1607211243
   },
   "to cut-[de.verb]-schneiden": {
     "priorParams": [
