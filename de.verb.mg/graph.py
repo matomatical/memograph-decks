@@ -191,4 +191,5 @@ empfehlen     -- to recommend                           # emp + fehlen?
 werfen        -- to throw
 holen         -- to fetch/get
 wiederholen   -- to repeat                              # wieder + holen?
+passieren     -- to pass/transpire
 """

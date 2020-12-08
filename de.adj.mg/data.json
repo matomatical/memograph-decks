@@ -1,0 +1,301 @@
+{
+  "whole-[de.adj]-ganz": {
+    "priorParams": [
+      1.1005555555555533,
+      0.9999999999999983,
+      3600
+    ],
+    "numDrills": 1,
+    "lastTime": 1607460481
+  },
+  "all of the-[de.adj]-ganz": {
+    "priorParams": [
+      1.0969444444444434,
+      0.9999999999999989,
+      3600
+    ],
+    "numDrills": 1,
+    "lastTime": 1607460483
+  },
+  "great/big-[de.adj]-gro\u00df": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1607460139
+  },
+  "good-[de.adj]-gut": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1607460114
+  },
+  "new-[de.adj]-neu": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1607460143
+  },
+  "first-[de.adj]-erste": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1607460127
+  },
+  "long-[de.adj]-lang": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1607460234
+  },
+  "German-[de.adj]-deutsch": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1607460257
+  },
+  "small/little-[de.adj]-klein": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1607460230
+  },
+  "old-[de.adj]-alt": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1607460418
+  },
+  "high-[de.adj]-hoch": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1607460268
+  },
+  "tall-[de.adj]-hoch": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1607460414
+  },
+  "easy-[de.adj]-einfach": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1607460248
+  },
+  "last-[de.adj]-letzte": {
+    "priorParams": [
+      0.6959838623044127,
+      1.0000000000000013,
+      183.9123102311458
+    ],
+    "numDrills": 1,
+    "lastTime": 1607460479
+  },
+  "like/same/equal-[de.adj]-gleich": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1607460391
+  },
+  "right away-[de.adj]-gleich": {
+    "priorParams": [
+      0.821043462562237,
+      1.0000000000000016,
+      183.9123102311458
+    ],
+    "numDrills": 1,
+    "lastTime": 1607460474
+  },
+  "possible-[de.adj]-m\u00f6glich": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1607460217
+  },
+  "own/characteristic-[de.adj]-eigen": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1607460202
+  },
+  "beautiful/pleasant-[de.adj]-sch\u00f6n": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1607460221
+  },
+  "late-[de.adj]-sp\u00e4t": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1607460186
+  },
+  "important-[de.adj]-wichtig": {
+    "priorParams": [
+      1.0059141759868488,
+      1.0000000000000022,
+      183.9123102311458
+    ],
+    "numDrills": 1,
+    "lastTime": 1607460485
+  },
+  "additional-[de.adj]-weitere": {
+    "priorParams": [
+      0.6080906165311113,
+      1.0,
+      499.92549093124615
+    ],
+    "numDrills": 1,
+    "lastTime": 1607460488
+  },
+  "exact-[de.adj]-genau": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1607460166
+  },
+  "young-[de.adj]-jung": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1607460395
+  },
+  "short-[de.adj]-kurz": {},
+  "strong-[de.adj]-stark": {},
+  "right/correct-[de.adj]-richtig": {},
+  "various/different/diverse-[de.adj]-verschieden": {},
+  "special/particular-[de.adj]-bestimmt": {},
+  "better-[de.adj]-besser": {},
+  "fast-[de.adj]-schnell": {},
+  "sure/certain-[de.adj]-sicher": {},
+  "safe/secure-[de.adj]-sicher": {},
+  "next-[de.adj]-n\u00e4chste": {},
+  "political-[de.adj]-politisch": {},
+  "clear-[de.adj]-klar": {},
+  "difficult-[de.adj]-schwer": {},
+  "heavy-[de.adj]-schwer": {},
+  "individual-[de.adj]-einzeln": {},
+  "well-known-[de.adj]-bekannt": {},
+  "light-[de.adj]-leicht": {},
+  "easy-[de.adj]-leicht": {},
+  "round-[de.adj]-rund": {},
+  "free-[de.adj]-frei": {},
+  "early-[de.adj]-fr\u00fch": {},
+  "variable/different/diverse-[de.adj]-unterschiedlich": {},
+  "bad-[de.adj]-schlecht": {},
+  "clear-[de.adj]-deutlich": {},
+  "general-[de.adj]-allgemein": {},
+  "only/sole-[de.adj]-einzig": {},
+  "common/mutual-[de.adj]-gemeinsam": {},
+  "near/close-[de.adj]-nah": {},
+  "full-[de.adj]-voll": {},
+  "direct-[de.adj]-direkt": {},
+  "international-[de.adj]-international": {},
+  "social-[de.adj]-sozial": {},
+  "best-[de.adj]-beste": {},
+  "red-[de.adj]-rot": {},
+  "open-[de.adj]-offen": {},
+  "most-[de.adj]-meiste": {},
+  "special/particular-[de.adj]-besondere": {},
+  "known/certain-[de.adj]-gewiss": {},
+  "public-[de.adj]-\u00f6ffentlich": {},
+  "half-[de.adj]-halb": {},
+  "probable-[de.adj]-wahrscheinlich": {},
+  "European-[de.adj]-europ\u00e4isch": {},
+  "essential/fundamental-[de.adj]-wesentlich": {},
+  "similar-[de.adj]-\u00e4hnlich": {},
+  "frequent-[de.adj]-h\u00e4ufig": {},
+  "black-[de.adj]-schwarz": {},
+  "complete-[de.adj]-v\u00f6llig": {},
+  "low-[de.adj]-gering": {},
+  "small-[de.adj]-gering": {},
+  "difficult-[de.adj]-schwierig": {},
+  "practical-[de.adj]-praktisch": {},
+  "personal-[de.adj]-pers\u00f6nlich": {},
+  "-years old-[de.adj]--j\u00e4hrig": {},
+  "modern-[de.adj]-modern": {},
+  "deep-[de.adj]-tief": {},
+  "actual/real-[de.adj]-tats\u00e4chlich": {},
+  "additional-[de.adj]-zus\u00e4tzlich": {},
+  "American-[de.adj]-amerikanisch": {},
+  "economic/financial-[de.adj]-wirtschaftlich": {},
+  "interesting-[de.adj]-interessant": {},
+  "relative-[de.adj]-relativ": {},
+  "simultaneous-[de.adj]-gleichzeitig": {},
+  "green-[de.adj]-gr\u00fcn": {},
+  "white-[de.adj]-wei\u00df": {},
+  "whole/entire-[de.adj]-gesamt": {},
+  "special/particular-[de.adj]-speziell": {},
+  "decisive-[de.adj]-entscheidend": {},
+  "narrow/close-[de.adj]-eng": {},
+  "technical-[de.adj]-technisch": {},
+  "slow-[de.adj]-langsam": {},
+  "constant-[de.adj]-st\u00e4nding": {},
+  "necessary-[de.adj]-notwendig": {},
+  "pure/pristine-[de.adj]-rein": {},
+  "English-[de.adj]-englisch": {},
+  "scientific/scholarly-[de.adj]-wissenschaftlich": {},
+  "false-[de.adj]-falsch": {},
+  "foreign/strange-[de.adj]-fremd": {},
+  "French-[de.adj]-frans\u00f6sisch": {},
+  "rare-[de.adj]-selten": {},
+  "normal-[de.adj]-normal": {},
+  "true-[de.adj]-wahr": {},
+  "private-[de.adj]-privat": {},
+  "dead-[de.adj]-tot": {}
+}
