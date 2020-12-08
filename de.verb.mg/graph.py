@@ -9,8 +9,8 @@ def graph():
         de = de.strip()
         en = en.strip()
         yield (
-                SpokenNode(en, voice="english"),
-                SpokenNode(de, voice="german"),
+                SpokenNode(en, voice="en"),
+                SpokenNode(de, voice="de"),
                 "de.verb"
             )
 
@@ -131,7 +131,7 @@ vergleichen   -- to compare
 möchten       -- to would like                          # modal, K2P of mögen
 
 # verbs gathered randomly e.g. from class, but i remember them anyway
-atmen         -- to breath
+atmen         -- to breathe
 sterben       -- to die
 hören         -- to hear
 lachen        -- to laugh

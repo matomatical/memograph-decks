@@ -6,15 +6,15 @@ def graph():
         art, de = de[:3], de[4:].strip()
         en = en.strip()
         yield (
-                SpokenNode(en, voice="english"),
-                SpokenNode(de, text=f"{art} {de}", voice="german"),
+                SpokenNode(en, voice="en"),
+                SpokenNode(de, text=f"{art} {de}", voice="de"),
                 "de.noun.en"
             )
         if " (" not in de or "(1)" in de:
             de = de.split(" (", maxsplit=1)[0]
             yield (
-                    SpokenNode(de, voice="german"),
-                    SpokenNode(art, text=f"{art} {de}", voice="german"),
+                    SpokenNode(de, voice="de"),
+                    SpokenNode(art, text=f"{art} {de}", voice="de"),
                     "de.noun.gender"
                 )
 
