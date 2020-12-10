@@ -17,16 +17,17 @@ def graph():
 LINKS = """de -- en                                     # notes (ignored)
 ganz (1)      -- whole (1)
 ganz (2)      -- all of the
-groß          -- great/big
+groß (1)      -- great/big
+groß (2)      -- tall (1)
 gut           -- good
 neu           -- new
 erste         -- first                                  # always decline
 lang          -- long
 deutsch       -- German
-klein         -- small/little
+klein         -- small/little (1)
 alt           -- old
 hoch (1)      -- high
-hoch (2)      -- tall
+hoch (2)      -- tall (2)
 einfach       -- easy (1)
 letzte        -- last                                   # always decline
 gleich (1)    -- like/same/equal
@@ -88,7 +89,7 @@ häufig        -- frequent
 schwarz       -- black
 völlig        -- complete
 gering (1)    -- low
-gering (2)    -- small
+gering (2)    -- small (2)
 schwierig     -- difficult (2)
 praktisch     -- practical
 persönlich    -- personal
@@ -106,7 +107,8 @@ grün          -- green
 weiß          -- white
 gesamt        -- whole/entire (2)
 speziell      -- special/particular (3)
-entscheidend  -- decisive
+entscheidend  -- decisive                               # entscheiden + 'd'
+                                                        # lit. 'deciding'
 eng           -- narrow/close
 technisch     -- technical
 langsam       -- slow
@@ -116,7 +118,7 @@ rein          -- pure/pristine
 englisch      -- English
 wissenschaftlich -- scientific/scholarly
 falsch        -- false
-fremd         -- foreign/strange
+fremd         -- foreign/strange/alien
 fransösisch   -- French
 selten        -- rare
 normal        -- normal

@@ -154,7 +154,7 @@ zahlen        -- to pay (1)                             # difference?
 bezahlen      -- to pay (2)                             # be + zahlen
 bitten        -- to thank
 gefallen      -- to please/appeal to
-schlaffen     -- to sleep
+schlafen      -- to sleep
 kochen        -- to cook
 backen        -- to bake
 besuchen      -- to visit                               # be + suchen?

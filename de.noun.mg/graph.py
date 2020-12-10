@@ -70,7 +70,8 @@ das Unternehmen   -- the enterprise/company
 das Bild          -- the picture
 das Buch          -- the book
 das Wasser        -- the water
-die Stelle        -- the place (1)                      # stellen = to place
+die Stelle (1)    -- the place (1)                      # stellen = to place
+die Stelle (2)    -- the position/role                  # like for a job
 die Form          -- the form/shape
 die Mark          -- the mark (old unit of currency)
 die Entwicklung   -- the development
