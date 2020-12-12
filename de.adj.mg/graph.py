@@ -52,7 +52,7 @@ sicher (2)    -- safe/secure
 nächste       -- next                                   # always decline
 politisch     -- political
 klar          -- clear (1)
-schwer (1)    -- difficult
+schwer (1)    -- difficult (1)
 schwer (2)    -- heavy
 einzeln       -- individual
 bekannt       -- well-known

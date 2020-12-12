@@ -604,30 +604,30 @@
   },
   "to originate/develop-[de.verb]-entstehen": {
     "priorParams": [
-      4.228289338258299,
-      5.534015698624109,
+      4.82850273978728,
+      5.534015698624154,
       220654.8531949366
     ],
-    "numDrills": 30,
-    "lastTime": 1607589711
+    "numDrills": 31,
+    "lastTime": 1607722151
   },
   "to arise-[de.verb]-entstehen": {
     "priorParams": [
-      12.546166528072714,
-      7.141140630621667,
+      12.611513828877067,
+      8.131638850829523,
       71986.97670132418
     ],
-    "numDrills": 31,
-    "lastTime": 1607635725
+    "numDrills": 32,
+    "lastTime": 1607722170
   },
   "to receive-[de.verb]-erhalten": {
     "priorParams": [
-      5.67902085526829,
-      7.282445309059646,
+      6.405462080678115,
+      7.282445309059647,
       147994.0788593719
     ],
-    "numDrills": 28,
-    "lastTime": 1607560897
+    "numDrills": 29,
+    "lastTime": 1607668406
   },
   "to meet-[de.verb]-treffen": {
     "priorParams": [
@@ -658,30 +658,30 @@
   },
   "to lay-[de.verb]-legen": {
     "priorParams": [
-      2.83288379042002,
-      2.852018091419529,
+      3.430087967404927,
+      2.8520180914195548,
       220654.85319493662
     ],
-    "numDrills": 11,
-    "lastTime": 1607590428
+    "numDrills": 12,
+    "lastTime": 1607722204
   },
   "to introduce-[de.verb]-vorstellen": {
     "priorParams": [
-      3.5897812119352057,
-      4.876916782500882,
+      4.237970669523687,
+      4.876916782500874,
       248816.14181141267
     ],
-    "numDrills": 28,
-    "lastTime": 1607560894
+    "numDrills": 29,
+    "lastTime": 1607722174
   },
   "to imagine-[de.verb]-vorstellen": {
     "priorParams": [
-      3.589759288612821,
-      4.876913710405402,
+      4.2379808984561755,
+      4.876913710405427,
       248816.14181141267
     ],
-    "numDrills": 28,
-    "lastTime": 1607560889
+    "numDrills": 29,
+    "lastTime": 1607722177
   },
   "to deal/trade-[de.verb]-handeln": {
     "priorParams": [
@@ -721,21 +721,21 @@
   },
   "to create-[de.verb]-schaffen": {
     "priorParams": [
-      2.86139461595694,
-      3.0932325904159996,
+      3.5013265990954294,
+      3.093232590415998,
       326086.21775173873
     ],
-    "numDrills": 22,
-    "lastTime": 1607459736
+    "numDrills": 23,
+    "lastTime": 1607668409
   },
   "to manage-[de.verb]-schaffen": {
     "priorParams": [
-      2.8615215384544612,
-      3.0932387689127827,
+      3.501312454606665,
+      3.0932387689127654,
       326086.21775173873
     ],
-    "numDrills": 22,
-    "lastTime": 1607459776
+    "numDrills": 23,
+    "lastTime": 1607668403
   },
   "to read-[de.verb]-lesen": {
     "priorParams": [
@@ -775,12 +775,12 @@
   },
   "to develop-[de.verb]-entwickeln": {
     "priorParams": [
-      6.106610345648541,
-      3.954932464694726,
+      7.321561121863771,
+      3.954932464694683,
       119960.41556021888
     ],
-    "numDrills": 21,
-    "lastTime": 1607576413
+    "numDrills": 22,
+    "lastTime": 1607722159
   },
   "to talk-[de.verb]-reden": {
     "priorParams": [
@@ -793,12 +793,12 @@
   },
   "to look/appear-[de.verb]-aussehen": {
     "priorParams": [
-      0.9437076279873539,
-      1.355109994444461,
+      1.331036408364652,
+      1.3551099944444616,
       886394.2402254909
     ],
-    "numDrills": 15,
-    "lastTime": 1607378882
+    "numDrills": 16,
+    "lastTime": 1607722208
   },
   "to seem/appear-[de.verb]-erscheinen": {
     "priorParams": [
@@ -910,12 +910,12 @@
   },
   "to feel-[de.verb]-f\u00fchlen": {
     "priorParams": [
-      1.4507533112975808,
-      2.0184591863969614,
+      1.884618832928783,
+      2.018459186396973,
       471712.98431492364
     ],
-    "numDrills": 11,
-    "lastTime": 1607463730
+    "numDrills": 12,
+    "lastTime": 1607668390
   },
   "to offer-[de.verb]-bieten": {
     "priorParams": [
@@ -928,12 +928,12 @@
   },
   "to interest-[de.verb]-interessieren": {
     "priorParams": [
-      1.450764489694859,
-      2.0184582229971526,
+      1.8846194116602297,
+      2.0184582229971606,
       471712.98431492364
     ],
-    "numDrills": 10,
-    "lastTime": 1607463741
+    "numDrills": 11,
+    "lastTime": 1607668396
   },
   "to remind-[de.verb]-erinnern": {
     "priorParams": [
@@ -975,12 +975,12 @@
   },
   "to result in-[de.verb]-ergeben": {
     "priorParams": [
-      1.4275369622689535,
-      2.096463762010178,
+      1.8584291008015317,
+      2.096463762010175,
       599802.0778010945
     ],
-    "numDrills": 12,
-    "lastTime": 1607463766
+    "numDrills": 13,
+    "lastTime": 1607722216
   },
   "to offer-[de.verb]-anbieten": {
     "priorParams": [
@@ -1002,12 +1002,12 @@
   },
   "to watch/look at-[de.verb]-ansehen": {
     "priorParams": [
-      1.807850055009891,
-      2.0573277100479985,
+      2.3641607963415328,
+      2.0573277100479923,
       471712.98431492364
     ],
-    "numDrills": 13,
-    "lastTime": 1607459792
+    "numDrills": 14,
+    "lastTime": 1607722211
   },
   "to mean/represent-[de.verb]-bedeuten": {
     "priorParams": [
@@ -1155,12 +1155,12 @@
   },
   "to sell-[de.verb]-verkaufen": {
     "priorParams": [
-      1.8094724077564417,
-      1.0000000000000047,
-      281822.4792011548
+      0.8986231903454491,
+      1.0000000000000129,
+      863843.7204158901
     ],
-    "numDrills": 8,
-    "lastTime": 1607402080
+    "numDrills": 9,
+    "lastTime": 1607668400
   },
   "to fit/suit-[de.verb]-passen": {
     "priorParams": [
@@ -1407,12 +1407,12 @@
   },
   "to complete/complement-[de.verb]-erg\u00e4nzen": {
     "priorParams": [
-      1.2749395787516116,
-      0.9999999999999936,
+      1.9235578726492037,
+      0.9999999999999978,
       529667.4534656998
     ],
-    "numDrills": 4,
-    "lastTime": 1607378645
+    "numDrills": 5,
+    "lastTime": 1607722197
   },
   "to order/arrange-[de.verb]-ordnen": {
     "priorParams": [
@@ -1479,21 +1479,21 @@
   },
   "to catch-[de.verb]-fangen": {
     "priorParams": [
-      2.5400701829328307,
-      1.9512764280813517,
+      3.274142681460288,
+      1.9512764280813664,
       219722.166848037
     ],
-    "numDrills": 5,
-    "lastTime": 1607560900
+    "numDrills": 6,
+    "lastTime": 1607722192
   },
   "to loan/borrow-[de.verb]-leihen": {
     "priorParams": [
-      4.193941344515373,
-      2.9966435667197664,
+      5.271094324714611,
+      2.99664356671977,
       135270.47938265037
     ],
-    "numDrills": 22,
-    "lastTime": 1607576440
+    "numDrills": 23,
+    "lastTime": 1607722147
   },
   "to step-[de.verb]-treten": {
     "priorParams": [
