@@ -1,12 +1,12 @@
 from mg.graph import Node
 
 def graph():
+    words = set()
     for line in LINKS.splitlines()[1:]:
         if "--" not in line:
             continue
         de, en = map(str.strip, line.split("#")[0].split("--"))
         art, noun = de[:3], de[4:]
-        words = set()
         yield (
                 Node(en,   speak_str=en, speak_voice="en"),
                 Node(noun, print_str=de, speak_str=de, speak_voice="de"),

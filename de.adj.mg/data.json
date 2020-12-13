@@ -172,12 +172,12 @@
   },
   "late-[de.adj]-sp\u00e4t": {
     "priorParams": [
-      1.3653806573670288,
-      2.0335638279537807,
+      1.9770576762494736,
+      2.033563827953774,
       219722.16684803704
     ],
-    "numDrills": 3,
-    "lastTime": 1607721946
+    "numDrills": 4,
+    "lastTime": 1607856345
   },
   "important-[de.adj]-wichtig": {
     "priorParams": [
@@ -415,12 +415,12 @@
   },
   "bad-[de.adj]-schlecht": {
     "priorParams": [
-      1.542361079317027,
-      2.0069195223160126,
+      2.3200983478355472,
+      2.006919522316015,
       172800
     ],
-    "numDrills": 2,
-    "lastTime": 1607721961
+    "numDrills": 3,
+    "lastTime": 1607856354
   },
   "clear-[de.adj]-deutlich": {
     "priorParams": [
@@ -442,21 +442,21 @@
   },
   "only/sole-[de.adj]-einzig": {
     "priorParams": [
-      1.1947765745903538,
-      0.9999999999999937,
-      135270.47938265037
+      0.714233735596809,
+      0.9999999999999861,
+      414631.77282229677
     ],
-    "numDrills": 11,
-    "lastTime": 1607721840
+    "numDrills": 12,
+    "lastTime": 1607856366
   },
   "common/mutual-[de.adj]-gemeinsam": {
     "priorParams": [
-      1.1942590928728432,
-      0.9999999999999465,
-      135270.47938265037
+      0.7141010877786753,
+      0.9999999999999448,
+      414631.77282229677
     ],
-    "numDrills": 11,
-    "lastTime": 1607721793
+    "numDrills": 12,
+    "lastTime": 1607856334
   },
   "near/close-[de.adj]-nah": {
     "priorParams": [
@@ -541,12 +541,12 @@
   },
   "special/particular-[de.adj]-besondere": {
     "priorParams": [
-      1.1947322190145988,
-      0.999999999999986,
-      135270.47938265037
+      0.7142771476100378,
+      0.9999999999999848,
+      414631.77282229677
     ],
-    "numDrills": 11,
-    "lastTime": 1607721823
+    "numDrills": 12,
+    "lastTime": 1607856373
   },
   "known/certain-[de.adj]-gewiss": {
     "priorParams": [
@@ -577,12 +577,12 @@
   },
   "probable-[de.adj]-wahrscheinlich": {
     "priorParams": [
-      1.5881100199119602,
-      1.000000000000014,
-      103676.69615807124
+      0.9414886405102028,
+      1.0000000000000142,
+      317790.3451260573
     ],
-    "numDrills": 5,
-    "lastTime": 1607721837
+    "numDrills": 6,
+    "lastTime": 1607856383
   },
   "European-[de.adj]-europ\u00e4isch": {
     "priorParams": [
@@ -604,21 +604,21 @@
   },
   "similar-[de.adj]-\u00e4hnlich": {
     "priorParams": [
-      2.571099098175063,
-      4.334499992242317,
+      3.230495612794068,
+      4.334499992242401,
       71351.60553159799
     ],
-    "numDrills": 18,
-    "lastTime": 1607809293
+    "numDrills": 19,
+    "lastTime": 1607856342
   },
   "frequent-[de.adj]-h\u00e4ufig": {
     "priorParams": [
-      1.1953901600554473,
-      1.0000000000000089,
-      135270.47938265037
+      0.7144917958975875,
+      1.0000000000000102,
+      414631.77282229677
     ],
-    "numDrills": 11,
-    "lastTime": 1607721827
+    "numDrills": 12,
+    "lastTime": 1607856377
   },
   "black-[de.adj]-schwarz": {
     "priorParams": [
@@ -631,21 +631,21 @@
   },
   "complete-[de.adj]-v\u00f6llig": {
     "priorParams": [
-      13.365494167511669,
-      6.806823313734781,
-      16234.876817023982
+      4.10380038133585,
+      7.264360244313874,
+      49763.22836228252
     ],
-    "numDrills": 21,
-    "lastTime": 1607809289
+    "numDrills": 22,
+    "lastTime": 1607856349
   },
   "low-[de.adj]-gering": {
     "priorParams": [
-      1.1946139374791613,
-      1.000000000000012,
-      135270.47938265037
+      0.7142675004959861,
+      1.000000000000015,
+      414631.77282229677
     ],
-    "numDrills": 12,
-    "lastTime": 1607721825
+    "numDrills": 13,
+    "lastTime": 1607856387
   },
   "small-[de.adj]-gering": {
     "priorParams": [
@@ -658,12 +658,12 @@
   },
   "difficult-[de.adj]-schwierig": {
     "priorParams": [
-      1.3441934095256391,
-      0.9999999999999992,
-      119960.4155602189
+      0.8044475293963471,
+      1.0000000000000095,
+      367703.2860328024
     ],
-    "numDrills": 11,
-    "lastTime": 1607721791
+    "numDrills": 12,
+    "lastTime": 1607856339
   },
   "practical-[de.adj]-praktisch": {
     "priorParams": [
@@ -685,12 +685,12 @@
   },
   "-years old-[de.adj]--j\u00e4hrig": {
     "priorParams": [
-      1.7932195242604552,
-      1.0000000000000102,
-      91942.4519806052
+      1.0623247685870567,
+      1.000000000000006,
+      281822.4792011548
     ],
-    "numDrills": 5,
-    "lastTime": 1607721857
+    "numDrills": 6,
+    "lastTime": 1607856371
   },
   "modern-[de.adj]-modern": {
     "priorParams": [
