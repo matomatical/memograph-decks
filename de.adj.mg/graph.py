@@ -1,69 +1,66 @@
-from mg.graph import SpokenNode
+from mg.graph import Node
 
 def graph():
     for line in LINKS.splitlines()[1:]:
-        line = line.split("#", maxsplit=1)[0]
         if "--" not in line:
             continue
-        de, en = line.split("--")
-        de = de.strip()
-        en = en.strip()
+        de, en = map(str.strip, line.split("#")[0].split("--"))
         yield (
-                SpokenNode(en, voice="en"),
-                SpokenNode(de, voice="de"),
+                Node(en, speak_str=en, speak_voice="en"),
+                Node(de, speak_str=de, speak_voice="de"),
                 "de.adj"
             )
 
 LINKS = """de -- en                                     # notes (ignored)
-ganz (1)      -- whole (1)
-ganz (2)      -- all of the
-groß (1)      -- great/big
-groß (2)      -- tall (1)
+ganz          -- whole    
+ganz          -- all of the
+groß          -- great/big
+groß          -- tall    
 gut           -- good
 neu           -- new
 erste         -- first                                  # always decline
 lang          -- long
 deutsch       -- German
-klein         -- small/little (1)
+klein         -- small    
 alt           -- old
-hoch (1)      -- high
-hoch (2)      -- tall (2)
-einfach       -- easy (1)
+hoch          -- high
+hoch          -- tall    
+einfach       -- easy    
 letzte        -- last                                   # always decline
-gleich (1)    -- like/same/equal
-gleich (2)    -- right away                             # as an adverb?
+gleich        -- like/same/equal
+gleich        -- right away                             # as an adverb?
 möglich       -- possible                               # lit. 'likely'?
 eigen         -- own/characteristic
 schön         -- beautiful/pleasant
 spät          -- late
 wichtig       -- important
-weitere       -- additional (1)                         # always decline
+weitere       -- additional                             # always decline
 genau         -- exact
 jung          -- young
 kurz          -- short
 stark         -- strong
 richtig       -- right/correct
-verschieden   -- various/different/diverse (1)
-bestimmt      -- special/particular (1)
+verschieden   -- various/different/diverse
+bestimmt      -- special/particular    
 besser        -- better                                 # comparative of gut?
 schnell       -- fast
-sicher (1)    -- sure/certain
-sicher (2)    -- safe/secure
+sicher        -- sure/certain
+sicher        -- safe/secure
 nächste       -- next                                   # always decline
 politisch     -- political
-klar          -- clear (1)
-schwer (1)    -- difficult (1)
-schwer (2)    -- heavy
+klar          -- clear    
+schwer        -- difficult    
+schwer        -- heavy
 einzeln       -- individual
 bekannt       -- well-known
-leicht (1)    -- light (not heavy)                      # cf. hell
-leicht (2)    -- easy (2)
+leicht        -- light (not heavy)                      # cf. hell
+leicht        -- easy    
 rund          -- round
 frei          -- free (as in freedom)                   # cf. gratis/kostenlos
 früh          -- early
-unterschiedlich -- variable/different/diverse (2)
+unterschiedlich -- variable/different/diverse
 schlecht      -- bad
-deutlich      -- clear (2)
+deutlich      -- clear    
 allgemein     -- general
 einzig        -- only/sole
 gemeinsam     -- common/mutual
@@ -77,7 +74,7 @@ beste         -- best                                   # always decline
 rot           -- red
 offen         -- open
 meiste        -- most
-besondere     -- special/particular (2)
+besondere     -- special/particular    
 gewiss        -- known/certain
 öffentlich    -- public
 halb          -- half
@@ -88,16 +85,16 @@ wesentlich    -- essential/fundamental
 häufig        -- frequent
 schwarz       -- black
 völlig        -- complete
-gering (1)    -- low
-gering (2)    -- small (2)
-schwierig     -- difficult (2)
+gering        -- low
+gering        -- small    
+schwierig     -- difficult    
 praktisch     -- practical
 persönlich    -- personal
 -jährig       -- -years old
 modern        -- modern
 tief          -- deep
 tatsächlich   -- actual/real
-zusätzlich    -- additional (2)
+zusätzlich    -- additional    
 amerikanisch  -- American
 wirtschaftlich -- economic/financial
 interessant   -- interesting
@@ -105,8 +102,8 @@ relativ       -- relative
 gleichzeitig  -- simultaneous
 grün          -- green
 weiß          -- white
-gesamt        -- whole/entire (2)
-speziell      -- special/particular (3)
+gesamt        -- whole/entire    
+speziell      -- special/particular    
 entscheidend  -- decisive                               # entscheiden + 'd'
                                                         # lit. 'deciding'
 eng           -- narrow/close

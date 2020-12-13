@@ -1,24 +1,21 @@
-from mg.graph import SpokenNode
+from mg.graph import Node
 
 def graph():
     for line in LINKS.splitlines()[1:]:
-        line = line.split("#", maxsplit=1)[0]
         if "--" not in line:
             continue
-        de, en = line.split("--")
-        de = de.strip()
-        en = en.strip()
+        de, en = map(str.strip, line.split("#")[0].split("--"))
         yield (
-                SpokenNode(en, voice="en"),
-                SpokenNode(de, voice="de"),
+                Node(en, speak_str=en, speak_voice="en"),
+                Node(de, speak_str=de, speak_voice="de"),
                 "de.verb"
             )
 
 LINKS = """de -- en                                     # notes (ignored)
 sein          -- to be                                  # aux
 haben         -- to have                                # aux
-werden (1)    -- to become                              # aux?
-werden (2)    -- to will                                # modal?
+werden        -- to become                              # aux?
+werden        -- to will                                # modal?
 können        -- to can                                 # modal
 müssen        -- to must                                # modal
 sollen        -- to should/ought                        # modal
@@ -30,32 +27,32 @@ machen        -- to make/do
 geben         -- to give
 kommen        -- to come
 gehen         -- to go
-wissen        -- to know (1)
+wissen        -- to know    
 sehen         -- to see
-lassen (1)    -- to let/allow
-lassen (2)    -- to have done
+lassen        -- to let/allow
+lassen        -- to have done
 stehen        -- to stand
 finden        -- to find
 bleiben       -- to stay (at)
 liegen        -- to lie (down)
 heißen        -- to hail/be called
 denken        -- to think
-nehmen        -- to take (1)
+nehmen        -- to take    
 tun           -- to do/perform
 glauben       -- to believe
-halten (1)    -- to halt/stop
-halten (2)    -- to hold
+halten        -- to halt/stop
+halten        -- to hold
 nennen        -- to name
 zeigen        -- to show
 führen        -- to lead
 sprechen      -- to speak
-bringen (1)   -- to bring
-bringen (2)   -- to take (2)
+bringen       -- to bring
+bringen       -- to take    
 leben         -- to live (alive)
 fahren        -- to go/ride/drive/etc.
 meinen        -- to think/opine
 fragen        -- to ask
-kennen        -- to know (2)
+kennen        -- to know    
 gelten        -- to be valid (not expired)
 stellen       -- to place/set
 spielen       -- to play
@@ -63,13 +60,13 @@ arbeiten      -- to work
 brauchen      -- to require/need
 folgen        -- to follow
 lernen        -- to learn
-bestehen (1)  -- to exist
-bestehen (2)  -- to insist
-bestehen (3)  -- to pass (an exam)                      # be + stehen
+bestehen      -- to exist
+bestehen      -- to insist
+bestehen      -- to pass (an exam)                      # be + stehen
 verstehen     -- to understand                          # ver + stehen
 setzen        -- to set/place
 bekommen      -- to get                                 # be + kommen
-beginnen      -- to begin (1)
+beginnen      -- to begin    
 erzählen      -- to tell                                # er + zählen (?)
 versuchen     -- to try/attempt                         # ver + suchen
 schreiben     -- to write
@@ -78,25 +75,25 @@ erklären      -- to explain                             # er + klären
 entsprechen   -- to correspond                          # ent + sprechen
 sitzen        -- to sit
 ziehen        -- to pull/move
-scheinen (1)  -- to shine
-scheinen (2)  -- to seem/appear (1)
+scheinen      -- to shine
+scheinen      -- to seem/appear    
 fallen        -- to fall
 gehören       -- to belong                              # ge + hören?
-entstehen (1) -- to originate/develop
-entstehen (2) -- to arise                               # ent + stehen
+entstehen     -- to originate/develop
+entstehen     -- to arise                               # ent + stehen
 erhalten      -- to receive                             # er + halten
-treffen (1)   -- to meet
-treffen (2)   -- to hit
+treffen       -- to meet
+treffen       -- to hit
 suchen        -- to search
 legen         -- to lay (sth. down)
-vorstellen (1) -- to introduce                          # like, to 'set out'?
-vorstellen (2) -- to imagine                            # vor + stellen
+vorstellen     -- to introduce                          # like, to 'set out'?
+vorstellen     -- to imagine                            # vor + stellen
 handeln       -- to deal/trade
 erreichen     -- to achieve/reach                       # er + reichen
-tragen (1)    -- to carry
-tragen (2)    -- to wear
-schaffen (1)  -- to manage
-schaffen (2)  -- to create
+tragen        -- to carry
+tragen        -- to wear
+schaffen      -- to manage
+schaffen      -- to create
 lesen         -- to read
 verlieren     -- to lose                                # ver + lieren?
 darstellen    -- to portray/depict                      # dar + stellen
@@ -104,10 +101,10 @@ erkennen      -- to admit/recognise
 entwickeln    -- to develop                             # ent + wickeln
 reden         -- to talk
 aussehen      -- to look/appear
-erscheinen    -- to seem/appear (2)                     # er + scheinen
-bilden (1)    -- to form
-bilden (2)    -- to educate
-anfangen      -- to begin (2)                           # an + fangen
+erscheinen    -- to seem/appear                         # er + scheinen
+bilden        -- to form
+bilden        -- to educate
+anfangen      -- to begin                               # an + fangen
 erwarten      -- to expect                              # er + warten
 wohnen        -- to live (reside)
 betreffen     -- to concern/affect                      # be + treffen
@@ -117,11 +114,11 @@ helfen        -- to help
 gewinnen      -- to win/gain                            # not from winnen?
 schließen     -- to close
 fühlen        -- to feel
-bieten        -- to offer (1)
+bieten        -- to offer    
 interessieren -- to interest
 erinnern      -- to remind
 ergeben       -- to result in
-anbieten      -- to offer (2)
+anbieten      -- to offer    
 studieren     -- to study
 verbinden     -- to connect/link
 ansehen       -- to watch/look at
@@ -140,18 +137,18 @@ hassen        -- to hate
 essen         -- to eat
 trinken       -- to drink
 fressen       -- to feed
-rennen (1)    -- to run/race
-rennen (2)    -- to scramble
+rennen        -- to run/race
+rennen        -- to scramble
 vergessen     -- to forget
 kaufen        -- to buy
 einkaufen     -- to shop                                # ein + kaufen
 verkaufen     -- to sell                                # ver + kaufen
-passen (1)    -- to fit/suit
-passen (2)    -- to match
+passen        -- to fit/suit
+passen        -- to match
 kosten        -- to cost
 stehlen       -- to steal
-zahlen        -- to pay (1)                             # difference?
-bezahlen      -- to pay (2)                             # be + zahlen
+zahlen        -- to pay                                 # difference?
+bezahlen      -- to pay                                 # be + zahlen
 bitten        -- to thank
 gefallen      -- to please/appeal to
 schlafen      -- to sleep
@@ -165,15 +162,15 @@ antworten     -- to answer
 diskutieren   -- to discuss
 analysieren   -- to analyse
 buchstabieren -- to spell
-streichen (1) -- to paint/smear
-streichen (2) -- to eliminate
-streichen (3) -- to decorate
+streichen     -- to paint/smear
+streichen     -- to eliminate
+streichen     -- to decorate
 unterstreichen -- to underline                          # unter + streichen
 rechnen       -- to calculate
 notieren      -- to note (down)
 markieren     -- to highlight
-ergänzen (1)  -- to complete/enter/fill in              # er + gänzen?
-ergänzen (2)  -- to complete/complement
+ergänzen      -- to complete/enter/fill in              # er + gänzen?
+ergänzen      -- to complete/complement
 ordnen        -- to order/arrange
 zuordnen      -- to collate                             # zu + ordnen
 lösen         -- to solve

@@ -188,7 +188,7 @@
     "numDrills": 7,
     "lastTime": 1607378626
   },
-  "to stay-[de.verb]-bleiben": {
+  "to stay (at)-[de.verb]-bleiben": {
     "priorParams": [
       0.6944817656825195,
       0.9999999999999932,
@@ -197,7 +197,7 @@
     "numDrills": 7,
     "lastTime": 1607378820
   },
-  "to lie-[de.verb]-liegen": {
+  "to lie (down)-[de.verb]-liegen": {
     "priorParams": [
       1.3803241586890174,
       0.9999999999986979,
@@ -323,7 +323,7 @@
     "numDrills": 9,
     "lastTime": 1607590423
   },
-  "to live-[de.verb]-leben": {
+  "to live (alive)-[de.verb]-leben": {
     "priorParams": [
       0.6657779083606733,
       1.000000000000028,
@@ -368,7 +368,7 @@
     "numDrills": 9,
     "lastTime": 1607378828
   },
-  "to be valid-[de.verb]-gelten": {
+  "to be valid (not expired)-[de.verb]-gelten": {
     "priorParams": [
       1.2242238845369182,
       1.0000000000000413,
@@ -449,7 +449,7 @@
     "numDrills": 8,
     "lastTime": 1607378807
   },
-  "to pass-[de.verb]-bestehen": {
+  "to pass (an exam)-[de.verb]-bestehen": {
     "priorParams": [
       1.4837324868494892,
       2.008534666128424,
@@ -496,12 +496,12 @@
   },
   "to tell-[de.verb]-erz\u00e4hlen": {
     "priorParams": [
-      1.9987300467301639,
-      3.5213161923852714,
+      2.4769702643691893,
+      3.5213161923852665,
       467549.55303397524
     ],
-    "numDrills": 27,
-    "lastTime": 1607589719
+    "numDrills": 28,
+    "lastTime": 1607813320
   },
   "to try/attempt-[de.verb]-versuchen": {
     "priorParams": [
@@ -622,12 +622,12 @@
   },
   "to receive-[de.verb]-erhalten": {
     "priorParams": [
-      6.405462080678115,
-      7.282445309059647,
+      7.384676932494929,
+      7.28244530905991,
       147994.0788593719
     ],
-    "numDrills": 29,
-    "lastTime": 1607668406
+    "numDrills": 30,
+    "lastTime": 1607813324
   },
   "to meet-[de.verb]-treffen": {
     "priorParams": [
@@ -656,7 +656,7 @@
     "numDrills": 10,
     "lastTime": 1607378651
   },
-  "to lay-[de.verb]-legen": {
+  "to lay (sth. down)-[de.verb]-legen": {
     "priorParams": [
       3.430087967404927,
       2.8520180914195548,
@@ -694,12 +694,12 @@
   },
   "to achieve/reach-[de.verb]-erreichen": {
     "priorParams": [
-      4.541303968695824,
-      3.4259364476998067,
+      5.4370095221118335,
+      3.425936447699874,
       248816.14181141267
     ],
-    "numDrills": 22,
-    "lastTime": 1607590439
+    "numDrills": 23,
+    "lastTime": 1607813305
   },
   "to carry-[de.verb]-tragen": {
     "priorParams": [
@@ -845,7 +845,7 @@
     "numDrills": 21,
     "lastTime": 1607576402
   },
-  "to live-[de.verb]-wohnen": {
+  "to live (reside)-[de.verb]-wohnen": {
     "priorParams": [
       0.7469574485211501,
       0.9999999999999994,
@@ -872,7 +872,7 @@
     "numDrills": 8,
     "lastTime": 1607378582
   },
-  "to pass-[de.verb]-vergehen": {
+  "to pass (time)-[de.verb]-vergehen": {
     "priorParams": [
       0.6549387325460836,
       0.9999999999999886,
@@ -1317,12 +1317,12 @@
   },
   "to analyse-[de.verb]-analysieren": {
     "priorParams": [
-      1.2751906797001988,
-      1.0000000000000087,
-      529667.4534656998
+      0.6837850614298784,
+      1.0000000000000062,
+      1623539.4170187458
     ],
-    "numDrills": 4,
-    "lastTime": 1607378603
+    "numDrills": 5,
+    "lastTime": 1607813328
   },
   "to spell-[de.verb]-buchstabieren": {
     "priorParams": [
@@ -1378,7 +1378,7 @@
     "numDrills": 8,
     "lastTime": 1607459764
   },
-  "to note-[de.verb]-notieren": {
+  "to note (down)-[de.verb]-notieren": {
     "priorParams": [
       1.2750566333291502,
       1.0000000000000022,
@@ -1425,12 +1425,12 @@
   },
   "to collate-[de.verb]-zuordnen": {
     "priorParams": [
-      2.5420853050485617,
-      1.9528197172639663,
+      3.5563844228709325,
+      1.9528197172639317,
       219722.166848037
     ],
-    "numDrills": 4,
-    "lastTime": 1607590448
+    "numDrills": 5,
+    "lastTime": 1607813312
   },
   "to solve-[de.verb]-l\u00f6sen": {
     "priorParams": [
@@ -1569,11 +1569,11 @@
   },
   "to pass/transpire-[de.verb]-passieren": {
     "priorParams": [
-      0.7074548314926971,
-      1.0000000000000082,
+      1.418006585911993,
+      1.0000000000000109,
       249925.49648284746
     ],
-    "numDrills": 2,
-    "lastTime": 1607635730
+    "numDrills": 3,
+    "lastTime": 1607813315
   }
 }

@@ -172,12 +172,12 @@
   },
   "Land-[de.noun.gender]-das": {
     "priorParams": [
-      5.013266057035874,
-      4.1930852771966665,
+      6.462926449096115,
+      4.193085277196782,
       103676.69615807125
     ],
-    "numDrills": 13,
-    "lastTime": 1607668529
+    "numDrills": 14,
+    "lastTime": 1607818825
   },
   "the question-[de.noun.en]-Frage": {
     "priorParams": [
@@ -944,7 +944,7 @@
     "numDrills": 7,
     "lastTime": 1607560961
   },
-  "the mark-[de.noun.en]-Mark": {
+  "the mark (currency)-[de.noun.en]-Mark": {
     "priorParams": [
       0.6646885153295664,
       1.0000000000000266,
@@ -1027,12 +1027,12 @@
   },
   "Morgen-[de.noun.gender]-der": {
     "priorParams": [
-      1.1705631180844858,
-      1.0000000000000129,
-      281822.4792011548
+      0.891286215091448,
+      1.0000000000000042,
+      863843.7204158901
     ],
-    "numDrills": 4,
-    "lastTime": 1607379036
+    "numDrills": 5,
+    "lastTime": 1607819077
   },
   "the evening-[de.noun.en]-Abend": {
     "priorParams": [
@@ -1135,12 +1135,12 @@
   },
   "Ziel-[de.noun.gender]-das": {
     "priorParams": [
-      4.186324443533449,
-      4.390873693000961,
+      5.438604200138467,
+      4.390873693000884,
       119960.41556021891
     ],
-    "numDrills": 19,
-    "lastTime": 1607668548
+    "numDrills": 21,
+    "lastTime": 1607818772
   },
   "the destination-[de.noun.en]-Ziel": {
     "priorParams": [
@@ -1151,7 +1151,7 @@
     "numDrills": 5,
     "lastTime": 1607402623
   },
-  "the friend-[de.noun.en]-Freund": {
+  "the friend (m)-[de.noun.en]-Freund": {
     "priorParams": [
       0.9249879274141992,
       0.999999999999986,
@@ -1169,7 +1169,7 @@
     "numDrills": 4,
     "lastTime": 1607379116
   },
-  "the friend-[de.noun.en]-Freundin": {
+  "the friend (f)-[de.noun.en]-Freundin": {
     "priorParams": [
       0.754596568866439,
       0.9999999999999819,
@@ -1223,7 +1223,7 @@
     "numDrills": 10,
     "lastTime": 1607809829
   },
-  "the euro-[de.noun.en]-Euro": {
+  "the euro (currency)-[de.noun.en]-Euro": {
     "priorParams": [
       0.9017470508362335,
       1.0000000000000338,
@@ -1331,7 +1331,7 @@
     "numDrills": 9,
     "lastTime": 1607809811
   },
-  "the square-[de.noun.en]-Platz": {
+  "the public square-[de.noun.en]-Platz": {
     "priorParams": [
       1.0229130613872968,
       1.0000000000000269,
@@ -1351,12 +1351,12 @@
   },
   "Zahl-[de.noun.gender]-die": {
     "priorParams": [
-      1.1704282814308917,
-      0.9999999999999737,
-      281822.4792011548
+      0.8912364375692293,
+      0.9999999999999739,
+      863843.7204158901
     ],
-    "numDrills": 4,
-    "lastTime": 1607379048
+    "numDrills": 5,
+    "lastTime": 1607819084
   },
   "the system-[de.noun.en]-System": {
     "priorParams": [
@@ -1405,12 +1405,12 @@
   },
   "Eltern-[de.noun.gender]-pl.": {
     "priorParams": [
-      1.1704460230958311,
-      0.9999999999999926,
-      281822.4792011548
+      0.8911901328973776,
+      0.9999999999999959,
+      863843.7204158901
     ],
-    "numDrills": 4,
-    "lastTime": 1607379069
+    "numDrills": 5,
+    "lastTime": 1607819060
   },
   "the street-[de.noun.en]-Stra\u00dfe": {
     "priorParams": [
@@ -1441,12 +1441,12 @@
   },
   "Minute-[de.noun.gender]-die": {
     "priorParams": [
-      1.1703927981009803,
-      0.999999999999982,
-      281822.4792011548
+      0.8912179157004824,
+      0.9999999999999839,
+      863843.7204158901
     ],
-    "numDrills": 4,
-    "lastTime": 1607379044
+    "numDrills": 5,
+    "lastTime": 1607819074
   },
   "the group-[de.noun.en]-Gruppe": {
     "priorParams": [
@@ -1612,12 +1612,12 @@
   },
   "Interesse-[de.noun.gender]-das": {
     "priorParams": [
-      3.9084627668609873,
-      2.1468967091925624,
+      4.155855846525076,
+      3.057777479313383,
       119960.41556021891
     ],
-    "numDrills": 15,
-    "lastTime": 1607560973
+    "numDrills": 16,
+    "lastTime": 1607818823
   },
   "the billion-[de.noun.en]-Milliarde": {
     "priorParams": [
@@ -1682,7 +1682,7 @@
     "numDrills": 4,
     "lastTime": 1607379108
   },
-  "the pupil/student-[de.noun.en]-Sch\u00fcler": {
+  "the pupil/student (m)-[de.noun.en]-Sch\u00fcler": {
     "priorParams": [
       1.833714618737483,
       1.0000000000000067,
@@ -1693,12 +1693,12 @@
   },
   "Sch\u00fcler-[de.noun.gender]-der": {
     "priorParams": [
-      1.1703289281072125,
-      1.000000000000024,
-      281822.4792011548
+      0.8911623500942831,
+      1.0000000000000406,
+      863843.7204158901
     ],
-    "numDrills": 4,
-    "lastTime": 1607379081
+    "numDrills": 5,
+    "lastTime": 1607819081
   },
   "the meaning-[de.noun.en]-Bedeutung": {
     "priorParams": [
@@ -1765,12 +1765,12 @@
   },
   "the war-[de.noun.en]-Krieg": {
     "priorParams": [
-      2.2690966333382248,
-      3.0506221738385695,
+      3.4424056521696897,
+      3.050622173838545,
       219722.16684803704
     ],
-    "numDrills": 5,
-    "lastTime": 1607560977
+    "numDrills": 6,
+    "lastTime": 1607818779
   },
   "Krieg-[de.noun.gender]-der": {
     "priorParams": [
@@ -1846,12 +1846,12 @@
   },
   "Wohnung-[de.noun.gender]-die": {
     "priorParams": [
-      1.170236671449482,
-      0.9999999999999784,
-      281822.4792011548
+      0.8911033116376699,
+      0.9999999999999793,
+      863843.7204158901
     ],
-    "numDrills": 4,
-    "lastTime": 1607379107
+    "numDrills": 5,
+    "lastTime": 1607819082
   },
   "the conversation-[de.noun.en]-Gespr\u00e4ch": {
     "priorParams": [
@@ -1880,7 +1880,7 @@
     "numDrills": 5,
     "lastTime": 1607402592
   },
-  "the pupil/student-[de.noun.en]-Sch\u00fclerin": {
+  "the pupil/student (f)-[de.noun.en]-Sch\u00fclerin": {
     "priorParams": [
       1.8325081855212084,
       0.9999999999999911,
@@ -1900,11 +1900,11 @@
   },
   "the position/role-[de.noun.en]-Stelle": {
     "priorParams": [
-      1.2107791080390207,
-      0.9999999999999801,
-      91942.4519806052
+      0.9279032699635921,
+      0.9999999999999779,
+      281822.4792011548
     ],
-    "numDrills": 2,
-    "lastTime": 1607668648
+    "numDrills": 3,
+    "lastTime": 1607818830
   }
 }
