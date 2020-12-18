@@ -13,6 +13,7 @@ def graph():
 
 LINKS = """de -- en                                     # notes (ignored)
 ganz          -- whole    
+ganz          -- entire
 ganz          -- all of the
 groß          -- great/big
 groß          -- tall    
@@ -102,7 +103,7 @@ relativ       -- relative
 gleichzeitig  -- simultaneous
 grün          -- green
 weiß          -- white
-gesamt        -- whole/entire    
+gesamt        -- entire
 speziell      -- special/particular    
 entscheidend  -- decisive                               # entscheiden + 'd'
                                                         # lit. 'deciding'

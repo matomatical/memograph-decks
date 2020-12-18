@@ -38,7 +38,7 @@ pl. Leute         -- the people                         # plural only
 die Arbeit        -- the work
 das Prozent       -- the percent
 die Hand          -- the hand
-die Stadt         -- the town/city    
+die Stadt         -- the town
 der Herr          -- the gentleman                      # also title 'Mr.'
 der Teil          -- the part/section
 das Problem       -- the problem
@@ -57,7 +57,7 @@ der Grund         -- the grounding/basis/reason
 das Auge          -- the eye
 das Wort          -- the word
 das Geld          -- the money
-die Sache         -- the thing    
+die Sache         -- the thing
 die Art           -- the type/kind
 der Bereich       -- the area/region
 der Weg           -- the way/path
@@ -93,10 +93,10 @@ das Thema         -- the topic/theme
 die Person        -- the person
 der Euro          -- the euro (currency)
 die Nacht         -- the night
-das Ding          -- the thing    
+das Ding          -- the thing
 der Raum          -- the room/space
 der Blick         -- the look/glance/view
-der Platz         -- the place    
+der Platz         -- the place
 der Platz         -- the public square
 die Zahl          -- the number
 das System        -- the system
@@ -110,10 +110,10 @@ der Wert          -- the value/worth
 das Gesicht       -- the face
 die Sprache       -- the language
 der Anfang        -- the beginning
-der Ort           -- the place/location    
-der Ort           -- the town    
+der Ort           -- the place/location
+der Ort           -- the town
 der Moment        -- the moment
-die Folge         -- the result/consequence    
+die Folge         -- the result/consequence
 das Interesse     -- the interest
 die Milliarde     -- the billion
 die Rolle         -- the role
@@ -124,7 +124,7 @@ die Schülerin     -- the pupil/student (f)
 die Bedeutung     -- the meaning
 die Bedeutung     -- the significance
 der Text          -- the text
-das Ergebnis      -- the result    
+das Ergebnis      -- the result
 der Krieg         -- the war
 die Weise         -- the way/manner
 die Regierung     -- the rule/government
