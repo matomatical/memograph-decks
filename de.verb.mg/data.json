@@ -615,21 +615,23 @@
   },
   "to arise-[de.verb]-entstehen": {
     "priorParams": [
-      17.470317925748045,
-      9.125079554128277,
-      71986.97670132418
+      5.050900396337018,
+      9.846050136086102,
+      220654.8531949366
     ],
-    "numDrills": 35,
-    "lastTime": 1608151382
+    "numDrills": 36,
+    "lastTime": 1608373837,
+    "lastResult": true
   },
   "to receive-[de.verb]-erhalten": {
     "priorParams": [
-      9.669477801597354,
-      7.282445309059428,
+      11.172544692613837,
+      7.282445309059454,
       147994.0788593719
     ],
-    "numDrills": 32,
-    "lastTime": 1608151461
+    "numDrills": 33,
+    "lastTime": 1608373906,
+    "lastResult": true
   },
   "to meet-[de.verb]-treffen": {
     "priorParams": [
@@ -725,21 +727,23 @@
   },
   "to create-[de.verb]-schaffen": {
     "priorParams": [
-      4.335590622504952,
-      3.093232590415914,
+      5.665367768530014,
+      3.0932325904159343,
       326086.21775173873
     ],
-    "numDrills": 24,
-    "lastTime": 1607940451
+    "numDrills": 25,
+    "lastTime": 1608374073,
+    "lastResult": true
   },
   "to manage-[de.verb]-schaffen": {
     "priorParams": [
-      4.335585678037155,
-      3.0932387689127645,
+      5.665384290777369,
+      3.0932387689127117,
       326086.21775173873
     ],
-    "numDrills": 24,
-    "lastTime": 1607940448
+    "numDrills": 25,
+    "lastTime": 1608374077,
+    "lastResult": true
   },
   "to read-[de.verb]-lesen": {
     "priorParams": [
@@ -812,7 +816,7 @@
       367703.2860328025
     ],
     "numDrills": 26,
-    "lastTime": 1608237646,
+    "lastTime": 1608374098,
     "lastResult": false
   },
   "to form-[de.verb]-bilden": {
@@ -1073,12 +1077,13 @@
   },
   "to love-[de.verb]-lieben": {
     "priorParams": [
-      1.442125078076506,
-      2.196951041777102,
+      2.1526441616897096,
+      2.196951041777106,
       673493.5219002627
     ],
-    "numDrills": 8,
-    "lastTime": 1607895540
+    "numDrills": 9,
+    "lastTime": 1608374070,
+    "lastResult": true
   },
   "to hate-[de.verb]-hassen": {
     "priorParams": [
@@ -1471,12 +1476,13 @@
   },
   "to open-[de.verb]-\u00f6ffnen": {
     "priorParams": [
-      2.7464748685839813,
-      3.907326948514082,
+      3.7589580567452763,
+      3.907326948514111,
       219722.166848037
     ],
-    "numDrills": 6,
-    "lastTime": 1608151437
+    "numDrills": 7,
+    "lastTime": 1608373902,
+    "lastResult": true
   },
   "to measure-[de.verb]-messen": {
     "priorParams": [
