@@ -1,10 +1,8 @@
 from mg.graph import Node
+from mg.data import parse
 
 def graph():
-    for line in LINKS.splitlines()[1:]:
-        if "--" not in line:
-            continue
-        de, en = map(str.strip, line.split("#")[0].split("--"))
+    for de, en in parse(LINKS):
         yield (
                 Node(en, speak_str=en, speak_voice="en"),
                 Node(de, speak_str=de, speak_voice="de"),

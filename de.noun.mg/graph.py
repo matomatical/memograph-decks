@@ -1,11 +1,9 @@
 from mg.graph import Node
+from mg.data import parse
 
 def graph():
     words = set()
-    for line in LINKS.splitlines()[1:]:
-        if "--" not in line:
-            continue
-        de, en = map(str.strip, line.split("#")[0].split("--"))
+    for de, en in parse(LINKS):
         art, noun = de[:3], de[4:]
         yield (
                 Node(en,   speak_str=en, speak_voice="en"),
@@ -34,7 +32,7 @@ das Land          -- the land/country
 die Frage         -- the question
 das Haus          -- the house/home
 der Fall          -- the fall                           # also means 'case'
-pl. Leute         -- the people                         # plural only
+plu Leute         -- the people                         # plural only
 die Arbeit        -- the work
 das Prozent       -- the percent
 die Hand          -- the hand
@@ -102,7 +100,7 @@ die Zahl          -- the number
 das System        -- the system
 die Uhr           -- the clock/watch
 die Uhr           -- the o'clock
-pl. Eltern        -- the parents                        # plural only
+plu Eltern        -- the parents                        # plural only
 die Straße        -- the street
 die Minute        -- the minute
 die Gruppe        -- the group
