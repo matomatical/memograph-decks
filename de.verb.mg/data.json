@@ -670,22 +670,22 @@
   },
   "to originate/develop-[de.verb]-entstehen": {
     "priorParams": [
-      7.512183199287696,
-      6.558169036041603,
+      8.665858254760867,
+      6.558169036041903,
       220654.8531949366
     ],
-    "numDrills": 35,
-    "lastTime": 1608500600,
+    "numDrills": 36,
+    "lastTime": 1608755164,
     "lastResult": true
   },
   "to arise-[de.verb]-entstehen": {
     "priorParams": [
-      6.001810820295204,
-      9.846050136086244,
+      6.778933994869206,
+      9.8460501360863,
       220654.8531949366
     ],
-    "numDrills": 37,
-    "lastTime": 1608583660,
+    "numDrills": 38,
+    "lastTime": 1608755136,
     "lastResult": true
   },
   "to receive-[de.verb]-erhalten": {
@@ -1551,12 +1551,12 @@
   },
   "to collate-[de.verb]-zuordnen": {
     "priorParams": [
-      1.5943441946799424,
-      2.0026508420694804,
+      2.363298881190939,
+      2.002650842069484,
       673493.5219002627
     ],
-    "numDrills": 6,
-    "lastTime": 1608237421,
+    "numDrills": 7,
+    "lastTime": 1608755307,
     "lastResult": true
   },
   "to solve-[de.verb]-l\u00f6sen": {
