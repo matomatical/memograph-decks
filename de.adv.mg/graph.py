@@ -21,7 +21,7 @@ dann            -- then
 da              -- there
 noch            -- still/yet                # has further meanings
 also            -- so/therefore
-nur             -- only
+nur             -- just/only
 schon           -- already
 mehr            -- more                     # ahhh 'be more red', 'run more'
 jetzt           -- now
@@ -36,7 +36,7 @@ nun             -- now
 heute           -- today
 weit            -- widely                   # also adj 'wide'?
 eben            -- just/exactly             # tough to translate, see usages
-erst            -- first/only               # not clear...?
+erst            -- first
 natürlich       -- naturally
 vielleicht      -- perhaps/maybe
 dort            -- there
@@ -66,58 +66,57 @@ sogar           -- even/indeed
 sonst           -- otherwise
 weiter          -- further
 anders          -- differently
-schließlich     -- after all/finally
+schließlich     -- in closing/conclusion
 eher            -- earlier
 eher            -- rather/more
-"""
-"""
-je              -- 
-früher          -- 
-zunächst        -- 
-irgendwie       -- 
-bisher          -- 
-manchmal        -- 
-her             -- 
-ebenso          -- 
-ziemlich        -- 
-außerdem        -- 
-inzwishen       -- 
-sofort          -- 
-plötzlich       -- 
-bald            -- 
-genug           -- 
-endlich         -- 
-insbesondere    -- 
-hin             -- 
-ebenfalls       -- 
-gestern         -- 
-bitte           -- 
-zusammen        -- 
-jedenfalls      -- 
-wobei           -- 
-bloß            -- 
-jeweils         -- 
-unten           -- 
-insgesamt       -- 
-vorher          -- 
-beispielsweise  -- 
-meist           -- 
-trozdem         -- 
-zudem           -- 
-leider          -- 
-mindestens      -- 
-zumindest       -- 
-irgendwo        -- 
-zuerst          -- 
-unbedingt       -- 
-hinaus          -- 
-zuletzt         -- 
-dennoch         -- 
-lieber          -- 
-zugleich        -- 
-nochmal         -- 
-danke           -- 
-derzeit         -- 
-zuvor           -- 
-teilweise       -- 
+je              -- ever/forever             # also a preposition for 'each'
+früher          -- formerly                 # also adjective 'former'
+zunächst        -- firstly
+zunächst        -- for now
+irgendwie       -- somehow
+bisher          -- until now/hitherto
+manchmal        -- sometimes
+her             -- from sth/swh             # also broader, see usage
+ebenso          -- just as (sth as sth)
+ziemlich        -- quite/fairly
+außerdem        -- besides/as well
+inzwishen       -- meanwhile
+sofort          -- immediately
+plötzlich       -- suddenly
+bald            -- soon
+genug           -- enough
+endlich         -- finally
+insbesondere    -- in particular
+hin             -- to sth/swh
+ebenfalls       -- likewise
+gestern         -- yesterday
+bitte           -- please
+zusammen        -- together
+jedenfalls      -- in any case
+wobei           -- whereby?                 # interrogative adverb w/o equiv
+bloß            -- just/only
+jeweils         -- any/each time
+unten           -- down/below/under/at the bottom
+insgesamt       -- in all/in total
+vorher          -- before                   # cf. früher?
+beispielsweise  -- for example
+meist           -- mostly
+trozdem         -- nevertheless
+zudem           -- moreover
+leider          -- unfortunately
+mindestens      -- at least
+zumindest       -- at least
+irgendwo        -- somewhere
+zuerst          -- first
+unbedingt       -- absolutely               # also adjective 'absolute'
+hinaus          -- out/beyond
+zuletzt         -- lastly
+dennoch         -- nevertheless
+lieber          -- gladly (?)               # 'rather' in the freq dict? ??
+zugleich        -- simultaneously
+noch( )mal      -- again                    # just noch + mal?
+danke           -- thank you                # also 'no, thank you' to decline
+derzeit         -- at the moment
+zuvor           -- before
+teilweise       -- partly
 """
