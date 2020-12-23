@@ -89,7 +89,7 @@ gering        -- small
 schwierig     -- difficult    
 praktisch     -- practical
 persönlich    -- personal
--jährig       -- -years old
+jährig        -- years old
 modern        -- modern
 tief          -- deep
 tatsächlich   -- actual/real
