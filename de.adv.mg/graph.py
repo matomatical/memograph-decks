@@ -16,7 +16,7 @@ def graph():
 # frequently used ones.
 LINKS = """de   -- en                       # notes (ignored)
 auch            -- also
-so              -- this
+so              -- so/thus/this way
 dann            -- then
 da              -- there
 noch            -- still/yet                # has further meanings
