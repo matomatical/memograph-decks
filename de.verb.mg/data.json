@@ -691,12 +691,12 @@
   },
   "to receive-[de.verb]-erhalten": {
     "priorParams": [
-      12.5918244477156,
-      7.28244530905961,
+      14.354435506284107,
+      7.282445309060244,
       147994.0788593719
     ],
-    "numDrills": 34,
-    "lastTime": 1608583951,
+    "numDrills": 35,
+    "lastTime": 1608844807,
     "lastResult": true
   },
   "to meet-[de.verb]-treffen": {
@@ -741,22 +741,22 @@
   },
   "to introduce-[de.verb]-vorstellen": {
     "priorParams": [
-      7.3664051606827945,
-      4.876916782500744,
+      8.750017162274254,
+      4.876916782500646,
       248816.14181141267
     ],
-    "numDrills": 32,
-    "lastTime": 1608500579,
+    "numDrills": 33,
+    "lastTime": 1608844844,
     "lastResult": true
   },
   "to imagine-[de.verb]-vorstellen": {
     "priorParams": [
-      7.366363142201373,
-      4.876913710405469,
+      8.74995906766559,
+      4.876913710405458,
       248816.14181141267
     ],
-    "numDrills": 32,
-    "lastTime": 1608500569,
+    "numDrills": 33,
+    "lastTime": 1608844830,
     "lastResult": true
   },
   "to deal/trade-[de.verb]-handeln": {
@@ -801,22 +801,22 @@
   },
   "to create-[de.verb]-schaffen": {
     "priorParams": [
-      5.665367768530014,
-      3.0932325904159343,
-      326086.21775173873
+      1.9420704277356033,
+      3.245503814270025,
+      999521.1606876455
     ],
-    "numDrills": 25,
-    "lastTime": 1608374073,
+    "numDrills": 26,
+    "lastTime": 1608883267,
     "lastResult": true
   },
   "to manage-[de.verb]-schaffen": {
     "priorParams": [
-      5.665384290777369,
-      3.0932387689127117,
-      326086.21775173873
+      1.942049295846483,
+      3.245512787563096,
+      999521.1606876455
     ],
-    "numDrills": 25,
-    "lastTime": 1608374077,
+    "numDrills": 26,
+    "lastTime": 1608883244,
     "lastResult": true
   },
   "to read-[de.verb]-lesen": {
@@ -861,12 +861,12 @@
   },
   "to develop-[de.verb]-entwickeln": {
     "priorParams": [
-      9.009916765410773,
-      5.753095190709815,
+      10.395799914730043,
+      5.753095190709414,
       152534.50487779093
     ],
-    "numDrills": 27,
-    "lastTime": 1608671769,
+    "numDrills": 28,
+    "lastTime": 1608883164,
     "lastResult": true
   },
   "to talk-[de.verb]-reden": {
@@ -1743,12 +1743,12 @@
   },
   "to pass/transpire-[de.verb]-passieren": {
     "priorParams": [
-      1.016146081590527,
-      1.0000000000000135,
+      1.8592446688292494,
+      1.0000000000000175,
       766072.9240637763
     ],
-    "numDrills": 4,
-    "lastTime": 1608237361,
+    "numDrills": 5,
+    "lastTime": 1608883236,
     "lastResult": true
   }
 }
