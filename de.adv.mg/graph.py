@@ -80,7 +80,7 @@ her             -- from sth/swh             # also broader, see usage
 ebenso          -- just as (sth as sth)
 ziemlich        -- quite/fairly
 außerdem        -- besides/as well
-inzwishen       -- meanwhile
+inzwischen      -- meanwhile
 sofort          -- immediately
 plötzlich       -- suddenly
 bald            -- soon
