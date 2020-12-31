@@ -281,12 +281,12 @@
   },
   "special/particular-[de.adj]-bestimmt": {
     "priorParams": [
-      5.086347101241979,
-      3.1060542343694464,
-      249925.49648284746
+      1.8139687079369373,
+      3.2729006236171023,
+      766072.9240637763
     ],
-    "numDrills": 10,
-    "lastTime": 1609013718,
+    "numDrills": 11,
+    "lastTime": 1609444829,
     "lastResult": true
   },
   "better-[de.adj]-besser": {
@@ -381,13 +381,13 @@
   },
   "individual-[de.adj]-einzeln": {
     "priorParams": [
-      1.199610181646965,
-      1.962204935022007,
+      1.3057596057890344,
+      1.9622049350220043,
       786071.1508742713
     ],
-    "numDrills": 9,
-    "lastTime": 1609361643,
-    "lastResult": false
+    "numDrills": 10,
+    "lastTime": 1609445084,
+    "lastResult": true
   },
   "well-known-[de.adj]-bekannt": {
     "priorParams": [
@@ -721,12 +721,12 @@
   },
   "small-[de.adj]-gering": {
     "priorParams": [
-      3.5376457191947326,
-      2.720735041390639,
+      4.894685058539636,
+      2.720735041390718,
       317790.3451260573
     ],
-    "numDrills": 13,
-    "lastTime": 1609013648,
+    "numDrills": 14,
+    "lastTime": 1609444902,
     "lastResult": true
   },
   "difficult-[de.adj]-schwierig": {
@@ -821,12 +821,12 @@
   },
   "economic/financial-[de.adj]-wirtschaftlich": {
     "priorParams": [
-      1.1387496311172998,
+      1.9156026032494593,
       1.6638638597547162,
       886394.2402254909
     ],
-    "numDrills": 11,
-    "lastTime": 1608756334,
+    "numDrills": 12,
+    "lastTime": 1609444932,
     "lastResult": true
   },
   "interesting-[de.adj]-interessant": {
@@ -851,12 +851,12 @@
   },
   "simultaneous-[de.adj]-gleichzeitig": {
     "priorParams": [
-      1.1115367177290125,
-      1.3324437510686018,
-      863843.7204158901
+      3.0013824901393162,
+      2.203708049241669,
+      358348.64465603925
     ],
-    "numDrills": 8,
-    "lastTime": 1608667936,
+    "numDrills": 10,
+    "lastTime": 1609445073,
     "lastResult": true
   },
   "green-[de.adj]-gr\u00fcn": {
@@ -921,12 +921,12 @@
   },
   "technical-[de.adj]-technisch": {
     "priorParams": [
-      1.1114697618816491,
-      1.3325208800856425,
+      2.0109935780944683,
+      1.332520880085629,
       863843.7204158901
     ],
-    "numDrills": 8,
-    "lastTime": 1608667939,
+    "numDrills": 9,
+    "lastTime": 1609444987,
     "lastResult": true
   },
   "slow-[de.adj]-langsam": {
@@ -1081,12 +1081,12 @@
   },
   "entire-[de.adj]-ganz": {
     "priorParams": [
-      1.0135327533588216,
-      1.0000000000000098,
-      766072.9240637763
+      0.6615541229808525,
+      1.0000000000000175,
+      2348170.68783497
     ],
-    "numDrills": 4,
-    "lastTime": 1608667870,
+    "numDrills": 5,
+    "lastTime": 1609444872,
     "lastResult": true
   }
 }

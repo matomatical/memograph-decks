@@ -511,12 +511,12 @@
   },
   "to understand-[de.verb]-verstehen": {
     "priorParams": [
-      3.3634112131997758,
-      2.010519106900429,
-      531915.8092384981
+      1.4267566064733332,
+      2.0728231891738442,
+      1630431.0887586938
     ],
-    "numDrills": 11,
-    "lastTime": 1608583880,
+    "numDrills": 12,
+    "lastTime": 1609444913,
     "lastResult": true
   },
   "to set/place-[de.verb]-setzen": {
@@ -531,12 +531,12 @@
   },
   "to get-[de.verb]-bekommen": {
     "priorParams": [
-      1.3488154491288071,
-      1.9765961785012893,
+      2.1256842155874085,
+      1.9765961785012762,
       886394.2402254909
     ],
-    "numDrills": 12,
-    "lastTime": 1608756285,
+    "numDrills": 13,
+    "lastTime": 1609444897,
     "lastResult": true
   },
   "to begin-[de.verb]-beginnen": {
@@ -671,12 +671,12 @@
   },
   "to originate/develop-[de.verb]-entstehen": {
     "priorParams": [
-      10.024500476580478,
-      6.558169036042037,
+      11.791359416482015,
+      6.55816903604236,
       220654.8531949366
     ],
-    "numDrills": 37,
-    "lastTime": 1609054955,
+    "numDrills": 38,
+    "lastTime": 1609444821,
     "lastResult": true
   },
   "to arise-[de.verb]-entstehen": {
@@ -691,12 +691,12 @@
   },
   "to receive-[de.verb]-erhalten": {
     "priorParams": [
-      3.983374046271605,
-      7.8444948443022415,
+      4.740992196142217,
+      7.844494844302262,
       453632.2157259576
     ],
-    "numDrills": 36,
-    "lastTime": 1609101144,
+    "numDrills": 37,
+    "lastTime": 1609444824,
     "lastResult": true
   },
   "to meet-[de.verb]-treffen": {
@@ -891,12 +891,12 @@
   },
   "to seem/appear-[de.verb]-erscheinen": {
     "priorParams": [
-      4.538174244657931,
-      4.173000846310179,
+      5.710578779442304,
+      4.173000846310131,
       367703.2860328025
     ],
-    "numDrills": 28,
-    "lastTime": 1609013755,
+    "numDrills": 29,
+    "lastTime": 1609444852,
     "lastResult": true
   },
   "to form-[de.verb]-bilden": {
@@ -1011,32 +1011,32 @@
   },
   "to feel-[de.verb]-f\u00fchlen": {
     "priorParams": [
-      3.825460044517665,
-      2.018459186396948,
-      471712.98431492364
+      1.6341156986794265,
+      2.0723024137027384,
+      1445897.0785230973
     ],
-    "numDrills": 14,
-    "lastTime": 1608583910,
+    "numDrills": 15,
+    "lastTime": 1609444978,
     "lastResult": true
   },
   "to offer-[de.verb]-bieten": {
     "priorParams": [
-      1.3369868748531633,
-      2.2559679440183675,
+      2.014313726232377,
+      2.255967944018372,
       1270931.4539164035
     ],
-    "numDrills": 30,
-    "lastTime": 1608584027,
+    "numDrills": 31,
+    "lastTime": 1609444863,
     "lastResult": true
   },
   "to interest-[de.verb]-interessieren": {
     "priorParams": [
-      3.825377945855702,
-      2.0184582229971655,
-      471712.98431492364
+      1.634152552783881,
+      2.072299917618774,
+      1445897.0785230973
     ],
-    "numDrills": 13,
-    "lastTime": 1608583877,
+    "numDrills": 14,
+    "lastTime": 1609445039,
     "lastResult": true
   },
   "to remind-[de.verb]-erinnern": {
