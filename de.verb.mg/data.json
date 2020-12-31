@@ -351,12 +351,12 @@
   },
   "to take-[de.verb]-bringen": {
     "priorParams": [
-      3.206272681935997,
-      2.01056090020891,
-      531915.8092384981
+      1.3778702944781631,
+      2.075384485931242,
+      1630431.0887586938
     ],
-    "numDrills": 11,
-    "lastTime": 1608500630,
+    "numDrills": 12,
+    "lastTime": 1609361614,
     "lastResult": true
   },
   "to live (alive)-[de.verb]-leben": {
@@ -1253,12 +1253,12 @@
   },
   "to forget-[de.verb]-vergessen": {
     "priorParams": [
-      1.2439498043505626,
-      2.0320747787942213,
+      1.9522633605874047,
+      2.0320747787942226,
       974092.6090214389
     ],
-    "numDrills": 11,
-    "lastTime": 1608671700,
+    "numDrills": 12,
+    "lastTime": 1609361663,
     "lastResult": true
   },
   "to buy-[de.verb]-kaufen": {
