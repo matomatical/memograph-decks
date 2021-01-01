@@ -131,12 +131,12 @@
   },
   "last-[de.adj]-letzte": {
     "priorParams": [
-      3.5671959436385205,
-      2.390316470704327,
-      367703.28603280237
+      1.3725635075423297,
+      2.5003607123989795,
+      1127086.013564608
     ],
-    "numDrills": 18,
-    "lastTime": 1609013745,
+    "numDrills": 19,
+    "lastTime": 1609541670,
     "lastResult": true
   },
   "like/same/equal-[de.adj]-gleich": {
@@ -301,12 +301,12 @@
   },
   "fast-[de.adj]-schnell": {
     "priorParams": [
-      1.3578433166414792,
-      1.000000000000007,
-      766072.9240637763
+      0.8862877859696124,
+      1.0000000000000102,
+      2348170.68783497
     ],
-    "numDrills": 5,
-    "lastTime": 1608500718,
+    "numDrills": 6,
+    "lastTime": 1609541666,
     "lastResult": true
   },
   "sure/certain-[de.adj]-sicher": {
@@ -371,12 +371,12 @@
   },
   "heavy-[de.adj]-schwer": {
     "priorParams": [
-      1.3580508686838657,
-      0.9999999999999986,
-      766072.9240637763
+      0.8863465551215846,
+      0.9999999999999994,
+      2348170.68783497
     ],
-    "numDrills": 5,
-    "lastTime": 1608500726,
+    "numDrills": 6,
+    "lastTime": 1609541653,
     "lastResult": true
   },
   "individual-[de.adj]-einzeln": {
@@ -431,12 +431,12 @@
   },
   "free (as in freedom)-[de.adj]-frei": {
     "priorParams": [
-      1.3578446220002478,
-      1.000000000000008,
-      766072.9240637763
+      0.8862928963306601,
+      1.0000000000000158,
+      2348170.68783497
     ],
-    "numDrills": 5,
-    "lastTime": 1608500713,
+    "numDrills": 6,
+    "lastTime": 1609541672,
     "lastResult": true
   },
   "early-[de.adj]-fr\u00fch": {
@@ -751,12 +751,12 @@
   },
   "personal-[de.adj]-pers\u00f6nlich": {
     "priorParams": [
-      3.2418570134309825,
-      2.4034877244094592,
+      4.548224000637922,
+      2.403487724409451,
       404083.23631066456
     ],
-    "numDrills": 14,
-    "lastTime": 1609013767,
+    "numDrills": 15,
+    "lastTime": 1609541648,
     "lastResult": true
   },
   "years old-[de.adj]-j\u00e4hrig": {
