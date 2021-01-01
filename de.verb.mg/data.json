@@ -681,12 +681,12 @@
   },
   "to arise-[de.verb]-entstehen": {
     "priorParams": [
-      8.00572284076445,
-      10.819118579517687,
+      9.153175508738837,
+      10.819118579517816,
       220654.8531949366
     ],
-    "numDrills": 41,
-    "lastTime": 1609276041,
+    "numDrills": 42,
+    "lastTime": 1609529232,
     "lastResult": true
   },
   "to receive-[de.verb]-erhalten": {
@@ -931,12 +931,12 @@
   },
   "to expect-[de.verb]-erwarten": {
     "priorParams": [
-      2.526838829428638,
-      2.224958137495918,
+      3.729484415580174,
+      2.2249581374959178,
       786071.1508742712
     ],
-    "numDrills": 23,
-    "lastTime": 1608583897,
+    "numDrills": 24,
+    "lastTime": 1609529262,
     "lastResult": true
   },
   "to live (reside)-[de.verb]-wohnen": {

@@ -461,12 +461,12 @@
   },
   "bad-[de.adj]-schlecht": {
     "priorParams": [
-      2.346173607262534,
-      3.1427676466226306,
+      2.302665406064305,
+      4.1725981644365575,
       529667.4534656998
     ],
-    "numDrills": 8,
-    "lastTime": 1609101140,
+    "numDrills": 10,
+    "lastTime": 1609529301,
     "lastResult": true
   },
   "clear-[de.adj]-deutlich": {
@@ -581,12 +581,12 @@
   },
   "open-[de.adj]-offen": {
     "priorParams": [
-      2.414360913189788,
-      1.9239004494586782,
-      358348.64465603925
+      1.0908363319182226,
+      1.9964214970229155,
+      1098412.1184482018
     ],
-    "numDrills": 9,
-    "lastTime": 1609013817,
+    "numDrills": 10,
+    "lastTime": 1609529253,
     "lastResult": true
   },
   "most-[de.adj]-meiste": {
@@ -701,12 +701,12 @@
   },
   "complete-[de.adj]-v\u00f6llig": {
     "priorParams": [
-      9.355644432309749,
-      7.775055678385513,
+      11.015518047153524,
+      7.775055678385094,
       152534.50487779093
     ],
-    "numDrills": 33,
-    "lastTime": 1609276047,
+    "numDrills": 34,
+    "lastTime": 1609529235,
     "lastResult": true
   },
   "low-[de.adj]-gering": {

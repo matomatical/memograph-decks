@@ -31,12 +31,12 @@
   },
   "Mal-[de.noun.gender]-das": {
     "priorParams": [
-      3.117483079242999,
-      6.448442633624604,
+      3.727467688667519,
+      6.448442633624623,
       414631.77282229677
     ],
-    "numDrills": 22,
-    "lastTime": 1609276324,
+    "numDrills": 23,
+    "lastTime": 1609529243,
     "lastResult": true
   },
   "the example-[de.noun.en]-Beispiel": {
@@ -51,12 +51,12 @@
   },
   "Beispiel-[de.noun.gender]-das": {
     "priorParams": [
-      4.831333578360371,
-      3.666902785431767,
+      6.233602798097402,
+      3.666902785431705,
       367703.28603280237
     ],
-    "numDrills": 21,
-    "lastTime": 1609013655,
+    "numDrills": 22,
+    "lastTime": 1609529274,
     "lastResult": true
   },
   "the time-[de.noun.en]-Zeit": {
@@ -331,12 +331,12 @@
   },
   "Hand-[de.noun.gender]-die": {
     "priorParams": [
-      1.88620491711515,
-      1.9972393242608049,
+      2.8966270005558354,
+      1.99723932426082,
       766072.9240637763
     ],
-    "numDrills": 9,
-    "lastTime": 1608755188,
+    "numDrills": 10,
+    "lastTime": 1609529245,
     "lastResult": true
   },
   "the town-[de.noun.en]-Stadt": {
@@ -601,12 +601,12 @@
   },
   "Leben-[de.noun.gender]-das": {
     "priorParams": [
-      10.882316577626058,
-      9.088216994675703,
+      12.586025489202004,
+      9.088216994675545,
       148653.91516071517
     ],
-    "numDrills": 28,
-    "lastTime": 1609276013,
+    "numDrills": 29,
+    "lastTime": 1609529276,
     "lastResult": true
   },
   "the mother-[de.noun.en]-Mutter": {
@@ -721,12 +721,12 @@
   },
   "Sache-[de.noun.gender]-die": {
     "priorParams": [
-      1.8860069254473464,
-      1.9970150511792941,
+      2.8964877500320334,
+      1.997015051179267,
       766072.9240637763
     ],
-    "numDrills": 9,
-    "lastTime": 1608755155,
+    "numDrills": 10,
+    "lastTime": 1609529257,
     "lastResult": true
   },
   "the type/kind-[de.noun.en]-Art": {
@@ -841,12 +841,12 @@
   },
   "Geschichte-[de.noun.gender]-die": {
     "priorParams": [
-      1.885752774563338,
-      1.997138197304477,
+      2.896198354461635,
+      1.9971381973044826,
       766072.9240637763
     ],
-    "numDrills": 9,
-    "lastTime": 1608755149,
+    "numDrills": 10,
+    "lastTime": 1609529224,
     "lastResult": true
   },
   "the society/company-[de.noun.en]-Gesellschaft": {
@@ -1041,12 +1041,12 @@
   },
   "Form-[de.noun.gender]-die": {
     "priorParams": [
-      1.707098246557345,
-      2.0329796740553134,
+      2.6031712071009268,
+      2.032979674055358,
       863843.7204158901
     ],
-    "numDrills": 10,
-    "lastTime": 1608755211,
+    "numDrills": 11,
+    "lastTime": 1609529278,
     "lastResult": true
   },
   "the mark (currency)-[de.noun.en]-Mark": {
@@ -1431,12 +1431,12 @@
   },
   "Raum-[de.noun.gender]-der": {
     "priorParams": [
-      1.2540266746330984,
-      1.9959714691906694,
+      1.9407861505598407,
+      1.9959714691906625,
       1127086.0135646083
     ],
-    "numDrills": 17,
-    "lastTime": 1608755204,
+    "numDrills": 18,
+    "lastTime": 1609529241,
     "lastResult": true
   },
   "the look/glance/view-[de.noun.en]-Blick": {
@@ -1641,12 +1641,12 @@
   },
   "Wert-[de.noun.gender]-der": {
     "priorParams": [
-      2.901835280066547,
-      4.87738402840974,
+      3.6082450956889347,
+      4.877384028409762,
       358348.6446560392
     ],
-    "numDrills": 14,
-    "lastTime": 1609276099,
+    "numDrills": 15,
+    "lastTime": 1609529240,
     "lastResult": true
   },
   "the face-[de.noun.en]-Gesicht": {
@@ -1721,12 +1721,12 @@
   },
   "Ort-[de.noun.gender]-der": {
     "priorParams": [
-      1.7063025593194587,
-      2.0365068870175436,
+      2.6023813079469353,
+      2.0365068870175214,
       863843.7204158901
     ],
-    "numDrills": 10,
-    "lastTime": 1608755178,
+    "numDrills": 11,
+    "lastTime": 1609529250,
     "lastResult": true
   },
   "the town-[de.noun.en]-Ort": {
@@ -1791,12 +1791,12 @@
   },
   "Interesse-[de.noun.gender]-das": {
     "priorParams": [
-      4.330860218249227,
-      3.2367657818912643,
+      5.6207480653697095,
+      3.2367657818912337,
       367703.2860328025
     ],
-    "numDrills": 21,
-    "lastTime": 1609054963,
+    "numDrills": 22,
+    "lastTime": 1609529259,
     "lastResult": true
   },
   "the billion-[de.noun.en]-Milliarde": {
@@ -2031,12 +2031,12 @@
   },
   "St\u00fcck-[de.noun.gender]-das": {
     "priorParams": [
-      12.871891863735248,
-      7.586063109455941,
+      15.066889132863208,
+      7.58606310945469,
       115362.33031410139
     ],
-    "numDrills": 29,
-    "lastTime": 1609276028,
+    "numDrills": 30,
+    "lastTime": 1609529248,
     "lastResult": true
   },
   "the apartment-[de.noun.en]-Wohnung": {
