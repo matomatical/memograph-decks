@@ -93,7 +93,7 @@ gestern         -- yesterday
 bitte           -- please
 zusammen        -- together
 jedenfalls      -- in any case
-wobei           -- whereby?                 # interrogative adverb w/o equiv
+wobei           -- whereby (by/near what)   # interrogative *adverb* (?)
 bloß            -- just/only
 jeweils         -- any/each time
 unten           -- down/below/under/at the bottom
@@ -114,7 +114,7 @@ zuletzt         -- lastly
 dennoch         -- nevertheless
 lieber          -- gladly (?)               # 'rather' in the freq dict? ??
 zugleich        -- simultaneously
-noch( )mal      -- again                    # just noch + mal?
+nochmal         -- again                    # also 'noch mal' (just noch+mal?)
 danke           -- thank you                # also 'no, thank you' to decline
 derzeit         -- at the moment
 zuvor           -- before

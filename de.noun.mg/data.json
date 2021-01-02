@@ -1731,12 +1731,12 @@
   },
   "the town-[de.noun.en]-Ort": {
     "priorParams": [
-      1.5363648490802722,
-      1.7074562073117812,
+      2.509197208393256,
+      1.7074562073117834,
       886394.2402254909
     ],
-    "numDrills": 11,
-    "lastTime": 1608756345,
+    "numDrills": 12,
+    "lastTime": 1609618658,
     "lastResult": true
   },
   "the moment-[de.noun.en]-Moment": {
@@ -1751,12 +1751,12 @@
   },
   "Moment-[de.noun.gender]-der": {
     "priorParams": [
-      9.989454784002358,
-      6.4423580804877645,
+      11.755107470972138,
+      6.442358080488565,
       193953.7727479207
     ],
-    "numDrills": 30,
-    "lastTime": 1609276195,
+    "numDrills": 31,
+    "lastTime": 1609618650,
     "lastResult": true
   },
   "the result/consequence-[de.noun.en]-Folge": {

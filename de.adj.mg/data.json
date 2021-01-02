@@ -151,12 +151,12 @@
   },
   "right away-[de.adj]-gleich": {
     "priorParams": [
-      2.8302358738097366,
-      1.9173141173443105,
-      367703.28603280237
+      1.2111678728295068,
+      1.9814794748908204,
+      1127086.013564608
     ],
-    "numDrills": 10,
-    "lastTime": 1609101124,
+    "numDrills": 11,
+    "lastTime": 1609619032,
     "lastResult": true
   },
   "possible-[de.adj]-m\u00f6glich": {
@@ -491,12 +491,12 @@
   },
   "only/sole-[de.adj]-einzig": {
     "priorParams": [
-      2.0066478266720518,
-      1.929779037245579,
+      3.0764591256524367,
+      1.9297790372455614,
       527221.0160217482
     ],
-    "numDrills": 16,
-    "lastTime": 1609054961,
+    "numDrills": 17,
+    "lastTime": 1609618988,
     "lastResult": true
   },
   "common/mutual-[de.adj]-gemeinsam": {
@@ -671,12 +671,12 @@
   },
   "similar-[de.adj]-\u00e4hnlich": {
     "priorParams": [
-      6.8637951591681485,
-      4.578760735267437,
+      8.429220657230053,
+      4.578760735267612,
       218707.3102002931
     ],
-    "numDrills": 27,
-    "lastTime": 1609276308,
+    "numDrills": 28,
+    "lastTime": 1609618678,
     "lastResult": true
   },
   "frequent-[de.adj]-h\u00e4ufig": {
@@ -771,22 +771,22 @@
   },
   "modern-[de.adj]-modern": {
     "priorParams": [
-      1.3020888334084784,
-      1.0000000000000357,
-      766072.9240637763
+      0.865681106799873,
+      1.0000000000000318,
+      2348170.68783497
     ],
-    "numDrills": 5,
-    "lastTime": 1608583786,
+    "numDrills": 6,
+    "lastTime": 1609619058,
     "lastResult": true
   },
   "deep-[de.adj]-tief": {
     "priorParams": [
-      1.3021527959875705,
-      1.0000000000000209,
-      766072.9240637763
+      0.8657023999708914,
+      1.0000000000000313,
+      2348170.68783497
     ],
-    "numDrills": 5,
-    "lastTime": 1608583789,
+    "numDrills": 6,
+    "lastTime": 1609619062,
     "lastResult": true
   },
   "actual/real-[de.adj]-tats\u00e4chlich": {
@@ -811,12 +811,12 @@
   },
   "American-[de.adj]-amerikanisch": {
     "priorParams": [
-      1.3021018869959946,
-      0.9999999999999857,
-      766072.9240637763
+      0.8656840878438127,
+      0.9999999999999873,
+      2348170.68783497
     ],
-    "numDrills": 5,
-    "lastTime": 1608583792,
+    "numDrills": 6,
+    "lastTime": 1609619061,
     "lastResult": true
   },
   "economic/financial-[de.adj]-wirtschaftlich": {
@@ -831,22 +831,22 @@
   },
   "interesting-[de.adj]-interessant": {
     "priorParams": [
-      1.3020783905383968,
-      1.0000000000000033,
-      766072.9240637763
+      0.8656555549946703,
+      1.000000000000002,
+      2348170.68783497
     ],
-    "numDrills": 5,
-    "lastTime": 1608583835,
+    "numDrills": 6,
+    "lastTime": 1609619055,
     "lastResult": true
   },
   "relative-[de.adj]-relativ": {
     "priorParams": [
-      1.3020940548434716,
-      0.9999999999999931,
-      766072.9240637763
+      0.8656734412583151,
+      0.9999999999999939,
+      2348170.68783497
     ],
-    "numDrills": 5,
-    "lastTime": 1608583815,
+    "numDrills": 6,
+    "lastTime": 1609619065,
     "lastResult": true
   },
   "simultaneous-[de.adj]-gleichzeitig": {
@@ -901,22 +901,22 @@
   },
   "decisive-[de.adj]-entscheidend": {
     "priorParams": [
-      1.2643397469738957,
-      1.0000000000009321,
-      786071.1508742713
+      0.8421049202804434,
+      1.0000000000009885,
+      2409469.3560557133
     ],
-    "numDrills": 7,
-    "lastTime": 1608583811,
+    "numDrills": 8,
+    "lastTime": 1609618976,
     "lastResult": true
   },
   "narrow/close-[de.adj]-eng": {
     "priorParams": [
-      1.2643143039843074,
-      1.000000000001599,
-      786071.1508742713
+      0.8421082405133997,
+      1.0000000000016718,
+      2409469.3560557133
     ],
-    "numDrills": 7,
-    "lastTime": 1608583749,
+    "numDrills": 8,
+    "lastTime": 1609618942,
     "lastResult": true
   },
   "technical-[de.adj]-technisch": {
@@ -931,42 +931,42 @@
   },
   "slow-[de.adj]-langsam": {
     "priorParams": [
-      1.3019961529367008,
-      0.9999999999999941,
-      766072.9240637763
+      0.8656168014234582,
+      1.0000000000000024,
+      2348170.68783497
     ],
-    "numDrills": 5,
-    "lastTime": 1608583800,
+    "numDrills": 6,
+    "lastTime": 1609618992,
     "lastResult": true
   },
   "constant-[de.adj]-st\u00e4nding": {
     "priorParams": [
-      1.3019909315016605,
-      0.9999999999999806,
-      766072.9240637763
+      0.8656006186134863,
+      0.9999999999999798,
+      2348170.68783497
     ],
-    "numDrills": 5,
-    "lastTime": 1608583821,
+    "numDrills": 6,
+    "lastTime": 1609618979,
     "lastResult": true
   },
   "necessary-[de.adj]-notwendig": {
     "priorParams": [
-      1.3017872955355656,
-      1.00000000000003,
+      1.3614563671139497,
+      1.953176919709935,
       766072.9240637763
     ],
-    "numDrills": 5,
-    "lastTime": 1608583774,
-    "lastResult": true
+    "numDrills": 6,
+    "lastTime": 1609619001,
+    "lastResult": false
   },
   "pure/pristine-[de.adj]-rein": {
     "priorParams": [
-      1.264198538382529,
-      1.0000000000003848,
-      786071.1508742713
+      0.8420480612880913,
+      1.0000000000004143,
+      2409469.3560557133
     ],
-    "numDrills": 6,
-    "lastTime": 1608583725,
+    "numDrills": 7,
+    "lastTime": 1609618864,
     "lastResult": true
   },
   "English-[de.adj]-englisch": {
@@ -981,12 +981,12 @@
   },
   "scientific/scholarly-[de.adj]-wissenschaftlich": {
     "priorParams": [
-      1.301949160021421,
-      0.9999999999999849,
-      766072.9240637763
+      0.8655848616669495,
+      0.9999999999999961,
+      2348170.68783497
     ],
-    "numDrills": 5,
-    "lastTime": 1608583831,
+    "numDrills": 6,
+    "lastTime": 1609618984,
     "lastResult": true
   },
   "false-[de.adj]-falsch": {
@@ -1001,42 +1001,42 @@
   },
   "foreign/strange/alien-[de.adj]-fremd": {
     "priorParams": [
-      1.301840815244574,
-      0.99999999999998,
-      766072.9240637763
+      0.8655665495398706,
+      0.9999999999999759,
+      2348170.68783497
     ],
-    "numDrills": 5,
-    "lastTime": 1608583769,
+    "numDrills": 6,
+    "lastTime": 1609618962,
     "lastResult": true
   },
   "French-[de.adj]-frans\u00f6sisch": {
     "priorParams": [
-      1.2641603738992813,
-      0.9999999999958528,
-      786071.1508742713
+      0.842048891347489,
+      0.9999999999956398,
+      2409469.3560557133
     ],
-    "numDrills": 6,
-    "lastTime": 1608583742,
+    "numDrills": 7,
+    "lastTime": 1609618913,
     "lastResult": true
   },
   "rare-[de.adj]-selten": {
     "priorParams": [
-      1.301801654481892,
-      0.9999999999999942,
-      766072.9240637763
+      0.8655567546812308,
+      1.0000000000000042,
+      2348170.68783497
     ],
-    "numDrills": 5,
-    "lastTime": 1608583767,
+    "numDrills": 6,
+    "lastTime": 1609618967,
     "lastResult": true
   },
   "normal-[de.adj]-normal": {
     "priorParams": [
-      1.3018551741909228,
-      0.9999999999999889,
-      766072.9240637763
+      0.8655682529935579,
+      0.999999999999987,
+      2348170.68783497
     ],
-    "numDrills": 5,
-    "lastTime": 1608583783,
+    "numDrills": 6,
+    "lastTime": 1609618969,
     "lastResult": true
   },
   "true-[de.adj]-wahr": {
@@ -1051,22 +1051,22 @@
   },
   "private-[de.adj]-privat": {
     "priorParams": [
-      1.301830372374567,
-      1.0000000000000289,
-      766072.9240637763
+      0.8655648460862063,
+      1.0000000000000338,
+      2348170.68783497
     ],
-    "numDrills": 5,
-    "lastTime": 1608583797,
+    "numDrills": 6,
+    "lastTime": 1609618994,
     "lastResult": true
   },
   "dead-[de.adj]-tot": {
     "priorParams": [
-      1.3018225402220032,
-      1.0000000000000133,
-      766072.9240637763
+      0.8655580322714868,
+      1.0000000000000253,
+      2348170.68783497
     ],
-    "numDrills": 5,
-    "lastTime": 1608583794,
+    "numDrills": 6,
+    "lastTime": 1609618981,
     "lastResult": true
   },
   "tall-[de.adj]-gro\u00df": {

@@ -801,22 +801,22 @@
   },
   "to create-[de.verb]-schaffen": {
     "priorParams": [
-      1.9420704277356033,
-      3.245503814270025,
+      2.67780872815748,
+      3.2455038142700605,
       999521.1606876455
     ],
-    "numDrills": 26,
-    "lastTime": 1608883267,
+    "numDrills": 27,
+    "lastTime": 1609618653,
     "lastResult": true
   },
   "to manage-[de.verb]-schaffen": {
     "priorParams": [
-      1.942049295846483,
-      3.245512787563096,
+      2.677818611119434,
+      3.2455127875630647,
       999521.1606876455
     ],
-    "numDrills": 26,
-    "lastTime": 1608883244,
+    "numDrills": 27,
+    "lastTime": 1609618661,
     "lastResult": true
   },
   "to read-[de.verb]-lesen": {
@@ -831,12 +831,12 @@
   },
   "to lose-[de.verb]-verlieren": {
     "priorParams": [
-      2.312134721109816,
-      2.174535018228918,
+      3.385253156263481,
+      2.1745350182289185,
       886394.2402254904
     ],
-    "numDrills": 15,
-    "lastTime": 1608667845,
+    "numDrills": 16,
+    "lastTime": 1609619051,
     "lastResult": true
   },
   "to portray/depict-[de.verb]-darstellen": {
@@ -861,12 +861,12 @@
   },
   "to develop-[de.verb]-entwickeln": {
     "priorParams": [
-      3.273961833328345,
-      6.154020351589585,
+      4.006788969567926,
+      6.154020351589535,
       467549.55303397507
     ],
-    "numDrills": 29,
-    "lastTime": 1609276034,
+    "numDrills": 30,
+    "lastTime": 1609618667,
     "lastResult": true
   },
   "to talk-[de.verb]-reden": {
@@ -1623,12 +1623,12 @@
   },
   "to open-[de.verb]-\u00f6ffnen": {
     "priorParams": [
-      6.428009309618893,
-      4.855120516552115,
+      7.987082774595459,
+      4.855120516551933,
       219722.166848037
     ],
-    "numDrills": 11,
-    "lastTime": 1609276140,
+    "numDrills": 12,
+    "lastTime": 1609618703,
     "lastResult": true
   },
   "to measure-[de.verb]-messen": {
