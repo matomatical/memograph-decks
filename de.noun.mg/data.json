@@ -11,12 +11,12 @@
   },
   "Jahr-[de.noun.gender]-das": {
     "priorParams": [
-      1.7240259063729975,
-      1.295999328898685,
-      863843.7204158901
+      0.9046229036064263,
+      1.3139547318888092,
+      2647858.238339239
     ],
-    "numDrills": 9,
-    "lastTime": 1608583745,
+    "numDrills": 10,
+    "lastTime": 1609631233,
     "lastResult": true
   },
   "the time/occurrence-[de.noun.en]-Mal": {
@@ -821,12 +821,12 @@
   },
   "Name-[de.noun.gender]-der": {
     "priorParams": [
-      1.8283324681024609,
-      1.0000000000000022,
-      766072.9240637763
+      1.1318896082680174,
+      0.9999999999999928,
+      2348170.68783497
     ],
-    "numDrills": 6,
-    "lastTime": 1608373996,
+    "numDrills": 7,
+    "lastTime": 1609631230,
     "lastResult": true
   },
   "the history-[de.noun.en]-Geschichte": {
@@ -881,12 +881,12 @@
   },
   "Kopf-[de.noun.gender]-der": {
     "priorParams": [
-      1.828335078820005,
+      1.1318866272240882,
       1.0000000000000353,
-      766072.9240637763
+      2348170.68783497
     ],
-    "numDrills": 6,
-    "lastTime": 1608374014,
+    "numDrills": 7,
+    "lastTime": 1609631239,
     "lastResult": true
   },
   "the pair/couple-[de.noun.en]-Paar": {
@@ -921,12 +921,12 @@
   },
   "M\u00f6glichkeit-[de.noun.gender]-die": {
     "priorParams": [
-      1.8283468270488081,
-      1.0000000000000024,
-      766072.9240637763
+      1.1318917375851123,
+      0.9999999999999843,
+      2348170.68783497
     ],
-    "numDrills": 6,
-    "lastTime": 1608373999,
+    "numDrills": 7,
+    "lastTime": 1609631227,
     "lastResult": true
   },
   "the enterprise/company-[de.noun.en]-Unternehmen": {
@@ -961,12 +961,12 @@
   },
   "Bild-[de.noun.gender]-das": {
     "priorParams": [
-      1.8282985287747886,
-      1.000000000000008,
-      766072.9240637763
+      1.131890459994891,
+      1.0000000000000249,
+      2348170.68783497
     ],
-    "numDrills": 6,
-    "lastTime": 1608373982,
+    "numDrills": 7,
+    "lastTime": 1609631244,
     "lastResult": true
   },
   "the book-[de.noun.en]-Buch": {
@@ -1961,12 +1961,12 @@
   },
   "the war-[de.noun.en]-Krieg": {
     "priorParams": [
-      2.6164035699232984,
-      3.1945185150642157,
+      3.4035069090976564,
+      3.194518515064211,
       673493.5219002627
     ],
-    "numDrills": 10,
-    "lastTime": 1609101127,
+    "numDrills": 11,
+    "lastTime": 1609631236,
     "lastResult": true
   },
   "Krieg-[de.noun.gender]-der": {

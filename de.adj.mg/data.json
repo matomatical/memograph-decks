@@ -481,12 +481,12 @@
   },
   "general-[de.adj]-allgemein": {
     "priorParams": [
-      3.3831183718364595,
-      3.906426132746434,
+      4.411322257655692,
+      3.906426132746439,
       414631.77282229677
     ],
-    "numDrills": 27,
-    "lastTime": 1609276081,
+    "numDrills": 28,
+    "lastTime": 1609702407,
     "lastResult": true
   },
   "only/sole-[de.adj]-einzig": {
@@ -801,13 +801,13 @@
   },
   "additional-[de.adj]-zus\u00e4tzlich": {
     "priorParams": [
-      1.1048462423229368,
-      1.9784416517140697,
-      999521.1606876455
+      3.030709325766331,
+      2.77403637050588,
+      414631.77282229677
     ],
-    "numDrills": 9,
-    "lastTime": 1609013742,
-    "lastResult": true
+    "numDrills": 10,
+    "lastTime": 1609702474,
+    "lastResult": false
   },
   "American-[de.adj]-amerikanisch": {
     "priorParams": [
@@ -951,13 +951,13 @@
   },
   "necessary-[de.adj]-notwendig": {
     "priorParams": [
-      1.3614563671139497,
-      1.953176919709935,
+      1.4702710731053845,
+      1.9531769197099322,
       766072.9240637763
     ],
-    "numDrills": 6,
-    "lastTime": 1609619001,
-    "lastResult": false
+    "numDrills": 7,
+    "lastTime": 1609702361,
+    "lastResult": true
   },
   "pure/pristine-[de.adj]-rein": {
     "priorParams": [
