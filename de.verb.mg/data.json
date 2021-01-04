@@ -671,32 +671,32 @@
   },
   "to originate/develop-[de.verb]-entstehen": {
     "priorParams": [
-      11.791359416482015,
-      6.55816903604236,
-      220654.8531949366
+      3.2738622769423746,
+      7.1132503621511,
+      676352.3969132517
     ],
-    "numDrills": 38,
-    "lastTime": 1609444821,
+    "numDrills": 39,
+    "lastTime": 1609787711,
     "lastResult": true
   },
   "to arise-[de.verb]-entstehen": {
     "priorParams": [
-      9.153175508738837,
-      10.819118579517816,
+      10.322934506842433,
+      10.819118579517847,
       220654.8531949366
     ],
-    "numDrills": 42,
-    "lastTime": 1609529232,
+    "numDrills": 43,
+    "lastTime": 1609787345,
     "lastResult": true
   },
   "to receive-[de.verb]-erhalten": {
     "priorParams": [
-      4.740992196142217,
-      7.844494844302262,
+      5.496300104447742,
+      7.844494844302182,
       453632.2157259576
     ],
-    "numDrills": 37,
-    "lastTime": 1609444824,
+    "numDrills": 38,
+    "lastTime": 1609787456,
     "lastResult": true
   },
   "to meet-[de.verb]-treffen": {
@@ -741,22 +741,22 @@
   },
   "to introduce-[de.verb]-vorstellen": {
     "priorParams": [
-      2.657828451030783,
-      5.219342369534946,
+      3.3280794219957244,
+      5.219342369534909,
       762672.5243889549
     ],
-    "numDrills": 34,
-    "lastTime": 1609276202,
+    "numDrills": 35,
+    "lastTime": 1609787384,
     "lastResult": true
   },
   "to imagine-[de.verb]-vorstellen": {
     "priorParams": [
-      2.6578319282282323,
-      5.219338206461538,
+      3.328204838816072,
+      5.219338206461536,
       762672.5243889549
     ],
-    "numDrills": 34,
-    "lastTime": 1609276205,
+    "numDrills": 35,
+    "lastTime": 1609787480,
     "lastResult": true
   },
   "to deal/trade-[de.verb]-handeln": {
@@ -1041,12 +1041,12 @@
   },
   "to remind-[de.verb]-erinnern": {
     "priorParams": [
-      2.697723528151277,
-      1.9535159678001313,
-      786071.1508742712
+      1.167826690453341,
+      2.0244129811212415,
+      2409469.356055713
     ],
-    "numDrills": 20,
-    "lastTime": 1608671712,
+    "numDrills": 21,
+    "lastTime": 1609787462,
     "lastResult": true
   },
   "to study-[de.verb]-studieren": {
@@ -1283,12 +1283,12 @@
   },
   "to sell-[de.verb]-verkaufen": {
     "priorParams": [
-      1.7604469003581598,
-      1.0000000000000162,
-      863843.7204158901
+      1.0935853581860155,
+      1.0000000000000169,
+      2647858.238339239
     ],
-    "numDrills": 10,
-    "lastTime": 1608412881,
+    "numDrills": 11,
+    "lastTime": 1609787789,
     "lastResult": true
   },
   "to fit/suit-[de.verb]-passen": {
