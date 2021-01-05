@@ -1059,7 +1059,6 @@
     "lastTime": 1608756248,
     "lastResult": true
   },
-  "to look at/watch,sehen-[de.verb]-ansehen": {},
   "to lack-[de.verb]-fehlen": {
     "priorParams": [
       1.66128283657245,
@@ -1110,7 +1109,7 @@
     "lastTime": 1608756284,
     "lastResult": true
   },
-  "to watch/look at-[de.verb]-ansehen": {
+  "to look at/watch-[de.verb]-ansehen": {
     "priorParams": [
       1.4833819620946087,
       2.1214140070114773,
@@ -1632,13 +1631,13 @@
   },
   "to catch-[de.verb]-fangen": {
     "priorParams": [
-      2.9062761578077065,
-      3.001119335253853,
+      2.9076302910997858,
+      3.001119335253861,
       673493.5219002627
     ],
-    "numDrills": 10,
-    "lastTime": 1609836507,
-    "lastResult": false
+    "numDrills": 11,
+    "lastTime": 1609837419,
+    "lastResult": true
   },
   "to loan/borrow-[de.verb]-leihen": {
     "priorParams": [
@@ -1740,37 +1739,235 @@
     "lastTime": 1608883236,
     "lastResult": true
   },
-  "to look at/watch-[de.verb]-ansehen": {},
-  "to climb/increase-[de.verb]-steigen": {},
-  "to use-[de.verb]-nutzen": {},
+  "to climb/increase-[de.verb]-steigen": {
+    "priorParams": [
+      1.0722222222222209,
+      0.9999999999999983,
+      3600
+    ],
+    "numDrills": 1,
+    "lastTime": 1609837335,
+    "lastResult": true
+  },
+  "to use-[de.verb]-nutzen": {
+    "priorParams": [
+      1.099722222222228,
+      1.0000000000000049,
+      3600
+    ],
+    "numDrills": 1,
+    "lastTime": 1609837437,
+    "lastResult": true
+  },
   "to look-[de.verb]-schauen": {},
-  "to leave-[de.verb]-verlassen": {},
-  "to insert-[de.verb]-einsetzen": {},
-  "to change-[de.verb]-a\u0308ndern": {},
-  "to grow-[de.verb]-wachsen": {},
-  "to go out-[de.verb]-ausgehen": {},
-  "to assume-[de.verb]-ausgehen": {},
-  "to happen-[de.verb]-geschehen": {},
-  "to describe-[de.verb]-beschreiben": {},
-  "to take on/accept-[de.verb]-annehmen": {},
-  "to receive-[de.verb]-kriegen": {},
-  "to plan-[de.verb]-planen": {},
-  "to work/take effect-[de.verb]-wirken": {},
-  "to call/name-[de.verb]-bezeichnen": {},
-  "to be/find oneself-[de.verb]-befinden (sich)": {},
-  "to call-[de.verb]-rufen": {},
-  "to take on (pick up, challenge, include)-[de.verb]-aufnehmen": {},
-  "to take in (admit, receive, absorb, record)-[de.verb]-aufnehmen": {},
-  "to gain/increase-[de.verb]-zunehmen": {},
-  "to decide/determine/define-[de.verb]-bestimmen": {},
+  "to leave-[de.verb]-verlassen": {
+    "priorParams": [
+      2.39367980840263,
+      2.0395759436114513,
+      1493.3894757499138
+    ],
+    "numDrills": 2,
+    "lastTime": 1609837783,
+    "lastResult": true
+  },
+  "to insert-[de.verb]-einsetzen": {
+    "priorParams": [
+      1.0977777777777777,
+      1.0000000000000007,
+      3600
+    ],
+    "numDrills": 1,
+    "lastTime": 1609837424,
+    "lastResult": true
+  },
+  "to wax/grow-[de.verb]-wachsen": {
+    "priorParams": [
+      1.0591666666666677,
+      1.0000000000000007,
+      3600
+    ],
+    "numDrills": 1,
+    "lastTime": 1609837330,
+    "lastResult": true
+  },
+  "to go out-[de.verb]-ausgehen": {
+    "priorParams": [
+      1.0761111111111068,
+      0.9999999999999971,
+      3600
+    ],
+    "numDrills": 1,
+    "lastTime": 1609837427,
+    "lastResult": true
+  },
+  "to assume-[de.verb]-ausgehen": {
+    "priorParams": [
+      1.90528503559527,
+      3.116334718293104,
+      1493.3894757499138
+    ],
+    "numDrills": 2,
+    "lastTime": 1609837778,
+    "lastResult": false
+  },
+  "to happen-[de.verb]-geschehen": {
+    "priorParams": [
+      1.8788350094103445,
+      3.1180227689612763,
+      1493.3894757499138
+    ],
+    "numDrills": 2,
+    "lastTime": 1609837755,
+    "lastResult": false
+  },
+  "to describe-[de.verb]-beschreiben": {
+    "priorParams": [
+      1.0888888888888881,
+      0.9999999999999996,
+      3600
+    ],
+    "numDrills": 1,
+    "lastTime": 1609837408,
+    "lastResult": true
+  },
+  "to take on/accept-[de.verb]-annehmen": {
+    "priorParams": [
+      1.8705632406033483,
+      3.1204852324550028,
+      1493.3894757499138
+    ],
+    "numDrills": 2,
+    "lastTime": 1609837736,
+    "lastResult": false
+  },
+  "to receive-[de.verb]-kriegen": {
+    "priorParams": [
+      1.049999999999999,
+      0.9999999999999994,
+      3600
+    ],
+    "numDrills": 1,
+    "lastTime": 1609837434,
+    "lastResult": true
+  },
+  "to plan-[de.verb]-planen": {
+    "priorParams": [
+      2.303733160585502,
+      2.043259859729879,
+      1493.3894757499138
+    ],
+    "numDrills": 2,
+    "lastTime": 1609837757,
+    "lastResult": true
+  },
+  "to work/take effect-[de.verb]-wirken": {
+    "priorParams": [
+      1.012222222222217,
+      0.9999999999999963,
+      3600
+    ],
+    "numDrills": 1,
+    "lastTime": 1609837315,
+    "lastResult": true
+  },
+  "to call/name-[de.verb]-bezeichnen": {
+    "priorParams": [
+      2.3242051765948775,
+      2.0419856656689683,
+      1493.3894757499138
+    ],
+    "numDrills": 2,
+    "lastTime": 1609837764,
+    "lastResult": true
+  },
+  "to be/find oneself-[de.verb]-befinden (sich)": {
+    "priorParams": [
+      1.0430555555555567,
+      1.000000000000001,
+      3600
+    ],
+    "numDrills": 1,
+    "lastTime": 1609837396,
+    "lastResult": true
+  },
+  "to call-[de.verb]-rufen": {
+    "priorParams": [
+      1.0105555555555528,
+      0.9999999999999973,
+      3600
+    ],
+    "numDrills": 1,
+    "lastTime": 1609837317,
+    "lastResult": true
+  },
+  "to look (at)-[de.verb]-schauen": {
+    "priorParams": [
+      1.012222222222217,
+      0.9999999999999963,
+      3600
+    ],
+    "numDrills": 1,
+    "lastTime": 1609837744,
+    "lastResult": true
+  },
+  "to change-[de.verb]-\u00e4ndern": {
+    "priorParams": [
+      1.002499999999996,
+      0.9999999999999964,
+      3600
+    ],
+    "numDrills": 1,
+    "lastTime": 1609837712,
+    "lastResult": true
+  },
+  "to take on (pick up, challenge, include)-[de.verb]-aufnehmen": {
+    "priorParams": [
+      1.0205555555555528,
+      0.9999999999999976,
+      3600
+    ],
+    "numDrills": 1,
+    "lastTime": 1609837771,
+    "lastResult": true
+  },
+  "to take in (admit, receive, absorb, record)-[de.verb]-aufnehmen": {
+    "priorParams": [
+      1.0055555555555546,
+      0.9999999999999991,
+      3600
+    ],
+    "numDrills": 1,
+    "lastTime": 1609837709,
+    "lastResult": true
+  },
+  "to gain/increase-[de.verb]-zunehmen": {
+    "priorParams": [
+      1.0069444444444455,
+      1.0000000000000009,
+      3600
+    ],
+    "numDrills": 1,
+    "lastTime": 1609837717,
+    "lastResult": true
+  },
+  "to decide/determine/define-[de.verb]-bestimmen": {
+    "priorParams": [
+      1.0158333333333358,
+      1.0000000000000018,
+      3600
+    ],
+    "numDrills": 1,
+    "lastTime": 1609837741,
+    "lastResult": true
+  },
   "to demand-[de.verb]-fordern": {},
   "to hit/strike-[de.verb]-schlagen": {},
-  "to take over-[de.verb]-u\u0308bernehmen": {},
+  "to take over-[de.verb]-\u00fcbernehmen": {},
   "to take on/accept-[de.verb]-\u00fcbernehmen": {},
   "to overdo/take on too much-[de.verb]-\u00fcbernehmen sich": {},
-  "to change-[de.verb]-vera\u0308ndern": {},
+  "to change-[de.verb]-ver\u00e4ndern": {},
   "to use-[de.verb]-verwenden": {},
-  "to choose/select/vote-[de.verb]-wa\u0308hlen": {},
+  "to choose/select/vote-[de.verb]-w\u00e4hlen": {},
   "to occur-[de.verb]-erfolgen": {},
   "to hold in/contain-[de.verb]-enthalten": {},
   "to look at/watch-[de.verb]-betrachten": {},
@@ -1796,10 +1993,10 @@
   "to achieve-[de.verb]-leisten": {},
   "to demand-[de.verb]-verlangen": {},
   "to be present (with)-[de.verb]-vorliegen": {},
-  "to count-[de.verb]-za\u0308hlen": {},
-  "to wish-[de.verb]-wu\u0308nschen": {},
+  "to count-[de.verb]-z\u00e4hlen": {},
+  "to wish-[de.verb]-w\u00fcnschen": {},
   "to build-[de.verb]-bauen": {},
-  "to hang-[de.verb]-ha\u0308ngen": {},
+  "to hang-[de.verb]-h\u00e4ngen": {},
   "to hope-[de.verb]-hoffen": {},
   "to be happy-[de.verb]-freuen": {},
   "to divide/share-[de.verb]-teilen": {},
@@ -1810,16 +2007,16 @@
   "to look after-[de.verb]-sorgen": {},
   "to arrive-[de.verb]-ankommen": {},
   "to cover-[de.verb]-beziehen": {},
-  "to sense/notice-[de.verb]-spu\u0308ren": {},
+  "to sense/notice-[de.verb]-sp\u00fcren": {},
   "to track-[de.verb]-sp\u00fcren": {},
-  "to raise/increase-[de.verb]-erho\u0308hen": {},
+  "to raise/increase-[de.verb]-erh\u00f6hen": {},
   "to register-[de.verb]-melden": {},
   "to report (sth)-[de.verb]-melden": {},
   "to come forth-[de.verb]-vorkommen": {},
   "to occur-[de.verb]-vorkommen": {},
   "to own/possess-[de.verb]-besitzen": {},
   "to stress/emphasise-[de.verb]-betonen": {},
-  "to fulfil/grant-[de.verb]-erfu\u0308llen": {},
+  "to fulfil/grant-[de.verb]-erf\u00fcllen": {},
   "to partake in-[de.verb]-beteiligen sich": {},
   "to share in-[de.verb]-beteiligen sich": {},
   "to mark/notice-[de.verb]-merken": {},
@@ -1829,26 +2026,21 @@
   "to address (sb)-[de.verb]-richten": {},
   "to comprise-[de.verb]-umfassen": {},
   "to enclose-[de.verb]-umfassen": {},
-  "to support-[de.verb]-unterstu\u0308tzen": {},
-  "to smile-[de.verb]-la\u0308cheln": {},
-  "to occupy/employ-[de.verb]-bescha\u0308ftigen": {},
-  "to solve-[de.verb]-lo\u0308sen": {},
+  "to support-[de.verb]-unterst\u00fctzen": {},
+  "to smile-[de.verb]-l\u00e4cheln": {},
+  "to occupy/employ-[de.verb]-besch\u00e4ftigen": {},
   "to loosen-[de.verb]-l\u00f6sen": {},
   "to separate/sever-[de.verb]-trennen": {},
   "to put away-[de.verb]-einstellen": {},
   "to set up/prepare-[de.verb]-einstellen": {},
   "to stop/cease-[de.verb]-einstellen": {},
-  "to carry through-[de.verb]-durchfu\u0308hren": {},
-  "to suffice/be enough-[de.verb]-genu\u0308gen": {},
-  "to serve out-[de.verb]-servieren": {},
-  "to fill-[de.verb]-f\u00fcllen": {},
-  "to grasp-[de.verb]-fassen": {},
-  "to look (at)-[de.verb]-schauen": {},
+  "to carry through-[de.verb]-durchf\u00fchren": {},
+  "to suffice/be enough-[de.verb]-gen\u00fcgen": {},
   "to build up/erect-[de.verb]-aufbauen": {},
-  "to confirm/endorse-[de.verb]-besta\u0308tigen": {},
+  "to confirm/endorse-[de.verb]-best\u00e4tigen": {},
   "to examine-[de.verb]-untersuchen": {},
   "to look/glance-[de.verb]-blicken": {},
-  "to press/push-[de.verb]-dru\u0308cken": {},
+  "to press/push-[de.verb]-dr\u00fccken": {},
   "to go into (history/heaven/matrimony/etc.)-[de.verb]-eingehen": {},
   "to allow-[de.verb]-erlauben": {},
   "to suffice-[de.verb]-ausreichen": {},
@@ -1856,7 +2048,7 @@
   "to treat/handle-[de.verb]-behandeln": {},
   "to drive (nail/animals/ball/etc.)-[de.verb]-treiben": {},
   "to pursue (craft/study/hobby/etc.)-[de.verb]-treiben": {},
-  "to convince-[de.verb]-u\u0308berzeugen": {},
+  "to convince-[de.verb]-\u00fcberzeugen": {},
   "to use-[de.verb]-benutzen": {},
   "to threaten-[de.verb]-drohen": {},
   "to promise-[de.verb]-versprechen": {},
@@ -1865,20 +2057,20 @@
   "to react-[de.verb]-reagieren": {},
   "to earn-[de.verb]-verdienen": {},
   "to turn/shift/spin-[de.verb]-drehen": {},
-  "to surprise-[de.verb]-u\u0308berraschen": {},
+  "to surprise-[de.verb]-\u00fcberraschen": {},
   "to proceed with-[de.verb]-betreiben": {},
   "to fly-[de.verb]-fliegen": {},
   "to lift-[de.verb]-heben": {},
   "to thrust/push/punch-[de.verb]-sto\u00dfen": {},
   "to represent-[de.verb]-vertreten": {},
   "to advocate-[de.verb]-vertreten": {},
-  "to enable-[de.verb]-ermo\u0308glichen": {},
+  "to enable-[de.verb]-erm\u00f6glichen": {},
   "to make/produce-[de.verb]-herstellen": {},
   "to suffer-[de.verb]-leiden": {},
   "to send-[de.verb]-schicken": {},
   "to swap/exchange-[de.verb]-wechseln": {},
   "to deliver-[de.verb]-liefern": {},
-  "to require/need-[de.verb]-beno\u0308tigen": {},
+  "to require/need-[de.verb]-ben\u00f6tigen": {},
   "to stem/come (from sth)-[de.verb]-stammen": {},
   "to prevent-[de.verb]-verhindern": {},
   "to lock-[de.verb]-abschlie\u00dfen": {},
@@ -1887,8 +2079,8 @@
   "to sing-[de.verb]-singen": {},
   "to hold over (hold sth over sb)-[de.verb]-\u00fcberlegen": {},
   "to lay over/consider-[de.verb]-\u00fcberlegen": {},
-  "to lean over-[de.verb]-u\u0308berlegen sich": {},
-  "to mention-[de.verb]-erwa\u0308hnen": {},
+  "to lean over-[de.verb]-\u00fcberlegen sich": {},
+  "to mention-[de.verb]-erw\u00e4hnen": {},
   "to grab-[de.verb]-greifen": {},
   "to do without-[de.verb]-verzichten": {},
   "to give up-[de.verb]-aufgeben": {},
@@ -1897,29 +2089,29 @@
   "to declare-[de.verb]-angeben": {},
   "to brag-[de.verb]-angeben": {},
   "to serve (ball)-[de.verb]-angeben": {},
-  "to substantiate/justify-[de.verb]-begru\u0308nden": {},
+  "to substantiate/justify-[de.verb]-begr\u00fcnden": {},
   "to furnish-[de.verb]-einrichten": {},
   "to hold-[de.verb]-festhalten": {},
   "to detain-[de.verb]-festhalten": {},
   "to come into-[de.verb]-geraten": {},
   "to turn out-[de.verb]-geraten": {},
-  "to decree-[de.verb]-verfu\u0308gen": {},
-  "to protect-[de.verb]-schu\u0308tzen": {},
+  "to decree-[de.verb]-verf\u00fcgen": {},
+  "to protect-[de.verb]-sch\u00fctzen": {},
   "to prepare-[de.verb]-vorbereiten": {},
-  "to disturb-[de.verb]-sto\u0308ren": {},
+  "to disturb-[de.verb]-st\u00f6ren": {},
   "to celebrate-[de.verb]-feiern": {},
   "to mediate-[de.verb]-vermitteln": {},
-  "to consider-[de.verb]-beru\u0308cksichtigen": {},
+  "to consider-[de.verb]-ber\u00fccksichtigen": {},
   "to exclude/rule out-[de.verb]-ausschlie\u00dfen": {},
   "to function/work-[de.verb]-funktionieren": {},
-  "to found/establish-[de.verb]-gru\u0308nden": {},
+  "to found/establish-[de.verb]-gr\u00fcnden": {},
   "to reign/prevail-[de.verb]-herrschen": {},
   "to push-[de.verb]-schieben": {},
   "to slide-[de.verb]-schieben": {},
   "to assert/maintain-[de.verb]-behaupten": {},
   "to raise-[de.verb]-erheben": {},
   "to pursue-[de.verb]-verfolgen": {},
-  "to return-[de.verb]-zuru\u0308ckkommen": {},
+  "to return-[de.verb]-zur\u00fcckkommen": {},
   "to force-[de.verb]-zwingen": {},
   "to decline-[de.verb]-ablehnen": {},
   "to employ/apply-[de.verb]-anwenden": {},
@@ -1928,7 +2120,7 @@
   "to occur/remind-[de.verb]-einfallen": {},
   "to come in/invade-[de.verb]-einfallen": {},
   "to exist-[de.verb]-existieren": {},
-  "to promote/support-[de.verb]-fo\u0308rdern": {},
+  "to promote/support-[de.verb]-f\u00f6rdern": {},
   "to address-[de.verb]-ansprechen": {},
   "to heed/pay attention to-[de.verb]-beachten": {},
   "to feel-[de.verb]-empfinden": {},
@@ -1936,19 +2128,22 @@
   "to leave-[de.verb]-entfernen sich": {},
   "to secure-[de.verb]-sichern": {},
   "to turn-[de.verb]-wenden": {},
+  "to grasp-[de.verb]-fassen": {},
   "to inform-[de.verb]-informieren": {},
-  "to concern-[de.verb]-ku\u0308mmern": {},
+  "to concern-[de.verb]-k\u00fcmmern": {},
   "to nod-[de.verb]-nicken": {},
   "to organize-[de.verb]-organisieren": {},
-  "to emboss/mint/shape-[de.verb]-pra\u0308gen": {},
+  "to emboss/mint/shape-[de.verb]-pr\u00e4gen": {},
   "to coin (a word)-[de.verb]-pr\u00e4gen": {},
   "to sink-[de.verb]-sinken": {},
   "to fall/decrease-[de.verb]-sinken": {},
   "to avoid-[de.verb]-vermeiden": {},
-  "to announce/herald-[de.verb]-anku\u0308ndigen": {},
+  "to announce/herald-[de.verb]-ank\u00fcndigen": {},
   "to stand up-[de.verb]-aufstehen": {},
-  "to strengthen/reinforce-[de.verb]-versta\u0308rken": {},
+  "to strengthen/reinforce-[de.verb]-verst\u00e4rken": {},
   "to forsee/plan-[de.verb]-vorsehen": {},
-  "to restrict/limit-[de.verb]-beschra\u0308nken": {},
-  "to injure-[de.verb]-verletzen": {}
+  "to restrict/limit-[de.verb]-beschr\u00e4nken": {},
+  "to injure-[de.verb]-verletzen": {},
+  "to serve out-[de.verb]-servieren": {},
+  "to fill-[de.verb]-f\u00fcllen": {}
 }

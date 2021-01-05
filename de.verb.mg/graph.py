@@ -130,8 +130,8 @@ nutzen          -- to use
 schauen         -- to look (at)
 verlassen       -- to leave
 einsetzen       -- to insert
-ändern          -- to change
-wachsen         -- to grow
+ändern          -- to change
+wachsen         -- to wax/grow
 ausgehen        -- to go out
 ausgehen        -- to assume
 geschehen       -- to happen
@@ -153,13 +153,13 @@ gefallen        -- to please/appeal to
 öffnen          -- to open
 schlagen        -- to hit/strike
 treten          -- to step
-übernehmen      -- to take over
+übernehmen      -- to take over
 übernehmen      -- to take on/accept
 übernehmen sich -- to overdo/take on too much
-verändern       -- to change
+verändern       -- to change
 lachen          -- to laugh
 verwenden       -- to use                   # there are some other senses
-wählen          -- to choose/select/vote
+wählen          -- to choose/select/vote
 erfolgen        -- to occur
 enthalten       -- to hold in/contain
 betrachten      -- to look at/watch
@@ -193,10 +193,10 @@ leisten         -- to achieve
 verlangen       -- to demand
 werfen          -- to throw
 vorliegen       -- to be present (with)
-zählen          -- to count
-wünschen        -- to wish
+zählen          -- to count
+wünschen        -- to wish
 bauen           -- to build
-hängen          -- to hang
+hängen          -- to hang
 hoffen          -- to hope
 freuen          -- to be happy
 teilen          -- to divide/share          # teil = part
@@ -209,16 +209,16 @@ sorgen sich     -- to worry
 sorgen          -- to look after
 ankommen        -- to arrive
 beziehen        -- to cover                 # there are more senses
-spüren          -- to sense/notice
+spüren          -- to sense/notice
 spüren          -- to track
-erhöhen         -- to raise/increase
+erhöhen         -- to raise/increase
 melden          -- to register              # in rummy, we 'meld' to begin
 melden          -- to report (sth)
 vorkommen       -- to come forth
 vorkommen       -- to occur
 besitzen        -- to own/possess
 betonen         -- to stress/emphasise
-erfüllen        -- to fulfil/grant
+erfüllen        -- to fulfil/grant
 beteiligen sich -- to partake in
 beteiligen sich -- to share in
 merken          -- to mark/notice           # 'mark my words'
@@ -231,10 +231,10 @@ richten         -- to address (sb)
 umfassen        -- to comprise
 umfassen        -- to enclose
 schlafen        -- to sleep
-unterstützen    -- to support
-lächeln         -- to smile
-beschäftigen    -- to occupy/employ
-lösen           -- to solve
+unterstützen    -- to support
+lächeln         -- to smile
+beschäftigen    -- to occupy/employ
+lösen           -- to solve
 lösen           -- to loosen
 antworten       -- to answer
 trennen         -- to separate/sever
@@ -242,15 +242,15 @@ einstellen      -- to put away
 einstellen      -- to set up/prepare
 einstellen      -- to stop/cease
 lieben          -- to love
-durchführen     -- to carry through
-genügen         -- to suffice/be enough
+durchführen     -- to carry through
+genügen         -- to suffice/be enough
 
 aufbauen        -- to build up/erect
-bestätigen      -- to confirm/endorse
+bestätigen      -- to confirm/endorse
 untersuchen     -- to examine
 verkaufen       -- to sell
 blicken         -- to look/glance
-drücken         -- to press/push
+drücken         -- to press/push
 eingehen        -- to go into (history/heaven/matrimony/etc.)
 erlauben        -- to allow
 ausreichen      -- to suffice
@@ -258,7 +258,7 @@ schweigen       -- to remain silent
 behandeln       -- to treat/handle
 treiben         -- to drive (nail/animals/ball/etc.)
 treiben         -- to pursue (craft/study/hobby/etc.)
-überzeugen      -- to convince
+überzeugen      -- to convince
 benutzen        -- to use
 drohen          -- to threaten
 versprechen     -- to promise
@@ -268,21 +268,21 @@ reagieren       -- to react
 kosten          -- to cost
 verdienen       -- to earn
 drehen          -- to turn/shift/spin
-überraschen     -- to surprise
+überraschen     -- to surprise
 betreiben       -- to proceed with
 fliegen         -- to fly
 heben           -- to lift
 stoßen          -- to thrust/push/punch
 vertreten       -- to represent
 vertreten       -- to advocate
-ermöglichen     -- to enable
+ermöglichen     -- to enable
 herstellen      -- to make/produce
 leiden          -- to suffer
 schicken        -- to send
 wechseln        -- to swap/exchange
 liefern         -- to deliver
 zahlen          -- to pay
-benötigen       -- to require/need
+benötigen       -- to require/need
 stammen         -- to stem/come (from sth)
 verhindern      -- to prevent
 abschließen     -- to lock
@@ -291,8 +291,8 @@ reisen          -- to travel
 singen          -- to sing
 überlegen       -- to hold over (hold sth over sb)
 überlegen       -- to lay over/consider
-überlegen sich  -- to lean over
-erwähnen        -- to mention
+überlegen sich  -- to lean over
+erwähnen        -- to mention
 greifen         -- to grab
 verzichten      -- to do without
 aufgeben        -- to give up               # also has some other meanings
@@ -302,31 +302,31 @@ kochen          -- to cook
 angeben         -- to declare               # lit. to give on?
 angeben         -- to brag
 angeben         -- to serve (ball)
-begründen       -- to substantiate/justify
+begründen       -- to substantiate/justify
 einrichten      -- to furnish               # has also some more meanings
 festhalten      -- to hold
 festhalten      -- to detain
 geraten         -- to come into
 geraten         -- to turn out
-verfügen        -- to decree
-schützen        -- to protect
+verfügen        -- to decree
+schützen        -- to protect
 vorbereiten     -- to prepare
 wiederholen     -- to repeat                # wieder + holen?
-stören          -- to disturb
+stören          -- to disturb
 feiern          -- to celebrate
 vermitteln      -- to mediate
-berücksichtigen -- to consider
+berücksichtigen -- to consider
 ausschließen    -- to exclude/rule out
 diskutieren     -- to discuss
 funktionieren   -- to function/work
-gründen         -- to found/establish
+gründen         -- to found/establish
 herrschen       -- to reign/prevail         # used also for environments
 schieben        -- to push
 schieben        -- to slide
 behaupten       -- to assert/maintain
 erheben         -- to raise
 verfolgen       -- to pursue
-zurückkommen    -- to return
+zurückkommen    -- to return
 zwingen         -- to force
 ablehnen        -- to decline
 anwenden        -- to employ/apply
@@ -335,7 +335,7 @@ beeinflussen    -- to influence
 einfallen       -- to occur/remind          # lit. 'to fall on' like an apple?
 einfallen       -- to come in/invade
 existieren      -- to exist
-fördern         -- to promote/support
+fördern         -- to promote/support
 ansprechen      -- to address               # also some more meanings
 beachten        -- to heed/pay attention to
 empfinden       -- to feel
@@ -346,19 +346,19 @@ sichern         -- to secure
 wenden          -- to turn
 fassen          -- to grasp                 # also has some other meanings
 informieren     -- to inform
-kümmern         -- to concern
+kümmern         -- to concern
 nicken          -- to nod
 organisieren    -- to organize
-prägen          -- to emboss/mint/shape
+prägen          -- to emboss/mint/shape
 prägen          -- to coin (a word)
 sinken          -- to sink
 sinken          -- to fall/decrease
 vermeiden       -- to avoid
-ankündigen      -- to announce/herald
+ankündigen      -- to announce/herald
 aufstehen       -- to stand up
-verstärken      -- to strengthen/reinforce
+verstärken      -- to strengthen/reinforce
 vorsehen        -- to forsee/plan
-beschränken     -- to restrict/limit
+beschränken     -- to restrict/limit
 verletzen       -- to injure
 
 # verbs gathered randomly e.g. from class, but i remember them anyway
