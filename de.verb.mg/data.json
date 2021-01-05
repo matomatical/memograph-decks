@@ -1059,8 +1059,7 @@
     "lastTime": 1608756248,
     "lastResult": true
   },
-  "to connect/link,binden-[de.verb]-verbinden": {},
-  "to watch/look at,sehen-[de.verb]-ansehen": {},
+  "to look at/watch,sehen-[de.verb]-ansehen": {},
   "to lack-[de.verb]-fehlen": {
     "priorParams": [
       1.66128283657245,
@@ -1349,16 +1348,6 @@
     ],
     "numDrills": 5,
     "lastTime": 1608583956,
-    "lastResult": true
-  },
-  "to thank-[de.verb]-bitten": {
-    "priorParams": [
-      1.264523656450467,
-      0.9999999999999889,
-      1623539.4170187458
-    ],
-    "numDrills": 6,
-    "lastTime": 1608756298,
     "lastResult": true
   },
   "to please/appeal to-[de.verb]-gefallen": {
