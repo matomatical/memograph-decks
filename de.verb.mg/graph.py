@@ -127,7 +127,7 @@ möchten         -- to would like            # modal, actually K2P of mögen
 
 steigen         -- to climb/increase
 nutzen          -- to use
-schauen         -- to look
+schauen         -- to look (at)
 verlassen       -- to leave
 einsetzen       -- to insert
 ändern          -- to change
@@ -245,6 +245,121 @@ lieben          -- to love
 durchführen     -- to carry through
 genügen         -- to suffice/be enough
 
+aufbauen        -- to build up/erect
+bestätigen      -- to confirm/endorse
+untersuchen     -- to examine
+verkaufen       -- to sell
+blicken         -- to look/glance
+drücken         -- to press/push
+eingehen        -- to go into (history/heaven/matrimony/etc.)
+erlauben        -- to allow
+ausreichen      -- to suffice
+schweigen       -- to remain silent
+behandeln       -- to treat/handle
+treiben         -- to drive (nail/animals/ball/etc.)
+treiben         -- to pursue (craft/study/hobby/etc.)
+überzeugen      -- to convince
+benutzen        -- to use
+drohen          -- to threaten
+versprechen     -- to promise
+entdecken       -- to discover
+klingen         -- to klang/sound
+reagieren       -- to react
+kosten          -- to cost
+verdienen       -- to earn
+drehen          -- to turn/shift/spin
+überraschen     -- to surprise
+betreiben       -- to proceed with
+fliegen         -- to fly
+heben           -- to lift
+stoßen          -- to thrust/push/punch
+vertreten       -- to represent
+vertreten       -- to advocate
+ermöglichen     -- to enable
+herstellen      -- to make/produce
+leiden          -- to suffer
+schicken        -- to send
+wechseln        -- to swap/exchange
+liefern         -- to deliver
+zahlen          -- to pay
+benötigen       -- to require/need
+stammen         -- to stem/come (from sth)
+verhindern      -- to prevent
+abschließen     -- to lock
+abschließen     -- to conclude/end
+reisen          -- to travel
+singen          -- to sing
+überlegen       -- to hold over (hold sth over sb)
+überlegen       -- to lay over/consider
+überlegen sich  -- to lean over
+erwähnen        -- to mention
+greifen         -- to grab
+verzichten      -- to do without
+aufgeben        -- to give up               # also has some other meanings
+betragen        -- to come/amount to        # lit. to carry to?
+betragen sich   -- to behave                # lit. to carry oneself?
+kochen          -- to cook
+angeben         -- to declare               # lit. to give on?
+angeben         -- to brag
+angeben         -- to serve (ball)
+begründen       -- to substantiate/justify
+einrichten      -- to furnish               # has also some more meanings
+festhalten      -- to hold
+festhalten      -- to detain
+geraten         -- to come into
+geraten         -- to turn out
+verfügen        -- to decree
+schützen        -- to protect
+vorbereiten     -- to prepare
+wiederholen     -- to repeat                # wieder + holen?
+stören          -- to disturb
+feiern          -- to celebrate
+vermitteln      -- to mediate
+berücksichtigen -- to consider
+ausschließen    -- to exclude/rule out
+diskutieren     -- to discuss
+funktionieren   -- to function/work
+gründen         -- to found/establish
+herrschen       -- to reign/prevail         # used also for environments
+schieben        -- to push
+schieben        -- to slide
+behaupten       -- to assert/maintain
+erheben         -- to raise
+verfolgen       -- to pursue
+zurückkommen    -- to return
+zwingen         -- to force
+ablehnen        -- to decline
+anwenden        -- to employ/apply
+auftauchen      -- to turn up/emerge/surface
+beeinflussen    -- to influence
+einfallen       -- to occur/remind          # lit. 'to fall on' like an apple?
+einfallen       -- to come in/invade
+existieren      -- to exist
+fördern         -- to promote/support
+ansprechen      -- to address               # also some more meanings
+beachten        -- to heed/pay attention to
+empfinden       -- to feel
+entfernen       -- to remove
+entfernen sich  -- to leave
+schneiden       -- to cut
+sichern         -- to secure
+wenden          -- to turn
+fassen          -- to grasp                 # also has some other meanings
+informieren     -- to inform
+kümmern         -- to concern
+nicken          -- to nod
+organisieren    -- to organize
+prägen          -- to emboss/mint/shape
+prägen          -- to coin (a word)
+sinken          -- to sink
+sinken          -- to fall/decrease
+vermeiden       -- to avoid
+ankündigen      -- to announce/herald
+aufstehen       -- to stand up
+verstärken      -- to strengthen/reinforce
+vorsehen        -- to forsee/plan
+beschränken     -- to restrict/limit
+verletzen       -- to injure
 
 # verbs gathered randomly e.g. from class, but i remember them anyway
 servieren       -- to serve out
@@ -282,107 +397,4 @@ befehlen        -- to command               # emp + fehlen?
 empfehlen       -- to recommend             # emp + fehlen?
 füllen          -- to fill
 fassen          -- to grasp
-"""
-"""
-# TODO: UP TO HERE TRANSLATING
-aufbauen        -- to build up
-bestätigen      -- to confirm, endorse
-untersuchen     -- to examine
-verkaufen       -- to sell
-blicken         -- to look
-drücken         -- to press, push
-eingehen        -- to deal with, give attention
-erlauben        -- to allow, permit
-ausreichen      -- to be sufficient
-schweigen       -- to remain silent
-behandeln       -- to treat
-treiben         -- to drive, pursue
-überzeugen      -- to convince
-benutzen        -- to use
-drohen          -- to threaten
-versprechen     -- to promise
-entdecken       -- to discover
-klingen         -- to sound
-reagieren       -- to react
-kosten          -- to cost
-verdienen       -- to earn, deserve
-drehen          -- to turn
-überraschen     -- to surprise
-betreiben       -- proceed with, operate
-fliegen         -- to fly
-heben           -- to lift, raise
-stoßen          -- bump, push
-vertreten       -- to represent
-ermöglichen     -- to enable
-herstellen      -- to produce
-leiden          -- to suffer
-schicken        -- to send
-wechseln        -- to change
-liefern         -- to deliver, supply
-zahlen          -- to pay
-benötigen       -- to require
-stammen         -- to come (from), descend
-verhindern      -- to prevent
-abschließen     -- to lock, conclude
-reisen          -- to travel
-singen          -- to sing
-überlegen       -- to consider, think about
-erwähnen        -- to mention
-greifen         -- to take hold of, reach
-verzichten      -- to do without
-aufgeben        -- to give up
-betragen        -- to amount
-kochen          -- to cook
-angeben         -- to claim, declare, show off
-begründen       -- to justify
-einrichten      -- to furnish
-festhalten      -- to hold on to, detain
-geraten         -- to get into
-verfügen        -- to have sth at one’s disposal, be in charge
-schützen        -- to protect
-vorbereiten     -- to prepare
-wiederholen     -- to repeat                # wieder + holen?
-stören          -- to disturb, bother
-feiern          -- to celebrate
-vermitteln      -- to arrange, find sth for sb
-berücksichtigen -- to consider
-ausschließen    -- to exclude, rule out
-diskutieren     -- to discuss
-funktionieren   -- to function, work
-gründen         -- to establish, found
-herrschen       -- to rule
-schieben        -- to push
-behaupten       -- to claim
-erheben         -- to raise
-verfolgen       -- to pursue
-zurückkommen    -- to return
-zwingen         -- to force
-ablehnen        -- to refuse, reject, turn down
-anwenden        -- to apply, employ
-auftauchen      -- to surface, appear
-beeinflussen    -- to influence
-einfallen       -- to occur, remind, collapse
-existieren      -- to exist
-fördern         -- to promote, support
-ansprechen      -- to address, speak
-beachten        -- to pay attention, observe
-empfinden       -- to feel
-entfernen       -- to remove, leave
-schneiden       -- to cut
-sichern         -- to secure, safeguard
-wenden          -- to turn
-fassen          -- to grasp, hold
-informieren     -- to inform
-kümmern (sich)  -- to take care of, be concerned
-nicken          -- to nod
-organisieren    -- to organize
-prägen          -- to shape, mint
-sinken          -- to sink
-vermeiden       -- to avoid
-ankündigen      -- to announce
-aufstehen       -- to stand up, get up
-verstärken      -- to strengthen, reinforce
-vorsehen        -- to plan, provide for
-beschränken     -- to restrict
-verletzen       -- to injure
 """
