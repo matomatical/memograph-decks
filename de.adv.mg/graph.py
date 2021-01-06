@@ -101,7 +101,7 @@ insgesamt       -- in all/in total
 vorher          -- before                   # cf. früher?
 beispielsweise  -- for example
 meist           -- mostly
-trozdem         -- nevertheless
+trotzdem        -- nevertheless
 zudem           -- moreover
 leider          -- unfortunately
 mindestens      -- at least

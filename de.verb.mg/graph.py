@@ -141,7 +141,7 @@ kriegen         -- to receive               # see differences on stack exch.
 planen          -- to plan
 wirken          -- to work/take effect
 bezeichnen      -- to call/name
-befinden (sich) -- to be/find oneself       # 'i find myself ...?' modal?
+befinden sich   -- to be/find oneself       # 'i find myself ...?' modal?
 passieren       -- to pass/transpire
 rufen           -- to call
 aufnehmen       -- to take on (pick up, challenge, include)     # vielseitig!

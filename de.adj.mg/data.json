@@ -381,12 +381,12 @@
   },
   "individual-[de.adj]-einzeln": {
     "priorParams": [
-      1.3057596057890344,
-      1.9622049350220043,
+      1.9624635179296281,
+      1.9622049350219979,
       786071.1508742713
     ],
-    "numDrills": 10,
-    "lastTime": 1609445084,
+    "numDrills": 11,
+    "lastTime": 1609961300,
     "lastResult": true
   },
   "well-known-[de.adj]-bekannt": {
@@ -671,12 +671,12 @@
   },
   "similar-[de.adj]-\u00e4hnlich": {
     "priorParams": [
-      8.429220657230053,
-      4.578760735267612,
-      218707.3102002931
+      2.554766205036926,
+      4.884923037946263,
+      670382.7780562623
     ],
-    "numDrills": 28,
-    "lastTime": 1609618678,
+    "numDrills": 29,
+    "lastTime": 1609961262,
     "lastResult": true
   },
   "frequent-[de.adj]-h\u00e4ufig": {
@@ -701,12 +701,12 @@
   },
   "complete-[de.adj]-v\u00f6llig": {
     "priorParams": [
-      11.015518047153524,
-      7.775055678385094,
+      12.15548306778551,
+      7.775055678385488,
       152534.50487779093
     ],
-    "numDrills": 34,
-    "lastTime": 1609787406,
+    "numDrills": 35,
+    "lastTime": 1609961290,
     "lastResult": true
   },
   "low-[de.adj]-gering": {
@@ -891,12 +891,12 @@
   },
   "special/particular-[de.adj]-speziell": {
     "priorParams": [
-      1.3512678770754778,
-      1.9971692016530895,
+      1.9669157060867775,
+      1.9971692016530904,
       974092.6090214391
     ],
-    "numDrills": 8,
-    "lastTime": 1609361608,
+    "numDrills": 9,
+    "lastTime": 1609961306,
     "lastResult": true
   },
   "decisive-[de.adj]-entscheidend": {
