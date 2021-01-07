@@ -20,9 +20,9 @@ art.der --
     -- jeder            -- every/each
     -- solcher          -- such a
     -- welcher          -- which
-    -- sämtliche (plu)  -- every/entire
-    -- alle (plu)       -- all
-    -- beider           -- both
+    -- sämtliche        -- every/entire     # not used in singular
+    -- alle             -- all              # not used in singular
+    -- beider           -- both             # see usage notes
 art.ein --
     -- ein              -- an               # indefinite article
     -- kein             -- no               # negative article
@@ -32,10 +32,10 @@ art.ein --
     -- sein             -- its (n)
     -- ihr              -- her/its (f)
     -- unser            -- our
-    -- euer             -- your (singular)
+    -- euer             -- your (plural)
     -- ihr              -- their
     -- Ihr              -- your (formal)
-    -- irgendein        -- someone's (?)
+    -- irgendein        -- someone's        # note it's irgend + ein!!
 
 # pronouns
 # TODO
