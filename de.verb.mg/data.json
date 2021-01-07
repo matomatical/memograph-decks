@@ -1762,12 +1762,12 @@
   "to look-[de.verb]-schauen": {},
   "to leave-[de.verb]-verlassen": {
     "priorParams": [
-      1.5855185666989098,
-      2.866766724522565,
+      2.2685715652922007,
+      2.8667667245225776,
       38140.52504513268
     ],
-    "numDrills": 6,
-    "lastTime": 1609960711,
+    "numDrills": 7,
+    "lastTime": 1609986763,
     "lastResult": true
   },
   "to insert-[de.verb]-einsetzen": {
@@ -1802,22 +1802,22 @@
   },
   "to assume-[de.verb]-ausgehen": {
     "priorParams": [
-      2.657945260787283,
-      3.4318276070209217,
+      3.3638348616289213,
+      3.431827607020904,
       38140.52504513268
     ],
-    "numDrills": 5,
-    "lastTime": 1609960656,
+    "numDrills": 6,
+    "lastTime": 1609987579,
     "lastResult": true
   },
   "to happen-[de.verb]-geschehen": {
     "priorParams": [
-      2.2806709811992705,
-      3.2911581661595366,
+      4.383048102801379,
+      3.2911581661595317,
       12443.057780263867
     ],
-    "numDrills": 7,
-    "lastTime": 1609960590,
+    "numDrills": 8,
+    "lastTime": 1609986750,
     "lastResult": true
   },
   "to describe-[de.verb]-beschreiben": {
@@ -1832,12 +1832,12 @@
   },
   "to take on/accept-[de.verb]-annehmen": {
     "priorParams": [
-      2.656802244674258,
-      3.4374693794159854,
+      3.3627180643474746,
+      3.4374693794160254,
       38140.52504513268
     ],
-    "numDrills": 5,
-    "lastTime": 1609960660,
+    "numDrills": 6,
+    "lastTime": 1609987584,
     "lastResult": true
   },
   "to receive-[de.verb]-kriegen": {
@@ -1872,22 +1872,22 @@
   },
   "to call/name-[de.verb]-bezeichnen": {
     "priorParams": [
-      2.300087806746857,
-      2.2139600251447296,
+      2.5421735956611786,
+      3.2379181893145086,
       33823.737854557214
     ],
-    "numDrills": 6,
-    "lastTime": 1609960611,
+    "numDrills": 8,
+    "lastTime": 1609997484,
     "lastResult": true
   },
   "to be/find oneself-[de.verb]-befinden sich": {
     "priorParams": [
-      1.5163666039901293,
-      2.885260908778676,
+      2.373661023074429,
+      2.8852609087786796,
       29995.52945587477
     ],
-    "numDrills": 6,
-    "lastTime": 1609961060,
+    "numDrills": 7,
+    "lastTime": 1609986775,
     "lastResult": true
   },
   "to call-[de.verb]-rufen": {
@@ -1942,12 +1942,12 @@
   },
   "to gain/increase-[de.verb]-zunehmen": {
     "priorParams": [
-      1.1143798762458736,
-      1.5445678245996808,
+      1.9865431777300047,
+      1.5445678245996857,
       29995.52945587477
     ],
-    "numDrills": 6,
-    "lastTime": 1609960585,
+    "numDrills": 7,
+    "lastTime": 1609986746,
     "lastResult": true
   },
   "to decide/determine/define-[de.verb]-bestimmen": {
@@ -1962,63 +1962,63 @@
   },
   "to demand-[de.verb]-fordern": {
     "priorParams": [
-      1.2181815311428954,
-      0.9999999999999912,
-      29995.52945587477
+      0.6910409569390431,
+      0.9999999999999898,
+      91942.4519806052
     ],
-    "numDrills": 2,
-    "lastTime": 1609960594,
+    "numDrills": 3,
+    "lastTime": 1609987590,
     "lastResult": true
   },
   "to hit/strike-[de.verb]-schlagen": {
     "priorParams": [
-      1.2179815013348434,
-      0.9999999999999979,
-      29995.52945587477
+      0.6911062151507974,
+      0.9999999999999989,
+      91942.4519806052
     ],
-    "numDrills": 2,
-    "lastTime": 1609960579,
+    "numDrills": 3,
+    "lastTime": 1609987587,
     "lastResult": true
   },
   "to take over-[de.verb]-\u00fcbernehmen": {
     "priorParams": [
-      1.2176481183213954,
-      0.9999999999999973,
-      29995.52945587477
+      0.6912911134174239,
+      1.0000000000000067,
+      91942.4519806052
     ],
-    "numDrills": 2,
-    "lastTime": 1609960575,
+    "numDrills": 3,
+    "lastTime": 1609987610,
     "lastResult": true
   },
   "to take on/accept-[de.verb]-\u00fcbernehmen": {
     "priorParams": [
-      1.2663792921925692,
-      1.353786408450332,
-      3600
+      0.9159546925442515,
+      1.3788535856635389,
+      29995.52945587477
     ],
-    "numDrills": 3,
-    "lastTime": 1609961046,
+    "numDrills": 4,
+    "lastTime": 1609986771,
     "lastResult": true
   },
   "to overdo/take on too much-[de.verb]-\u00fcbernehmen sich": {
     "priorParams": [
-      1.2182148694442612,
-      0.9999999999999997,
-      29995.52945587477
+      0.7979882896257405,
+      1.0000000000000007,
+      91942.4519806052
     ],
-    "numDrills": 2,
-    "lastTime": 1609960600,
+    "numDrills": 3,
+    "lastTime": 1609997428,
     "lastResult": true
   },
   "to change-[de.verb]-ver\u00e4ndern": {
     "priorParams": [
-      2.5968448894641614,
-      2.339505154347035,
-      1493.3894757499138
+      2.8607250613865043,
+      2.5069280062267634,
+      4577.545142667438
     ],
-    "numDrills": 3,
-    "lastTime": 1609961057,
-    "lastResult": false
+    "numDrills": 6,
+    "lastTime": 1609997419,
+    "lastResult": true
   },
   "to use-[de.verb]-verwenden": {},
   "to choose/select/vote-[de.verb]-w\u00e4hlen": {},
