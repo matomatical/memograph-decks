@@ -31,12 +31,12 @@
   },
   "Mal-[de.noun.gender]-das": {
     "priorParams": [
-      4.351061964234011,
-      6.448442633624525,
+      5.1905827699615426,
+      6.448442633624552,
       414631.77282229677
     ],
-    "numDrills": 24,
-    "lastTime": 1609787805,
+    "numDrills": 25,
+    "lastTime": 1610135897,
     "lastResult": true
   },
   "the example-[de.noun.en]-Beispiel": {
@@ -51,12 +51,12 @@
   },
   "Beispiel-[de.noun.gender]-das": {
     "priorParams": [
-      6.233602798097402,
-      3.666902785431705,
-      367703.28603280237
+      2.054101379469806,
+      3.8911194917606715,
+      1127086.013564608
     ],
-    "numDrills": 22,
-    "lastTime": 1609529274,
+    "numDrills": 23,
+    "lastTime": 1610135808,
     "lastResult": true
   },
   "the time-[de.noun.en]-Zeit": {
@@ -861,12 +861,12 @@
   },
   "Gesellschaft-[de.noun.gender]-die": {
     "priorParams": [
-      5.233523977041549,
-      2.9779071834429494,
-      404083.2363106646
+      1.873732171544987,
+      3.121134271475179,
+      1238598.025259539
     ],
-    "numDrills": 14,
-    "lastTime": 1609444943,
+    "numDrills": 15,
+    "lastTime": 1610135900,
     "lastResult": true
   },
   "the head-[de.noun.en]-Kopf": {
@@ -1641,12 +1641,12 @@
   },
   "Wert-[de.noun.gender]-der": {
     "priorParams": [
-      4.330446794675152,
-      4.8773840284097645,
+      5.301210896026527,
+      4.877384028409772,
       358348.6446560392
     ],
-    "numDrills": 16,
-    "lastTime": 1609788040,
+    "numDrills": 17,
+    "lastTime": 1610135912,
     "lastResult": true
   },
   "the face-[de.noun.en]-Gesicht": {
@@ -1791,12 +1791,12 @@
   },
   "Interesse-[de.noun.gender]-das": {
     "priorParams": [
-      5.6207480653697095,
-      3.2367657818912337,
-      367703.2860328025
+      1.9332890555499211,
+      3.409803865779512,
+      1127086.0135646083
     ],
-    "numDrills": 22,
-    "lastTime": 1609529259,
+    "numDrills": 23,
+    "lastTime": 1610135905,
     "lastResult": true
   },
   "the billion-[de.noun.en]-Milliarde": {
@@ -2031,13 +2031,13 @@
   },
   "St\u00fcck-[de.noun.gender]-das": {
     "priorParams": [
-      4.301768742285921,
-      8.149450274898594,
-      353609.21136191546
+      13.163202655542168,
+      8.377647446144689,
+      146687.85410447538
     ],
-    "numDrills": 31,
-    "lastTime": 1609787410,
-    "lastResult": true
+    "numDrills": 32,
+    "lastTime": 1610135910,
+    "lastResult": false
   },
   "the apartment-[de.noun.en]-Wohnung": {
     "priorParams": [

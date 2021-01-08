@@ -50,7 +50,7 @@ conj.coo --
     -- sowohl - als             -- both - and
     -- weder* - noch*           -- neither - nor
     -- entweder* - oder         -- either - or
-    -- nich nur* - sondern auch -- not only - but also
+    -- nicht nur* - sondern auch -- not only - but also
 conj.sub --
     -- dass             -- that
     -- als              -- when/as
