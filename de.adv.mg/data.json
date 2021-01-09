@@ -141,22 +141,22 @@
   },
   "actually-[de.adv]-eigentlich": {
     "priorParams": [
-      5.9924640844920205,
-      4.264005247183446,
+      7.455523214482329,
+      4.264005247183463,
       152534.50487779095
     ],
-    "numDrills": 37,
-    "lastTime": 1609961108,
+    "numDrills": 38,
+    "lastTime": 1610184275,
     "lastResult": true
   },
   "above/up-[de.adv]-oben": {
     "priorParams": [
-      2.4276735857938636,
-      2.313433800108899,
+      3.505966913758922,
+      2.3134338001088968,
       367703.28603280237
     ],
-    "numDrills": 15,
-    "lastTime": 1609787874,
+    "numDrills": 16,
+    "lastTime": 1610184366,
     "lastResult": true
   },
   "now-[de.adv]-nun": {
@@ -191,12 +191,12 @@
   },
   "just/exactly-[de.adv]-eben": {
     "priorParams": [
-      2.4328364929605506,
-      2.2898266311903983,
+      3.5107599574917865,
+      2.289826631190393,
       367703.28603280237
     ],
-    "numDrills": 18,
-    "lastTime": 1609787968,
+    "numDrills": 19,
+    "lastTime": 1610184324,
     "lastResult": true
   },
   "first-[de.adv]-erst": {
@@ -351,12 +351,12 @@
   },
   "though-[de.adv]-allerdings": {
     "priorParams": [
-      2.297805976013283,
-      2.25250732464602,
+      3.404867509288501,
+      2.252507324646037,
       358348.6446560393
     ],
-    "numDrills": 13,
-    "lastTime": 1609787625,
+    "numDrills": 14,
+    "lastTime": 1610184339,
     "lastResult": true
   },
   "certainly-[de.adv]-allerdings": {
@@ -441,23 +441,23 @@
   },
   "hardly/barely-[de.adv]-kaum": {
     "priorParams": [
-      2.2969327364144023,
-      2.255815543697346,
+      3.403821253826599,
+      2.255815543697335,
       358348.6446560393
     ],
-    "numDrills": 13,
-    "lastTime": 1609787631,
+    "numDrills": 14,
+    "lastTime": 1610184283,
     "lastResult": true
   },
   "therefore-[de.adv]-deshalb": {
     "priorParams": [
-      2.297114933905831,
-      2.2556336931756866,
+      2.320307262717763,
+      3.241905282072128,
       358348.6446560393
     ],
-    "numDrills": 13,
-    "lastTime": 1609787652,
-    "lastResult": true
+    "numDrills": 14,
+    "lastTime": 1610184358,
+    "lastResult": false
   },
   "even/indeed-[de.adv]-sogar": {
     "priorParams": [
@@ -511,12 +511,12 @@
   },
   "earlier-[de.adv]-eher": {
     "priorParams": [
-      1.5282425544512173,
-      2.9792257767577532,
+      2.150669912071304,
+      2.979225776757746,
       358348.6446560392
     ],
-    "numDrills": 11,
-    "lastTime": 1609961247,
+    "numDrills": 12,
+    "lastTime": 1610184293,
     "lastResult": true
   },
   "rather/more-[de.adv]-eher": {
@@ -541,12 +541,12 @@
   },
   "formerly-[de.adv]-fr\u00fcher": {
     "priorParams": [
-      1.660039601456115,
-      3.1067841380671237,
+      2.362342246652809,
+      3.1067841380671246,
       317790.34512605733
     ],
-    "numDrills": 9,
-    "lastTime": 1609961092,
+    "numDrills": 10,
+    "lastTime": 1610184277,
     "lastResult": true
   },
   "firstly-[de.adv]-zun\u00e4chst": {
@@ -561,12 +561,12 @@
   },
   "for now-[de.adv]-zun\u00e4chst": {
     "priorParams": [
-      5.362516384964949,
-      2.847448468609475,
-      103676.69615807125
+      2.06994481493034,
+      2.9596894337941495,
+      317790.34512605733
     ],
-    "numDrills": 10,
-    "lastTime": 1609961104,
+    "numDrills": 11,
+    "lastTime": 1610184266,
     "lastResult": true
   },
   "somehow-[de.adv]-irgendwie": {
@@ -581,12 +581,12 @@
   },
   "until now/hitherto-[de.adv]-bisher": {
     "priorParams": [
-      2.55693612995191,
-      2.08374339623899,
+      3.7641589088262224,
+      2.083743396239,
       256449.76670228865
     ],
-    "numDrills": 10,
-    "lastTime": 1609874777,
+    "numDrills": 11,
+    "lastTime": 1610184369,
     "lastResult": true
   },
   "sometimes-[de.adv]-manchmal": {
@@ -851,12 +851,12 @@
   },
   "nevertheless-[de.adv]-trotzdem": {
     "priorParams": [
-      5.510088681423832,
-      3.503425873802025,
-      103676.69615807125
+      1.9065907841005463,
+      3.7204780961884,
+      317790.34512605733
     ],
-    "numDrills": 12,
-    "lastTime": 1609997395,
+    "numDrills": 13,
+    "lastTime": 1610184281,
     "lastResult": true
   },
   "moreover-[de.adv]-zudem": {
