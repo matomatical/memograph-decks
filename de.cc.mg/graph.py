@@ -9,7 +9,8 @@ def graph():
                 "de." + topic,
             )
 
-LINKS = """topic -- de -- en            # notes (ignored)
+LINKS = """topic -- de  -- en               # notes (ignored)
+# articles
 art.der --
     -- der              -- the              # definite article
     -- dieser           -- this/these       # demonstrative article close
@@ -37,8 +38,6 @@ art.ein --
     -- Ihr              -- your (formal)
     -- irgendein        -- someone's        # note it's irgend + ein!!
 
-# pronouns
-# TODO
 
 # coordinating conjunctions
 conj.coo --
@@ -47,9 +46,9 @@ conj.coo --
     -- aber             -- but/however
     -- denn             -- because/since
     -- sondern          -- but (on the contrary)    # negative main clause
-    -- sowohl - als             -- both - and
-    -- weder* - noch*           -- neither - nor
-    -- entweder* - oder         -- either - or
+    -- sowohl - als     -- both - and
+    -- weder* - noch*   -- neither - nor
+    -- entweder* - oder -- either - or
     -- nicht nur* - sondern auch -- not only - but also
 conj.sub --
     -- dass             -- that
@@ -64,7 +63,7 @@ conj.sub --
     -- seit             -- since
     -- nachdem          -- after
     -- bevor            -- before
-    -- indem            -- while
+    -- indem            -- while/during
     -- um (zu)          -- in order (to)
     -- ohne (zu)        -- without (to)
     -- zumal            -- especially since
@@ -76,7 +75,8 @@ conj.sub --
     -- sofern           -- provided that
     -- umso             -- all the
     -- während          -- while/during
-    # TODO: classify DESTO and BEZEIHUNGSWEISE
+    # TODO: classify JE - DESTO and BEZEIHUNGSWEISE
+
 
 prep.akk --
     -- für              -- for
@@ -116,7 +116,7 @@ prep.wex --
     -- neben            -- next to/beside
     -- hinter           -- behind
 prep.gen --
-    -- während          -- during
+    -- während          -- while/during
     -- wegen            -- because (of)         # also dat
     -- innerhalb        -- inside (of)
     -- aufgrund         -- on grounds (of)
