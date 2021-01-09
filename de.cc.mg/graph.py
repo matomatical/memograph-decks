@@ -52,15 +52,15 @@ conj.coo --
     -- nicht nur* - sondern auch -- not only - but also
 conj.sub --
     -- dass             -- that
-    -- als              -- when/as
+    -- als              -- as/when
     -- wenn             -- when/if
     -- weil             -- because
     -- ob               -- if
     -- obwohl           -- although
     -- falls            -- in case/if
-    -- da               -- since/as
+    -- da               -- since/because
     -- damit            -- so that
-    -- seit             -- since
+    -- seit             -- since (time)
     -- nachdem          -- after
     -- bevor            -- before
     -- indem            -- while/during

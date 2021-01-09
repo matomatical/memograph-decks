@@ -144,8 +144,9 @@ bezeichnen      -- to call/name
 befinden sich   -- to be/find oneself       # 'i find myself ...?' modal?
 passieren       -- to pass/transpire
 rufen           -- to call
-aufnehmen       -- to take on (pick up, challenge, include)     # vielseitig!
-aufnehmen       -- to take in (admit, receive, absorb, record)  # verwendbar!
+aufnehmen       -- to take on/challenge
+aufnehmen       -- to take up               # pick up, absorb, record, etc.
+aufnehmen       -- to take in               # admit, receive, include, etc.
 zunehmen        -- to gain/increase
 bestimmen       -- to decide/determine/define
 fordern         -- to demand
