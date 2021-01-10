@@ -291,12 +291,12 @@
   },
   "both - and-[de.conj.coo]-sowohl - als": {
     "priorParams": [
-      3.5130509384585555,
-      1.9672590843107431,
-      34706.70181261748
+      1.8298633541275138,
+      2.010426836557621,
+      106383.1618476996
     ],
-    "numDrills": 6,
-    "lastTime": 1610220030,
+    "numDrills": 7,
+    "lastTime": 1610314817,
     "lastResult": true
   },
   "neither - nor-[de.conj.coo]-weder* - noch*": {
@@ -361,12 +361,12 @@
   },
   "because-[de.conj.sub]-weil": {
     "priorParams": [
-      3.7181777304233194,
-      1.9670469583287988,
-      33823.737854557214
+      1.9173382417165687,
+      2.00774956747563,
+      103676.69615807125
     ],
-    "numDrills": 4,
-    "lastTime": 1610220033,
+    "numDrills": 5,
+    "lastTime": 1610314845,
     "lastResult": true
   },
   "if-[de.conj.sub]-ob": {
@@ -651,13 +651,13 @@
   },
   "contrary to/against-[de.prep.akk]-wider": {
     "priorParams": [
-      1.1237139605667807,
-      1.1513488774592777,
+      1.226217858194659,
+      2.0118697816682984,
       3600
     ],
-    "numDrills": 2,
-    "lastTime": 1610308076,
-    "lastResult": true
+    "numDrills": 3,
+    "lastTime": 1610314841,
+    "lastResult": false
   },
   "per-[de.prep.akk]-pro": {
     "priorParams": [

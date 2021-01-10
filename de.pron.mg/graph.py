@@ -62,8 +62,8 @@ possessive --
     -- seiner           -- his/its (m)
     -- seiner           -- its (n)
     -- ihrer            -- hers/its (f)
-    -- unser            -- ours
-    -- euer             -- yours (plural)
+    -- unserer          -- ours                     # pronounced 'unsrer'
+    -- euerer           -- yours (plural)           # pronounced 'eurer'
     -- ihrer            -- theirs
     -- Ihrer            -- yours (formal)
 possessive.wegen --
