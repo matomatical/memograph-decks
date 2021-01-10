@@ -1762,12 +1762,12 @@
   "to look-[de.verb]-schauen": {},
   "to leave-[de.verb]-verlassen": {
     "priorParams": [
-      2.3739727487853397,
-      3.015839616186753,
+      3.1289048016171117,
+      3.015839616186736,
       116908.53457465378
     ],
-    "numDrills": 11,
-    "lastTime": 1610219536,
+    "numDrills": 12,
+    "lastTime": 1610307794,
     "lastResult": true
   },
   "to insert-[de.verb]-einsetzen": {
@@ -1782,12 +1782,12 @@
   },
   "to wax/grow-[de.verb]-wachsen": {
     "priorParams": [
-      2.8980798151115073,
-      1.9423578420040617,
+      3.854558548336435,
+      1.9423578420040724,
       91942.4519806052
     ],
-    "numDrills": 8,
-    "lastTime": 1610219875,
+    "numDrills": 9,
+    "lastTime": 1610307816,
     "lastResult": true
   },
   "to go out-[de.verb]-ausgehen": {
@@ -1802,22 +1802,22 @@
   },
   "to assume-[de.verb]-ausgehen": {
     "priorParams": [
-      2.6149135414487024,
-      3.638770650785183,
+      3.369588983417103,
+      3.6387706507852187,
       116908.53457465378
     ],
-    "numDrills": 10,
-    "lastTime": 1610219571,
+    "numDrills": 11,
+    "lastTime": 1610307799,
     "lastResult": true
   },
   "to happen-[de.verb]-geschehen": {
     "priorParams": [
-      1.8285856266866722,
-      3.6270506442553416,
+      2.5839368105954152,
+      3.6270506442553496,
       116908.53457465378
     ],
-    "numDrills": 12,
-    "lastTime": 1610219473,
+    "numDrills": 13,
+    "lastTime": 1610307780,
     "lastResult": true
   },
   "to describe-[de.verb]-beschreiben": {
@@ -1832,12 +1832,12 @@
   },
   "to take on/accept-[de.verb]-annehmen": {
     "priorParams": [
-      2.6135601054755133,
-      3.645481856884255,
+      3.3683381917892636,
+      3.645481856884266,
       116908.53457465378
     ],
-    "numDrills": 10,
-    "lastTime": 1610219551,
+    "numDrills": 11,
+    "lastTime": 1610307791,
     "lastResult": true
   },
   "to receive-[de.verb]-kriegen": {
@@ -1872,22 +1872,22 @@
   },
   "to call/name-[de.verb]-bezeichnen": {
     "priorParams": [
-      2.5489238106952223,
-      3.434856547538175,
+      3.400069760267721,
+      3.434856547538181,
       103676.69615807125
     ],
-    "numDrills": 12,
-    "lastTime": 1610219540,
+    "numDrills": 13,
+    "lastTime": 1610307784,
     "lastResult": true
   },
   "to be/find oneself-[de.verb]-befinden sich": {
     "priorParams": [
-      2.921756835464263,
-      3.006170266664641,
+      3.88161811933142,
+      3.0061702666646255,
       91942.4519806052
     ],
-    "numDrills": 12,
-    "lastTime": 1610219568,
+    "numDrills": 13,
+    "lastTime": 1610307820,
     "lastResult": true
   },
   "to call-[de.verb]-rufen": {
@@ -1992,42 +1992,42 @@
   },
   "to change-[de.verb]-ver\u00e4ndern": {
     "priorParams": [
-      1.563307416430496,
-      2.7774558788471326,
+      2.318855335334556,
+      2.777455878847162,
       116908.53457465376
     ],
-    "numDrills": 11,
-    "lastTime": 1610219458,
+    "numDrills": 12,
+    "lastTime": 1610307788,
     "lastResult": true
   },
   "to use-[de.verb]-verwenden": {
     "priorParams": [
-      1.4966561520354975,
-      2.449892128581502,
+      3.4980850515388053,
+      2.4498921285815194,
       44130.97063898732
     ],
-    "numDrills": 12,
-    "lastTime": 1610219478,
+    "numDrills": 13,
+    "lastTime": 1610307803,
     "lastResult": true
   },
   "to choose/select/vote-[de.verb]-w\u00e4hlen": {
     "priorParams": [
-      5.574169144023505,
-      4.249906779621303,
-      12767.882067729606
+      3.363679174787812,
+      4.428019498828375,
+      39136.17813058284
     ],
-    "numDrills": 12,
-    "lastTime": 1610219462,
+    "numDrills": 13,
+    "lastTime": 1610307797,
     "lastResult": true
   },
   "to occur-[de.verb]-erfolgen": {
     "priorParams": [
-      1.5714848338869523,
-      2.2148993554542042,
+      3.5733216102110092,
+      2.2148993554542264,
       44130.970638987324
     ],
-    "numDrills": 11,
-    "lastTime": 1610219467,
+    "numDrills": 12,
+    "lastTime": 1610307810,
     "lastResult": true
   },
   "to hold in/contain-[de.verb]-enthalten": {
@@ -2042,12 +2042,12 @@
   },
   "to look at/watch-[de.verb]-betrachten": {
     "priorParams": [
-      3.669386734976938,
-      1.9669917532795158,
-      33823.737854557214
+      1.8414260304810703,
+      2.0098035611707634,
+      103676.69615807125
     ],
-    "numDrills": 5,
-    "lastTime": 1610219454,
+    "numDrills": 6,
+    "lastTime": 1610307777,
     "lastResult": true
   },
   "to look at/consider-[de.verb]-betrachten": {
