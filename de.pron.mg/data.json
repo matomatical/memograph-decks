@@ -161,12 +161,12 @@
   },
   "one-[de.pron.personal.akk]-einen": {
     "priorParams": [
-      2.8173771285461973,
-      2.8350585628143663,
+      4.894908940388095,
+      2.8350585628144476,
       43008.24636749588
     ],
-    "numDrills": 5,
-    "lastTime": 1610392293,
+    "numDrills": 6,
+    "lastTime": 1610481644,
     "lastResult": true
   },
   "us-[de.pron.personal.akk]-uns": {
@@ -181,12 +181,12 @@
   },
   "you (plural)-[de.pron.personal.akk]-euch": {
     "priorParams": [
-      4.884599945160862,
-      3.265737327289526,
-      38140.52504513268
+      1.916199961132506,
+      3.44481896030509,
+      116908.53457465378
     ],
-    "numDrills": 6,
-    "lastTime": 1610392230,
+    "numDrills": 7,
+    "lastTime": 1610481629,
     "lastResult": true
   },
   "them-[de.pron.personal.akk]-sie": {
@@ -401,12 +401,12 @@
   },
   "(to) themselves-[de.pron.reflexive]-sich": {
     "priorParams": [
-      2.380348763865442,
-      2.247393527087483,
-      29995.52945587477
+      1.5055127513390478,
+      2.330061694943082,
+      91942.4519806052
     ],
-    "numDrills": 4,
-    "lastTime": 1610392152,
+    "numDrills": 5,
+    "lastTime": 1610481611,
     "lastResult": true
   },
   "(to) yourself (formal)-[de.pron.reflexive]-sich": {
@@ -811,12 +811,12 @@
   },
   "that/those-[de.pron.demonstrative]-jener": {
     "priorParams": [
-      4.89011782587064,
-      3.2616873588378117,
-      38140.52504513268
+      1.917874276519522,
+      3.439992077990236,
+      116908.53457465378
     ],
-    "numDrills": 7,
-    "lastTime": 1610392277,
+    "numDrills": 8,
+    "lastTime": 1610481600,
     "lastResult": true
   },
   "the same one-[de.pron.demonstrative]-derselbe": {
@@ -831,12 +831,12 @@
   },
   "the one-[de.pron.demonstrative]-derjenige": {
     "priorParams": [
-      2.4163372567282737,
-      1.9968688239549124,
+      2.6896150108435415,
+      2.757010313812834,
       29995.52945587477
     ],
-    "numDrills": 4,
-    "lastTime": 1610392148,
+    "numDrills": 6,
+    "lastTime": 1610482808,
     "lastResult": true
   },
   "something-[de.pron.indefinite]-etwas": {
@@ -881,12 +881,12 @@
   },
   "someone-[de.pron.indefinite]-jemand": {
     "priorParams": [
-      3.4856211282070215,
-      2.9607585075928395,
-      12443.057780263867
+      3.0288573965867265,
+      3.0374091618286565,
+      38140.52504513268
     ],
-    "numDrills": 6,
-    "lastTime": 1610392297,
+    "numDrills": 7,
+    "lastTime": 1610481607,
     "lastResult": true
   },
   "someone or other-[de.pron.indefinite]-irgendjemand": {

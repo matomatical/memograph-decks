@@ -141,12 +141,12 @@
   },
   "actually-[de.adv]-eigentlich": {
     "priorParams": [
-      7.455523214482329,
-      4.264005247183463,
-      152534.50487779095
+      2.425711203786392,
+      4.535745979487254,
+      467549.5530339751
     ],
-    "numDrills": 38,
-    "lastTime": 1610184275,
+    "numDrills": 39,
+    "lastTime": 1610482723,
     "lastResult": true
   },
   "above/up-[de.adv]-oben": {
@@ -161,13 +161,13 @@
   },
   "now-[de.adv]-nun": {
     "priorParams": [
-      2.001296000657225,
-      1.9158278931884791,
+      3.06554827845269,
+      1.915827893188473,
       326086.21775173873
     ],
-    "numDrills": 12,
-    "lastTime": 1610135824,
-    "lastResult": false
+    "numDrills": 13,
+    "lastTime": 1610482862,
+    "lastResult": true
   },
   "today-[de.adv]-heute": {
     "priorParams": [
@@ -231,13 +231,13 @@
   },
   "there-[de.adv]-dort": {
     "priorParams": [
-      1.975649004046143,
-      2.079892769182111,
+      2.943510903825097,
+      2.079892769182124,
       358348.64465603925
     ],
-    "numDrills": 13,
-    "lastTime": 1610135998,
-    "lastResult": false
+    "numDrills": 14,
+    "lastTime": 1610482830,
+    "lastResult": true
   },
   "once-[de.adv]-einmal": {
     "priorParams": [
@@ -261,22 +261,22 @@
   },
   "already-[de.adv]-bereits": {
     "priorParams": [
-      1.975597092092327,
-      2.0799590922057187,
+      2.943894322107132,
+      2.079959092205724,
       358348.64465603925
     ],
-    "numDrills": 12,
-    "lastTime": 1610135893,
-    "lastResult": false
+    "numDrills": 13,
+    "lastTime": 1610482881,
+    "lastResult": true
   },
   "about/approx-[de.adv]-etwa": {
     "priorParams": [
-      2.9245436362367503,
-      2.1273584926598588,
-      326086.2177517387
+      1.407566406502652,
+      2.202871774999088,
+      999521.1606876453
     ],
-    "numDrills": 13,
-    "lastTime": 1609811593,
+    "numDrills": 14,
+    "lastTime": 1610482688,
     "lastResult": true
   },
   "just/exactly-[de.adv]-gerade": {
@@ -301,22 +301,22 @@
   },
   "to be precise-[de.adv]-zwar": {
     "priorParams": [
-      0.8997263554802472,
-      1.0000000000000318,
-      766072.9240637764
+      0.6996940250177657,
+      1.0000000000000342,
+      2348170.6878349707
     ],
-    "numDrills": 9,
-    "lastTime": 1609529018,
+    "numDrills": 10,
+    "lastTime": 1610482763,
     "lastResult": true
   },
   "really/actually-[de.adv]-wirklich": {
     "priorParams": [
-      0.8997537680141766,
-      0.9999999999998491,
-      766072.9240637764
+      0.6996918957007063,
+      0.9999999999998407,
+      2348170.6878349707
     ],
-    "numDrills": 9,
-    "lastTime": 1609529025,
+    "numDrills": 10,
+    "lastTime": 1610482744,
     "lastResult": true
   },
   "however-[de.adv]-jedoch": {
@@ -331,22 +331,22 @@
   },
   "never-[de.adv]-nie": {
     "priorParams": [
-      0.8996845840000254,
-      1.0000000000000344,
-      766072.9240637764
+      0.6997038198764216,
+      1.0000000000000282,
+      2348170.6878349707
     ],
-    "numDrills": 9,
-    "lastTime": 1609528982,
+    "numDrills": 10,
+    "lastTime": 1610482782,
     "lastResult": true
   },
   "often-[de.adv]-oft": {
     "priorParams": [
-      0.7977797183826324,
-      0.9999999999999825,
+      1.9017907535509548,
+      0.9999999999999835,
       863843.7204158901
     ],
-    "numDrills": 8,
-    "lastTime": 1609529027,
+    "numDrills": 9,
+    "lastTime": 1610482720,
     "lastResult": true
   },
   "though-[de.adv]-allerdings": {
@@ -361,82 +361,82 @@
   },
   "certainly-[de.adv]-allerdings": {
     "priorParams": [
-      2.868943034984327,
-      3.7751421709107764,
+      3.8369444636850916,
+      3.7751421709108484,
       358348.6446560393
     ],
-    "numDrills": 17,
-    "lastTime": 1610135855,
+    "numDrills": 18,
+    "lastTime": 1610482737,
     "lastResult": true
   },
   "almost/nearly-[de.adv]-fast": {
     "priorParams": [
-      6.749342967599935,
-      6.051057490085105,
+      9.708502461460895,
+      6.051057490084905,
       116908.53457465378
     ],
-    "numDrills": 20,
-    "lastTime": 1610135870,
-    "lastResult": false
+    "numDrills": 21,
+    "lastTime": 1610481821,
+    "lastResult": true
   },
   "well-[de.adv]-wohl": {
     "priorParams": [
-      0.8996388964435157,
-      1.000000000000021,
-      766072.9240637764
+      0.6996365334560577,
+      1.0000000000000233,
+      2348170.6878349707
     ],
-    "numDrills": 8,
-    "lastTime": 1609529040,
+    "numDrills": 9,
+    "lastTime": 1610482717,
     "lastResult": true
   },
   "generally-[de.adv]-\u00fcberhaupt": {
     "priorParams": [
-      2.763082002174917,
-      1.7337198296465894,
-      281822.4792011548
+      1.552895927376698,
+      1.768002665238093,
+      863843.7204158901
     ],
-    "numDrills": 12,
-    "lastTime": 1609788020,
+    "numDrills": 13,
+    "lastTime": 1610482705,
     "lastResult": true
   },
   "fondly/with pleasure-[de.adv]-gern(e)": {
     "priorParams": [
-      0.8995266355904052,
-      0.9999999999999863,
-      766072.9240637764
+      0.6996199247826731,
+      0.9999999999999758,
+      2348170.6878349707
     ],
-    "numDrills": 7,
-    "lastTime": 1609529055,
+    "numDrills": 8,
+    "lastTime": 1610482779,
     "lastResult": true
   },
   "particularly-[de.adv]-besonders": {
     "priorParams": [
-      0.8994600622938203,
-      0.9999999999999775,
-      766072.9240637764
+      2.4603828102942766,
+      1.830003498107064,
+      317790.3451260574
     ],
-    "numDrills": 7,
-    "lastTime": 1609529007,
+    "numDrills": 9,
+    "lastTime": 1610482811,
     "lastResult": true
   },
   "why-[de.adv]-warum": {
     "priorParams": [
-      0.8995201087966312,
-      0.9999999999999878,
-      766072.9240637764
+      0.6996177954655826,
+      0.9999999999999849,
+      2348170.6878349707
     ],
-    "numDrills": 7,
-    "lastTime": 1609529042,
+    "numDrills": 8,
+    "lastTime": 1610482766,
     "lastResult": true
   },
   "alone-[de.adv]-allein": {
     "priorParams": [
-      0.8994378711949187,
-      0.9999999999999587,
-      766072.9240637764
+      0.6995824488017185,
+      0.9999999999999564,
+      2348170.6878349707
     ],
-    "numDrills": 7,
-    "lastTime": 1609528981,
+    "numDrills": 8,
+    "lastTime": 1610482685,
     "lastResult": true
   },
   "hardly/barely-[de.adv]-kaum": {
@@ -451,52 +451,52 @@
   },
   "therefore-[de.adv]-deshalb": {
     "priorParams": [
-      2.320307262717763,
-      3.241905282072128,
+      2.2833767223352366,
+      4.269057322155498,
       358348.6446560393
     ],
-    "numDrills": 14,
-    "lastTime": 1610184358,
+    "numDrills": 15,
+    "lastTime": 1610482889,
     "lastResult": false
   },
   "even/indeed-[de.adv]-sogar": {
     "priorParams": [
-      6.683439410903011,
-      10.970738549300135,
+      7.956322265249116,
+      10.970738549299874,
       131829.0991406075
     ],
-    "numDrills": 27,
-    "lastTime": 1610314827,
+    "numDrills": 28,
+    "lastTime": 1610482630,
     "lastResult": true
   },
   "otherwise-[de.adv]-sonst": {
     "priorParams": [
-      15.572820397895521,
-      10.338155777338473,
+      18.281145152338144,
+      10.338155777337901,
       61666.16456389795
     ],
-    "numDrills": 32,
-    "lastTime": 1610314850,
+    "numDrills": 33,
+    "lastTime": 1610481862,
     "lastResult": true
   },
   "further-[de.adv]-weiter": {
     "priorParams": [
-      0.7975956573120525,
-      1.0000000000000198,
-      863843.7204158901
+      2.1643798303481305,
+      1.8429351321727816,
+      358348.64465603925
     ],
-    "numDrills": 7,
-    "lastTime": 1609529067,
+    "numDrills": 9,
+    "lastTime": 1610482910,
     "lastResult": true
   },
   "differently-[de.adv]-anders": {
     "priorParams": [
-      2.8736172430614575,
-      3.7425230674595014,
+      3.8416409963896747,
+      3.7425230674595387,
       358348.6446560393
     ],
-    "numDrills": 15,
-    "lastTime": 1610135860,
+    "numDrills": 16,
+    "lastTime": 1610482750,
     "lastResult": true
   },
   "in closing/conclusion-[de.adv]-schlie\u00dflich": {
@@ -521,12 +521,12 @@
   },
   "rather/more-[de.adv]-eher": {
     "priorParams": [
-      7.7398104712569875,
-      4.906913318099045,
-      116908.53457465378
+      2.7175329701261774,
+      5.245382894516749,
+      358348.6446560393
     ],
-    "numDrills": 15,
-    "lastTime": 1610135903,
+    "numDrills": 16,
+    "lastTime": 1610481792,
     "lastResult": true
   },
   "ever/forever-[de.adv]-je": {
@@ -551,22 +551,22 @@
   },
   "firstly-[de.adv]-zun\u00e4chst": {
     "priorParams": [
-      2.196418349151584,
-      1.9313417596442615,
-      249925.49648284746
+      1.177691532805262,
+      1.9990619935058616,
+      766072.9240637763
     ],
-    "numDrills": 7,
-    "lastTime": 1609997472,
+    "numDrills": 8,
+    "lastTime": 1610482674,
     "lastResult": true
   },
   "for now-[de.adv]-zun\u00e4chst": {
     "priorParams": [
-      2.06994481493034,
-      2.9596894337941495,
+      3.0093157070245575,
+      2.9596894337941326,
       317790.34512605733
     ],
-    "numDrills": 11,
-    "lastTime": 1610184266,
+    "numDrills": 12,
+    "lastTime": 1610482789,
     "lastResult": true
   },
   "somehow-[de.adv]-irgendwie": {
@@ -621,32 +621,32 @@
   },
   "quite/fairly-[de.adv]-ziemlich": {
     "priorParams": [
-      7.981473377554705,
-      4.105422211087573,
-      83664.7964608707
+      3.2728460898646645,
+      4.2739943643266,
+      256449.76670228865
     ],
-    "numDrills": 15,
-    "lastTime": 1610135803,
+    "numDrills": 16,
+    "lastTime": 1610481795,
     "lastResult": true
   },
   "besides/as well-[de.adv]-au\u00dferdem": {
     "priorParams": [
-      6.751923961207668,
-      4.017149094619247,
-      119960.41556021891
+      2.5301618969244624,
+      4.238336929676554,
+      367703.2860328025
     ],
-    "numDrills": 15,
-    "lastTime": 1610135816,
+    "numDrills": 16,
+    "lastTime": 1610481852,
     "lastResult": true
   },
   "meanwhile-[de.adv]-inzwischen": {
     "priorParams": [
-      1.523728350554019,
-      2.2766778686741844,
+      1.6041727924613842,
+      3.159829251593449,
       326086.21775173873
     ],
-    "numDrills": 13,
-    "lastTime": 1609961116,
+    "numDrills": 15,
+    "lastTime": 1610482844,
     "lastResult": true
   },
   "immediately-[de.adv]-sofort": {
@@ -661,32 +661,32 @@
   },
   "suddenly-[de.adv]-pl\u00f6tzlich": {
     "priorParams": [
-      1.5223693396843274,
-      1.2383063702021941,
-      326086.21775173873
+      1.0587261923028668,
+      1.24993465808952,
+      999521.1606876455
     ],
-    "numDrills": 17,
-    "lastTime": 1609874883,
+    "numDrills": 18,
+    "lastTime": 1610482709,
     "lastResult": true
   },
   "soon-[de.adv]-bald": {
     "priorParams": [
-      1.8264086011130762,
-      0.9999999999999946,
-      281822.4792011548
+      1.4006850676850469,
+      1.0000000000000162,
+      863843.7204158901
     ],
-    "numDrills": 5,
-    "lastTime": 1609787522,
+    "numDrills": 6,
+    "lastTime": 1610482772,
     "lastResult": true
   },
   "enough-[de.adv]-genug": {
     "priorParams": [
-      1.826234732796617,
-      0.999999999999992,
-      281822.4792011548
+      1.4006132954436803,
+      1.000000000000013,
+      863843.7204158901
     ],
-    "numDrills": 5,
-    "lastTime": 1609787510,
+    "numDrills": 6,
+    "lastTime": 1610482747,
     "lastResult": true
   },
   "finally-[de.adv]-endlich": {
@@ -711,52 +711,52 @@
   },
   "to sth/swh-[de.adv]-hin": {
     "priorParams": [
-      1.826121186140957,
-      0.9999999999999781,
-      281822.4792011548
+      1.4005843550237327,
+      0.9999999999999721,
+      863843.7204158901
     ],
-    "numDrills": 5,
-    "lastTime": 1609787508,
+    "numDrills": 6,
+    "lastTime": 1610482752,
     "lastResult": true
   },
   "likewise-[de.adv]-ebenfalls": {
     "priorParams": [
-      4.150963273585065,
-      3.264920923365123,
-      135270.47938265037
+      1.7595628334024622,
+      3.462472691500946,
+      414631.77282229677
     ],
-    "numDrills": 20,
-    "lastTime": 1610135920,
+    "numDrills": 21,
+    "lastTime": 1610481859,
     "lastResult": true
   },
   "yesterday-[de.adv]-gestern": {
     "priorParams": [
-      1.8262524744615465,
-      0.9999999999999798,
-      281822.4792011548
+      1.4006248716116378,
+      0.9999999999999989,
+      863843.7204158901
     ],
-    "numDrills": 5,
-    "lastTime": 1609787532,
+    "numDrills": 6,
+    "lastTime": 1610482774,
     "lastResult": true
   },
   "please-[de.adv]-bitte": {
     "priorParams": [
-      1.8259508661574877,
-      1.0000000000000098,
-      281822.4792011548
+      1.4005936159581671,
+      1.0000000000000464,
+      863843.7204158901
     ],
-    "numDrills": 5,
-    "lastTime": 1609787470,
+    "numDrills": 6,
+    "lastTime": 1610482770,
     "lastResult": true
   },
   "together-[de.adv]-zusammen": {
     "priorParams": [
-      1.82613183113994,
-      1.0000000000000149,
-      281822.4792011548
+      1.400583197406957,
+      1.0000000000000189,
+      863843.7204158901
     ],
-    "numDrills": 5,
-    "lastTime": 1609787516,
+    "numDrills": 6,
+    "lastTime": 1610482756,
     "lastResult": true
   },
   "in any case-[de.adv]-jedenfalls": {
@@ -781,12 +781,12 @@
   },
   "just/only-[de.adv]-blo\u00df": {
     "priorParams": [
-      1.5565445311650414,
-      2.2670909982530105,
+      3.1947566668845555,
+      2.2670909982530087,
       317790.34512605733
     ],
-    "numDrills": 10,
-    "lastTime": 1609961207,
+    "numDrills": 11,
+    "lastTime": 1610481815,
     "lastResult": true
   },
   "any/each time-[de.adv]-jeweils": {
@@ -821,12 +821,12 @@
   },
   "before-[de.adv]-vorher": {
     "priorParams": [
-      4.621983311329413,
-      2.399561611036506,
-      135270.47938265034
+      2.4483954148720826,
+      2.4548332317971,
+      414631.77282229665
     ],
-    "numDrills": 15,
-    "lastTime": 1609961285,
+    "numDrills": 16,
+    "lastTime": 1610481871,
     "lastResult": true
   },
   "for example-[de.adv]-beispielsweise": {
@@ -841,32 +841,32 @@
   },
   "mostly-[de.adv]-meist": {
     "priorParams": [
-      2.017611286229552,
-      1.2005582788668288,
-      249925.49648284746
+      1.408738735295417,
+      1.2073464612348852,
+      766072.9240637763
     ],
-    "numDrills": 7,
-    "lastTime": 1609874830,
+    "numDrills": 8,
+    "lastTime": 1610482699,
     "lastResult": true
   },
   "nevertheless-[de.adv]-trotzdem": {
     "priorParams": [
-      1.9065907841005463,
-      3.7204780961884,
+      2.845426732315561,
+      3.720478096188392,
       317790.34512605733
     ],
-    "numDrills": 13,
-    "lastTime": 1610184281,
+    "numDrills": 14,
+    "lastTime": 1610482634,
     "lastResult": true
   },
   "moreover-[de.adv]-zudem": {
     "priorParams": [
-      1.8435144696538805,
-      1.9966654721500212,
+      3.781708078617037,
+      1.99666547215002,
       249925.49648284746
     ],
-    "numDrills": 6,
-    "lastTime": 1609997461,
+    "numDrills": 7,
+    "lastTime": 1610481865,
     "lastResult": true
   },
   "unfortunately-[de.adv]-leider": {
@@ -921,12 +921,12 @@
   },
   "absolutely-[de.adv]-unbedingt": {
     "priorParams": [
-      1.7724603188968635,
-      3.305125947211749,
+      2.8634185727181873,
+      3.3051259472117462,
       317790.34512605733
     ],
-    "numDrills": 10,
-    "lastTime": 1610135965,
+    "numDrills": 11,
+    "lastTime": 1610482661,
     "lastResult": true
   },
   "out/beyond-[de.adv]-hinaus": {
@@ -951,12 +951,12 @@
   },
   "nevertheless-[de.adv]-dennoch": {
     "priorParams": [
-      1.8843395298005599,
-      3.116637495097568,
+      2.9751530341016,
+      3.116637495097541,
       317790.34512605733
     ],
-    "numDrills": 11,
-    "lastTime": 1610135976,
+    "numDrills": 12,
+    "lastTime": 1610482626,
     "lastResult": true
   },
   "gladly (?)-[de.adv]-lieber": {
@@ -971,23 +971,23 @@
   },
   "simultaneously-[de.adv]-zugleich": {
     "priorParams": [
-      1.6736939218524238,
-      1.9999974648474268,
+      3.3143195984858247,
+      1.9999974648474261,
       317790.34512605733
     ],
-    "numDrills": 8,
-    "lastTime": 1609961281,
+    "numDrills": 9,
+    "lastTime": 1610482656,
     "lastResult": true
   },
   "again-[de.adv]-nochmal": {
     "priorParams": [
-      1.5580900200203502,
-      1.9522652614629563,
-      249925.49648284746
+      4.093082187588062,
+      3.5765136501422132,
+      103676.69615807125
     ],
-    "numDrills": 6,
-    "lastTime": 1609997437,
-    "lastResult": true
+    "numDrills": 8,
+    "lastTime": 1610482871,
+    "lastResult": false
   },
   "thank you-[de.adv]-danke": {
     "priorParams": [
@@ -1001,12 +1001,12 @@
   },
   "at the moment-[de.adv]-derzeit": {
     "priorParams": [
-      5.365546713347055,
-      4.027269793158342,
-      103676.69615807125
+      2.24713841296287,
+      4.284425642953092,
+      317790.34512605733
     ],
-    "numDrills": 14,
-    "lastTime": 1610135960,
+    "numDrills": 15,
+    "lastTime": 1610481798,
     "lastResult": true
   },
   "before-[de.adv]-zuvor": {
