@@ -58,7 +58,7 @@ conj.sub --
     -- ob               -- if
     -- obwohl           -- although
     -- falls            -- in case/if
-    -- da               -- since/because
+    -- da               -- because/since
     -- damit            -- so that
     -- seit             -- since (time)
     -- nachdem          -- after
@@ -97,7 +97,7 @@ prep.dat --
     -- bei              -- by/near
     -- nach             -- after/to
     -- aus              -- out of/from
-    -- seit             -- since
+    -- seit             -- since (time)
     -- gegenüber        -- opposite
     -- ab               -- from on
     -- außer            -- aside from/except
