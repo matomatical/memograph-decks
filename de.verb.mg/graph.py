@@ -214,7 +214,7 @@ spüren          -- to sense/notice
 spüren          -- to track
 erhöhen         -- to raise/increase
 melden          -- to register              # in rummy, we 'meld' to begin
-melden          -- to report (sth)
+melden          -- to report
 vorkommen       -- to come forth
 vorkommen       -- to occur
 besitzen        -- to own/possess
