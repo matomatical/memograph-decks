@@ -391,13 +391,13 @@
   },
   "Teil-[de.noun.gender]-der": {
     "priorParams": [
-      5.470442022844315,
-      5.457380859550991,
+      6.546203418037933,
+      5.457380859550829,
       367703.2860328025
     ],
-    "numDrills": 24,
-    "lastTime": 1610482914,
-    "lastResult": false
+    "numDrills": 25,
+    "lastTime": 1610878475,
+    "lastResult": true
   },
   "the problem-[de.noun.en]-Problem": {
     "priorParams": [
@@ -1331,13 +1331,13 @@
   },
   "Thema-[de.noun.gender]-das": {
     "priorParams": [
-      1.7207986521053174,
-      2.9798856053492875,
+      2.1787263890917585,
+      2.979885605349282,
       863843.7204158901
     ],
-    "numDrills": 8,
-    "lastTime": 1610482895,
-    "lastResult": false
+    "numDrills": 9,
+    "lastTime": 1610878473,
+    "lastResult": true
   },
   "the person-[de.noun.en]-Person": {
     "priorParams": [

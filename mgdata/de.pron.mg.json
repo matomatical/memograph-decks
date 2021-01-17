@@ -831,12 +831,12 @@
   },
   "the one-[de.pron.demonstrative]-derjenige": {
     "priorParams": [
-      5.864858186724828,
-      3.201944215505212,
+      6.000270730475287,
+      4.172863011913786,
       29995.52945587477
     ],
-    "numDrills": 8,
-    "lastTime": 1610833700,
+    "numDrills": 9,
+    "lastTime": 1610878137,
     "lastResult": false
   },
   "something-[de.pron.indefinite]-etwas": {
@@ -881,13 +881,13 @@
   },
   "someone-[de.pron.indefinite]-jemand": {
     "priorParams": [
-      5.624428700541554,
-      3.5420027336698023,
+      6.797433003629637,
+      3.5420027336695257,
       38140.52504513268
     ],
-    "numDrills": 9,
-    "lastTime": 1610833730,
-    "lastResult": false
+    "numDrills": 10,
+    "lastTime": 1610878469,
+    "lastResult": true
   },
   "someone or other-[de.pron.indefinite]-irgendjemand": {
     "priorParams": [
