@@ -11,6 +11,17 @@ drilling app based on bayesian scheduling.
 A list of decks to add and improvements to make therein, organised by
 topic.
 
+#### German vocabulary
+
+* Learn more frequent verbs
+* Learn more frequent nouns
+* Learn more frequent adjectives and adverbs
+* Learn the words from the closed classes:
+  * Pronouns
+  * Articles
+  * Prepositions
+  * Conjunctions
+
 #### Alphabets
 
 * Learn Morse code
@@ -26,12 +37,6 @@ topic.
 * Learn large times tables
 * Learn powers of primes
 
-#### German vocabulary
-
-* Learn more frequent verbs
-* Add and learn most-frequent German nouns
-* Add and learn most-frequent German adjectives
-* Add and learn German closed classes
 
 ---
 
