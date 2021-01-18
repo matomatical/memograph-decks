@@ -1759,7 +1759,6 @@
     "lastTime": 1610743387,
     "lastResult": true
   },
-  "to look-[de.verb]-schauen": {},
   "to leave-[de.verb]-verlassen": {
     "priorParams": [
       6.889262080093789,
@@ -2122,12 +2121,12 @@
   },
   "to establish/determine-[de.verb]-feststellen": {
     "priorParams": [
-      3.864366810596847,
-      8.142831255178493,
+      5.052697056924281,
+      8.142831255178406,
       43008.24636749586
     ],
-    "numDrills": 18,
-    "lastTime": 1610912002,
+    "numDrills": 19,
+    "lastTime": 1610963110,
     "lastResult": true
   },
   "to disappear-[de.verb]-verschwinden": {
@@ -2192,12 +2191,12 @@
   },
   "to report-[de.verb]-berichten": {
     "priorParams": [
-      1.8350076630238499,
-      3.067659222409735,
+      2.514023150374832,
+      3.067659222409738,
       131829.0991406075
     ],
-    "numDrills": 9,
-    "lastTime": 1610873631,
+    "numDrills": 10,
+    "lastTime": 1610963145,
     "lastResult": true
   },
   "to observe-[de.verb]-beobachten": {
@@ -2232,33 +2231,33 @@
   },
   "to distinguish-[de.verb]-unterscheiden": {
     "priorParams": [
-      2.324045718124611,
-      3.056699836104602,
+      3.140217559393396,
+      3.056699836104578,
       103676.69615807125
     ],
-    "numDrills": 7,
-    "lastTime": 1610878532,
+    "numDrills": 8,
+    "lastTime": 1610963150,
     "lastResult": true
   },
   "to achieve-[de.verb]-leisten": {
     "priorParams": [
-      6.558816887214051,
-      4.72841650933668,
+      8.211363412030913,
+      4.728416509336735,
       30778.558567747586
     ],
-    "numDrills": 18,
-    "lastTime": 1610912240,
+    "numDrills": 19,
+    "lastTime": 1610963103,
     "lastResult": true
   },
   "to demand-[de.verb]-verlangen": {
     "priorParams": [
-      5.7655173605573475,
-      4.393762843937728,
+      5.853703849148081,
+      5.365916397852315,
       38140.52504513268
     ],
-    "numDrills": 17,
-    "lastTime": 1610912247,
-    "lastResult": true
+    "numDrills": 18,
+    "lastTime": 1610963162,
+    "lastResult": false
   },
   "to be present (with)-[de.verb]-vorliegen": {
     "priorParams": [
@@ -2402,12 +2401,12 @@
   },
   "to cover-[de.verb]-beziehen": {
     "priorParams": [
-      2.5581140453783813,
-      4.4944780152419,
+      3.609679576747839,
+      4.494478015241865,
       48497.21532198135
     ],
-    "numDrills": 13,
-    "lastTime": 1610912103,
+    "numDrills": 14,
+    "lastTime": 1610963101,
     "lastResult": true
   },
   "to sense/notice-[de.verb]-sp\u00fcren": {
@@ -2552,12 +2551,12 @@
   },
   "to suit as-[de.verb]-eignen sich": {
     "priorParams": [
-      3.992283967547208,
-      3.5764096316589304,
+      5.500662498015359,
+      3.5764096316588767,
       33823.737854557214
     ],
-    "numDrills": 12,
-    "lastTime": 1610912094,
+    "numDrills": 13,
+    "lastTime": 1610963113,
     "lastResult": true
   },
   "to aim/direct at-[de.verb]-richten": {
@@ -2622,12 +2621,12 @@
   },
   "to occupy/employ-[de.verb]-besch\u00e4ftigen": {
     "priorParams": [
-      1.3045511653923971,
-      1.4179469903954756,
-      29995.52945587477
+      0.9069827139144483,
+      1.4459280187624057,
+      91942.4519806052
     ],
-    "numDrills": 3,
-    "lastTime": 1610911984,
+    "numDrills": 4,
+    "lastTime": 1610963074,
     "lastResult": true
   },
   "to loosen-[de.verb]-l\u00f6sen": {
@@ -2662,42 +2661,42 @@
   },
   "to set up/prepare-[de.verb]-einstellen": {
     "priorParams": [
-      1.2492194896950206,
-      0.999999999999996,
-      29995.52945587477
+      0.9640486857877011,
+      1.000000000000009,
+      91942.4519806052
     ],
-    "numDrills": 2,
-    "lastTime": 1610911990,
+    "numDrills": 3,
+    "lastTime": 1610963156,
     "lastResult": true
   },
   "to stop/cease-[de.verb]-einstellen": {
     "priorParams": [
-      1.251155299957408,
-      1.3595057815169922,
+      1.3388465967819803,
+      1.55961109815017,
       3600
     ],
-    "numDrills": 2,
-    "lastTime": 1610912017,
+    "numDrills": 3,
+    "lastTime": 1610963098,
     "lastResult": false
   },
   "to carry through-[de.verb]-durchf\u00fchren": {
     "priorParams": [
-      1.2508530664608983,
-      0.9999999999999871,
-      29995.52945587477
+      0.964320595003297,
+      0.9999999999999863,
+      91942.4519806052
     ],
-    "numDrills": 2,
-    "lastTime": 1610912026,
+    "numDrills": 3,
+    "lastTime": 1610963168,
     "lastResult": true
   },
   "to suffice/be enough-[de.verb]-gen\u00fcgen": {
     "priorParams": [
-      1.2495862110098253,
-      0.9999999999999984,
-      29995.52945587477
+      0.963972551207319,
+      1.0000000000000009,
+      91942.4519806052
     ],
-    "numDrills": 2,
-    "lastTime": 1610911993,
+    "numDrills": 3,
+    "lastTime": 1610963141,
     "lastResult": true
   },
   "to build up/erect-[de.verb]-aufbauen": {},

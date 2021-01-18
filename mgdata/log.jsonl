@@ -2106,3 +2106,15 @@
 {"id": "and-[de.conj.coo]-und", "time": 1610912653, "event": "DRILL", "data": {"got": true}}
 {"id": "as well as/as soon as-[de.conj.sub]-sowie", "time": 1610912657, "event": "DRILL", "data": {"got": true}}
 {"id": "but/however-[de.conj.coo]-aber", "time": 1610912662, "event": "DRILL", "data": {"got": true}}
+{"id": "to occupy/employ-[de.verb]-besch\u00e4ftigen", "time": 1610963075, "event": "DRILL", "data": {"got": true}}
+{"id": "to stop/cease-[de.verb]-einstellen", "time": 1610963098, "event": "DRILL", "data": {"got": false}}
+{"id": "to cover-[de.verb]-beziehen", "time": 1610963101, "event": "DRILL", "data": {"got": true}}
+{"id": "to achieve-[de.verb]-leisten", "time": 1610963103, "event": "DRILL", "data": {"got": true}}
+{"id": "to establish/determine-[de.verb]-feststellen", "time": 1610963110, "event": "DRILL", "data": {"got": true}}
+{"id": "to suit as-[de.verb]-eignen sich", "time": 1610963113, "event": "DRILL", "data": {"got": true}}
+{"id": "to suffice/be enough-[de.verb]-gen\u00fcgen", "time": 1610963141, "event": "DRILL", "data": {"got": true}}
+{"id": "to report-[de.verb]-berichten", "time": 1610963145, "event": "DRILL", "data": {"got": true}}
+{"id": "to distinguish-[de.verb]-unterscheiden", "time": 1610963150, "event": "DRILL", "data": {"got": true}}
+{"id": "to set up/prepare-[de.verb]-einstellen", "time": 1610963156, "event": "DRILL", "data": {"got": true}}
+{"id": "to demand-[de.verb]-verlangen", "time": 1610963162, "event": "DRILL", "data": {"got": false}}
+{"id": "to carry through-[de.verb]-durchf\u00fchren", "time": 1610963168, "event": "DRILL", "data": {"got": true}}
