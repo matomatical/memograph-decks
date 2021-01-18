@@ -691,13 +691,13 @@
   },
   "whereby/by what/how-[de.pron.interrogative]-wodurch": {
     "priorParams": [
-      1.6265666748659715,
-      1.6923794247252937,
+      1.8115494701216603,
+      2.3180209825270635,
       91942.4519806052
     ],
-    "numDrills": 3,
-    "lastTime": 1610653704,
-    "lastResult": true
+    "numDrills": 4,
+    "lastTime": 1610999420,
+    "lastResult": false
   },
   "whereby/by what/near what-[de.pron.interrogative]-wobei": {
     "priorParams": [
