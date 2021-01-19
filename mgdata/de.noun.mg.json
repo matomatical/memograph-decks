@@ -31,12 +31,12 @@
   },
   "Mal-[de.noun.gender]-das": {
     "priorParams": [
-      5.1905827699615426,
-      6.448442633624552,
+      7.488313099490613,
+      6.448442633624932,
       414631.77282229677
     ],
-    "numDrills": 25,
-    "lastTime": 1610135897,
+    "numDrills": 26,
+    "lastTime": 1611088609,
     "lastResult": true
   },
   "the example-[de.noun.en]-Beispiel": {
@@ -431,13 +431,13 @@
   },
   "Welt-[de.noun.gender]-die": {
     "priorParams": [
-      2.9684389723401035,
-      6.5376593185809595,
-      653327.7483296174
+      9.259145437448941,
+      6.690872484782043,
+      271020.21765856637
     ],
-    "numDrills": 23,
-    "lastTime": 1610184270,
-    "lastResult": true
+    "numDrills": 24,
+    "lastTime": 1611088698,
+    "lastResult": false
   },
   "the right/law-[de.noun.en]-Recht": {
     "priorParams": [
@@ -601,12 +601,12 @@
   },
   "Leben-[de.noun.gender]-das": {
     "priorParams": [
-      4.596521639845466,
-      9.89419007769126,
+      5.927318698013474,
+      9.894190077690993,
       455654.7493685312
     ],
-    "numDrills": 32,
-    "lastTime": 1610482341,
+    "numDrills": 33,
+    "lastTime": 1611088725,
     "lastResult": true
   },
   "the mother-[de.noun.en]-Mutter": {
@@ -1641,12 +1641,12 @@
   },
   "Wert-[de.noun.gender]-der": {
     "priorParams": [
-      5.301210896026527,
-      4.877384028409772,
+      7.960021007934078,
+      4.877384028409514,
       358348.6446560392
     ],
-    "numDrills": 17,
-    "lastTime": 1610135912,
+    "numDrills": 18,
+    "lastTime": 1611088693,
     "lastResult": true
   },
   "the face-[de.noun.en]-Gesicht": {
@@ -2031,12 +2031,12 @@
   },
   "St\u00fcck-[de.noun.gender]-das": {
     "priorParams": [
-      15.524822859982322,
-      8.377647446141534,
-      146687.85410447538
+      4.888293248820582,
+      8.987444892128044,
+      449628.36885338876
     ],
-    "numDrills": 33,
-    "lastTime": 1610482331,
+    "numDrills": 34,
+    "lastTime": 1611088644,
     "lastResult": true
   },
   "the apartment-[de.noun.en]-Wohnung": {

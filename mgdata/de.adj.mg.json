@@ -701,12 +701,12 @@
   },
   "complete-[de.adj]-v\u00f6llig": {
     "priorParams": [
-      3.766766789882743,
-      8.48314402550255,
+      5.06343576553664,
+      8.483144025502554,
       467549.55303397507
     ],
-    "numDrills": 37,
-    "lastTime": 1610482530,
+    "numDrills": 38,
+    "lastTime": 1611088787,
     "lastResult": true
   },
   "low-[de.adj]-gering": {
@@ -851,13 +851,13 @@
   },
   "simultaneous-[de.adj]-gleichzeitig": {
     "priorParams": [
-      3.1762030238836103,
-      4.0898527459202825,
+      3.289672958277253,
+      4.976961867508173,
       358348.64465603925
     ],
-    "numDrills": 14,
-    "lastTime": 1610482850,
-    "lastResult": true
+    "numDrills": 15,
+    "lastTime": 1611088750,
+    "lastResult": false
   },
   "green-[de.adj]-gr\u00fcn": {
     "priorParams": [
