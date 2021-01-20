@@ -201,13 +201,13 @@
   },
   "your (plural)-[de.art.ein]-euer": {
     "priorParams": [
-      3.646369112196073,
-      4.232942972427942,
+      3.7195263596130843,
+      5.18319298136115,
       131829.0991406075
     ],
-    "numDrills": 21,
-    "lastTime": 1610997905,
-    "lastResult": true
+    "numDrills": 22,
+    "lastTime": 1611176634,
+    "lastResult": false
   },
   "their-[de.art.ein]-ihr": {
     "priorParams": [
@@ -1031,12 +1031,12 @@
   },
   "concerning-[de.prep.gen]-bez\u00fcglich": {
     "priorParams": [
-      2.5089210194964706,
-      3.302468731998172,
+      2.621178722173625,
+      4.173680078239377,
       1493.3894757499138
     ],
-    "numDrills": 9,
-    "lastTime": 1611173915,
+    "numDrills": 10,
+    "lastTime": 1611176534,
     "lastResult": false
   },
   "inclusive (of)-[de.prep.gen]-einschlie\u00dflich": {

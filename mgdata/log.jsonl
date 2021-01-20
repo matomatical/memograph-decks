@@ -2821,3 +2821,137 @@
 {"id": "further-[de.adv]-weiter", "time": 1611175251, "event": "DRILL", "data": {"got": true}}
 {"id": "earlier-[de.adv]-eher", "time": 1611175254, "event": "DRILL", "data": {"got": false}}
 {"id": "moreover-[de.adv]-zudem", "time": 1611175257, "event": "DRILL", "data": {"got": true}}
+{"id": "to go into (history/heaven/matrimony/etc.)-[de.verb]-eingehen", "time": 1611176139, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to build up/erect-[de.verb]-aufbauen", "time": 1611176145, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to press/push-[de.verb]-dr\u00fccken", "time": 1611176149, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to examine-[de.verb]-untersuchen", "time": 1611176154, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to confirm/endorse-[de.verb]-best\u00e4tigen", "time": 1611176157, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to look/glance-[de.verb]-blicken", "time": 1611176162, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to distinguish-[de.verb]-unterscheiden", "time": 1611176211, "event": "DRILL", "data": {"got": true}}
+{"id": "to report-[de.verb]-melden", "time": 1611176217, "event": "DRILL", "data": {"got": true}}
+{"id": "to report-[de.verb]-berichten", "time": 1611176219, "event": "DRILL", "data": {"got": true}}
+{"id": "to take on/accept-[de.verb]-annehmen", "time": 1611176222, "event": "DRILL", "data": {"got": true}}
+{"id": "to assume-[de.verb]-ausgehen", "time": 1611176224, "event": "DRILL", "data": {"got": true}}
+{"id": "to register-[de.verb]-melden", "time": 1611176229, "event": "DRILL", "data": {"got": true}}
+{"id": "to own/possess-[de.verb]-besitzen", "time": 1611176231, "event": "DRILL", "data": {"got": true}}
+{"id": "to occur-[de.verb]-vorkommen", "time": 1611176235, "event": "DRILL", "data": {"got": true}}
+{"id": "to cover-[de.verb]-beziehen", "time": 1611176238, "event": "DRILL", "data": {"got": true}}
+{"id": "to call/name-[de.verb]-bezeichnen", "time": 1611176242, "event": "DRILL", "data": {"got": true}}
+{"id": "to mark/notice-[de.verb]-merken", "time": 1611176245, "event": "DRILL", "data": {"got": true}}
+{"id": "to suit as-[de.verb]-eignen sich", "time": 1611176249, "event": "DRILL", "data": {"got": true}}
+{"id": "to demand-[de.verb]-verlangen", "time": 1611176254, "event": "DRILL", "data": {"got": true}}
+{"id": "to change-[de.verb]-ver\u00e4ndern", "time": 1611176257, "event": "DRILL", "data": {"got": true}}
+{"id": "to hope-[de.verb]-hoffen", "time": 1611176261, "event": "DRILL", "data": {"got": false}}
+{"id": "to arise-[de.verb]-entstehen", "time": 1611176273, "event": "DRILL", "data": {"got": true}}
+{"id": "to be/find oneself-[de.verb]-befinden sich", "time": 1611176275, "event": "DRILL", "data": {"got": true}}
+{"id": "to enclose-[de.verb]-umfassen", "time": 1611176280, "event": "DRILL", "data": {"got": true}}
+{"id": "to use-[de.verb]-verwenden", "time": 1611176286, "event": "DRILL", "data": {"got": true}}
+{"id": "to address (sb)-[de.verb]-richten", "time": 1611176289, "event": "DRILL", "data": {"got": true}}
+{"id": "to worry-[de.verb]-sorgen sich", "time": 1611176293, "event": "DRILL", "data": {"got": true}}
+{"id": "to achieve-[de.verb]-leisten", "time": 1611176295, "event": "DRILL", "data": {"got": true}}
+{"id": "to aim/direct at-[de.verb]-richten", "time": 1611176297, "event": "DRILL", "data": {"got": true}}
+{"id": "to fulfil/grant-[de.verb]-erf\u00fcllen", "time": 1611176301, "event": "DRILL", "data": {"got": true}}
+{"id": "to occupy/employ-[de.verb]-besch\u00e4ftigen", "time": 1611176307, "event": "DRILL", "data": {"got": true}}
+{"id": "to behave-[de.verb]-verhalten sich", "time": 1611176310, "event": "DRILL", "data": {"got": true}}
+{"id": "to stop/cease-[de.verb]-einstellen", "time": 1611176314, "event": "DRILL", "data": {"got": true}}
+{"id": "to arrive-[de.verb]-ankommen", "time": 1611176326, "event": "DRILL", "data": {"got": true}}
+{"id": "to request/beg-[de.verb]-bitten", "time": 1611176328, "event": "DRILL", "data": {"got": true}}
+{"id": "to be correct/all right-[de.verb]-stimmen", "time": 1611176330, "event": "DRILL", "data": {"got": true}}
+{"id": "to build up/erect-[de.verb]-aufbauen", "time": 1611176340, "event": "DRILL", "data": {"got": true}}
+{"id": "to go into (history/heaven/matrimony/etc.)-[de.verb]-eingehen", "time": 1611176344, "event": "DRILL", "data": {"got": true}}
+{"id": "to press/push-[de.verb]-dr\u00fccken", "time": 1611176351, "event": "DRILL", "data": {"got": true}}
+{"id": "to establish/determine-[de.verb]-feststellen", "time": 1611176359, "event": "DRILL", "data": {"got": true}}
+{"id": "to examine-[de.verb]-untersuchen", "time": 1611176362, "event": "DRILL", "data": {"got": true}}
+{"id": "to confirm/endorse-[de.verb]-best\u00e4tigen", "time": 1611176372, "event": "DRILL", "data": {"got": false}}
+{"id": "to look/glance-[de.verb]-blicken", "time": 1611176375, "event": "DRILL", "data": {"got": true}}
+{"id": "to hope-[de.verb]-hoffen", "time": 1611176378, "event": "DRILL", "data": {"got": true}}
+{"id": "to remain silent-[de.verb]-schweigen", "time": 1611176392, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to suffice-[de.verb]-ausreichen", "time": 1611176394, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to pursue (craft/study/hobby/etc.)-[de.verb]-treiben", "time": 1611176399, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to drive (nail/animals/ball/etc.)-[de.verb]-treiben", "time": 1611176406, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to treat/handle-[de.verb]-behandeln", "time": 1611176409, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to allow-[de.verb]-erlauben", "time": 1611176419, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to confirm/endorse-[de.verb]-best\u00e4tigen", "time": 1611176427, "event": "DRILL", "data": {"got": true}}
+{"id": "to treat/handle-[de.verb]-behandeln", "time": 1611176430, "event": "DRILL", "data": {"got": true}}
+{"id": "to drive (nail/animals/ball/etc.)-[de.verb]-treiben", "time": 1611176438, "event": "DRILL", "data": {"got": false}}
+{"id": "to remain silent-[de.verb]-schweigen", "time": 1611176442, "event": "DRILL", "data": {"got": true}}
+{"id": "to allow-[de.verb]-erlauben", "time": 1611176445, "event": "DRILL", "data": {"got": true}}
+{"id": "to pursue (craft/study/hobby/etc.)-[de.verb]-treiben", "time": 1611176448, "event": "DRILL", "data": {"got": true}}
+{"id": "to suffice-[de.verb]-ausreichen", "time": 1611176461, "event": "DRILL", "data": {"got": false}}
+{"id": "the grounding/basis/reason-[de.noun.en]-Grund", "time": 1611176503, "event": "DRILL", "data": {"got": true}}
+{"id": "European-[de.adj]-europ\u00e4isch", "time": 1611176508, "event": "DRILL", "data": {"got": true}}
+{"id": "Ergebnis-[de.noun.gender]-das", "time": 1611176510, "event": "DRILL", "data": {"got": true}}
+{"id": "Interesse-[de.noun.gender]-das", "time": 1611176512, "event": "DRILL", "data": {"got": true}}
+{"id": "Beispiel-[de.noun.gender]-das", "time": 1611176516, "event": "DRILL", "data": {"got": true}}
+{"id": "most-[de.adj]-meiste", "time": 1611176521, "event": "DRILL", "data": {"got": false}}
+{"id": "concerning-[de.prep.gen]-bez\u00fcglich", "time": 1611176534, "event": "DRILL", "data": {"got": false}}
+{"id": "Raum-[de.noun.gender]-der", "time": 1611176536, "event": "DRILL", "data": {"got": true}}
+{"id": "Sache-[de.noun.gender]-die", "time": 1611176538, "event": "DRILL", "data": {"got": true}}
+{"id": "full-[de.adj]-voll", "time": 1611176541, "event": "DRILL", "data": {"got": true}}
+{"id": "near/close-[de.adj]-nah", "time": 1611176545, "event": "DRILL", "data": {"got": true}}
+{"id": "the world-[de.noun.en]-Welt", "time": 1611176549, "event": "DRILL", "data": {"got": true}}
+{"id": "social-[de.adj]-sozial", "time": 1611176552, "event": "DRILL", "data": {"got": true}}
+{"id": "what for a/what kind of-[de.pron.interrogative]-was f\u00fcr einer", "time": 1611176558, "event": "DRILL", "data": {"got": true}}
+{"id": "the history-[de.noun.en]-Geschichte", "time": 1611176569, "event": "DRILL", "data": {"got": true}}
+{"id": "the development-[de.noun.en]-Entwicklung", "time": 1611176585, "event": "DRILL", "data": {"got": false}}
+{"id": "Ort-[de.noun.gender]-der", "time": 1611176588, "event": "DRILL", "data": {"got": true}}
+{"id": "Geschichte-[de.noun.gender]-die", "time": 1611176596, "event": "DRILL", "data": {"got": true}}
+{"id": "known/certain-[de.adj]-gewiss", "time": 1611176601, "event": "DRILL", "data": {"got": true}}
+{"id": "the number-[de.noun.en]-Zahl", "time": 1611176604, "event": "DRILL", "data": {"got": true}}
+{"id": "black-[de.adj]-schwarz", "time": 1611176610, "event": "DRILL", "data": {"got": true}}
+{"id": "individual-[de.adj]-einzeln", "time": 1611176613, "event": "DRILL", "data": {"got": true}}
+{"id": "Bereich-[de.noun.gender]-der", "time": 1611176615, "event": "DRILL", "data": {"got": true}}
+{"id": "Hand-[de.noun.gender]-die", "time": 1611176618, "event": "DRILL", "data": {"got": false}}
+{"id": "direct-[de.adj]-direkt", "time": 1611176625, "event": "DRILL", "data": {"got": false}}
+{"id": "your (plural)-[de.art.ein]-euer", "time": 1611176634, "event": "DRILL", "data": {"got": false}}
+{"id": "Form-[de.noun.gender]-die", "time": 1611176637, "event": "DRILL", "data": {"got": true}}
+{"id": "economic/financial-[de.adj]-wirtschaftlich", "time": 1611176643, "event": "DRILL", "data": {"got": true}}
+{"id": "Stadt-[de.noun.gender]-die", "time": 1611176647, "event": "DRILL", "data": {"got": false}}
+{"id": "best-[de.adj]-beste", "time": 1611176666, "event": "DRILL", "data": {"got": false}}
+{"id": "to suffice-[de.verb]-ausreichen", "time": 1611176691, "event": "DRILL", "data": {"got": false}}
+{"id": "to drive (nail/animals/ball/etc.)-[de.verb]-treiben", "time": 1611176694, "event": "DRILL", "data": {"got": true}}
+{"id": "to threaten-[de.verb]-drohen", "time": 1611176721, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to convince-[de.verb]-\u00fcberzeugen", "time": 1611176723, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to use-[de.verb]-benutzen", "time": 1611176727, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to promise-[de.verb]-versprechen", "time": 1611176734, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to discover-[de.verb]-entdecken", "time": 1611176741, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to klang/sound-[de.verb]-klingen", "time": 1611176744, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to promise-[de.verb]-versprechen", "time": 1611176758, "event": "DRILL", "data": {"got": true}}
+{"id": "to discover-[de.verb]-entdecken", "time": 1611176760, "event": "DRILL", "data": {"got": true}}
+{"id": "to suffice-[de.verb]-ausreichen", "time": 1611176767, "event": "DRILL", "data": {"got": true}}
+{"id": "to convince-[de.verb]-\u00fcberzeugen", "time": 1611176771, "event": "DRILL", "data": {"got": true}}
+{"id": "to use-[de.verb]-benutzen", "time": 1611176774, "event": "DRILL", "data": {"got": true}}
+{"id": "to threaten-[de.verb]-drohen", "time": 1611176782, "event": "DRILL", "data": {"got": false}}
+{"id": "to threaten-[de.verb]-drohen", "time": 1611176788, "event": "DRILL", "data": {"got": true}}
+{"id": "to klang/sound-[de.verb]-klingen", "time": 1611176790, "event": "DRILL", "data": {"got": true}}
+{"id": "to demand-[de.verb]-fordern", "time": 1611176805, "event": "DRILL", "data": {"got": true}}
+{"id": "to divide/share-[de.verb]-teilen", "time": 1611176808, "event": "DRILL", "data": {"got": true}}
+{"id": "to take on/challenge-[de.verb]-aufnehmen", "time": 1611176814, "event": "DRILL", "data": {"got": true}}
+{"id": "to dure/last/take (time)-[de.verb]-dauern", "time": 1611176817, "event": "DRILL", "data": {"got": true}}
+{"id": "to support-[de.verb]-unterst\u00fctzen", "time": 1611176821, "event": "DRILL", "data": {"got": true}}
+{"id": "to stash/put/pin-[de.verb]-stecken", "time": 1611176824, "event": "DRILL", "data": {"got": true}}
+{"id": "to reach-[de.verb]-reichen", "time": 1611176827, "event": "DRILL", "data": {"got": true}}
+{"id": "to be present (with)-[de.verb]-vorliegen", "time": 1611176834, "event": "DRILL", "data": {"got": true}}
+{"id": "to hang-[de.verb]-h\u00e4ngen", "time": 1611176840, "event": "DRILL", "data": {"got": true}}
+{"id": "to hold in/contain-[de.verb]-enthalten", "time": 1611176842, "event": "DRILL", "data": {"got": true}}
+{"id": "to stress/emphasise-[de.verb]-betonen", "time": 1611176844, "event": "DRILL", "data": {"got": true}}
+{"id": "to be happy-[de.verb]-freuen", "time": 1611176846, "event": "DRILL", "data": {"got": true}}
+{"id": "to look at/watch-[de.verb]-betrachten", "time": 1611176853, "event": "DRILL", "data": {"got": true}}
+{"id": "to carry through-[de.verb]-durchf\u00fchren", "time": 1611176857, "event": "DRILL", "data": {"got": true}}
+{"id": "to take on/accept-[de.verb]-\u00fcbernehmen", "time": 1611176869, "event": "DRILL", "data": {"got": false}}
+{"id": "to separate/sever-[de.verb]-trennen", "time": 1611176872, "event": "DRILL", "data": {"got": true}}
+{"id": "to set up/prepare-[de.verb]-einstellen", "time": 1611176878, "event": "DRILL", "data": {"got": true}}
+{"id": "to tell-[de.verb]-erz\u00e4hlen", "time": 1611176883, "event": "DRILL", "data": {"got": true}}
+{"id": "to smile-[de.verb]-l\u00e4cheln", "time": 1611176886, "event": "DRILL", "data": {"got": true}}
+{"id": "to sense/notice-[de.verb]-sp\u00fcren", "time": 1611176888, "event": "DRILL", "data": {"got": true}}
+{"id": "to match-[de.verb]-passen", "time": 1611176893, "event": "DRILL", "data": {"got": true}}
+{"id": "to loosen-[de.verb]-l\u00f6sen", "time": 1611176895, "event": "DRILL", "data": {"got": true}}
+{"id": "to track-[de.verb]-sp\u00fcren", "time": 1611176898, "event": "DRILL", "data": {"got": true}}
+{"id": "to choose/select/vote-[de.verb]-w\u00e4hlen", "time": 1611176901, "event": "DRILL", "data": {"got": true}}
+{"id": "to put away-[de.verb]-einstellen", "time": 1611176905, "event": "DRILL", "data": {"got": true}}
+{"id": "to build-[de.verb]-bauen", "time": 1611176908, "event": "DRILL", "data": {"got": true}}
+{"id": "to occur-[de.verb]-erfolgen", "time": 1611176913, "event": "DRILL", "data": {"got": true}}
+{"id": "to partake in-[de.verb]-beteiligen sich", "time": 1611176917, "event": "DRILL", "data": {"got": true}}
+{"id": "to look after-[de.verb]-sorgen", "time": 1611176920, "event": "DRILL", "data": {"got": true}}
+{"id": "to come forth-[de.verb]-vorkommen", "time": 1611176923, "event": "DRILL", "data": {"got": true}}
+{"id": "to take on/accept-[de.verb]-\u00fcbernehmen", "time": 1611176950, "event": "DRILL", "data": {"got": true}}
