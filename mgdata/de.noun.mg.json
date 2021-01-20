@@ -1371,12 +1371,12 @@
   },
   "Euro-[de.noun.gender]-der": {
     "priorParams": [
-      1.8657962702836595,
-      3.486651235521854,
+      3.0185725308024205,
+      3.4866512355218617,
       1127086.0135646083
     ],
-    "numDrills": 24,
-    "lastTime": 1609874841,
+    "numDrills": 25,
+    "lastTime": 1611174119,
     "lastResult": true
   },
   "the night-[de.noun.en]-Nacht": {
@@ -1751,12 +1751,12 @@
   },
   "Moment-[de.noun.gender]-der": {
     "priorParams": [
-      4.2319329384771525,
-      6.986545521330392,
+      5.395676530488744,
+      6.9865455213304815,
       594508.1070686124
     ],
-    "numDrills": 33,
-    "lastTime": 1610482323,
+    "numDrills": 34,
+    "lastTime": 1611174178,
     "lastResult": true
   },
   "the result/consequence-[de.noun.en]-Folge": {

@@ -2121,13 +2121,13 @@
   },
   "to establish/determine-[de.verb]-feststellen": {
     "priorParams": [
-      7.945305114852831,
-      8.142831255178264,
+      8.138564276607896,
+      9.01610506163549,
       43008.24636749586
     ],
-    "numDrills": 21,
-    "lastTime": 1611087516,
-    "lastResult": true
+    "numDrills": 22,
+    "lastTime": 1611173949,
+    "lastResult": false
   },
   "to disappear-[de.verb]-verschwinden": {
     "priorParams": [
@@ -2691,13 +2691,13 @@
   },
   "to suffice/be enough-[de.verb]-gen\u00fcgen": {
     "priorParams": [
-      2.502629021837536,
-      2.8391346925332988,
+      4.768408003582955,
+      2.8391346925332517,
       38140.52504513267
     ],
-    "numDrills": 6,
-    "lastTime": 1611087520,
-    "lastResult": false
+    "numDrills": 7,
+    "lastTime": 1611173938,
+    "lastResult": true
   },
   "to build up/erect-[de.verb]-aufbauen": {},
   "to confirm/endorse-[de.verb]-best\u00e4tigen": {},

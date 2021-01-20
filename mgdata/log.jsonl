@@ -2607,3 +2607,217 @@
 {"id": "just as (sth as sth)-[de.adv]-ebenso", "time": 1611088785, "event": "DRILL", "data": {"got": false}}
 {"id": "complete-[de.adj]-v\u00f6llig", "time": 1611088787, "event": "DRILL", "data": {"got": true}}
 {"id": "admittedly-[de.adv]-zwar", "time": 1611088790, "event": "DRILL", "data": {"got": true}}
+{"id": "on grounds (of)-[de.prep.gen]-aufgrund", "time": 1611172541, "event": "DRILL", "data": {"got": true}}
+{"id": "on the basis (of)-[de.prep.gen]-anhand", "time": 1611172546, "event": "DRILL", "data": {"got": true}}
+{"id": "concerning-[de.prep.gen]-bez\u00fcglich", "time": 1611173332, "event": "DRILL", "data": {"got": false}}
+{"id": "in the face (of)-[de.prep.gen]-angesichts", "time": 1611173338, "event": "DRILL", "data": {"got": true}}
+{"id": "in favour (of)-[de.prep.gen]-zugunsten", "time": 1611173341, "event": "DRILL", "data": {"got": true}}
+{"id": "on the part (of)-[de.prep.gen]-seitens", "time": 1611173347, "event": "DRILL", "data": {"got": true}}
+{"id": "in accordance (of)-[de.prep.gen]-laut*", "time": 1611173771, "event": "DRILL", "data": {"got": false}}
+{"id": "together with-[de.prep.dat]-samt", "time": 1611173774, "event": "DRILL", "data": {"got": true}}
+{"id": "according to-[de.prep.dat]-zufolge", "time": 1611173780, "event": "DRILL", "data": {"got": false}}
+{"id": "because (of)-[de.prep.gen]-wegen", "time": 1611173783, "event": "DRILL", "data": {"got": true}}
+{"id": "in place (of)-[de.prep.gen]-anstelle", "time": 1611173788, "event": "DRILL", "data": {"got": true}}
+{"id": "as a consequence (of)-[de.prep.gen]-infolge", "time": 1611173794, "event": "DRILL", "data": {"got": false}}
+{"id": "in accordance with-[de.prep.dat]-gem\u00e4\u00df", "time": 1611173811, "event": "DRILL", "data": {"got": false}}
+{"id": "on behalf (of)-[de.prep.gen]-(...) halber", "time": 1611173816, "event": "DRILL", "data": {"got": true}}
+{"id": "to; at-[de.prep.wex]-an", "time": 1611173823, "event": "DRILL", "data": {"got": true}}
+{"id": "in view (of)-[de.prep.gen]-hinsichtlich", "time": 1611173829, "event": "DRILL", "data": {"got": true}}
+{"id": "onto; on-[de.prep.wex]-auf", "time": 1611173832, "event": "DRILL", "data": {"got": true}}
+{"id": "from on-[de.prep.dat]-ab", "time": 1611173834, "event": "DRILL", "data": {"got": true}}
+{"id": "for (...'s) sake-[de.prep.gen]-um (...) willen", "time": 1611173847, "event": "DRILL", "data": {"got": true}}
+{"id": "instead (of)-[de.prep.gen]-statt*", "time": 1611173853, "event": "DRILL", "data": {"got": true}}
+{"id": "by means (of)-[de.prep.gen]-mittels", "time": 1611173860, "event": "DRILL", "data": {"got": true}}
+{"id": "outside (of)-[de.prep.gen]-au\u00dferhalb", "time": 1611173869, "event": "DRILL", "data": {"got": false}}
+{"id": "in spite (of)-[de.prep.gen]-trotz*", "time": 1611173876, "event": "DRILL", "data": {"got": false}}
+{"id": "on the other side (of)-[de.prep.gen]-jenseits", "time": 1611173883, "event": "DRILL", "data": {"got": false}}
+{"id": "according to-[de.prep.dat]-zufolge", "time": 1611173893, "event": "DRILL", "data": {"got": false}}
+{"id": "as a consequence (of)-[de.prep.gen]-infolge", "time": 1611173897, "event": "DRILL", "data": {"got": true}}
+{"id": "in accordance (of)-[de.prep.gen]-laut*", "time": 1611173908, "event": "DRILL", "data": {"got": false}}
+{"id": "concerning-[de.prep.gen]-bez\u00fcglich", "time": 1611173915, "event": "DRILL", "data": {"got": false}}
+{"id": "in accordance with-[de.prep.dat]-gem\u00e4\u00df", "time": 1611173919, "event": "DRILL", "data": {"got": false}}
+{"id": "outside (of)-[de.prep.gen]-au\u00dferhalb", "time": 1611173924, "event": "DRILL", "data": {"got": true}}
+{"id": "to suffice/be enough-[de.verb]-gen\u00fcgen", "time": 1611173938, "event": "DRILL", "data": {"got": true}}
+{"id": "to establish/determine-[de.verb]-feststellen", "time": 1611173949, "event": "DRILL", "data": {"got": false}}
+{"id": "neither - nor-[de.conj.coo]-weder* - noch*", "time": 1611173957, "event": "DRILL", "data": {"got": true}}
+{"id": "because/since-[de.conj.sub]-da", "time": 1611173962, "event": "DRILL", "data": {"got": true}}
+{"id": "for now-[de.adv]-zun\u00e4chst", "time": 1611173971, "event": "DRILL", "data": {"got": true}}
+{"id": "the one-[de.pron.demonstrative]-derjenige", "time": 1611173975, "event": "DRILL", "data": {"got": true}}
+{"id": "right away-[de.adj]-gleich", "time": 1611173988, "event": "DRILL", "data": {"got": false}}
+{"id": "however-[de.adv]-jedoch", "time": 1611174007, "event": "DRILL", "data": {"got": false}}
+{"id": "small-[de.adj]-gering", "time": 1611174011, "event": "DRILL", "data": {"got": true}}
+{"id": "common/mutual-[de.adj]-gemeinsam", "time": 1611174016, "event": "DRILL", "data": {"got": true}}
+{"id": "certainly-[de.adv]-allerdings", "time": 1611174019, "event": "DRILL", "data": {"got": true}}
+{"id": "every/each-[de.art.der]-jeder", "time": 1611174027, "event": "DRILL", "data": {"got": true}}
+{"id": "important-[de.adj]-wichtig", "time": 1611174047, "event": "DRILL", "data": {"got": true}}
+{"id": "own/characteristic-[de.adj]-eigen", "time": 1611174050, "event": "DRILL", "data": {"got": true}}
+{"id": "so that-[de.conj.sub]-damit", "time": 1611174056, "event": "DRILL", "data": {"got": true}}
+{"id": "differently-[de.adv]-anders", "time": 1611174070, "event": "DRILL", "data": {"got": false}}
+{"id": "small-[de.adj]-klein", "time": 1611174073, "event": "DRILL", "data": {"got": true}}
+{"id": "before/until-[de.conj.sub]-ehe", "time": 1611174085, "event": "DRILL", "data": {"got": false}}
+{"id": "only/sole-[de.adj]-einzig", "time": 1611174094, "event": "DRILL", "data": {"got": true}}
+{"id": "though-[de.adv]-allerdings", "time": 1611174104, "event": "DRILL", "data": {"got": false}}
+{"id": "above/up-[de.adv]-oben", "time": 1611174114, "event": "DRILL", "data": {"got": false}}
+{"id": "Euro-[de.noun.gender]-der", "time": 1611174119, "event": "DRILL", "data": {"got": true}}
+{"id": "general-[de.adj]-allgemein", "time": 1611174124, "event": "DRILL", "data": {"got": true}}
+{"id": "hardly/barely-[de.adv]-kaum", "time": 1611174128, "event": "DRILL", "data": {"got": true}}
+{"id": "just/exactly-[de.adv]-eben", "time": 1611174140, "event": "DRILL", "data": {"got": true}}
+{"id": "just/exactly-[de.adv]-gerade", "time": 1611174149, "event": "DRILL", "data": {"got": false}}
+{"id": "their-[de.art.ein]-ihr", "time": 1611174163, "event": "DRILL", "data": {"got": true}}
+{"id": "whereby (by/near what)-[de.adv]-wobei", "time": 1611174166, "event": "DRILL", "data": {"got": true}}
+{"id": "gladly (?)-[de.adv]-lieber", "time": 1611174175, "event": "DRILL", "data": {"got": false}}
+{"id": "Moment-[de.noun.gender]-der", "time": 1611174178, "event": "DRILL", "data": {"got": true}}
+{"id": "for example-[de.adv]-beispielsweise", "time": 1611174289, "event": "DRILL", "data": {"got": true}}
+{"id": "thank you-[de.adv]-danke", "time": 1611174291, "event": "DRILL", "data": {"got": true}}
+{"id": "in particular-[de.adv]-insbesondere", "time": 1611174296, "event": "DRILL", "data": {"got": true}}
+{"id": "just/only-[de.adv]-blo\u00df", "time": 1611174301, "event": "DRILL", "data": {"got": false}}
+{"id": "first-[de.adv]-zuerst", "time": 1611174305, "event": "DRILL", "data": {"got": true}}
+{"id": "there-[de.adv]-dort", "time": 1611174309, "event": "DRILL", "data": {"got": true}}
+{"id": "before-[de.adv]-vorher", "time": 1611174314, "event": "DRILL", "data": {"got": true}}
+{"id": "from sth/swh-[de.adv]-her", "time": 1611174317, "event": "DRILL", "data": {"got": true}}
+{"id": "somewhere-[de.adv]-irgendwo", "time": 1611174325, "event": "DRILL", "data": {"got": true}}
+{"id": "lastly-[de.adv]-zuletzt", "time": 1611174329, "event": "DRILL", "data": {"got": true}}
+{"id": "further-[de.adv]-weiter", "time": 1611174335, "event": "DRILL", "data": {"got": false}}
+{"id": "unfortunately-[de.adv]-leider", "time": 1611174338, "event": "DRILL", "data": {"got": true}}
+{"id": "sometimes-[de.adv]-manchmal", "time": 1611174342, "event": "DRILL", "data": {"got": false}}
+{"id": "in closing/conclusion-[de.adv]-schlie\u00dflich", "time": 1611174350, "event": "DRILL", "data": {"got": true}}
+{"id": "moreover-[de.adv]-zudem", "time": 1611174362, "event": "DRILL", "data": {"got": false}}
+{"id": "finally-[de.adv]-endlich", "time": 1611174397, "event": "DRILL", "data": {"got": false}}
+{"id": "already-[de.adv]-bereits", "time": 1611174403, "event": "DRILL", "data": {"got": false}}
+{"id": "in any case-[de.adv]-jedenfalls", "time": 1611174413, "event": "DRILL", "data": {"got": true}}
+{"id": "particularly-[de.adv]-besonders", "time": 1611174420, "event": "DRILL", "data": {"got": false}}
+{"id": "out/beyond-[de.adv]-hinaus", "time": 1611174426, "event": "DRILL", "data": {"got": false}}
+{"id": "again-[de.adv]-nochmal", "time": 1611174491, "event": "DRILL", "data": {"got": false}}
+{"id": "finally-[de.adv]-endlich", "time": 1611174494, "event": "DRILL", "data": {"got": true}}
+{"id": "likewise-[de.adv]-ebenfalls", "time": 1611174507, "event": "DRILL", "data": {"got": false}}
+{"id": "quite/fairly-[de.adv]-ziemlich", "time": 1611174513, "event": "DRILL", "data": {"got": true}}
+{"id": "just/only-[de.adv]-blo\u00df", "time": 1611174517, "event": "DRILL", "data": {"got": true}}
+{"id": "differently-[de.adv]-anders", "time": 1611174519, "event": "DRILL", "data": {"got": true}}
+{"id": "just/exactly-[de.adv]-gerade", "time": 1611174523, "event": "DRILL", "data": {"got": true}}
+{"id": "sometimes-[de.adv]-manchmal", "time": 1611174526, "event": "DRILL", "data": {"got": true}}
+{"id": "absolutely-[de.adv]-unbedingt", "time": 1611174534, "event": "DRILL", "data": {"got": false}}
+{"id": "moreover-[de.adv]-zudem", "time": 1611174539, "event": "DRILL", "data": {"got": true}}
+{"id": "further-[de.adv]-weiter", "time": 1611174543, "event": "DRILL", "data": {"got": true}}
+{"id": "gladly (?)-[de.adv]-lieber", "time": 1611174545, "event": "DRILL", "data": {"got": true}}
+{"id": "almost/nearly-[de.adv]-fast", "time": 1611174550, "event": "DRILL", "data": {"got": true}}
+{"id": "immediately-[de.adv]-sofort", "time": 1611174558, "event": "DRILL", "data": {"got": true}}
+{"id": "already-[de.adv]-bereits", "time": 1611174562, "event": "DRILL", "data": {"got": true}}
+{"id": "even/indeed-[de.adv]-sogar", "time": 1611174573, "event": "DRILL", "data": {"got": false}}
+{"id": "above/up-[de.adv]-oben", "time": 1611174575, "event": "DRILL", "data": {"got": true}}
+{"id": "however-[de.adv]-jedoch", "time": 1611174584, "event": "DRILL", "data": {"got": false}}
+{"id": "just as (sth as sth)-[de.adv]-ebenso", "time": 1611174588, "event": "DRILL", "data": {"got": true}}
+{"id": "though-[de.adv]-allerdings", "time": 1611174592, "event": "DRILL", "data": {"got": true}}
+{"id": "out/beyond-[de.adv]-hinaus", "time": 1611174609, "event": "DRILL", "data": {"got": true}}
+{"id": "absolutely-[de.adv]-unbedingt", "time": 1611174612, "event": "DRILL", "data": {"got": true}}
+{"id": "likewise-[de.adv]-ebenfalls", "time": 1611174614, "event": "DRILL", "data": {"got": true}}
+{"id": "particularly-[de.adv]-besonders", "time": 1611174618, "event": "DRILL", "data": {"got": true}}
+{"id": "again-[de.adv]-nochmal", "time": 1611174625, "event": "DRILL", "data": {"got": false}}
+{"id": "however-[de.adv]-jedoch", "time": 1611174632, "event": "DRILL", "data": {"got": true}}
+{"id": "even/indeed-[de.adv]-sogar", "time": 1611174639, "event": "DRILL", "data": {"got": true}}
+{"id": "perhaps/maybe-[de.adv]-vielleicht", "time": 1611174649, "event": "DRILL", "data": {"got": true}}
+{"id": "now-[de.adv]-jetzt", "time": 1611174654, "event": "DRILL", "data": {"got": true}}
+{"id": "here-[de.adv]-hier", "time": 1611174657, "event": "DRILL", "data": {"got": true}}
+{"id": "widely-[de.adv]-weit", "time": 1611174661, "event": "DRILL", "data": {"got": false}}
+{"id": "there-[de.adv]-da", "time": 1611174663, "event": "DRILL", "data": {"got": true}}
+{"id": "again-[de.adv]-wieder", "time": 1611174682, "event": "DRILL", "data": {"got": true}}
+{"id": "still/yet-[de.adv]-noch", "time": 1611174690, "event": "DRILL", "data": {"got": true}}
+{"id": "first-[de.adv]-erst", "time": 1611174695, "event": "DRILL", "data": {"got": false}}
+{"id": "firstly-[de.adv]-zun\u00e4chst", "time": 1611174699, "event": "DRILL", "data": {"got": true}}
+{"id": "then-[de.adv]-dann", "time": 1611174704, "event": "DRILL", "data": {"got": true}}
+{"id": "simultaneously-[de.adv]-zugleich", "time": 1611174707, "event": "DRILL", "data": {"got": true}}
+{"id": "today-[de.adv]-heute", "time": 1611174711, "event": "DRILL", "data": {"got": true}}
+{"id": "but/indeed-[de.adv]-doch", "time": 1611174714, "event": "DRILL", "data": {"got": true}}
+{"id": "now-[de.adv]-nun", "time": 1611174724, "event": "DRILL", "data": {"got": true}}
+{"id": "more-[de.adv]-mehr", "time": 1611174726, "event": "DRILL", "data": {"got": true}}
+{"id": "once-[de.adv]-einmal", "time": 1611174728, "event": "DRILL", "data": {"got": true}}
+{"id": "naturally-[de.adv]-nat\u00fcrlich", "time": 1611174732, "event": "DRILL", "data": {"got": true}}
+{"id": "so/thus/this way-[de.adv]-so", "time": 1611174736, "event": "DRILL", "data": {"got": true}}
+{"id": "so/very-[de.adv]-sehr", "time": 1611174738, "event": "DRILL", "data": {"got": true}}
+{"id": "at all-[de.adv]-gar", "time": 1611174747, "event": "DRILL", "data": {"got": false}}
+{"id": "just/only-[de.adv]-nur", "time": 1611174763, "event": "DRILL", "data": {"got": true}}
+{"id": "enough-[de.adv]-genug", "time": 1611174766, "event": "DRILL", "data": {"got": true}}
+{"id": "also-[de.adv]-auch", "time": 1611174769, "event": "DRILL", "data": {"got": true}}
+{"id": "generally-[de.adv]-\u00fcberhaupt", "time": 1611174775, "event": "DRILL", "data": {"got": false}}
+{"id": "otherwise-[de.adv]-sonst", "time": 1611174786, "event": "DRILL", "data": {"got": false}}
+{"id": "at least-[de.adv]-mindestens", "time": 1611174790, "event": "DRILL", "data": {"got": true}}
+{"id": "always-[de.adv]-immer", "time": 1611174792, "event": "DRILL", "data": {"got": true}}
+{"id": "together-[de.adv]-zusammen", "time": 1611174794, "event": "DRILL", "data": {"got": true}}
+{"id": "soon-[de.adv]-bald", "time": 1611174796, "event": "DRILL", "data": {"got": true}}
+{"id": "somehow-[de.adv]-irgendwie", "time": 1611174798, "event": "DRILL", "data": {"got": true}}
+{"id": "therefore-[de.adv]-deshalb", "time": 1611174801, "event": "DRILL", "data": {"got": true}}
+{"id": "about/approx-[de.adv]-etwa", "time": 1611174805, "event": "DRILL", "data": {"got": false}}
+{"id": "already-[de.adv]-schon", "time": 1611174808, "event": "DRILL", "data": {"got": true}}
+{"id": "mostly-[de.adv]-meist", "time": 1611174813, "event": "DRILL", "data": {"got": false}}
+{"id": "so/therefore-[de.adv]-also", "time": 1611174821, "event": "DRILL", "data": {"got": true}}
+{"id": "ever/forever-[de.adv]-je", "time": 1611174827, "event": "DRILL", "data": {"got": false}}
+{"id": "please-[de.adv]-bitte", "time": 1611174829, "event": "DRILL", "data": {"got": true}}
+{"id": "to sth/swh-[de.adv]-hin", "time": 1611174832, "event": "DRILL", "data": {"got": true}}
+{"id": "suddenly-[de.adv]-pl\u00f6tzlich", "time": 1611174842, "event": "DRILL", "data": {"got": false}}
+{"id": "yesterday-[de.adv]-gestern", "time": 1611174846, "event": "DRILL", "data": {"got": true}}
+{"id": "otherwise-[de.adv]-sonst", "time": 1611174854, "event": "DRILL", "data": {"got": true}}
+{"id": "suddenly-[de.adv]-pl\u00f6tzlich", "time": 1611174858, "event": "DRILL", "data": {"got": true}}
+{"id": "again-[de.adv]-nochmal", "time": 1611174863, "event": "DRILL", "data": {"got": true}}
+{"id": "generally-[de.adv]-\u00fcberhaupt", "time": 1611174866, "event": "DRILL", "data": {"got": true}}
+{"id": "about/approx-[de.adv]-etwa", "time": 1611174871, "event": "DRILL", "data": {"got": true}}
+{"id": "ever/forever-[de.adv]-je", "time": 1611174875, "event": "DRILL", "data": {"got": true}}
+{"id": "mostly-[de.adv]-meist", "time": 1611174877, "event": "DRILL", "data": {"got": true}}
+{"id": "at all-[de.adv]-gar", "time": 1611174879, "event": "DRILL", "data": {"got": true}}
+{"id": "first-[de.adv]-erst", "time": 1611174881, "event": "DRILL", "data": {"got": true}}
+{"id": "widely-[de.adv]-weit", "time": 1611174886, "event": "DRILL", "data": {"got": true}}
+{"id": "actually-[de.adv]-eigentlich", "time": 1611174935, "event": "DRILL", "data": {"got": false}}
+{"id": "at the moment-[de.adv]-derzeit", "time": 1611174946, "event": "DRILL", "data": {"got": true}}
+{"id": "earlier-[de.adv]-eher", "time": 1611174952, "event": "DRILL", "data": {"got": false}}
+{"id": "well-[de.adv]-wohl", "time": 1611174954, "event": "DRILL", "data": {"got": true}}
+{"id": "at least-[de.adv]-zumindest", "time": 1611174957, "event": "DRILL", "data": {"got": true}}
+{"id": "never-[de.adv]-nie", "time": 1611174958, "event": "DRILL", "data": {"got": true}}
+{"id": "why-[de.adv]-warum", "time": 1611174960, "event": "DRILL", "data": {"got": true}}
+{"id": "any/each time-[de.adv]-jeweils", "time": 1611174973, "event": "DRILL", "data": {"got": false}}
+{"id": "besides/as well-[de.adv]-au\u00dferdem", "time": 1611174978, "event": "DRILL", "data": {"got": false}}
+{"id": "in all/in total-[de.adv]-insgesamt", "time": 1611174985, "event": "DRILL", "data": {"got": false}}
+{"id": "rather/more-[de.adv]-eher", "time": 1611174989, "event": "DRILL", "data": {"got": true}}
+{"id": "nevertheless-[de.adv]-dennoch", "time": 1611174997, "event": "DRILL", "data": {"got": false}}
+{"id": "really/actually-[de.adv]-wirklich", "time": 1611175001, "event": "DRILL", "data": {"got": true}}
+{"id": "often-[de.adv]-oft", "time": 1611175003, "event": "DRILL", "data": {"got": true}}
+{"id": "nevertheless-[de.adv]-trotzdem", "time": 1611175006, "event": "DRILL", "data": {"got": true}}
+{"id": "fondly/with pleasure-[de.adv]-gern(e)", "time": 1611175010, "event": "DRILL", "data": {"got": true}}
+{"id": "formerly-[de.adv]-fr\u00fcher", "time": 1611175015, "event": "DRILL", "data": {"got": false}}
+{"id": "alone-[de.adv]-allein", "time": 1611175018, "event": "DRILL", "data": {"got": true}}
+{"id": "meanwhile-[de.adv]-inzwischen", "time": 1611175024, "event": "DRILL", "data": {"got": true}}
+{"id": "to be precise-[de.adv]-zwar", "time": 1611175030, "event": "DRILL", "data": {"got": false}}
+{"id": "just/only-[de.adv]-blo\u00df", "time": 1611175052, "event": "DRILL", "data": {"got": true}}
+{"id": "partly-[de.adv]-teilweise", "time": 1611175055, "event": "DRILL", "data": {"got": true}}
+{"id": "absolutely-[de.adv]-unbedingt", "time": 1611175059, "event": "DRILL", "data": {"got": false}}
+{"id": "likewise-[de.adv]-ebenfalls", "time": 1611175066, "event": "DRILL", "data": {"got": true}}
+{"id": "immediately-[de.adv]-sofort", "time": 1611175070, "event": "DRILL", "data": {"got": true}}
+{"id": "certainly-[de.adv]-allerdings", "time": 1611175077, "event": "DRILL", "data": {"got": true}}
+{"id": "further-[de.adv]-weiter", "time": 1611175089, "event": "DRILL", "data": {"got": false}}
+{"id": "moreover-[de.adv]-zudem", "time": 1611175095, "event": "DRILL", "data": {"got": false}}
+{"id": "down/below/under/at the bottom-[de.adv]-unten", "time": 1611175100, "event": "DRILL", "data": {"got": true}}
+{"id": "admittedly-[de.adv]-zwar", "time": 1611175114, "event": "DRILL", "data": {"got": false}}
+{"id": "almost/nearly-[de.adv]-fast", "time": 1611175127, "event": "DRILL", "data": {"got": false}}
+{"id": "differently-[de.adv]-anders", "time": 1611175130, "event": "DRILL", "data": {"got": true}}
+{"id": "even/indeed-[de.adv]-sogar", "time": 1611175136, "event": "DRILL", "data": {"got": true}}
+{"id": "again-[de.adv]-nochmal", "time": 1611175139, "event": "DRILL", "data": {"got": true}}
+{"id": "for now-[de.adv]-zun\u00e4chst", "time": 1611175150, "event": "DRILL", "data": {"got": false}}
+{"id": "before-[de.adv]-zuvor", "time": 1611175154, "event": "DRILL", "data": {"got": true}}
+{"id": "quite/fairly-[de.adv]-ziemlich", "time": 1611175167, "event": "DRILL", "data": {"got": false}}
+{"id": "until now/hitherto-[de.adv]-bisher", "time": 1611175182, "event": "DRILL", "data": {"got": false}}
+{"id": "however-[de.adv]-jedoch", "time": 1611175190, "event": "DRILL", "data": {"got": false}}
+{"id": "gladly (?)-[de.adv]-lieber", "time": 1611175195, "event": "DRILL", "data": {"got": true}}
+{"id": "any/each time-[de.adv]-jeweils", "time": 1611175204, "event": "DRILL", "data": {"got": true}}
+{"id": "besides/as well-[de.adv]-au\u00dferdem", "time": 1611175208, "event": "DRILL", "data": {"got": true}}
+{"id": "almost/nearly-[de.adv]-fast", "time": 1611175211, "event": "DRILL", "data": {"got": true}}
+{"id": "quite/fairly-[de.adv]-ziemlich", "time": 1611175214, "event": "DRILL", "data": {"got": true}}
+{"id": "actually-[de.adv]-eigentlich", "time": 1611175217, "event": "DRILL", "data": {"got": true}}
+{"id": "however-[de.adv]-jedoch", "time": 1611175219, "event": "DRILL", "data": {"got": true}}
+{"id": "to be precise-[de.adv]-zwar", "time": 1611175222, "event": "DRILL", "data": {"got": true}}
+{"id": "absolutely-[de.adv]-unbedingt", "time": 1611175226, "event": "DRILL", "data": {"got": true}}
+{"id": "until now/hitherto-[de.adv]-bisher", "time": 1611175229, "event": "DRILL", "data": {"got": true}}
+{"id": "formerly-[de.adv]-fr\u00fcher", "time": 1611175233, "event": "DRILL", "data": {"got": true}}
+{"id": "in all/in total-[de.adv]-insgesamt", "time": 1611175237, "event": "DRILL", "data": {"got": true}}
+{"id": "admittedly-[de.adv]-zwar", "time": 1611175240, "event": "DRILL", "data": {"got": true}}
+{"id": "for now-[de.adv]-zun\u00e4chst", "time": 1611175244, "event": "DRILL", "data": {"got": true}}
+{"id": "nevertheless-[de.adv]-dennoch", "time": 1611175247, "event": "DRILL", "data": {"got": true}}
+{"id": "further-[de.adv]-weiter", "time": 1611175251, "event": "DRILL", "data": {"got": true}}
+{"id": "earlier-[de.adv]-eher", "time": 1611175254, "event": "DRILL", "data": {"got": false}}
+{"id": "moreover-[de.adv]-zudem", "time": 1611175257, "event": "DRILL", "data": {"got": true}}
