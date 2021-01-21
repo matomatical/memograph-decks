@@ -6,79 +6,11 @@ def graph():
         yield (
                 Node(en, speak_str=en, speak_voice="en"),
                 Node(de, speak_str=de, speak_voice="de"),
-                "de." + topic,
+                "de.prep." + topic,
             )
 
 LINKS = """topic -- de  -- en               # notes (ignored)
-# articles
-art.der --
-    -- der              -- the              # definite article
-    -- dieser           -- this/these       # demonstrative article close
-    -- jener            -- that/those       # demonstrative article far
-    -- einiger          -- some/few a       # are these also indefinite?
-    -- mancher          -- some/many a
-    -- irgendwelcher    -- some or other
-    -- jeder            -- every/each
-    -- solcher          -- such a
-    -- welcher          -- which
-    -- sämtliche        -- every/entire     # not used in singular
-    -- alle             -- all              # not used in singular
-    -- beider           -- both             # see usage notes
-art.ein --
-    -- ein              -- an               # indefinite article
-    -- kein             -- no               # negative article
-    -- mein             -- my               # possessive articles...
-    -- dein             -- your (singular)
-    -- sein             -- his/its (m)
-    -- sein             -- its (n)
-    -- ihr              -- her/its (f)
-    -- unser            -- our
-    -- euer             -- your (plural)
-    -- ihr              -- their
-    -- Ihr              -- your (formal)
-    -- irgendein        -- someone's        # note it's irgend + ein!!
-
-
-# coordinating conjunctions
-conj.coo --
-    -- und              -- and
-    -- oder             -- or
-    -- aber             -- but/however
-    -- denn             -- because/since
-    -- sondern          -- but (on the contrary)    # negative main clause
-    -- sowohl - als     -- both - and
-    -- weder* - noch*   -- neither - nor
-    -- entweder* - oder -- either - or
-    -- nicht nur* - sondern auch -- not only - but also
-conj.sub --
-    -- dass             -- that
-    -- als              -- as/when
-    -- wenn             -- when/if
-    -- weil             -- because
-    -- ob               -- if
-    -- obwohl           -- although
-    -- falls            -- in case/if
-    -- da               -- because/since
-    -- damit            -- so that
-    -- seit             -- since (time)
-    -- nachdem          -- after
-    -- bevor            -- before
-    -- indem            -- while/during
-    -- um (zu)          -- in order (to)
-    -- ohne (zu)        -- without (to)
-    -- zumal            -- especially since
-    -- ehe              -- before/until
-    -- sowie            -- as well as/as soon as
-    -- sodass           -- so that
-    -- solange          -- so long as
-    -- sobald           -- as soon as
-    -- sofern           -- provided that
-    -- umso             -- all the
-    -- während          -- while/during
-    # TODO: classify JE - DESTO and BEZEIHUNGSWEISE
-
-
-prep.akk --
+akk --
     -- für              -- for
     -- um               -- around
     -- um               -- at (time)
@@ -90,7 +22,7 @@ prep.akk --
     -- wider            -- contrary to/against
     -- pro              -- per                  # also dat
     -- entlang          -- along                # also dat
-prep.dat --
+dat --
     -- zu               -- to
     -- von              -- from
     -- mit              -- with
@@ -105,7 +37,7 @@ prep.dat --
     -- entsprechend     -- corresponding with
     -- zufolge          -- according to
     -- samt             -- together with
-prep.wex --
+wex --
     -- in               -- into; in
     -- auf              -- onto; on
     -- an               -- to; at
@@ -115,7 +47,7 @@ prep.wex --
     -- zwischen         -- between
     -- neben            -- next to/beside
     -- hinter           -- behind
-prep.gen --
+gen --
     -- während          -- while/during
     -- wegen            -- because (of)         # also dat
     -- innerhalb        -- inside (of)
