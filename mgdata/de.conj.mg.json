@@ -221,13 +221,13 @@
   },
   "in order (to)-[de.conj.sub]-um (zu)": {
     "priorParams": [
-      3.6794212626000484,
-      2.6677419635564656,
+      3.902721363457594,
+      3.5474070995734626,
       103676.69615807125
     ],
-    "numDrills": 12,
-    "lastTime": 1610998119,
-    "lastResult": true
+    "numDrills": 13,
+    "lastTime": 1611225851,
+    "lastResult": false
   },
   "without (to)-[de.conj.sub]-ohne (zu)": {
     "priorParams": [
@@ -241,12 +241,12 @@
   },
   "especially since-[de.conj.sub]-zumal": {
     "priorParams": [
-      6.281668571338506,
-      4.629975712164975,
+      8.22967006522935,
+      4.629975712165033,
       116908.53457465378
     ],
-    "numDrills": 12,
-    "lastTime": 1610998122,
+    "numDrills": 13,
+    "lastTime": 1611225860,
     "lastResult": true
   },
   "before/until-[de.conj.sub]-ehe": {
