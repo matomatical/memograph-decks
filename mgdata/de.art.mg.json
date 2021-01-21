@@ -21,12 +21,12 @@
   },
   "that/those-[de.art.der]-jener": {
     "priorParams": [
-      2.3822390663987347,
-      1.9839114297694405,
+      2.3658451272890226,
+      2.991123620443816,
       281822.4792011548
     ],
-    "numDrills": 5,
-    "lastTime": 1610997961,
+    "numDrills": 6,
+    "lastTime": 1611260909,
     "lastResult": false
   },
   "some/few a-[de.art.der]-einiger": {
@@ -91,12 +91,12 @@
   },
   "every/entire-[de.art.der]-s\u00e4mtliche": {
     "priorParams": [
-      1.9536531696519044,
-      3.173441850594341,
+      2.7807896891573747,
+      3.173441850594371,
       317790.34512605733
     ],
-    "numDrills": 11,
-    "lastTime": 1610997936,
+    "numDrills": 12,
+    "lastTime": 1611260792,
     "lastResult": true
   },
   "all-[de.art.der]-alle": {
@@ -201,13 +201,13 @@
   },
   "your (plural)-[de.art.ein]-euer": {
     "priorParams": [
-      3.7195263596130843,
-      5.18319298136115,
+      4.359612657327962,
+      5.183192981361144,
       131829.0991406075
     ],
-    "numDrills": 22,
-    "lastTime": 1611176634,
-    "lastResult": false
+    "numDrills": 23,
+    "lastTime": 1611261016,
+    "lastResult": true
   },
   "their-[de.art.ein]-ihr": {
     "priorParams": [

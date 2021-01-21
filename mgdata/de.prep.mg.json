@@ -211,12 +211,12 @@
   },
   "in accordance with-[de.prep.dat]-gem\u00e4\u00df": {
     "priorParams": [
-      6.002181545354368,
-      6.347108484568141,
+      7.047482929608516,
+      6.347108484568575,
       33823.737854557214
     ],
-    "numDrills": 14,
-    "lastTime": 1611225692,
+    "numDrills": 15,
+    "lastTime": 1611261048,
     "lastResult": true
   },
   "corresponding with-[de.prep.dat]-entsprechend": {
@@ -231,12 +231,12 @@
   },
   "according to-[de.prep.dat]-zufolge": {
     "priorParams": [
-      7.493542876561817,
-      7.675744556468319,
+      7.728917839324432,
+      8.478174468676375,
       14031.115039588809
     ],
-    "numDrills": 12,
-    "lastTime": 1611225750,
+    "numDrills": 13,
+    "lastTime": 1611260582,
     "lastResult": false
   },
   "together with-[de.prep.dat]-samt": {
@@ -391,13 +391,13 @@
   },
   "in accordance (of)-[de.prep.gen]-laut*": {
     "priorParams": [
-      5.4392116065290645,
-      6.394343454116542,
+      5.641569721959049,
+      7.165608889535481,
       14031.115039588809
     ],
-    "numDrills": 13,
-    "lastTime": 1611225753,
-    "lastResult": true
+    "numDrills": 14,
+    "lastTime": 1611260588,
+    "lastResult": false
   },
   "outside (of)-[de.prep.gen]-au\u00dferhalb": {
     "priorParams": [
@@ -411,12 +411,12 @@
   },
   "in the face (of)-[de.prep.gen]-angesichts": {
     "priorParams": [
-      2.3258096115219917,
-      4.285375240351059,
+      3.1505584212481246,
+      4.2853752403510725,
       43008.24636749586
     ],
-    "numDrills": 13,
-    "lastTime": 1611225264,
+    "numDrills": 14,
+    "lastTime": 1611260735,
     "lastResult": true
   },
   "with the help (of)-[de.prep.gen]-mithilfe": {
@@ -461,12 +461,12 @@
   },
   "concerning-[de.prep.gen]-bez\u00fcglich": {
     "priorParams": [
-      3.254699476792896,
-      4.371519953388703,
+      6.0893724826473,
+      4.371519953388735,
       12443.057780263867
     ],
-    "numDrills": 11,
-    "lastTime": 1611225281,
+    "numDrills": 12,
+    "lastTime": 1611260553,
     "lastResult": true
   },
   "inclusive (of)-[de.prep.gen]-einschlie\u00dflich": {
@@ -491,12 +491,12 @@
   },
   "in favour (of)-[de.prep.gen]-zugunsten": {
     "priorParams": [
-      3.5009862720956333,
-      3.3041165958323884,
+      4.559887572537674,
+      3.3041165958324146,
       33823.737854557214
     ],
-    "numDrills": 12,
-    "lastTime": 1611225272,
+    "numDrills": 13,
+    "lastTime": 1611261088,
     "lastResult": true
   },
   "as a consequence (of)-[de.prep.gen]-infolge": {

@@ -281,13 +281,13 @@
   },
   "the work-[de.noun.en]-Arbeit": {
     "priorParams": [
-      1.2861249412928992,
-      1.918135966036997,
+      1.3073458612402966,
+      1.9181359660369965,
       1623539.4170187458
     ],
-    "numDrills": 5,
-    "lastTime": 1611226466,
-    "lastResult": false
+    "numDrills": 6,
+    "lastTime": 1611260919,
+    "lastResult": true
   },
   "Arbeit-[de.noun.gender]-die": {
     "priorParams": [
@@ -851,13 +851,13 @@
   },
   "the society/company-[de.noun.en]-Gesellschaft": {
     "priorParams": [
-      1.2860954970511673,
-      1.9181297052149726,
+      1.3073749311307108,
+      1.918129705214965,
       1623539.4170187458
     ],
-    "numDrills": 5,
-    "lastTime": 1611226473,
-    "lastResult": false
+    "numDrills": 6,
+    "lastTime": 1611261021,
+    "lastResult": true
   },
   "Gesellschaft-[de.noun.gender]-die": {
     "priorParams": [
@@ -2111,12 +2111,12 @@
   },
   "the position/role-[de.noun.en]-Stelle": {
     "priorParams": [
-      2.2007530874836134,
-      1.8844916661543691,
+      2.2403910442005115,
+      1.8844916661543776,
       863843.7204158901
     ],
-    "numDrills": 7,
-    "lastTime": 1611226654,
-    "lastResult": false
+    "numDrills": 8,
+    "lastTime": 1611260895,
+    "lastResult": true
   }
 }

@@ -21,22 +21,22 @@
   },
   "he/it (m)-[de.pron.personal.nom]-er": {
     "priorParams": [
-      0.7007189699187728,
-      0.9999999999999857,
+      1.5945203523777842,
+      0.9999999999999865,
       679367.9355579293
     ],
-    "numDrills": 2,
-    "lastTime": 1610653603,
+    "numDrills": 3,
+    "lastTime": 1611260823,
     "lastResult": true
   },
   "it (n)-[de.pron.personal.nom]-es": {
     "priorParams": [
-      0.7007616566552012,
-      0.9999999999999992,
+      1.594480609554231,
+      1.0000000000000067,
       679367.9355579293
     ],
-    "numDrills": 2,
-    "lastTime": 1610653633,
+    "numDrills": 3,
+    "lastTime": 1611260797,
     "lastResult": true
   },
   "she/it (f)-[de.pron.personal.nom]-sie": {
@@ -51,12 +51,12 @@
   },
   "man/one-[de.pron.personal.nom]-man": {
     "priorParams": [
-      0.7008573338230524,
-      1.0000000000000036,
+      1.5945026889006577,
+      1.0000000000000084,
       679367.9355579293
     ],
-    "numDrills": 2,
-    "lastTime": 1610653696,
+    "numDrills": 3,
+    "lastTime": 1611260810,
     "lastResult": true
   },
   "they (impersonal)-[de.pron.personal.nom]-man": {
@@ -121,12 +121,12 @@
   },
   "you (singular)-[de.pron.personal.akk]-dich": {
     "priorParams": [
-      0.7007322175266351,
-      0.9999999999999957,
+      1.5944864973799444,
+      1.0000000000000002,
       679367.9355579293
     ],
-    "numDrills": 2,
-    "lastTime": 1610653613,
+    "numDrills": 3,
+    "lastTime": 1611260801,
     "lastResult": true
   },
   "him/it (m)-[de.pron.personal.akk]-ihn": {
@@ -171,12 +171,12 @@
   },
   "us-[de.pron.personal.akk]-uns": {
     "priorParams": [
-      0.700851445997339,
-      1.000000000000001,
+      1.594560095201361,
+      1.0000000000000027,
       679367.9355579293
     ],
-    "numDrills": 2,
-    "lastTime": 1610653693,
+    "numDrills": 3,
+    "lastTime": 1611260850,
     "lastResult": true
   },
   "you (plural)-[de.pron.personal.akk]-euch": {
@@ -191,13 +191,13 @@
   },
   "them-[de.pron.personal.akk]-sie": {
     "priorParams": [
-      3.273819361710019,
-      2.8001584428940607,
+      4.749656866882266,
+      2.800158442894061,
       116908.53457465378
     ],
-    "numDrills": 8,
-    "lastTime": 1611088340,
-    "lastResult": false
+    "numDrills": 9,
+    "lastTime": 1611260878,
+    "lastResult": true
   },
   "you (formal)-[de.pron.personal.akk]-Sie": {
     "priorParams": [
@@ -241,12 +241,12 @@
   },
   "to it (n)-[de.pron.personal.dat]-ihm": {
     "priorParams": [
-      1.7036211156512442,
-      1.4361393781631824,
-      91942.4519806052
+      1.085200536216906,
+      1.4607021185800237,
+      281822.4792011548
     ],
-    "numDrills": 4,
-    "lastTime": 1611088166,
+    "numDrills": 5,
+    "lastTime": 1611260730,
     "lastResult": true
   },
   "to her/it (f)-[de.pron.personal.dat]-ihr": {
@@ -271,12 +271,12 @@
   },
   "to us-[de.pron.personal.dat]-uns": {
     "priorParams": [
-      0.7007557688294884,
-      1.0000000000000007,
+      1.594490913249208,
+      0.9999999999999943,
       679367.9355579293
     ],
-    "numDrills": 2,
-    "lastTime": 1610653629,
+    "numDrills": 3,
+    "lastTime": 1611260804,
     "lastResult": true
   },
   "to you (plural)-[de.pron.personal.dat]-euch": {
@@ -291,23 +291,23 @@
   },
   "to them-[de.pron.personal.dat]-ihnen": {
     "priorParams": [
-      2.532604826027295,
-      1.814395050338632,
-      116908.53457465375
+      1.1559763677744341,
+      1.8705646009720298,
+      358348.6446560392
     ],
-    "numDrills": 6,
-    "lastTime": 1611088513,
-    "lastResult": false
+    "numDrills": 7,
+    "lastTime": 1611260970,
+    "lastResult": true
   },
   "to you (formal)-[de.pron.personal.dat]-Ihnen": {
     "priorParams": [
-      0.7008411423023359,
-      0.9999999999999977,
-      679367.9355579293
+      1.866105364981301,
+      1.8773671463836905,
+      281822.4792011548
     ],
-    "numDrills": 2,
-    "lastTime": 1610653688,
-    "lastResult": true
+    "numDrills": 3,
+    "lastTime": 1611260873,
+    "lastResult": false
   },
   "myself-[de.pron.reflexive]-mich": {
     "priorParams": [
@@ -421,23 +421,23 @@
   },
   "mine-[de.pron.possessive]-meiner": {
     "priorParams": [
-      1.7012445462284769,
-      1.4361451817043347,
-      91942.4519806052
+      1.0836797432461642,
+      1.4607456307865796,
+      281822.4792011548
     ],
-    "numDrills": 3,
-    "lastTime": 1611088297,
-    "lastResult": false
+    "numDrills": 4,
+    "lastTime": 1611260639,
+    "lastResult": true
   },
   "yours (singular)-[de.pron.possessive]-deiner": {
     "priorParams": [
-      1.8913676728599342,
-      3.224067646617993,
+      2.273737288229953,
+      3.2240676466180016,
       91942.4519806052
     ],
-    "numDrills": 5,
-    "lastTime": 1611225845,
-    "lastResult": false
+    "numDrills": 6,
+    "lastTime": 1611261001,
+    "lastResult": true
   },
   "his/its (m)-[de.pron.possessive]-seiner": {
     "priorParams": [
@@ -521,12 +521,12 @@
   },
   "on its (n) account-[de.pron.possessive.wegen]-seinetwegen": {
     "priorParams": [
-      0.7007484090473464,
-      1.0000000000000042,
+      1.594426147166371,
+      1.0000000000000053,
       679367.9355579293
     ],
-    "numDrills": 2,
-    "lastTime": 1610653623,
+    "numDrills": 3,
+    "lastTime": 1611260759,
     "lastResult": true
   },
   "on her/its (f) account-[de.pron.possessive.wegen]-ihretwegen": {
@@ -561,12 +561,12 @@
   },
   "on your (formal) account-[de.pron.possessive.wegen]-Ihretwegen": {
     "priorParams": [
-      0.7007793201323486,
-      1.000000000000007,
+      1.5945542073756442,
+      1.0000000000000058,
       679367.9355579293
     ],
-    "numDrills": 2,
-    "lastTime": 1610653645,
+    "numDrills": 3,
+    "lastTime": 1611260847,
     "lastResult": true
   },
   "what-[de.pron.interrogative]-was": {
@@ -581,12 +581,12 @@
   },
   "who-[de.pron.interrogative]-wer": {
     "priorParams": [
-      0.70076460056806,
-      0.9999999999999992,
+      1.5945262402035012,
+      0.9999999999999991,
       679367.9355579293
     ],
-    "numDrills": 2,
-    "lastTime": 1610653635,
+    "numDrills": 3,
+    "lastTime": 1611260828,
     "lastResult": true
   },
   "whom-[de.pron.interrogative]-wen": {
@@ -611,12 +611,12 @@
   },
   "whose-[de.pron.interrogative]-wessen": {
     "priorParams": [
-      0.7007248577444931,
-      0.9999999999999986,
+      1.594573342809204,
+      0.9999999999999941,
       679367.9355579293
     ],
-    "numDrills": 2,
-    "lastTime": 1610653608,
+    "numDrills": 3,
+    "lastTime": 1611260860,
     "lastResult": true
   },
   "where-[de.pron.interrogative]-wo": {
@@ -631,12 +631,12 @@
   },
   "when-[de.pron.interrogative]-wann": {
     "priorParams": [
-      0.7007366333959207,
-      1.0000000000000022,
+      1.5945630391142318,
+      1.0000000000000129,
       679367.9355579293
     ],
-    "numDrills": 2,
-    "lastTime": 1610653616,
+    "numDrills": 3,
+    "lastTime": 1611260853,
     "lastResult": true
   },
   "how-[de.pron.interrogative]-wie": {
@@ -661,12 +661,12 @@
   },
   "which-[de.pron.interrogative]-welcher": {
     "priorParams": [
-      0.7007528249166313,
-      0.9999999999999966,
+      1.594417315427802,
+      0.9999999999999982,
       679367.9355579293
     ],
-    "numDrills": 2,
-    "lastTime": 1610653626,
+    "numDrills": 3,
+    "lastTime": 1611260753,
     "lastResult": true
   },
   "what for a/what kind of-[de.pron.interrogative]-was f\u00fcr einer": {
@@ -691,12 +691,12 @@
   },
   "whereby/by what/how-[de.pron.interrogative]-wodurch": {
     "priorParams": [
-      2.7764465126620808,
-      2.3180209825270675,
-      91942.4519806052
+      1.2763595933074448,
+      2.4268995996976956,
+      281822.4792011548
     ],
-    "numDrills": 5,
-    "lastTime": 1611088135,
+    "numDrills": 6,
+    "lastTime": 1611260566,
     "lastResult": true
   },
   "whereby/by what/near what-[de.pron.interrogative]-wobei": {
@@ -721,22 +721,22 @@
   },
   "whereon/on what-[de.pron.interrogative]-worauf": {
     "priorParams": [
-      1.5203775400341946,
-      1.4538206516402221,
-      103676.69615807127
+      0.9563381799547748,
+      1.4834336291100125,
+      317790.3451260574
     ],
-    "numDrills": 3,
-    "lastTime": 1611088371,
-    "lastResult": false
+    "numDrills": 4,
+    "lastTime": 1611260718,
+    "lastResult": true
   },
   "that-[de.pron.relative]-der(en)": {
     "priorParams": [
-      1.6990317955399425,
-      1.4357750548314479,
-      91942.4519806052
+      1.0832563726258373,
+      1.4603577113203288,
+      281822.4792011548
     ],
-    "numDrills": 4,
-    "lastTime": 1611088205,
+    "numDrills": 5,
+    "lastTime": 1611260609,
     "lastResult": true
   },
   "who-[de.pron.relative]-wer": {
@@ -751,12 +751,12 @@
   },
   "whom-[de.pron.relative]-wen": {
     "priorParams": [
-      1.702533775738578,
-      1.4361491364694763,
-      91942.4519806052
+      1.0842398010275194,
+      1.4607361517765265,
+      281822.4792011548
     ],
-    "numDrills": 4,
-    "lastTime": 1611088229,
+    "numDrills": 5,
+    "lastTime": 1611260615,
     "lastResult": true
   },
   "to whom-[de.pron.relative]-wem": {
@@ -831,12 +831,12 @@
   },
   "the one-[de.pron.demonstrative]-derjenige": {
     "priorParams": [
-      9.197543027971067,
-      4.610246145775154,
-      29995.52945587477
+      3.179421135063681,
+      4.847225177285954,
+      91942.4519806052
     ],
-    "numDrills": 12,
-    "lastTime": 1611173975,
+    "numDrills": 13,
+    "lastTime": 1611260561,
     "lastResult": true
   },
   "something-[de.pron.indefinite]-etwas": {
@@ -851,13 +851,13 @@
   },
   "nothing-[de.pron.indefinite]-nichts": {
     "priorParams": [
-      2.5329962320215946,
-      1.8144798907209285,
-      116908.53457465375
+      1.1561003875236306,
+      1.870651878925046,
+      358348.6446560392
     ],
-    "numDrills": 6,
-    "lastTime": 1611088501,
-    "lastResult": false
+    "numDrills": 7,
+    "lastTime": 1611260964,
+    "lastResult": true
   },
   "something or other-[de.pron.indefinite]-irgendetwas": {
     "priorParams": [
@@ -881,22 +881,22 @@
   },
   "someone-[de.pron.indefinite]-jemand": {
     "priorParams": [
-      3.4322889997971493,
-      3.6484145903652725,
+      3.527036869099526,
+      4.585924888927488,
       116908.53457465378
     ],
-    "numDrills": 11,
-    "lastTime": 1611088564,
-    "lastResult": true
+    "numDrills": 12,
+    "lastTime": 1611260601,
+    "lastResult": false
   },
   "someone or other-[de.pron.indefinite]-irgendjemand": {
     "priorParams": [
-      1.7010326820525339,
-      1.435862379497664,
-      91942.4519806052
+      1.0839310204681816,
+      1.46043514387218,
+      281822.4792011548
     ],
-    "numDrills": 4,
-    "lastTime": 1611088215,
+    "numDrills": 5,
+    "lastTime": 1611260635,
     "lastResult": true
   },
   "noone-[de.pron.indefinite]-niemand": {
@@ -941,12 +941,12 @@
   },
   "some/few-[de.pron.indefinite]-einiger (?)": {
     "priorParams": [
-      1.7022810399528843,
-      1.4361575924267123,
-      91942.4519806052
+      1.0842961569723195,
+      1.4607438697066797,
+      281822.4792011548
     ],
-    "numDrills": 4,
-    "lastTime": 1611088202,
+    "numDrills": 5,
+    "lastTime": 1611260628,
     "lastResult": true
   },
   "many-[de.pron.indefinite]-mancher (?)": {
@@ -971,22 +971,22 @@
   },
   "ours-[de.pron.possessive]-unserer": {
     "priorParams": [
-      1.1332695739237295,
-      1.8314008626638776,
+      1.823079146881135,
+      1.8314008626638802,
       249925.49648284746
     ],
-    "numDrills": 3,
-    "lastTime": 1611088490,
-    "lastResult": false
+    "numDrills": 4,
+    "lastTime": 1611260891,
+    "lastResult": true
   },
   "yours (plural)-[de.pron.possessive]-euerer": {
     "priorParams": [
-      1.1300073550105407,
-      1.8306113067006744,
+      1.820149026938101,
+      1.8306113067006677,
       249925.49648284746
     ],
-    "numDrills": 3,
-    "lastTime": 1611088527,
-    "lastResult": false
+    "numDrills": 4,
+    "lastTime": 1611261011,
+    "lastResult": true
   }
 }

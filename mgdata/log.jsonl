@@ -3284,3 +3284,81 @@
 {"id": "to hope-[de.verb]-hoffen", "time": 1611226897, "event": "DRILL", "data": {"got": true}}
 {"id": "to hit/strike-[de.verb]-schlagen", "time": 1611226899, "event": "DRILL", "data": {"got": true}}
 {"id": "to overdo/take on too much-[de.verb]-\u00fcbernehmen sich", "time": 1611226903, "event": "DRILL", "data": {"got": true}}
+{"id": "to confirm/endorse-[de.verb]-best\u00e4tigen", "time": 1611260514, "event": "DRILL", "data": {"got": true}}
+{"id": "to press/push-[de.verb]-dr\u00fccken", "time": 1611260520, "event": "DRILL", "data": {"got": false}}
+{"id": "to convince-[de.verb]-\u00fcberzeugen", "time": 1611260525, "event": "DRILL", "data": {"got": true}}
+{"id": "to remain silent-[de.verb]-schweigen", "time": 1611260529, "event": "DRILL", "data": {"got": true}}
+{"id": "to suffice-[de.verb]-ausreichen", "time": 1611260533, "event": "DRILL", "data": {"got": true}}
+{"id": "to drive (nail/animals/ball/etc.)-[de.verb]-treiben", "time": 1611260536, "event": "DRILL", "data": {"got": true}}
+{"id": "concerning-[de.prep.gen]-bez\u00fcglich", "time": 1611260553, "event": "DRILL", "data": {"got": true}}
+{"id": "to threaten-[de.verb]-drohen", "time": 1611260557, "event": "DRILL", "data": {"got": true}}
+{"id": "the one-[de.pron.demonstrative]-derjenige", "time": 1611260561, "event": "DRILL", "data": {"got": true}}
+{"id": "whereby/by what/how-[de.pron.interrogative]-wodurch", "time": 1611260566, "event": "DRILL", "data": {"got": true}}
+{"id": "according to-[de.prep.dat]-zufolge", "time": 1611260582, "event": "DRILL", "data": {"got": false}}
+{"id": "in accordance (of)-[de.prep.gen]-laut*", "time": 1611260588, "event": "DRILL", "data": {"got": false}}
+{"id": "someone-[de.pron.indefinite]-jemand", "time": 1611260601, "event": "DRILL", "data": {"got": false}}
+{"id": "that-[de.pron.relative]-der(en)", "time": 1611260609, "event": "DRILL", "data": {"got": true}}
+{"id": "whom-[de.pron.relative]-wen", "time": 1611260615, "event": "DRILL", "data": {"got": true}}
+{"id": "some/few-[de.pron.indefinite]-einiger (?)", "time": 1611260628, "event": "DRILL", "data": {"got": true}}
+{"id": "someone or other-[de.pron.indefinite]-irgendjemand", "time": 1611260635, "event": "DRILL", "data": {"got": true}}
+{"id": "mine-[de.pron.possessive]-meiner", "time": 1611260639, "event": "DRILL", "data": {"got": true}}
+{"id": "because/since-[de.conj.coo]-denn", "time": 1611260700, "event": "DRILL", "data": {"got": true}}
+{"id": "special/particular-[de.adj]-speziell", "time": 1611260707, "event": "DRILL", "data": {"got": true}}
+{"id": "while/during-[de.conj.sub]-w\u00e4hrend", "time": 1611260710, "event": "DRILL", "data": {"got": true}}
+{"id": "whereon/on what-[de.pron.interrogative]-worauf", "time": 1611260718, "event": "DRILL", "data": {"got": true}}
+{"id": "to it (n)-[de.pron.personal.dat]-ihm", "time": 1611260730, "event": "DRILL", "data": {"got": true}}
+{"id": "in the face (of)-[de.prep.gen]-angesichts", "time": 1611260735, "event": "DRILL", "data": {"got": true}}
+{"id": "which-[de.pron.interrogative]-welcher", "time": 1611260753, "event": "DRILL", "data": {"got": true}}
+{"id": "on its (n) account-[de.pron.possessive.wegen]-seinetwegen", "time": 1611260759, "event": "DRILL", "data": {"got": true}}
+{"id": "again-[de.adv]-nochmal", "time": 1611260777, "event": "DRILL", "data": {"got": true}}
+{"id": "entire-[de.adj]-gesamt", "time": 1611260787, "event": "DRILL", "data": {"got": false}}
+{"id": "every/entire-[de.art.der]-s\u00e4mtliche", "time": 1611260792, "event": "DRILL", "data": {"got": true}}
+{"id": "it (n)-[de.pron.personal.nom]-es", "time": 1611260797, "event": "DRILL", "data": {"got": true}}
+{"id": "you (singular)-[de.pron.personal.akk]-dich", "time": 1611260801, "event": "DRILL", "data": {"got": true}}
+{"id": "to us-[de.pron.personal.dat]-uns", "time": 1611260804, "event": "DRILL", "data": {"got": true}}
+{"id": "actual/real-[de.adj]-tats\u00e4chlich", "time": 1611260808, "event": "DRILL", "data": {"got": true}}
+{"id": "man/one-[de.pron.personal.nom]-man", "time": 1611260810, "event": "DRILL", "data": {"got": true}}
+{"id": "both - and-[de.conj.coo]-sowohl - als", "time": 1611260818, "event": "DRILL", "data": {"got": true}}
+{"id": "he/it (m)-[de.pron.personal.nom]-er", "time": 1611260823, "event": "DRILL", "data": {"got": true}}
+{"id": "who-[de.pron.interrogative]-wer", "time": 1611260828, "event": "DRILL", "data": {"got": true}}
+{"id": "after-[de.conj.sub]-nachdem", "time": 1611260833, "event": "DRILL", "data": {"got": true}}
+{"id": "on your (formal) account-[de.pron.possessive.wegen]-Ihretwegen", "time": 1611260847, "event": "DRILL", "data": {"got": true}}
+{"id": "us-[de.pron.personal.akk]-uns", "time": 1611260850, "event": "DRILL", "data": {"got": true}}
+{"id": "when-[de.pron.interrogative]-wann", "time": 1611260853, "event": "DRILL", "data": {"got": true}}
+{"id": "as/when-[de.conj.sub]-als", "time": 1611260856, "event": "DRILL", "data": {"got": true}}
+{"id": "whose-[de.pron.interrogative]-wessen", "time": 1611260860, "event": "DRILL", "data": {"got": true}}
+{"id": "to you (formal)-[de.pron.personal.dat]-Ihnen", "time": 1611260873, "event": "DRILL", "data": {"got": false}}
+{"id": "them-[de.pron.personal.akk]-sie", "time": 1611260878, "event": "DRILL", "data": {"got": true}}
+{"id": "ours-[de.pron.possessive]-unserer", "time": 1611260891, "event": "DRILL", "data": {"got": true}}
+{"id": "the position/role-[de.noun.en]-Stelle", "time": 1611260895, "event": "DRILL", "data": {"got": true}}
+{"id": "bad-[de.adj]-schlecht", "time": 1611260901, "event": "DRILL", "data": {"got": false}}
+{"id": "that/those-[de.art.der]-jener", "time": 1611260909, "event": "DRILL", "data": {"got": false}}
+{"id": "the work-[de.noun.en]-Arbeit", "time": 1611260919, "event": "DRILL", "data": {"got": true}}
+{"id": "direct-[de.adj]-direkt", "time": 1611260922, "event": "DRILL", "data": {"got": true}}
+{"id": "simultaneous-[de.adj]-gleichzeitig", "time": 1611260929, "event": "DRILL", "data": {"got": true}}
+{"id": "to press/push-[de.verb]-dr\u00fccken", "time": 1611260937, "event": "DRILL", "data": {"got": false}}
+{"id": "to enclose-[de.verb]-umfassen", "time": 1611260941, "event": "DRILL", "data": {"got": true}}
+{"id": "most-[de.adj]-meiste", "time": 1611260945, "event": "DRILL", "data": {"got": true}}
+{"id": "before/until-[de.conj.sub]-ehe", "time": 1611260960, "event": "DRILL", "data": {"got": true}}
+{"id": "nothing-[de.pron.indefinite]-nichts", "time": 1611260964, "event": "DRILL", "data": {"got": true}}
+{"id": "to them-[de.pron.personal.dat]-ihnen", "time": 1611260970, "event": "DRILL", "data": {"got": true}}
+{"id": "earlier-[de.adv]-eher", "time": 1611260980, "event": "DRILL", "data": {"got": false}}
+{"id": "right away-[de.adj]-gleich", "time": 1611260985, "event": "DRILL", "data": {"got": true}}
+{"id": "best-[de.adj]-beste", "time": 1611260988, "event": "DRILL", "data": {"got": true}}
+{"id": "yours (singular)-[de.pron.possessive]-deiner", "time": 1611261001, "event": "DRILL", "data": {"got": true}}
+{"id": "in order (to)-[de.conj.sub]-um (zu)", "time": 1611261005, "event": "DRILL", "data": {"got": true}}
+{"id": "yours (plural)-[de.pron.possessive]-euerer", "time": 1611261011, "event": "DRILL", "data": {"got": true}}
+{"id": "your (plural)-[de.art.ein]-euer", "time": 1611261016, "event": "DRILL", "data": {"got": true}}
+{"id": "the society/company-[de.noun.en]-Gesellschaft", "time": 1611261021, "event": "DRILL", "data": {"got": true}}
+{"id": "in accordance with-[de.prep.dat]-gem\u00e4\u00df", "time": 1611261048, "event": "DRILL", "data": {"got": true}}
+{"id": "clear-[de.adj]-klar", "time": 1611261053, "event": "DRILL", "data": {"got": true}}
+{"id": "sure/certain-[de.adj]-sicher", "time": 1611261056, "event": "DRILL", "data": {"got": true}}
+{"id": "additional-[de.adj]-zus\u00e4tzlich", "time": 1611261061, "event": "DRILL", "data": {"got": false}}
+{"id": "old-[de.adj]-alt", "time": 1611261063, "event": "DRILL", "data": {"got": true}}
+{"id": "entire-[de.adj]-ganz", "time": 1611261065, "event": "DRILL", "data": {"got": true}}
+{"id": "easy-[de.adj]-leicht", "time": 1611261070, "event": "DRILL", "data": {"got": true}}
+{"id": "round-[de.adj]-rund", "time": 1611261071, "event": "DRILL", "data": {"got": true}}
+{"id": "because/since-[de.conj.sub]-da", "time": 1611261078, "event": "DRILL", "data": {"got": true}}
+{"id": "whole-[de.adj]-ganz", "time": 1611261080, "event": "DRILL", "data": {"got": true}}
+{"id": "but (on the contrary)-[de.conj.coo]-sondern", "time": 1611261084, "event": "DRILL", "data": {"got": true}}
+{"id": "in favour (of)-[de.prep.gen]-zugunsten", "time": 1611261088, "event": "DRILL", "data": {"got": true}}

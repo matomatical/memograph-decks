@@ -2591,13 +2591,13 @@
   },
   "to enclose-[de.verb]-umfassen": {
     "priorParams": [
-      4.54788250673885,
-      3.8990355914856427,
+      5.101735664974609,
+      3.8990355914856543,
       61666.16456389794
     ],
-    "numDrills": 13,
-    "lastTime": 1611226787,
-    "lastResult": false
+    "numDrills": 14,
+    "lastTime": 1611260941,
+    "lastResult": true
   },
   "to support-[de.verb]-unterst\u00fctzen": {
     "priorParams": [
@@ -2711,12 +2711,12 @@
   },
   "to confirm/endorse-[de.verb]-best\u00e4tigen": {
     "priorParams": [
-      3.177122578864063,
-      2.0888135169985276,
-      1493.3894757499138
+      2.7397174587552167,
+      2.1230867726855056,
+      12443.057780263867
     ],
-    "numDrills": 4,
-    "lastTime": 1611226695,
+    "numDrills": 5,
+    "lastTime": 1611260514,
     "lastResult": true
   },
   "to examine-[de.verb]-untersuchen": {
@@ -2741,12 +2741,12 @@
   },
   "to press/push-[de.verb]-dr\u00fccken": {
     "priorParams": [
-      2.90954981014376,
-      2.2227063564271474,
+      2.747882108106894,
+      3.3714748931504226,
       1493.3894757499138
     ],
-    "numDrills": 3,
-    "lastTime": 1611226814,
+    "numDrills": 5,
+    "lastTime": 1611260937,
     "lastResult": false
   },
   "to go into (history/heaven/matrimony/etc.)-[de.verb]-eingehen": {
@@ -2771,22 +2771,22 @@
   },
   "to suffice-[de.verb]-ausreichen": {
     "priorParams": [
-      2.860783268215628,
-      3.1381213820072698,
-      1493.3894757499138
+      2.4159723968294435,
+      3.2733933924677667,
+      12443.057780263867
     ],
-    "numDrills": 5,
-    "lastTime": 1611226714,
+    "numDrills": 6,
+    "lastTime": 1611260533,
     "lastResult": true
   },
   "to remain silent-[de.verb]-schweigen": {
     "priorParams": [
-      1.5383623923833945,
-      1.2555793559522157,
-      3600
+      1.2367851307048563,
+      1.267483714230354,
+      29995.52945587477
     ],
-    "numDrills": 3,
-    "lastTime": 1611226731,
+    "numDrills": 4,
+    "lastTime": 1611260529,
     "lastResult": true
   },
   "to treat/handle-[de.verb]-behandeln": {
@@ -2801,12 +2801,12 @@
   },
   "to drive (nail/animals/ball/etc.)-[de.verb]-treiben": {
     "priorParams": [
-      3.2703129921265472,
-      2.0933395602549525,
-      1493.3894757499138
+      2.7498765035040513,
+      2.127675871916658,
+      12443.057780263867
     ],
-    "numDrills": 4,
-    "lastTime": 1611226709,
+    "numDrills": 5,
+    "lastTime": 1611260536,
     "lastResult": true
   },
   "to pursue (craft/study/hobby/etc.)-[de.verb]-treiben": {
@@ -2821,13 +2821,13 @@
   },
   "to convince-[de.verb]-\u00fcberzeugen": {
     "priorParams": [
-      2.7853675308578003,
-      2.2196523690657832,
-      1493.3894757499138
+      2.647493329108311,
+      2.2632403110653545,
+      12443.057780263867
     ],
-    "numDrills": 3,
-    "lastTime": 1611226807,
-    "lastResult": false
+    "numDrills": 4,
+    "lastTime": 1611260525,
+    "lastResult": true
   },
   "to use-[de.verb]-benutzen": {
     "priorParams": [
@@ -2841,12 +2841,12 @@
   },
   "to threaten-[de.verb]-drohen": {
     "priorParams": [
-      1.2030600904462043,
-      2.1347907883878854,
+      2.2489232103684706,
+      2.134790788387887,
       33823.737854557214
     ],
-    "numDrills": 3,
-    "lastTime": 1611225182,
+    "numDrills": 4,
+    "lastTime": 1611260557,
     "lastResult": true
   },
   "to promise-[de.verb]-versprechen": {
