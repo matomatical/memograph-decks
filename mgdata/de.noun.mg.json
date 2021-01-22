@@ -691,13 +691,13 @@
   },
   "the money-[de.noun.en]-Geld": {
     "priorParams": [
-      1.1477973932006664,
-      2.0515487593823734,
-      2348170.6878349707
+      2.67053157517461,
+      2.919412660078311,
+      974092.6090214392
     ],
-    "numDrills": 8,
-    "lastTime": 1611226605,
-    "lastResult": false
+    "numDrills": 10,
+    "lastTime": 1611351495,
+    "lastResult": true
   },
   "Geld-[de.noun.gender]-das": {
     "priorParams": [
@@ -1761,13 +1761,13 @@
   },
   "the result/consequence-[de.noun.en]-Folge": {
     "priorParams": [
-      1.3374652378454999,
-      1.9284127003004794,
-      1623539.4170187458
+      3.1489417009520735,
+      2.834336175115259,
+      673493.5219002626
     ],
-    "numDrills": 5,
-    "lastTime": 1611226583,
-    "lastResult": false
+    "numDrills": 7,
+    "lastTime": 1611351515,
+    "lastResult": true
   },
   "Folge-[de.noun.gender]-die": {
     "priorParams": [

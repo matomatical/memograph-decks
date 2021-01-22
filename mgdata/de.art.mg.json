@@ -21,22 +21,22 @@
   },
   "that/those-[de.art.der]-jener": {
     "priorParams": [
-      2.3658451272890226,
-      2.991123620443816,
+      2.6870615194540646,
+      2.991123620443826,
       281822.4792011548
     ],
-    "numDrills": 6,
-    "lastTime": 1611260909,
-    "lastResult": false
+    "numDrills": 7,
+    "lastTime": 1611351435,
+    "lastResult": true
   },
   "some/few a-[de.art.der]-einiger": {
     "priorParams": [
-      2.606925623699986,
-      2.0089909959274714,
+      2.665334066963006,
+      2.98261280521668,
       281822.4792011548
     ],
-    "numDrills": 6,
-    "lastTime": 1610997910,
+    "numDrills": 8,
+    "lastTime": 1611351404,
     "lastResult": true
   },
   "some/many a-[de.art.der]-mancher": {
@@ -61,12 +61,12 @@
   },
   "every/each-[de.art.der]-jeder": {
     "priorParams": [
-      5.5162602998176675,
-      4.535123213035452,
+      5.678415042390279,
+      5.465368771804943,
       103676.69615807125
     ],
-    "numDrills": 13,
-    "lastTime": 1611174027,
+    "numDrills": 15,
+    "lastTime": 1611351329,
     "lastResult": true
   },
   "such a-[de.art.der]-solcher": {
@@ -211,12 +211,12 @@
   },
   "their-[de.art.ein]-ihr": {
     "priorParams": [
-      6.692926113176647,
-      3.4773527173453758,
+      6.986498824247893,
+      4.403279913095443,
       81536.30265491242
     ],
-    "numDrills": 12,
-    "lastTime": 1611174163,
+    "numDrills": 14,
+    "lastTime": 1611351399,
     "lastResult": true
   },
   "your (formal)-[de.art.ein]-Ihr": {
