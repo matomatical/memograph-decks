@@ -2691,13 +2691,13 @@
   },
   "to suffice/be enough-[de.verb]-gen\u00fcgen": {
     "priorParams": [
-      4.44070876565688,
-      4.6568085103594425,
-      48497.21532198135
+      5.498571429993656,
+      5.591793155855808,
+      40552.91002795065
     ],
-    "numDrills": 11,
-    "lastTime": 1611351488,
-    "lastResult": true
+    "numDrills": 12,
+    "lastTime": 1611391960,
+    "lastResult": false
   },
   "to build up/erect-[de.verb]-aufbauen": {
     "priorParams": [
@@ -2741,12 +2741,12 @@
   },
   "to press/push-[de.verb]-dr\u00fccken": {
     "priorParams": [
-      2.003146147129479,
-      3.581961942238884,
-      33823.737854557214
+      3.530343974525872,
+      3.5651644348117464,
+      31463.466503039104
     ],
-    "numDrills": 6,
-    "lastTime": 1611350237,
+    "numDrills": 7,
+    "lastTime": 1611391953,
     "lastResult": true
   },
   "to go into (history/heaven/matrimony/etc.)-[de.verb]-eingehen": {
@@ -2771,12 +2771,12 @@
   },
   "to suffice-[de.verb]-ausreichen": {
     "priorParams": [
-      2.648433954364925,
-      3.394376471350657,
-      38140.52504513268
+      3.4393285864054675,
+      3.407480146650046,
+      40946.61280447095
     ],
-    "numDrills": 7,
-    "lastTime": 1611350242,
+    "numDrills": 8,
+    "lastTime": 1611391933,
     "lastResult": true
   },
   "to remain silent-[de.verb]-schweigen": {
@@ -2801,32 +2801,32 @@
   },
   "to drive (nail/animals/ball/etc.)-[de.verb]-treiben": {
     "priorParams": [
-      2.976309651647435,
-      2.1568476941735586,
-      38140.52504513268
+      2.3606538122051974,
+      2.1853158454418677,
+      62168.549689980406
     ],
-    "numDrills": 6,
-    "lastTime": 1611350245,
+    "numDrills": 7,
+    "lastTime": 1611391950,
     "lastResult": true
   },
   "to pursue (craft/study/hobby/etc.)-[de.verb]-treiben": {
     "priorParams": [
-      1.8198100343466768,
-      1.7151549377811979,
-      33823.737854557214
+      1.8862407067692395,
+      1.7314035714307598,
+      52088.27767991214
     ],
-    "numDrills": 4,
-    "lastTime": 1611351438,
+    "numDrills": 5,
+    "lastTime": 1611391937,
     "lastResult": true
   },
   "to convince-[de.verb]-\u00fcberzeugen": {
     "priorParams": [
-      2.9143341952733115,
-      2.299756312054309,
-      38140.52504513268
+      2.486840996301252,
+      2.3293634129745415,
+      58301.66118014525
     ],
-    "numDrills": 5,
-    "lastTime": 1611350219,
+    "numDrills": 6,
+    "lastTime": 1611391947,
     "lastResult": true
   },
   "to use-[de.verb]-benutzen": {

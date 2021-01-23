@@ -221,13 +221,13 @@
   },
   "in order (to)-[de.conj.sub]-um (zu)": {
     "priorParams": [
-      4.241794668286,
-      3.5474070995735203,
-      103676.69615807125
+      4.494287444243445,
+      4.511060646737754,
+      100120.80721594075
     ],
-    "numDrills": 14,
-    "lastTime": 1611261005,
-    "lastResult": true
+    "numDrills": 15,
+    "lastTime": 1611392025,
+    "lastResult": false
   },
   "without (to)-[de.conj.sub]-ohne (zu)": {
     "priorParams": [
@@ -251,12 +251,12 @@
   },
   "before/until-[de.conj.sub]-ehe": {
     "priorParams": [
-      6.738316554222288,
-      6.2190085897171175,
-      91942.4519806052
+      6.377766644189134,
+      6.289663475024464,
+      112529.59062290366
     ],
-    "numDrills": 16,
-    "lastTime": 1611260960,
+    "numDrills": 17,
+    "lastTime": 1611392000,
     "lastResult": true
   },
   "as well as/as soon as-[de.conj.sub]-sowie": {

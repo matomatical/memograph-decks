@@ -231,12 +231,12 @@
   },
   "according to-[de.prep.dat]-zufolge": {
     "priorParams": [
-      7.934636949790675,
-      8.762240937712203,
-      14031.115039588809
+      8.917162020173043,
+      8.84682268303825,
+      16401.793050057695
     ],
-    "numDrills": 15,
-    "lastTime": 1611351413,
+    "numDrills": 16,
+    "lastTime": 1611391988,
     "lastResult": true
   },
   "together with-[de.prep.dat]-samt": {
@@ -391,12 +391,12 @@
   },
   "in accordance (of)-[de.prep.gen]-laut*": {
     "priorParams": [
-      12.065720599896897,
-      7.165608889536355,
-      14031.115039588809
+      7.546953843983764,
+      7.334730188286334,
+      24917.64340901966
     ],
-    "numDrills": 15,
-    "lastTime": 1611350726,
+    "numDrills": 16,
+    "lastTime": 1611392015,
     "lastResult": true
   },
   "outside (of)-[de.prep.gen]-au\u00dferhalb": {
@@ -421,13 +421,13 @@
   },
   "with the help (of)-[de.prep.gen]-mithilfe": {
     "priorParams": [
-      3.486979733979683,
-      2.2282633427598046,
-      103676.69615807125
+      3.236743953807853,
+      3.193804527847475,
+      114257.89587244771
     ],
-    "numDrills": 6,
-    "lastTime": 1611225620,
-    "lastResult": true
+    "numDrills": 7,
+    "lastTime": 1611392203,
+    "lastResult": false
   },
   "on the basis (of)-[de.prep.gen]-anhand": {
     "priorParams": [
@@ -461,22 +461,22 @@
   },
   "concerning-[de.prep.gen]-bez\u00fcglich": {
     "priorParams": [
-      3.6039760188688263,
-      4.546542080466379,
-      38140.52504513268
+      4.562873082124026,
+      4.552747165579229,
+      38974.99884362832
     ],
-    "numDrills": 13,
-    "lastTime": 1611350795,
+    "numDrills": 14,
+    "lastTime": 1611392009,
     "lastResult": true
   },
   "inclusive (of)-[de.prep.gen]-einschlie\u00dflich": {
     "priorParams": [
-      3.937575029565079,
-      2.116825932476848,
-      91942.4519806052
+      2.4010696657306534,
+      2.1508190439773927,
+      203244.41735808004
     ],
-    "numDrills": 5,
-    "lastTime": 1611225625,
+    "numDrills": 6,
+    "lastTime": 1611392054,
     "lastResult": true
   },
   "on the other side (of)-[de.prep.gen]-jenseits": {
