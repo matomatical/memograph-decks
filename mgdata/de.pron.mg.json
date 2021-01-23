@@ -191,12 +191,12 @@
   },
   "them-[de.pron.personal.akk]-sie": {
     "priorParams": [
-      4.749656866882266,
-      2.800158442894061,
-      116908.53457465378
+      3.067500629136942,
+      2.8507806332713668,
+      218852.94301039053
     ],
-    "numDrills": 9,
-    "lastTime": 1611260878,
+    "numDrills": 10,
+    "lastTime": 1611436116,
     "lastResult": true
   },
   "you (formal)-[de.pron.personal.akk]-Sie": {
@@ -281,12 +281,12 @@
   },
   "to you (plural)-[de.pron.personal.dat]-euch": {
     "priorParams": [
-      2.1715320027658738,
-      2.2076214378874788,
-      358348.6446560393
+      2.3323811501757534,
+      2.227687502172948,
+      466747.3170925278
     ],
-    "numDrills": 8,
-    "lastTime": 1611088380,
+    "numDrills": 9,
+    "lastTime": 1611436139,
     "lastResult": true
   },
   "to them-[de.pron.personal.dat]-ihnen": {
@@ -371,12 +371,12 @@
   },
   "(to) herself/itself (f)-[de.pron.reflexive]-sich": {
     "priorParams": [
-      1.9171926911514652,
-      1.716750778389217,
-      281822.4792011548
+      1.898666452760941,
+      1.733759885370999,
+      449333.74927086075
     ],
-    "numDrills": 4,
-    "lastTime": 1611087904,
+    "numDrills": 5,
+    "lastTime": 1611436046,
     "lastResult": true
   },
   "(to) ourselves-[de.pron.reflexive]-uns": {
@@ -691,12 +691,12 @@
   },
   "whereby/by what/how-[de.pron.interrogative]-wodurch": {
     "priorParams": [
-      1.2763595933074448,
-      2.4268995996976956,
-      281822.4792011548
+      2.3185511690955627,
+      2.4020183995290667,
+      237285.7635628967
     ],
-    "numDrills": 6,
-    "lastTime": 1611260566,
+    "numDrills": 7,
+    "lastTime": 1611436085,
     "lastResult": true
   },
   "whereby/by what/near what-[de.pron.interrogative]-wobei": {
@@ -831,22 +831,22 @@
   },
   "the one-[de.pron.demonstrative]-derjenige": {
     "priorParams": [
-      4.1638956411285415,
-      4.847225177285934,
-      91942.4519806052
+      5.604240431974033,
+      5.733081079102589,
+      72350.99343902583
     ],
-    "numDrills": 14,
-    "lastTime": 1611351076,
-    "lastResult": true
+    "numDrills": 15,
+    "lastTime": 1611436097,
+    "lastResult": false
   },
   "something-[de.pron.indefinite]-etwas": {
     "priorParams": [
-      2.171990896612624,
-      2.203774654934693,
-      358348.6446560393
+      2.329073813005667,
+      2.223860616568318,
+      467465.1939240587
     ],
-    "numDrills": 7,
-    "lastTime": 1611088268,
+    "numDrills": 8,
+    "lastTime": 1611436130,
     "lastResult": true
   },
   "nothing-[de.pron.indefinite]-nichts": {

@@ -701,12 +701,12 @@
   },
   "complete-[de.adj]-v\u00f6llig": {
     "priorParams": [
-      5.06343576553664,
-      8.483144025502554,
-      467549.55303397507
+      8.127716691061696,
+      8.272286711860819,
+      359857.9143403754
     ],
-    "numDrills": 38,
-    "lastTime": 1611088787,
+    "numDrills": 39,
+    "lastTime": 1611436104,
     "lastResult": true
   },
   "low-[de.adj]-gering": {
@@ -951,13 +951,13 @@
   },
   "necessary-[de.adj]-notwendig": {
     "priorParams": [
-      2.4886506235293107,
-      1.953176919709942,
-      766072.9240637763
+      2.8603218514295405,
+      2.9081473883970106,
+      693367.9151197599
     ],
-    "numDrills": 8,
-    "lastTime": 1610482514,
-    "lastResult": true
+    "numDrills": 9,
+    "lastTime": 1611436122,
+    "lastResult": false
   },
   "pure/pristine-[de.adj]-rein": {
     "priorParams": [
