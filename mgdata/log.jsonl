@@ -3523,3 +3523,71 @@
 {"id": "however-[de.adv]-jedoch", "time": 1611392043, "event": "DRILL", "data": {"got": true}}
 {"id": "inclusive (of)-[de.prep.gen]-einschlie\u00dflich", "time": 1611392054, "event": "DRILL", "data": {"got": true}}
 {"id": "with the help (of)-[de.prep.gen]-mithilfe", "time": 1611392203, "event": "DRILL", "data": {"got": false}}
+{"id": "to turn/shift/spin-[de.verb]-drehen", "time": 1611392283, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to earn-[de.verb]-verdienen", "time": 1611392285, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to fly-[de.verb]-fliegen", "time": 1611392287, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to react-[de.verb]-reagieren", "time": 1611392289, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to proceed with-[de.verb]-betreiben", "time": 1611392293, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to surprise-[de.verb]-\u00fcberraschen", "time": 1611392295, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to advocate-[de.verb]-vertreten", "time": 1611392300, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to thrust/push/punch-[de.verb]-sto\u00dfen", "time": 1611392303, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to enable-[de.verb]-erm\u00f6glichen", "time": 1611392306, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to lift-[de.verb]-heben", "time": 1611392308, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to represent-[de.verb]-vertreten", "time": 1611392312, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to make/produce-[de.verb]-herstellen", "time": 1611392315, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to earn-[de.verb]-verdienen", "time": 1611392324, "event": "DRILL", "data": {"got": true}}
+{"id": "to turn/shift/spin-[de.verb]-drehen", "time": 1611392328, "event": "DRILL", "data": {"got": false}}
+{"id": "to proceed with-[de.verb]-betreiben", "time": 1611392337, "event": "DRILL", "data": {"got": false}}
+{"id": "to fly-[de.verb]-fliegen", "time": 1611392348, "event": "DRILL", "data": {"got": true}}
+{"id": "to surprise-[de.verb]-\u00fcberraschen", "time": 1611392355, "event": "DRILL", "data": {"got": false}}
+{"id": "to react-[de.verb]-reagieren", "time": 1611392358, "event": "DRILL", "data": {"got": true}}
+{"id": "to lift-[de.verb]-heben", "time": 1611392363, "event": "DRILL", "data": {"got": true}}
+{"id": "to enable-[de.verb]-erm\u00f6glichen", "time": 1611392370, "event": "DRILL", "data": {"got": false}}
+{"id": "to turn/shift/spin-[de.verb]-drehen", "time": 1611392378, "event": "DRILL", "data": {"got": false}}
+{"id": "to thrust/push/punch-[de.verb]-sto\u00dfen", "time": 1611392381, "event": "DRILL", "data": {"got": true}}
+{"id": "to advocate-[de.verb]-vertreten", "time": 1611392389, "event": "DRILL", "data": {"got": false}}
+{"id": "to represent-[de.verb]-vertreten", "time": 1611392394, "event": "DRILL", "data": {"got": true}}
+{"id": "to swap/exchange-[de.verb]-wechseln", "time": 1611392403, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to stem/come (from sth)-[de.verb]-stammen", "time": 1611392408, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to send-[de.verb]-schicken", "time": 1611392411, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to suffer-[de.verb]-leiden", "time": 1611392414, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to deliver-[de.verb]-liefern", "time": 1611392417, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to require/need-[de.verb]-ben\u00f6tigen", "time": 1611392420, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "to enable-[de.verb]-erm\u00f6glichen", "time": 1611392429, "event": "DRILL", "data": {"got": true}}
+{"id": "to turn/shift/spin-[de.verb]-drehen", "time": 1611392432, "event": "DRILL", "data": {"got": true}}
+{"id": "to advocate-[de.verb]-vertreten", "time": 1611392439, "event": "DRILL", "data": {"got": true}}
+{"id": "to surprise-[de.verb]-\u00fcberraschen", "time": 1611392443, "event": "DRILL", "data": {"got": true}}
+{"id": "to make/produce-[de.verb]-herstellen", "time": 1611392459, "event": "DRILL", "data": {"got": false}}
+{"id": "to proceed with-[de.verb]-betreiben", "time": 1611392463, "event": "DRILL", "data": {"got": false}}
+{"id": "to require/need-[de.verb]-ben\u00f6tigen", "time": 1611392469, "event": "DRILL", "data": {"got": true}}
+{"id": "to send-[de.verb]-schicken", "time": 1611392477, "event": "DRILL", "data": {"got": false}}
+{"id": "to suffer-[de.verb]-leiden", "time": 1611392480, "event": "DRILL", "data": {"got": true}}
+{"id": "to deliver-[de.verb]-liefern", "time": 1611392484, "event": "DRILL", "data": {"got": false}}
+{"id": "to stem/come (from sth)-[de.verb]-stammen", "time": 1611392486, "event": "DRILL", "data": {"got": true}}
+{"id": "to swap/exchange-[de.verb]-wechseln", "time": 1611392496, "event": "DRILL", "data": {"got": true}}
+{"id": "to proceed with-[de.verb]-betreiben", "time": 1611392517, "event": "DRILL", "data": {"got": true}}
+{"id": "to suffice/be enough-[de.verb]-gen\u00fcgen", "time": 1611392520, "event": "DRILL", "data": {"got": true}}
+{"id": "to deliver-[de.verb]-liefern", "time": 1611392524, "event": "DRILL", "data": {"got": false}}
+{"id": "to make/produce-[de.verb]-herstellen", "time": 1611392530, "event": "DRILL", "data": {"got": false}}
+{"id": "to send-[de.verb]-schicken", "time": 1611392534, "event": "DRILL", "data": {"got": true}}
+{"id": "to make/produce-[de.verb]-herstellen", "time": 1611392544, "event": "DRILL", "data": {"got": true}}
+{"id": "to deliver-[de.verb]-liefern", "time": 1611392553, "event": "DRILL", "data": {"got": false}}
+{"id": "to separate/sever-[de.verb]-trennen", "time": 1611392559, "event": "DRILL", "data": {"got": true}}
+{"id": "to confirm/endorse-[de.verb]-best\u00e4tigen", "time": 1611392563, "event": "DRILL", "data": {"got": true}}
+{"id": "to support-[de.verb]-unterst\u00fctzen", "time": 1611392567, "event": "DRILL", "data": {"got": true}}
+{"id": "to assume-[de.verb]-ausgehen", "time": 1611392570, "event": "DRILL", "data": {"got": true}}
+{"id": "to establish/determine-[de.verb]-feststellen", "time": 1611392573, "event": "DRILL", "data": {"got": true}}
+{"id": "to smile-[de.verb]-l\u00e4cheln", "time": 1611392576, "event": "DRILL", "data": {"got": true}}
+{"id": "to deliver-[de.verb]-liefern", "time": 1611392584, "event": "DRILL", "data": {"got": true}}
+{"id": "to plan-[de.verb]-planen", "time": 1611392588, "event": "DRILL", "data": {"got": true}}
+{"id": "to loosen-[de.verb]-l\u00f6sen", "time": 1611392590, "event": "DRILL", "data": {"got": true}}
+{"id": "to use-[de.verb]-verwenden", "time": 1611392594, "event": "DRILL", "data": {"got": true}}
+{"id": "to leave-[de.verb]-verlassen", "time": 1611392597, "event": "DRILL", "data": {"got": true}}
+{"id": "to arise-[de.verb]-entstehen", "time": 1611392604, "event": "DRILL", "data": {"got": true}}
+{"id": "to put away-[de.verb]-einstellen", "time": 1611392611, "event": "DRILL", "data": {"got": false}}
+{"id": "to change-[de.verb]-ver\u00e4ndern", "time": 1611392621, "event": "DRILL", "data": {"got": true}}
+{"id": "to receive-[de.verb]-kriegen", "time": 1611392626, "event": "DRILL", "data": {"got": true}}
+{"id": "to be/find oneself-[de.verb]-befinden sich", "time": 1611392629, "event": "DRILL", "data": {"got": true}}
+{"id": "to wax/grow-[de.verb]-wachsen", "time": 1611392633, "event": "DRILL", "data": {"got": true}}
+{"id": "to receive-[de.verb]-erhalten", "time": 1611392638, "event": "DRILL", "data": {"got": true}}
+{"id": "to threaten-[de.verb]-drohen", "time": 1611392642, "event": "DRILL", "data": {"got": false}}
