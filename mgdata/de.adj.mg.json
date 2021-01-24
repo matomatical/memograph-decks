@@ -131,12 +131,12 @@
   },
   "last-[de.adj]-letzte": {
     "priorParams": [
-      2.207318786799518,
-      2.5003607123989733,
-      1127086.013564608
+      2.58664449001336,
+      2.5176256925455163,
+      1328898.3614741792
     ],
-    "numDrills": 20,
-    "lastTime": 1610482511,
+    "numDrills": 21,
+    "lastTime": 1611516563,
     "lastResult": true
   },
   "like/same/equal-[de.adj]-gleich": {
@@ -751,12 +751,12 @@
   },
   "personal-[de.adj]-pers\u00f6nlich": {
     "priorParams": [
-      1.9485081926819454,
-      2.477800074788533,
-      1238598.0252595388
+      2.5242006115306603,
+      2.4873485670219893,
+      1348428.5433940024
     ],
-    "numDrills": 16,
-    "lastTime": 1610482505,
+    "numDrills": 17,
+    "lastTime": 1611516572,
     "lastResult": true
   },
   "years old-[de.adj]-j\u00e4hrig": {
@@ -951,13 +951,13 @@
   },
   "necessary-[de.adj]-notwendig": {
     "priorParams": [
-      2.8603218514295405,
-      2.9081473883970106,
-      693367.9151197599
+      2.9183070745503574,
+      2.910747392778595,
+      705005.7582899665
     ],
-    "numDrills": 9,
-    "lastTime": 1611436122,
-    "lastResult": false
+    "numDrills": 10,
+    "lastTime": 1611516232,
+    "lastResult": true
   },
   "pure/pristine-[de.adj]-rein": {
     "priorParams": [
