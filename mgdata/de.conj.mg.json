@@ -41,22 +41,22 @@
   },
   "but (on the contrary)-[de.conj.coo]-sondern": {
     "priorParams": [
-      3.45247337061254,
-      3.316115364248769,
-      289179.4157046195
+      3.4569245993880755,
+      3.353350645826985,
+      371705.32461395545
     ],
-    "numDrills": 17,
-    "lastTime": 1611261084,
+    "numDrills": 18,
+    "lastTime": 1611604401,
     "lastResult": true
   },
   "both - and-[de.conj.coo]-sowohl - als": {
     "priorParams": [
-      1.767162726333993,
-      3.023243472088057,
-      414631.77282229665
+      2.9505306149056025,
+      3.0026953964712835,
+      372142.6047729234
     ],
-    "numDrills": 13,
-    "lastTime": 1611260818,
+    "numDrills": 14,
+    "lastTime": 1611604357,
     "lastResult": true
   },
   "neither - nor-[de.conj.coo]-weder* - noch*": {
@@ -101,12 +101,12 @@
   },
   "as/when-[de.conj.sub]-als": {
     "priorParams": [
-      2.499380610453464,
-      2.966698330589626,
-      317790.34512605733
+      3.0457928297107917,
+      2.9862480964903253,
+      364930.5229721424
     ],
-    "numDrills": 11,
-    "lastTime": 1611260856,
+    "numDrills": 12,
+    "lastTime": 1611604238,
     "lastResult": true
   },
   "when/if-[de.conj.sub]-wenn": {
@@ -191,12 +191,12 @@
   },
   "after-[de.conj.sub]-nachdem": {
     "priorParams": [
-      1.8425487388942448,
-      2.722851476395569,
-      404083.2363106646
+      2.7180319828762327,
+      2.721689742090361,
+      400858.19767663995
     ],
-    "numDrills": 14,
-    "lastTime": 1611260833,
+    "numDrills": 15,
+    "lastTime": 1611604379,
     "lastResult": true
   },
   "before-[de.conj.sub]-bevor": {
@@ -301,12 +301,12 @@
   },
   "provided that-[de.conj.sub]-sofern": {
     "priorParams": [
-      2.5053927579908426,
-      1.392532509720961,
-      317790.3451260573
+      1.670303280325493,
+      1.4045994883443271,
+      803188.3529427686
     ],
-    "numDrills": 10,
-    "lastTime": 1610998190,
+    "numDrills": 11,
+    "lastTime": 1611604440,
     "lastResult": true
   },
   "all the-[de.conj.sub]-umso": {

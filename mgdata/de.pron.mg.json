@@ -161,12 +161,12 @@
   },
   "one-[de.pron.personal.akk]-einen": {
     "priorParams": [
-      6.047218526867265,
-      3.8604844034227632,
-      131829.09914060752
+      4.1411937829401975,
+      3.937475253519367,
+      231221.525850878
     ],
-    "numDrills": 10,
-    "lastTime": 1611351357,
+    "numDrills": 11,
+    "lastTime": 1611604201,
     "lastResult": true
   },
   "us-[de.pron.personal.akk]-uns": {
@@ -831,12 +831,12 @@
   },
   "the one-[de.pron.demonstrative]-derjenige": {
     "priorParams": [
-      6.647651697958657,
-      6.650988942827484,
-      63405.989865672025
+      6.769576542902399,
+      6.706959725706666,
+      72865.39269068057
     ],
-    "numDrills": 17,
-    "lastTime": 1611516294,
+    "numDrills": 18,
+    "lastTime": 1611604175,
     "lastResult": true
   },
   "something-[de.pron.indefinite]-etwas": {
@@ -931,12 +931,12 @@
   },
   "anyone/everyone?-[de.pron.indefinite]-jeder (?)": {
     "priorParams": [
-      4.133160507524238,
-      4.137453608167368,
-      81188.77119505347
+      4.249347147075399,
+      4.1748131476283685,
+      96407.49503658494
     ],
-    "numDrills": 9,
-    "lastTime": 1611516286,
+    "numDrills": 10,
+    "lastTime": 1611604475,
     "lastResult": true
   },
   "some/few-[de.pron.indefinite]-einiger (?)": {

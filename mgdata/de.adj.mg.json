@@ -581,12 +581,12 @@
   },
   "open-[de.adj]-offen": {
     "priorParams": [
-      1.9587018479567133,
-      1.9964214970229008,
-      1098412.1184482018
+      2.130786790608389,
+      2.014548501741741,
+      1484779.3678050225
     ],
-    "numDrills": 11,
-    "lastTime": 1610482527,
+    "numDrills": 12,
+    "lastTime": 1611604418,
     "lastResult": true
   },
   "most-[de.adj]-meiste": {
@@ -851,13 +851,13 @@
   },
   "simultaneous-[de.adj]-gleichzeitig": {
     "priorParams": [
-      3.7701519626426094,
-      4.9769618675082015,
-      358348.64465603925
+      5.62227108112576,
+      5.799743898809977,
+      260895.31254776366
     ],
-    "numDrills": 16,
-    "lastTime": 1611260929,
-    "lastResult": true
+    "numDrills": 17,
+    "lastTime": 1611604340,
+    "lastResult": false
   },
   "green-[de.adj]-gr\u00fcn": {
     "priorParams": [
