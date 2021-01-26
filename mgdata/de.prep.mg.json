@@ -211,12 +211,12 @@
   },
   "in accordance with-[de.prep.dat]-gem\u00e4\u00df": {
     "priorParams": [
-      7.545927255954038,
-      7.474234220973293,
-      60409.46473477617
+      7.5969538394835965,
+      7.536232659087563,
+      69070.69223494307
     ],
-    "numDrills": 19,
-    "lastTime": 1611604139,
+    "numDrills": 20,
+    "lastTime": 1611690000,
     "lastResult": true
   },
   "corresponding with-[de.prep.dat]-entsprechend": {
@@ -231,13 +231,13 @@
   },
   "according to-[de.prep.dat]-zufolge": {
     "priorParams": [
-      10.022651589619441,
-      9.909721590989145,
-      28281.349837883048
+      10.599281916252227,
+      10.61033689735173,
+      27655.532459614675
     ],
-    "numDrills": 19,
-    "lastTime": 1611602040,
-    "lastResult": true
+    "numDrills": 20,
+    "lastTime": 1611689741,
+    "lastResult": false
   },
   "together with-[de.prep.dat]-samt": {
     "priorParams": [
@@ -391,12 +391,12 @@
   },
   "in accordance (of)-[de.prep.gen]-laut*": {
     "priorParams": [
-      8.375608791298488,
-      8.274167450034755,
-      36085.82947485606
+      8.457873428716649,
+      8.37066558276166,
+      43975.347319482076
     ],
-    "numDrills": 20,
-    "lastTime": 1611602232,
+    "numDrills": 21,
+    "lastTime": 1611689716,
     "lastResult": true
   },
   "outside (of)-[de.prep.gen]-au\u00dferhalb": {

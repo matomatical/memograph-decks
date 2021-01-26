@@ -3929,3 +3929,265 @@
 {"id": "to fulfil/grant-[de.verb]-erf\u00fcllen", "time": 1611604479, "event": "DRILL", "data": {"got": true}}
 {"id": "behind-[de.prep.wex]-hinter", "time": 1611604483, "event": "DRILL", "data": {"got": true}}
 {"id": "under/below-[de.prep.wex]-unter", "time": 1611604485, "event": "DRILL", "data": {"got": true}}
+{"id": "in accordance (of)-[de.prep.gen]-laut*", "time": 1611689716, "event": "DRILL", "data": {"got": true}}
+{"id": "to advocate-[de.verb]-vertreten", "time": 1611689723, "event": "DRILL", "data": {"got": true}}
+{"id": "to send-[de.verb]-schicken", "time": 1611689731, "event": "DRILL", "data": {"got": true}}
+{"id": "to deliver-[de.verb]-liefern", "time": 1611689735, "event": "DRILL", "data": {"got": true}}
+{"id": "according to-[de.prep.dat]-zufolge", "time": 1611689741, "event": "DRILL", "data": {"got": false}}
+{"id": "to make/produce-[de.verb]-herstellen", "time": 1611689752, "event": "DRILL", "data": {"got": true}}
+{"id": "to convince-[de.verb]-\u00fcberzeugen", "time": 1611689785, "event": "DRILL", "data": {"got": true}}
+{"id": "to turn/shift/spin-[de.verb]-drehen", "time": 1611689789, "event": "DRILL", "data": {"got": true}}
+{"id": "to press/push-[de.verb]-dr\u00fccken", "time": 1611689838, "event": "DRILL", "data": {"got": false}}
+{"id": "every/each-[de.art.der]-jeder", "time": 1611689840, "event": "DRILL", "data": {"got": true}}
+{"id": "to proceed with-[de.verb]-betreiben", "time": 1611689860, "event": "DRILL", "data": {"got": false}}
+{"id": "because/since-[de.conj.sub]-da", "time": 1611689993, "event": "DRILL", "data": {"got": true}}
+{"id": "in accordance with-[de.prep.dat]-gem\u00e4\u00df", "time": 1611690000, "event": "DRILL", "data": {"got": true}}
+{"id": "to pursue (craft/study/hobby/etc.)-[de.verb]-treiben", "time": 1611690002, "event": "DRILL", "data": {"got": true}}
+{"id": "to represent-[de.verb]-vertreten", "time": 1611690023, "event": "DRILL", "data": {"got": false}}
+{"id": "in order (to)-[de.conj.sub]-um (zu)", "time": 1611690028, "event": "DRILL", "data": {"got": true}}
+{"id": "again-[de.adv]-nochmal", "time": 1611690040, "event": "DRILL", "data": {"got": false}}
+{"id": "before/until-[de.conj.sub]-ehe", "time": 1611690047, "event": "DRILL", "data": {"got": true}}
+{"id": "to proceed with-[de.verb]-betreiben", "time": 1611690079, "event": "DRILL", "data": {"got": true}}
+{"id": "to treat/handle-[de.verb]-behandeln", "time": 1611690081, "event": "DRILL", "data": {"got": true}}
+{"id": "to examine-[de.verb]-untersuchen", "time": 1611690084, "event": "DRILL", "data": {"got": true}}
+{"id": "to represent-[de.verb]-vertreten", "time": 1611690090, "event": "DRILL", "data": {"got": true}}
+{"id": "to press/push-[de.verb]-dr\u00fccken", "time": 1611690102, "event": "DRILL", "data": {"got": true}}
+{"id": "to stem/come (from sth)-[de.verb]-stammen", "time": 1611690165, "event": "DRILL", "data": {"got": true}}
+{"id": "to share in-[de.verb]-beteiligen sich", "time": 1611690171, "event": "DRILL", "data": {"got": false}}
+{"id": "to enable-[de.verb]-erm\u00f6glichen", "time": 1611690179, "event": "DRILL", "data": {"got": true}}
+{"id": "to raise/increase-[de.verb]-erh\u00f6hen", "time": 1611690183, "event": "DRILL", "data": {"got": true}}
+{"id": "to occur-[de.verb]-erfolgen", "time": 1611690197, "event": "DRILL", "data": {"got": true}}
+{"id": "to be present (with)-[de.verb]-vorliegen", "time": 1611690201, "event": "DRILL", "data": {"got": true}}
+{"id": "to swap/exchange-[de.verb]-wechseln", "time": 1611690206, "event": "DRILL", "data": {"got": true}}
+{"id": "to lift-[de.verb]-heben", "time": 1611690209, "event": "DRILL", "data": {"got": true}}
+{"id": "to thrust/push/punch-[de.verb]-sto\u00dfen", "time": 1611690220, "event": "DRILL", "data": {"got": false}}
+{"id": "to suffice/be enough-[de.verb]-gen\u00fcgen", "time": 1611690225, "event": "DRILL", "data": {"got": true}}
+{"id": "to reach-[de.verb]-reichen", "time": 1611690228, "event": "DRILL", "data": {"got": true}}
+{"id": "to fly-[de.verb]-fliegen", "time": 1611690230, "event": "DRILL", "data": {"got": true}}
+{"id": "to react-[de.verb]-reagieren", "time": 1611690233, "event": "DRILL", "data": {"got": true}}
+{"id": "to threaten-[de.verb]-drohen", "time": 1611690236, "event": "DRILL", "data": {"got": true}}
+{"id": "to earn-[de.verb]-verdienen", "time": 1611690240, "event": "DRILL", "data": {"got": true}}
+{"id": "to worry-[de.verb]-sorgen sich", "time": 1611690242, "event": "DRILL", "data": {"got": true}}
+{"id": "to take on/accept-[de.verb]-\u00fcbernehmen", "time": 1611690248, "event": "DRILL", "data": {"got": true}}
+{"id": "to establish/determine-[de.verb]-feststellen", "time": 1611690252, "event": "DRILL", "data": {"got": true}}
+{"id": "to suffer-[de.verb]-leiden", "time": 1611690255, "event": "DRILL", "data": {"got": true}}
+{"id": "to comprise-[de.verb]-umfassen", "time": 1611690260, "event": "DRILL", "data": {"got": true}}
+{"id": "to require/need-[de.verb]-ben\u00f6tigen", "time": 1611690268, "event": "DRILL", "data": {"got": true}}
+{"id": "to register-[de.verb]-melden", "time": 1611690280, "event": "DRILL", "data": {"got": true}}
+{"id": "to request/beg-[de.verb]-bitten", "time": 1611690282, "event": "DRILL", "data": {"got": true}}
+{"id": "to surprise-[de.verb]-\u00fcberraschen", "time": 1611690288, "event": "DRILL", "data": {"got": true}}
+{"id": "to address (sb)-[de.verb]-richten", "time": 1611690292, "event": "DRILL", "data": {"got": true}}
+{"id": "to leave-[de.verb]-verlassen", "time": 1611690302, "event": "DRILL", "data": {"got": true}}
+{"id": "to look at/watch-[de.verb]-betrachten", "time": 1611690307, "event": "DRILL", "data": {"got": true}}
+{"id": "to divide/share-[de.verb]-teilen", "time": 1611690310, "event": "DRILL", "data": {"got": true}}
+{"id": "to occupy/employ-[de.verb]-besch\u00e4ftigen", "time": 1611690317, "event": "DRILL", "data": {"got": true}}
+{"id": "to hang-[de.verb]-h\u00e4ngen", "time": 1611690321, "event": "DRILL", "data": {"got": true}}
+{"id": "to dure/last/take (time)-[de.verb]-dauern", "time": 1611690324, "event": "DRILL", "data": {"got": true}}
+{"id": "to partake in-[de.verb]-beteiligen sich", "time": 1611690328, "event": "DRILL", "data": {"got": true}}
+{"id": "to stress/emphasise-[de.verb]-betonen", "time": 1611690331, "event": "DRILL", "data": {"got": true}}
+{"id": "to mark/notice-[de.verb]-merken", "time": 1611690334, "event": "DRILL", "data": {"got": true}}
+{"id": "to call/name-[de.verb]-bezeichnen", "time": 1611690339, "event": "DRILL", "data": {"got": true}}
+{"id": "to demand-[de.verb]-fordern", "time": 1611690353, "event": "DRILL", "data": {"got": true}}
+{"id": "to take on/accept-[de.verb]-annehmen", "time": 1611690358, "event": "DRILL", "data": {"got": true}}
+{"id": "to be happy-[de.verb]-freuen", "time": 1611690361, "event": "DRILL", "data": {"got": true}}
+{"id": "to report-[de.verb]-melden", "time": 1611690368, "event": "DRILL", "data": {"got": true}}
+{"id": "to arrive-[de.verb]-ankommen", "time": 1611690372, "event": "DRILL", "data": {"got": true}}
+{"id": "to stash/put/pin-[de.verb]-stecken", "time": 1611690381, "event": "DRILL", "data": {"got": false}}
+{"id": "to aim/direct at-[de.verb]-richten", "time": 1611690383, "event": "DRILL", "data": {"got": true}}
+{"id": "to look after-[de.verb]-sorgen", "time": 1611690404, "event": "DRILL", "data": {"got": true}}
+{"id": "to look at/consider-[de.verb]-betrachten", "time": 1611690409, "event": "DRILL", "data": {"got": true}}
+{"id": "to work/take effect-[de.verb]-wirken", "time": 1611690411, "event": "DRILL", "data": {"got": true}}
+{"id": "to put away-[de.verb]-einstellen", "time": 1611690414, "event": "DRILL", "data": {"got": true}}
+{"id": "to be/find oneself-[de.verb]-befinden sich", "time": 1611690417, "event": "DRILL", "data": {"got": true}}
+{"id": "to suffice-[de.verb]-ausreichen", "time": 1611690422, "event": "DRILL", "data": {"got": true}}
+{"id": "to separate/sever-[de.verb]-trennen", "time": 1611690426, "event": "DRILL", "data": {"got": true}}
+{"id": "to take up-[de.verb]-aufnehmen", "time": 1611690431, "event": "DRILL", "data": {"got": true}}
+{"id": "to loan/borrow-[de.verb]-leihen", "time": 1611690435, "event": "DRILL", "data": {"got": true}}
+{"id": "to count-[de.verb]-z\u00e4hlen", "time": 1611690440, "event": "DRILL", "data": {"got": true}}
+{"id": "to sense/notice-[de.verb]-sp\u00fcren", "time": 1611690445, "event": "DRILL", "data": {"got": true}}
+{"id": "to happen-[de.verb]-geschehen", "time": 1611690449, "event": "DRILL", "data": {"got": true}}
+{"id": "to smile-[de.verb]-l\u00e4cheln", "time": 1611690452, "event": "DRILL", "data": {"got": true}}
+{"id": "to loosen-[de.verb]-l\u00f6sen", "time": 1611690458, "event": "DRILL", "data": {"got": true}}
+{"id": "to introduce-[de.verb]-vorstellen", "time": 1611690460, "event": "DRILL", "data": {"got": true}}
+{"id": "to call-[de.verb]-rufen", "time": 1611690463, "event": "DRILL", "data": {"got": true}}
+{"id": "to set up/prepare-[de.verb]-einstellen", "time": 1611690477, "event": "DRILL", "data": {"got": true}}
+{"id": "to change-[de.verb]-ver\u00e4ndern", "time": 1611690482, "event": "DRILL", "data": {"got": true}}
+{"id": "to build-[de.verb]-bauen", "time": 1611690485, "event": "DRILL", "data": {"got": true}}
+{"id": "to track-[de.verb]-sp\u00fcren", "time": 1611690491, "event": "DRILL", "data": {"got": true}}
+{"id": "to wish-[de.verb]-w\u00fcnschen", "time": 1611690499, "event": "DRILL", "data": {"got": false}}
+{"id": "to carry through-[de.verb]-durchf\u00fchren", "time": 1611690504, "event": "DRILL", "data": {"got": true}}
+{"id": "to go out-[de.verb]-ausgehen", "time": 1611690507, "event": "DRILL", "data": {"got": true}}
+{"id": "to seem/appear-[de.verb]-erscheinen", "time": 1611690519, "event": "DRILL", "data": {"got": true}}
+{"id": "to take in-[de.verb]-aufnehmen", "time": 1611690524, "event": "REVIEW", "data": {}}
+{"id": "to experience-[de.verb]-erleben", "time": 1611690528, "event": "DRILL", "data": {"got": true}}
+{"id": "to confirm/endorse-[de.verb]-best\u00e4tigen", "time": 1611690536, "event": "DRILL", "data": {"got": true}}
+{"id": "to open-[de.verb]-\u00f6ffnen", "time": 1611690542, "event": "DRILL", "data": {"got": true}}
+{"id": "to be correct/all right-[de.verb]-stimmen", "time": 1611690546, "event": "DRILL", "data": {"got": true}}
+{"id": "to hope-[de.verb]-hoffen", "time": 1611690548, "event": "DRILL", "data": {"got": true}}
+{"id": "to use-[de.verb]-verwenden", "time": 1611690553, "event": "DRILL", "data": {"got": true}}
+{"id": "to tell-[de.verb]-erz\u00e4hlen", "time": 1611690559, "event": "DRILL", "data": {"got": true}}
+{"id": "to help-[de.verb]-helfen", "time": 1611690565, "event": "DRILL", "data": {"got": true}}
+{"id": "to remember-[de.verb]-merken sich", "time": 1611690571, "event": "DRILL", "data": {"got": true}}
+{"id": "to decide-[de.verb]-entscheiden", "time": 1611690576, "event": "DRILL", "data": {"got": true}}
+{"id": "to demand-[de.verb]-verlangen", "time": 1611690585, "event": "DRILL", "data": {"got": true}}
+{"id": "to observe-[de.verb]-beobachten", "time": 1611690589, "event": "DRILL", "data": {"got": true}}
+{"id": "to gain/increase-[de.verb]-zunehmen", "time": 1611690596, "event": "DRILL", "data": {"got": true}}
+{"id": "to achieve/reach-[de.verb]-erreichen", "time": 1611690603, "event": "DRILL", "data": {"got": false}}
+{"id": "to occur-[de.verb]-stattfinden", "time": 1611690608, "event": "DRILL", "data": {"got": true}}
+{"id": "to succeed-[de.verb]-gelingen", "time": 1611690625, "event": "DRILL", "data": {"got": false}}
+{"id": "to drive (nail/animals/ball/etc.)-[de.verb]-treiben", "time": 1611690629, "event": "DRILL", "data": {"got": true}}
+{"id": "to step up/appear-[de.verb]-auftreten", "time": 1611690632, "event": "DRILL", "data": {"got": true}}
+{"id": "to get-[de.verb]-bekommen", "time": 1611690637, "event": "DRILL", "data": {"got": true}}
+{"id": "to forget-[de.verb]-vergessen", "time": 1611690644, "event": "DRILL", "data": {"got": true}}
+{"id": "to result in-[de.verb]-ergeben", "time": 1611690681, "event": "DRILL", "data": {"got": false}}
+{"id": "to imagine-[de.verb]-vorstellen", "time": 1611690691, "event": "DRILL", "data": {"got": true}}
+{"id": "to experience-[de.verb]-erfahren", "time": 1611690710, "event": "DRILL", "data": {"got": true}}
+{"id": "to move-[de.verb]-bewegen", "time": 1611690717, "event": "DRILL", "data": {"got": true}}
+{"id": "to come forth-[de.verb]-vorkommen", "time": 1611690720, "event": "DRILL", "data": {"got": true}}
+{"id": "to serve (sb/with sth)-[de.verb]-dienen", "time": 1611690722, "event": "DRILL", "data": {"got": true}}
+{"id": "to originate/develop-[de.verb]-entstehen", "time": 1611690727, "event": "DRILL", "data": {"got": true}}
+{"id": "to try/attempt-[de.verb]-versuchen", "time": 1611690730, "event": "DRILL", "data": {"got": true}}
+{"id": "to find out/hear-[de.verb]-erfahren", "time": 1611690733, "event": "DRILL", "data": {"got": true}}
+{"id": "to arise-[de.verb]-entstehen", "time": 1611690741, "event": "DRILL", "data": {"got": true}}
+{"id": "to show-[de.verb]-zeigen", "time": 1611690760, "event": "DRILL", "data": {"got": true}}
+{"id": "to support-[de.verb]-unterst\u00fctzen", "time": 1611690770, "event": "DRILL", "data": {"got": true}}
+{"id": "to change-[de.verb]-\u00e4ndern", "time": 1611690789, "event": "DRILL", "data": {"got": true}}
+{"id": "to disappear-[de.verb]-verschwinden", "time": 1611690815, "event": "DRILL", "data": {"got": false}}
+{"id": "to decide/determine/define-[de.verb]-bestimmen", "time": 1611690835, "event": "DRILL", "data": {"got": false}}
+{"id": "to look (at)-[de.verb]-schauen", "time": 1611690840, "event": "DRILL", "data": {"got": true}}
+{"id": "to tread-[de.verb]-auftreten", "time": 1611690848, "event": "DRILL", "data": {"got": false}}
+{"id": "to assume-[de.verb]-ausgehen", "time": 1611690853, "event": "DRILL", "data": {"got": true}}
+{"id": "to decide/determine/define-[de.verb]-bestimmen", "time": 1611690867, "event": "DRILL", "data": {"got": true}}
+{"id": "to wish-[de.verb]-w\u00fcnschen", "time": 1611690878, "event": "DRILL", "data": {"got": true}}
+{"id": "to stash/put/pin-[de.verb]-stecken", "time": 1611690881, "event": "DRILL", "data": {"got": true}}
+{"id": "to share in-[de.verb]-beteiligen sich", "time": 1611690885, "event": "DRILL", "data": {"got": true}}
+{"id": "to thrust/push/punch-[de.verb]-sto\u00dfen", "time": 1611690897, "event": "DRILL", "data": {"got": false}}
+{"id": "to result in-[de.verb]-ergeben", "time": 1611690901, "event": "DRILL", "data": {"got": true}}
+{"id": "to tread-[de.verb]-auftreten", "time": 1611690903, "event": "DRILL", "data": {"got": true}}
+{"id": "to disappear-[de.verb]-verschwinden", "time": 1611690917, "event": "DRILL", "data": {"got": true}}
+{"id": "to achieve/reach-[de.verb]-erreichen", "time": 1611690922, "event": "DRILL", "data": {"got": true}}
+{"id": "to succeed-[de.verb]-gelingen", "time": 1611690931, "event": "DRILL", "data": {"got": true}}
+{"id": "to enclose-[de.verb]-umfassen", "time": 1611690945, "event": "DRILL", "data": {"got": true}}
+{"id": "the town-[de.noun.en]-Ort", "time": 1611690985, "event": "DRILL", "data": {"got": true}}
+{"id": "Interesse-[de.noun.gender]-das", "time": 1611690988, "event": "DRILL", "data": {"got": true}}
+{"id": "the result-[de.noun.en]-Ergebnis", "time": 1611690995, "event": "DRILL", "data": {"got": false}}
+{"id": "Mal-[de.noun.gender]-das", "time": 1611690999, "event": "DRILL", "data": {"got": true}}
+{"id": "Ort-[de.noun.gender]-der", "time": 1611691000, "event": "DRILL", "data": {"got": true}}
+{"id": "Wort-[de.noun.gender]-das", "time": 1611691005, "event": "DRILL", "data": {"got": true}}
+{"id": "Bereich-[de.noun.gender]-der", "time": 1611691007, "event": "DRILL", "data": {"got": true}}
+{"id": "the money-[de.noun.en]-Geld", "time": 1611691009, "event": "DRILL", "data": {"got": true}}
+{"id": "Ende-[de.noun.gender]-das", "time": 1611691011, "event": "DRILL", "data": {"got": true}}
+{"id": "the conversation-[de.noun.en]-Gespr\u00e4ch", "time": 1611691016, "event": "DRILL", "data": {"got": true}}
+{"id": "Ergebnis-[de.noun.gender]-das", "time": 1611691019, "event": "DRILL", "data": {"got": true}}
+{"id": "Schule-[de.noun.gender]-die", "time": 1611691021, "event": "DRILL", "data": {"got": true}}
+{"id": "the work-[de.noun.en]-Arbeit", "time": 1611691025, "event": "DRILL", "data": {"got": true}}
+{"id": "the society/company-[de.noun.en]-Gesellschaft", "time": 1611691035, "event": "DRILL", "data": {"got": true}}
+{"id": "Moment-[de.noun.gender]-der", "time": 1611691038, "event": "DRILL", "data": {"got": true}}
+{"id": "the position/role-[de.noun.en]-Stelle", "time": 1611691045, "event": "DRILL", "data": {"got": false}}
+{"id": "Geschichte-[de.noun.gender]-die", "time": 1611691048, "event": "DRILL", "data": {"got": true}}
+{"id": "Prozent-[de.noun.gender]-das", "time": 1611691050, "event": "DRILL", "data": {"got": true}}
+{"id": "the world-[de.noun.en]-Welt", "time": 1611691054, "event": "DRILL", "data": {"got": true}}
+{"id": "the sense/meaning-[de.noun.en]-Sinn", "time": 1611691060, "event": "DRILL", "data": {"got": false}}
+{"id": "Raum-[de.noun.gender]-der", "time": 1611691067, "event": "DRILL", "data": {"got": true}}
+{"id": "Form-[de.noun.gender]-die", "time": 1611691069, "event": "DRILL", "data": {"got": true}}
+{"id": "Euro-[de.noun.gender]-der", "time": 1611691072, "event": "DRILL", "data": {"got": false}}
+{"id": "the language-[de.noun.en]-Sprache", "time": 1611691082, "event": "DRILL", "data": {"got": true}}
+{"id": "Wert-[de.noun.gender]-der", "time": 1611691085, "event": "DRILL", "data": {"got": true}}
+{"id": "the result/consequence-[de.noun.en]-Folge", "time": 1611691090, "event": "DRILL", "data": {"got": true}}
+{"id": "Folge-[de.noun.gender]-die", "time": 1611691092, "event": "DRILL", "data": {"got": true}}
+{"id": "the face-[de.noun.en]-Gesicht", "time": 1611691098, "event": "DRILL", "data": {"got": true}}
+{"id": "the grounding/basis/reason-[de.noun.en]-Grund", "time": 1611691101, "event": "DRILL", "data": {"got": true}}
+{"id": "Anfang-[de.noun.gender]-der", "time": 1611691104, "event": "DRILL", "data": {"got": true}}
+{"id": "Beispiel-[de.noun.gender]-das", "time": 1611691106, "event": "DRILL", "data": {"got": true}}
+{"id": "Ziel-[de.noun.gender]-das", "time": 1611691108, "event": "DRILL", "data": {"got": true}}
+{"id": "Teil-[de.noun.gender]-der", "time": 1611691115, "event": "DRILL", "data": {"got": false}}
+{"id": "Gespr\u00e4ch-[de.noun.gender]-das", "time": 1611691119, "event": "DRILL", "data": {"got": false}}
+{"id": "T\u00fcr-[de.noun.gender]-die", "time": 1611691121, "event": "DRILL", "data": {"got": true}}
+{"id": "the war-[de.noun.en]-Krieg", "time": 1611691123, "event": "DRILL", "data": {"got": true}}
+{"id": "the thing-[de.noun.en]-Sache", "time": 1611691131, "event": "REVIEW", "data": {}}
+{"id": "Hand-[de.noun.gender]-die", "time": 1611691136, "event": "DRILL", "data": {"got": true}}
+{"id": "Gesellschaft-[de.noun.gender]-die", "time": 1611691139, "event": "DRILL", "data": {"got": true}}
+{"id": "Art-[de.noun.gender]-die", "time": 1611691141, "event": "DRILL", "data": {"got": true}}
+{"id": "the piece/bit/part-[de.noun.en]-St\u00fcck", "time": 1611691151, "event": "DRILL", "data": {"got": true}}
+{"id": "the way/manner-[de.noun.en]-Weise", "time": 1611691154, "event": "DRILL", "data": {"got": true}}
+{"id": "Grund-[de.noun.gender]-der", "time": 1611691156, "event": "DRILL", "data": {"got": true}}
+{"id": "the history-[de.noun.en]-Geschichte", "time": 1611691169, "event": "DRILL", "data": {"got": false}}
+{"id": "St\u00fcck-[de.noun.gender]-das", "time": 1611691171, "event": "DRILL", "data": {"got": true}}
+{"id": "Land-[de.noun.gender]-das", "time": 1611691173, "event": "DRILL", "data": {"got": true}}
+{"id": "Leben-[de.noun.gender]-das", "time": 1611691176, "event": "DRILL", "data": {"got": false}}
+{"id": "the number-[de.noun.en]-Zahl", "time": 1611691181, "event": "DRILL", "data": {"got": true}}
+{"id": "Thema-[de.noun.gender]-das", "time": 1611691184, "event": "DRILL", "data": {"got": false}}
+{"id": "Staat-[de.noun.gender]-der", "time": 1611691187, "event": "DRILL", "data": {"got": true}}
+{"id": "Sache-[de.noun.gender]-die", "time": 1611691190, "event": "DRILL", "data": {"got": true}}
+{"id": "Unternehmen-[de.noun.gender]-das", "time": 1611691194, "event": "DRILL", "data": {"got": true}}
+{"id": "the development-[de.noun.en]-Entwicklung", "time": 1611691204, "event": "DRILL", "data": {"got": true}}
+{"id": "the sense/meaning-[de.noun.en]-Sinn", "time": 1611691213, "event": "DRILL", "data": {"got": true}}
+{"id": "Thema-[de.noun.gender]-das", "time": 1611691215, "event": "DRILL", "data": {"got": true}}
+{"id": "the result-[de.noun.en]-Ergebnis", "time": 1611691218, "event": "DRILL", "data": {"got": true}}
+{"id": "Euro-[de.noun.gender]-der", "time": 1611691220, "event": "DRILL", "data": {"got": true}}
+{"id": "the position/role-[de.noun.en]-Stelle", "time": 1611691222, "event": "DRILL", "data": {"got": true}}
+{"id": "Gespr\u00e4ch-[de.noun.gender]-das", "time": 1611691225, "event": "DRILL", "data": {"got": true}}
+{"id": "Leben-[de.noun.gender]-das", "time": 1611691227, "event": "DRILL", "data": {"got": true}}
+{"id": "Teil-[de.noun.gender]-der", "time": 1611691230, "event": "DRILL", "data": {"got": true}}
+{"id": "the history-[de.noun.en]-Geschichte", "time": 1611691234, "event": "DRILL", "data": {"got": true}}
+{"id": "either - or-[de.conj.coo]-entweder* - oder", "time": 1611691275, "event": "DRILL", "data": {"got": true}}
+{"id": "all the-[de.conj.sub]-umso", "time": 1611691281, "event": "DRILL", "data": {"got": true}}
+{"id": "in case/if-[de.conj.sub]-falls", "time": 1611691283, "event": "DRILL", "data": {"got": true}}
+{"id": "and-[de.conj.coo]-und", "time": 1611691285, "event": "DRILL", "data": {"got": true}}
+{"id": "as well as/as soon as-[de.conj.sub]-sowie", "time": 1611691290, "event": "DRILL", "data": {"got": true}}
+{"id": "so that-[de.conj.sub]-sodass", "time": 1611691294, "event": "DRILL", "data": {"got": true}}
+{"id": "because/since-[de.conj.coo]-denn", "time": 1611691305, "event": "DRILL", "data": {"got": true}}
+{"id": "when/if-[de.conj.sub]-wenn", "time": 1611691309, "event": "DRILL", "data": {"got": true}}
+{"id": "if-[de.conj.sub]-ob", "time": 1611691311, "event": "DRILL", "data": {"got": true}}
+{"id": "especially since-[de.conj.sub]-zumal", "time": 1611691314, "event": "DRILL", "data": {"got": true}}
+{"id": "or-[de.conj.coo]-oder", "time": 1611691316, "event": "DRILL", "data": {"got": true}}
+{"id": "although-[de.conj.sub]-obwohl", "time": 1611691319, "event": "DRILL", "data": {"got": true}}
+{"id": "not only - but also-[de.conj.coo]-nicht nur* - sondern auch", "time": 1611691328, "event": "DRILL", "data": {"got": false}}
+{"id": "since (time)-[de.conj.sub]-seit", "time": 1611691333, "event": "DRILL", "data": {"got": true}}
+{"id": "because-[de.conj.sub]-weil", "time": 1611691349, "event": "DRILL", "data": {"got": true}}
+{"id": "that-[de.conj.sub]-dass", "time": 1611691352, "event": "DRILL", "data": {"got": true}}
+{"id": "while/during-[de.conj.sub]-w\u00e4hrend", "time": 1611691360, "event": "DRILL", "data": {"got": true}}
+{"id": "as soon as-[de.conj.sub]-sobald", "time": 1611691362, "event": "DRILL", "data": {"got": true}}
+{"id": "but/however-[de.conj.coo]-aber", "time": 1611691370, "event": "DRILL", "data": {"got": true}}
+{"id": "so that-[de.conj.sub]-damit", "time": 1611691374, "event": "DRILL", "data": {"got": true}}
+{"id": "while/during-[de.conj.sub]-indem", "time": 1611691377, "event": "DRILL", "data": {"got": true}}
+{"id": "neither - nor-[de.conj.coo]-weder* - noch*", "time": 1611691387, "event": "DRILL", "data": {"got": true}}
+{"id": "without (to)-[de.conj.sub]-ohne (zu)", "time": 1611691392, "event": "DRILL", "data": {"got": true}}
+{"id": "so long as-[de.conj.sub]-solange", "time": 1611691397, "event": "DRILL", "data": {"got": false}}
+{"id": "before-[de.conj.sub]-bevor", "time": 1611691402, "event": "DRILL", "data": {"got": false}}
+{"id": "because/since-[de.conj.sub]-da", "time": 1611691419, "event": "DRILL", "data": {"got": true}}
+{"id": "both - and-[de.conj.coo]-sowohl - als", "time": 1611691426, "event": "DRILL", "data": {"got": true}}
+{"id": "provided that-[de.conj.sub]-sofern", "time": 1611691430, "event": "DRILL", "data": {"got": true}}
+{"id": "but (on the contrary)-[de.conj.coo]-sondern", "time": 1611691434, "event": "DRILL", "data": {"got": true}}
+{"id": "after-[de.conj.sub]-nachdem", "time": 1611691438, "event": "DRILL", "data": {"got": true}}
+{"id": "as/when-[de.conj.sub]-als", "time": 1611691440, "event": "DRILL", "data": {"got": true}}
+{"id": "not only - but also-[de.conj.coo]-nicht nur* - sondern auch", "time": 1611691449, "event": "DRILL", "data": {"got": true}}
+{"id": "so long as-[de.conj.sub]-solange", "time": 1611691451, "event": "DRILL", "data": {"got": true}}
+{"id": "before-[de.conj.sub]-bevor", "time": 1611691453, "event": "DRILL", "data": {"got": true}}
+{"id": "your (plural)-[de.art.ein]-euer", "time": 1611691626, "event": "DRILL", "data": {"got": true}}
+{"id": "the-[de.art.der]-der", "time": 1611691630, "event": "DRILL", "data": {"got": true}}
+{"id": "its (n)-[de.art.ein]-sein", "time": 1611691634, "event": "DRILL", "data": {"got": true}}
+{"id": "your (singular)-[de.art.ein]-dein", "time": 1611691638, "event": "DRILL", "data": {"got": true}}
+{"id": "your (formal)-[de.art.ein]-Ihr", "time": 1611691646, "event": "DRILL", "data": {"got": false}}
+{"id": "that/those-[de.art.der]-jener", "time": 1611691651, "event": "DRILL", "data": {"got": true}}
+{"id": "every/entire-[de.art.der]-s\u00e4mtliche", "time": 1611691658, "event": "DRILL", "data": {"got": true}}
+{"id": "my-[de.art.ein]-mein", "time": 1611691660, "event": "DRILL", "data": {"got": true}}
+{"id": "some/few a-[de.art.der]-einiger", "time": 1611691666, "event": "DRILL", "data": {"got": true}}
+{"id": "this/these-[de.art.der]-dieser", "time": 1611691668, "event": "DRILL", "data": {"got": true}}
+{"id": "their-[de.art.ein]-ihr", "time": 1611691674, "event": "DRILL", "data": {"got": true}}
+{"id": "someone's-[de.art.ein]-irgendein", "time": 1611691678, "event": "DRILL", "data": {"got": true}}
+{"id": "every/each-[de.art.der]-jeder", "time": 1611691682, "event": "DRILL", "data": {"got": true}}
+{"id": "all-[de.art.der]-alle", "time": 1611691685, "event": "DRILL", "data": {"got": true}}
+{"id": "an-[de.art.ein]-ein", "time": 1611691687, "event": "DRILL", "data": {"got": true}}
+{"id": "some or other-[de.art.der]-irgendwelcher", "time": 1611691691, "event": "DRILL", "data": {"got": true}}
+{"id": "his/its (m)-[de.art.ein]-sein", "time": 1611691693, "event": "DRILL", "data": {"got": true}}
+{"id": "her/its (f)-[de.art.ein]-ihr", "time": 1611691697, "event": "DRILL", "data": {"got": true}}
+{"id": "our-[de.art.ein]-unser", "time": 1611691699, "event": "DRILL", "data": {"got": true}}
+{"id": "both-[de.art.der]-beider", "time": 1611691701, "event": "DRILL", "data": {"got": true}}
+{"id": "some/many a-[de.art.der]-mancher", "time": 1611691707, "event": "DRILL", "data": {"got": true}}
+{"id": "which-[de.art.der]-welcher", "time": 1611691710, "event": "DRILL", "data": {"got": true}}
+{"id": "no-[de.art.ein]-kein", "time": 1611691715, "event": "DRILL", "data": {"got": false}}
+{"id": "such a-[de.art.der]-solcher", "time": 1611691719, "event": "DRILL", "data": {"got": false}}
+{"id": "your (formal)-[de.art.ein]-Ihr", "time": 1611691730, "event": "DRILL", "data": {"got": true}}
+{"id": "no-[de.art.ein]-kein", "time": 1611691732, "event": "DRILL", "data": {"got": true}}
+{"id": "such a-[de.art.der]-solcher", "time": 1611691734, "event": "DRILL", "data": {"got": true}}
