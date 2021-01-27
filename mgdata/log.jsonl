@@ -4191,3 +4191,203 @@
 {"id": "your (formal)-[de.art.ein]-Ihr", "time": 1611691730, "event": "DRILL", "data": {"got": true}}
 {"id": "no-[de.art.ein]-kein", "time": 1611691732, "event": "DRILL", "data": {"got": true}}
 {"id": "such a-[de.art.der]-solcher", "time": 1611691734, "event": "DRILL", "data": {"got": true}}
+{"id": "to deliver-[de.verb]-liefern", "time": 1611784982, "event": "DRILL", "data": {"got": true}}
+{"id": "concerning-[de.prep.gen]-bez\u00fcglich", "time": 1611785010, "event": "DRILL", "data": {"got": false}}
+{"id": "to advocate-[de.verb]-vertreten", "time": 1611785021, "event": "DRILL", "data": {"got": true}}
+{"id": "according to-[de.prep.dat]-zufolge", "time": 1611785027, "event": "DRILL", "data": {"got": false}}
+{"id": "from on-[de.prep.dat]-ab", "time": 1611785029, "event": "DRILL", "data": {"got": true}}
+{"id": "the one-[de.pron.demonstrative]-derjenige", "time": 1611785038, "event": "DRILL", "data": {"got": false}}
+{"id": "to; at-[de.prep.wex]-an", "time": 1611785043, "event": "DRILL", "data": {"got": true}}
+{"id": "to proceed with-[de.verb]-betreiben", "time": 1611785058, "event": "DRILL", "data": {"got": false}}
+{"id": "in accordance (of)-[de.prep.gen]-laut*", "time": 1611785062, "event": "DRILL", "data": {"got": true}}
+{"id": "to thrust/push/punch-[de.verb]-sto\u00dfen", "time": 1611785076, "event": "DRILL", "data": {"got": true}}
+{"id": "to represent-[de.verb]-vertreten", "time": 1611785089, "event": "DRILL", "data": {"got": false}}
+{"id": "yours (singular)-[de.pron.possessive]-deiner", "time": 1611785097, "event": "REVIEW", "data": {}}
+{"id": "yours (plural)-[de.pron.possessive]-euerer", "time": 1611785111, "event": "DRILL", "data": {"got": true}}
+{"id": "onto; on-[de.prep.wex]-auf", "time": 1611785116, "event": "DRILL", "data": {"got": true}}
+{"id": "to them-[de.pron.personal.dat]-ihnen", "time": 1611785121, "event": "DRILL", "data": {"got": true}}
+{"id": "again-[de.adv]-nochmal", "time": 1611785125, "event": "DRILL", "data": {"got": true}}
+{"id": "whereon/on what-[de.pron.interrogative]-worauf", "time": 1611785130, "event": "DRILL", "data": {"got": true}}
+{"id": "ours-[de.pron.possessive]-unserer", "time": 1611785134, "event": "DRILL", "data": {"got": true}}
+{"id": "to proceed with-[de.verb]-betreiben", "time": 1611785139, "event": "DRILL", "data": {"got": true}}
+{"id": "any/each time-[de.adv]-jeweils", "time": 1611785144, "event": "DRILL", "data": {"got": true}}
+{"id": "particularly-[de.adv]-besonders", "time": 1611785146, "event": "DRILL", "data": {"got": true}}
+{"id": "its (n)-[de.pron.possessive]-seiner", "time": 1611785151, "event": "DRILL", "data": {"got": true}}
+{"id": "simultaneous-[de.adj]-gleichzeitig", "time": 1611785157, "event": "DRILL", "data": {"got": true}}
+{"id": "according to-[de.prep.dat]-zufolge", "time": 1611785159, "event": "DRILL", "data": {"got": true}}
+{"id": "concerning-[de.prep.gen]-bez\u00fcglich", "time": 1611785173, "event": "DRILL", "data": {"got": true}}
+{"id": "to represent-[de.verb]-vertreten", "time": 1611785179, "event": "DRILL", "data": {"got": false}}
+{"id": "the one-[de.pron.demonstrative]-derjenige", "time": 1611785183, "event": "DRILL", "data": {"got": true}}
+{"id": "to represent-[de.verb]-vertreten", "time": 1611785187, "event": "DRILL", "data": {"got": true}}
+{"id": "to send-[de.verb]-schicken", "time": 1611785204, "event": "DRILL", "data": {"got": true}}
+{"id": "to make/produce-[de.verb]-herstellen", "time": 1611785215, "event": "DRILL", "data": {"got": true}}
+{"id": "to turn/shift/spin-[de.verb]-drehen", "time": 1611785221, "event": "DRILL", "data": {"got": false}}
+{"id": "to cover-[de.verb]-beziehen", "time": 1611785224, "event": "DRILL", "data": {"got": true}}
+{"id": "to achieve-[de.verb]-leisten", "time": 1611785227, "event": "DRILL", "data": {"got": true}}
+{"id": "to press/push-[de.verb]-dr\u00fccken", "time": 1611785233, "event": "DRILL", "data": {"got": false}}
+{"id": "to enable-[de.verb]-erm\u00f6glichen", "time": 1611785244, "event": "DRILL", "data": {"got": true}}
+{"id": "to establish/determine-[de.verb]-feststellen", "time": 1611785247, "event": "DRILL", "data": {"got": true}}
+{"id": "to report-[de.verb]-berichten", "time": 1611785254, "event": "DRILL", "data": {"got": true}}
+{"id": "to threaten-[de.verb]-drohen", "time": 1611785259, "event": "DRILL", "data": {"got": true}}
+{"id": "to suit as-[de.verb]-eignen sich", "time": 1611785265, "event": "DRILL", "data": {"got": true}}
+{"id": "to suffice/be enough-[de.verb]-gen\u00fcgen", "time": 1611785268, "event": "DRILL", "data": {"got": true}}
+{"id": "to choose/select/vote-[de.verb]-w\u00e4hlen", "time": 1611785275, "event": "DRILL", "data": {"got": true}}
+{"id": "to surprise-[de.verb]-\u00fcberraschen", "time": 1611785280, "event": "DRILL", "data": {"got": true}}
+{"id": "to swap/exchange-[de.verb]-wechseln", "time": 1611785289, "event": "DRILL", "data": {"got": false}}
+{"id": "to behave-[de.verb]-verhalten sich", "time": 1611785294, "event": "DRILL", "data": {"got": true}}
+{"id": "to receive-[de.verb]-erhalten", "time": 1611785304, "event": "DRILL", "data": {"got": false}}
+{"id": "to suffice-[de.verb]-ausreichen", "time": 1611785307, "event": "DRILL", "data": {"got": true}}
+{"id": "fast-[de.adj]-schnell", "time": 1611785517, "event": "DRILL", "data": {"got": true}}
+{"id": "bad-[de.adj]-schlecht", "time": 1611785520, "event": "DRILL", "data": {"got": false}}
+{"id": "complete-[de.adj]-v\u00f6llig", "time": 1611785523, "event": "DRILL", "data": {"got": true}}
+{"id": "pure/pristine-[de.adj]-rein", "time": 1611785525, "event": "DRILL", "data": {"got": true}}
+{"id": "normal-[de.adj]-normal", "time": 1611785526, "event": "DRILL", "data": {"got": true}}
+{"id": "dead-[de.adj]-tot", "time": 1611785528, "event": "DRILL", "data": {"got": true}}
+{"id": "deep-[de.adj]-tief", "time": 1611785530, "event": "DRILL", "data": {"got": true}}
+{"id": "entire-[de.adj]-gesamt", "time": 1611785535, "event": "DRILL", "data": {"got": true}}
+{"id": "modern-[de.adj]-modern", "time": 1611785537, "event": "DRILL", "data": {"got": true}}
+{"id": "scientific/scholarly-[de.adj]-wissenschaftlich", "time": 1611785541, "event": "DRILL", "data": {"got": true}}
+{"id": "heavy-[de.adj]-schwer", "time": 1611785550, "event": "DRILL", "data": {"got": false}}
+{"id": "additional-[de.adj]-zus\u00e4tzlich", "time": 1611785553, "event": "DRILL", "data": {"got": false}}
+{"id": "private-[de.adj]-privat", "time": 1611785555, "event": "DRILL", "data": {"got": true}}
+{"id": "constant-[de.adj]-st\u00e4nding", "time": 1611785558, "event": "DRILL", "data": {"got": true}}
+{"id": "decisive-[de.adj]-entscheidend", "time": 1611785562, "event": "DRILL", "data": {"got": true}}
+{"id": "late-[de.adj]-sp\u00e4t", "time": 1611785565, "event": "DRILL", "data": {"got": true}}
+{"id": "foreign/strange/alien-[de.adj]-fremd", "time": 1611785567, "event": "DRILL", "data": {"got": true}}
+{"id": "narrow/close-[de.adj]-eng", "time": 1611785570, "event": "DRILL", "data": {"got": true}}
+{"id": "American-[de.adj]-amerikanisch", "time": 1611785577, "event": "DRILL", "data": {"got": false}}
+{"id": "slow-[de.adj]-langsam", "time": 1611785581, "event": "DRILL", "data": {"got": true}}
+{"id": "relative-[de.adj]-relativ", "time": 1611785583, "event": "DRILL", "data": {"got": true}}
+{"id": "interesting-[de.adj]-interessant", "time": 1611785587, "event": "DRILL", "data": {"got": true}}
+{"id": "French-[de.adj]-frans\u00f6sisch", "time": 1611785599, "event": "DRILL", "data": {"got": true}}
+{"id": "free (as in freedom)-[de.adj]-frei", "time": 1611785602, "event": "DRILL", "data": {"got": true}}
+{"id": "rare-[de.adj]-selten", "time": 1611785614, "event": "DRILL", "data": {"got": true}}
+{"id": "tall-[de.adj]-hoch", "time": 1611785618, "event": "DRILL", "data": {"got": true}}
+{"id": "probable-[de.adj]-wahrscheinlich", "time": 1611785625, "event": "DRILL", "data": {"got": true}}
+{"id": "similar-[de.adj]-\u00e4hnlich", "time": 1611785628, "event": "DRILL", "data": {"got": true}}
+{"id": "right away-[de.adj]-gleich", "time": 1611785630, "event": "DRILL", "data": {"got": true}}
+{"id": "possible-[de.adj]-m\u00f6glich", "time": 1611785633, "event": "DRILL", "data": {"got": true}}
+{"id": "light (not heavy)-[de.adj]-leicht", "time": 1611785636, "event": "DRILL", "data": {"got": true}}
+{"id": "better-[de.adj]-besser", "time": 1611785638, "event": "DRILL", "data": {"got": true}}
+{"id": "right/correct-[de.adj]-richtig", "time": 1611785645, "event": "DRILL", "data": {"got": false}}
+{"id": "years old-[de.adj]-j\u00e4hrig", "time": 1611785648, "event": "DRILL", "data": {"got": true}}
+{"id": "like/same/equal-[de.adj]-gleich", "time": 1611785652, "event": "DRILL", "data": {"got": true}}
+{"id": "German-[de.adj]-deutsch", "time": 1611785656, "event": "DRILL", "data": {"got": false}}
+{"id": "special/particular-[de.adj]-besondere", "time": 1611785676, "event": "DRILL", "data": {"got": false}}
+{"id": "difficult-[de.adj]-schwierig", "time": 1611785684, "event": "DRILL", "data": {"got": false}}
+{"id": "safe/secure-[de.adj]-sicher", "time": 1611785686, "event": "DRILL", "data": {"got": true}}
+{"id": "low-[de.adj]-gering", "time": 1611785694, "event": "DRILL", "data": {"got": true}}
+{"id": "general-[de.adj]-allgemein", "time": 1611785697, "event": "DRILL", "data": {"got": true}}
+{"id": "all of the-[de.adj]-ganz", "time": 1611785699, "event": "DRILL", "data": {"got": true}}
+{"id": "frequent-[de.adj]-h\u00e4ufig", "time": 1611785704, "event": "DRILL", "data": {"got": true}}
+{"id": "practical-[de.adj]-praktisch", "time": 1611785709, "event": "DRILL", "data": {"got": true}}
+{"id": "additional-[de.adj]-weitere", "time": 1611785712, "event": "DRILL", "data": {"got": true}}
+{"id": "easy-[de.adj]-einfach", "time": 1611785716, "event": "DRILL", "data": {"got": true}}
+{"id": "special/particular-[de.adj]-bestimmt", "time": 1611785721, "event": "DRILL", "data": {"got": true}}
+{"id": "difficult-[de.adj]-schwer", "time": 1611785726, "event": "DRILL", "data": {"got": true}}
+{"id": "political-[de.adj]-politisch", "time": 1611785731, "event": "DRILL", "data": {"got": true}}
+{"id": "high-[de.adj]-hoch", "time": 1611785734, "event": "DRILL", "data": {"got": true}}
+{"id": "bad-[de.adj]-schlecht", "time": 1611785743, "event": "DRILL", "data": {"got": true}}
+{"id": "additional-[de.adj]-zus\u00e4tzlich", "time": 1611785754, "event": "DRILL", "data": {"got": true}}
+{"id": "American-[de.adj]-amerikanisch", "time": 1611785758, "event": "DRILL", "data": {"got": true}}
+{"id": "right/correct-[de.adj]-richtig", "time": 1611785762, "event": "DRILL", "data": {"got": true}}
+{"id": "heavy-[de.adj]-schwer", "time": 1611785766, "event": "DRILL", "data": {"got": true}}
+{"id": "difficult-[de.adj]-schwierig", "time": 1611785770, "event": "DRILL", "data": {"got": true}}
+{"id": "special/particular-[de.adj]-besondere", "time": 1611785773, "event": "DRILL", "data": {"got": true}}
+{"id": "German-[de.adj]-deutsch", "time": 1611785776, "event": "DRILL", "data": {"got": true}}
+{"id": "only/sole-[de.adj]-einzig", "time": 1611785784, "event": "DRILL", "data": {"got": true}}
+{"id": "strong-[de.adj]-stark", "time": 1611785787, "event": "DRILL", "data": {"got": true}}
+{"id": "public-[de.adj]-\u00f6ffentlich", "time": 1611785790, "event": "DRILL", "data": {"got": true}}
+{"id": "common/mutual-[de.adj]-gemeinsam", "time": 1611785793, "event": "DRILL", "data": {"got": true}}
+{"id": "clear-[de.adj]-deutlich", "time": 1611785796, "event": "DRILL", "data": {"got": true}}
+{"id": "individual-[de.adj]-einzeln", "time": 1611785799, "event": "DRILL", "data": {"got": true}}
+{"id": "best-[de.adj]-beste", "time": 1611785803, "event": "DRILL", "data": {"got": true}}
+{"id": "first-[de.adj]-erste", "time": 1611785810, "event": "DRILL", "data": {"got": false}}
+{"id": "direct-[de.adj]-direkt", "time": 1611785813, "event": "DRILL", "data": {"got": true}}
+{"id": "true-[de.adj]-wahr", "time": 1611785816, "event": "DRILL", "data": {"got": true}}
+{"id": "own/characteristic-[de.adj]-eigen", "time": 1611785819, "event": "DRILL", "data": {"got": true}}
+{"id": "exact-[de.adj]-genau", "time": 1611785823, "event": "DRILL", "data": {"got": true}}
+{"id": "well-known-[de.adj]-bekannt", "time": 1611785825, "event": "DRILL", "data": {"got": true}}
+{"id": "green-[de.adj]-gr\u00fcn", "time": 1611785827, "event": "DRILL", "data": {"got": true}}
+{"id": "international-[de.adj]-international", "time": 1611785830, "event": "DRILL", "data": {"got": true}}
+{"id": "important-[de.adj]-wichtig", "time": 1611785836, "event": "DRILL", "data": {"got": true}}
+{"id": "small-[de.adj]-klein", "time": 1611785840, "event": "DRILL", "data": {"got": false}}
+{"id": "English-[de.adj]-englisch", "time": 1611785844, "event": "DRILL", "data": {"got": true}}
+{"id": "half-[de.adj]-halb", "time": 1611785846, "event": "DRILL", "data": {"got": true}}
+{"id": "most-[de.adj]-meiste", "time": 1611785849, "event": "DRILL", "data": {"got": true}}
+{"id": "white-[de.adj]-wei\u00df", "time": 1611785855, "event": "DRILL", "data": {"got": true}}
+{"id": "red-[de.adj]-rot", "time": 1611785857, "event": "DRILL", "data": {"got": true}}
+{"id": "small-[de.adj]-gering", "time": 1611785861, "event": "DRILL", "data": {"got": true}}
+{"id": "false-[de.adj]-falsch", "time": 1611785867, "event": "DRILL", "data": {"got": true}}
+{"id": "essential/fundamental-[de.adj]-wesentlich", "time": 1611785870, "event": "DRILL", "data": {"got": true}}
+{"id": "first-[de.adj]-erste", "time": 1611785881, "event": "DRILL", "data": {"got": true}}
+{"id": "small-[de.adj]-klein", "time": 1611785884, "event": "DRILL", "data": {"got": true}}
+{"id": "easy-[de.adj]-leicht", "time": 1611785893, "event": "DRILL", "data": {"got": true}}
+{"id": "personal-[de.adj]-pers\u00f6nlich", "time": 1611785897, "event": "DRILL", "data": {"got": true}}
+{"id": "European-[de.adj]-europ\u00e4isch", "time": 1611785903, "event": "DRILL", "data": {"got": false}}
+{"id": "tall-[de.adj]-gro\u00df", "time": 1611785909, "event": "DRILL", "data": {"got": true}}
+{"id": "technical-[de.adj]-technisch", "time": 1611785911, "event": "DRILL", "data": {"got": true}}
+{"id": "known/certain-[de.adj]-gewiss", "time": 1611785915, "event": "DRILL", "data": {"got": true}}
+{"id": "last-[de.adj]-letzte", "time": 1611785918, "event": "DRILL", "data": {"got": true}}
+{"id": "sure/certain-[de.adj]-sicher", "time": 1611785920, "event": "DRILL", "data": {"got": true}}
+{"id": "entire-[de.adj]-ganz", "time": 1611785923, "event": "DRILL", "data": {"got": true}}
+{"id": "near/close-[de.adj]-nah", "time": 1611785925, "event": "DRILL", "data": {"got": true}}
+{"id": "short-[de.adj]-kurz", "time": 1611785927, "event": "DRILL", "data": {"got": true}}
+{"id": "old-[de.adj]-alt", "time": 1611785929, "event": "DRILL", "data": {"got": true}}
+{"id": "various/different/diverse-[de.adj]-verschieden", "time": 1611785944, "event": "DRILL", "data": {"got": false}}
+{"id": "black-[de.adj]-schwarz", "time": 1611785949, "event": "DRILL", "data": {"got": true}}
+{"id": "necessary-[de.adj]-notwendig", "time": 1611785955, "event": "DRILL", "data": {"got": false}}
+{"id": "special/particular-[de.adj]-speziell", "time": 1611785963, "event": "DRILL", "data": {"got": true}}
+{"id": "clear-[de.adj]-klar", "time": 1611785966, "event": "DRILL", "data": {"got": true}}
+{"id": "variable/different/diverse-[de.adj]-unterschiedlich", "time": 1611785969, "event": "DRILL", "data": {"got": true}}
+{"id": "round-[de.adj]-rund", "time": 1611785971, "event": "DRILL", "data": {"got": true}}
+{"id": "whole-[de.adj]-ganz", "time": 1611785982, "event": "DRILL", "data": {"got": true}}
+{"id": "full-[de.adj]-voll", "time": 1611785985, "event": "DRILL", "data": {"got": true}}
+{"id": "economic/financial-[de.adj]-wirtschaftlich", "time": 1611785989, "event": "DRILL", "data": {"got": true}}
+{"id": "social-[de.adj]-sozial", "time": 1611785992, "event": "DRILL", "data": {"got": true}}
+{"id": "actual/real-[de.adj]-tats\u00e4chlich", "time": 1611785997, "event": "DRILL", "data": {"got": true}}
+{"id": "next-[de.adj]-n\u00e4chste", "time": 1611786003, "event": "DRILL", "data": {"got": true}}
+{"id": "necessary-[de.adj]-notwendig", "time": 1611786013, "event": "DRILL", "data": {"got": true}}
+{"id": "European-[de.adj]-europ\u00e4isch", "time": 1611786017, "event": "DRILL", "data": {"got": true}}
+{"id": "various/different/diverse-[de.adj]-verschieden", "time": 1611786021, "event": "DRILL", "data": {"got": true}}
+{"id": "good-[de.adj]-gut", "time": 1611786027, "event": "DRILL", "data": {"got": true}}
+{"id": "beautiful/pleasant-[de.adj]-sch\u00f6n", "time": 1611786031, "event": "DRILL", "data": {"got": true}}
+{"id": "early-[de.adj]-fr\u00fch", "time": 1611786033, "event": "DRILL", "data": {"got": true}}
+{"id": "long-[de.adj]-lang", "time": 1611786035, "event": "DRILL", "data": {"got": true}}
+{"id": "great/big-[de.adj]-gro\u00df", "time": 1611786037, "event": "DRILL", "data": {"got": true}}
+{"id": "open-[de.adj]-offen", "time": 1611786040, "event": "DRILL", "data": {"got": true}}
+{"id": "young-[de.adj]-jung", "time": 1611786042, "event": "DRILL", "data": {"got": true}}
+{"id": "new-[de.adj]-neu", "time": 1611786043, "event": "DRILL", "data": {"got": true}}
+{"id": "otherwise-[de.adv]-sonst", "time": 1611786077, "event": "DRILL", "data": {"got": true}}
+{"id": "actually-[de.adv]-eigentlich", "time": 1611786081, "event": "DRILL", "data": {"got": true}}
+{"id": "almost/nearly-[de.adv]-fast", "time": 1611786087, "event": "DRILL", "data": {"got": true}}
+{"id": "earlier-[de.adv]-eher", "time": 1611786092, "event": "DRILL", "data": {"got": true}}
+{"id": "just as (sth as sth)-[de.adv]-ebenso", "time": 1611786116, "event": "DRILL", "data": {"got": true}}
+{"id": "even/indeed-[de.adv]-sogar", "time": 1611786122, "event": "DRILL", "data": {"got": true}}
+{"id": "sometimes-[de.adv]-manchmal", "time": 1611786136, "event": "DRILL", "data": {"got": true}}
+{"id": "besides/as well-[de.adv]-au\u00dferdem", "time": 1611786143, "event": "DRILL", "data": {"got": false}}
+{"id": "quite/fairly-[de.adv]-ziemlich", "time": 1611786155, "event": "DRILL", "data": {"got": false}}
+{"id": "just/exactly-[de.adv]-gerade", "time": 1611786160, "event": "DRILL", "data": {"got": true}}
+{"id": "absolutely-[de.adv]-unbedingt", "time": 1611786167, "event": "DRILL", "data": {"got": false}}
+{"id": "for now-[de.adv]-zun\u00e4chst", "time": 1611786173, "event": "DRILL", "data": {"got": true}}
+{"id": "rather/more-[de.adv]-eher", "time": 1611786184, "event": "DRILL", "data": {"got": true}}
+{"id": "at the moment-[de.adv]-derzeit", "time": 1611786188, "event": "DRILL", "data": {"got": true}}
+{"id": "immediately-[de.adv]-sofort", "time": 1611786192, "event": "DRILL", "data": {"got": true}}
+{"id": "generally-[de.adv]-\u00fcberhaupt", "time": 1611786198, "event": "DRILL", "data": {"got": true}}
+{"id": "differently-[de.adv]-anders", "time": 1611786202, "event": "DRILL", "data": {"got": true}}
+{"id": "likewise-[de.adv]-ebenfalls", "time": 1611786211, "event": "DRILL", "data": {"got": false}}
+{"id": "someone-[de.pron.indefinite]-jemand", "time": 1611786243, "event": "DRILL", "data": {"got": true}}
+{"id": "to you (formal)-[de.pron.personal.dat]-Ihnen", "time": 1611786248, "event": "DRILL", "data": {"got": true}}
+{"id": "you (plural)-[de.pron.personal.akk]-euch", "time": 1611786254, "event": "DRILL", "data": {"got": true}}
+{"id": "everything-[de.pron.indefinite]-alles", "time": 1611786257, "event": "DRILL", "data": {"got": true}}
+{"id": "anyone/everyone?-[de.pron.indefinite]-jeder (?)", "time": 1611786263, "event": "DRILL", "data": {"got": true}}
+{"id": "them-[de.pron.personal.akk]-sie", "time": 1611786271, "event": "DRILL", "data": {"got": false}}
+{"id": "to him/it (m)-[de.pron.personal.dat]-ihm", "time": 1611786276, "event": "DRILL", "data": {"got": true}}
+{"id": "whereby/by what/how-[de.pron.interrogative]-wodurch", "time": 1611786285, "event": "DRILL", "data": {"got": true}}
+{"id": "yourself (singular)-[de.pron.reflexive]-dich", "time": 1611786289, "event": "DRILL", "data": {"got": true}}
+{"id": "that/those-[de.pron.demonstrative]-jener", "time": 1611786297, "event": "DRILL", "data": {"got": true}}
+{"id": "what for a/what kind of-[de.pron.interrogative]-was f\u00fcr einer", "time": 1611786302, "event": "DRILL", "data": {"got": true}}
+{"id": "(to) themselves-[de.pron.reflexive]-sich", "time": 1611786311, "event": "DRILL", "data": {"got": true}}
+{"id": "his/its (m)-[de.pron.possessive]-seiner", "time": 1611786316, "event": "DRILL", "data": {"got": true}}
+{"id": "(to) yourself (formal)-[de.pron.reflexive]-sich", "time": 1611786320, "event": "DRILL", "data": {"got": true}}
+{"id": "the same one-[de.pron.demonstrative]-derselbe", "time": 1611786328, "event": "DRILL", "data": {"got": true}}
