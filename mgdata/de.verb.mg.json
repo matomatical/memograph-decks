@@ -691,13 +691,13 @@
   },
   "to receive-[de.verb]-erhalten": {
     "priorParams": [
-      8.809210377414503,
-      8.853852679642051,
-      460715.70666881156
+      8.865076485669825,
+      8.860218893486355,
+      465367.3850139794
     ],
-    "numDrills": 48,
-    "lastTime": 1611785304,
-    "lastResult": false
+    "numDrills": 49,
+    "lastTime": 1611862989,
+    "lastResult": true
   },
   "to meet-[de.verb]-treffen": {
     "priorParams": [
@@ -2251,12 +2251,12 @@
   },
   "to demand-[de.verb]-verlangen": {
     "priorParams": [
-      5.854344280747826,
-      5.813241790161342,
-      139559.3708295927
+      5.928412632566357,
+      5.86311671992457,
+      161539.86789739045
     ],
-    "numDrills": 26,
-    "lastTime": 1611690585,
+    "numDrills": 27,
+    "lastTime": 1611862948,
     "lastResult": true
   },
   "to be present (with)-[de.verb]-vorliegen": {
@@ -2591,12 +2591,12 @@
   },
   "to enclose-[de.verb]-umfassen": {
     "priorParams": [
-      4.1088719062349055,
-      4.0547090114050865,
-      159418.45834951435
+      4.171683082756234,
+      4.0929542105080525,
+      191354.91041507368
     ],
-    "numDrills": 18,
-    "lastTime": 1611690945,
+    "numDrills": 19,
+    "lastTime": 1611863022,
     "lastResult": true
   },
   "to support-[de.verb]-unterst\u00fctzen": {
@@ -2721,12 +2721,12 @@
   },
   "to examine-[de.verb]-untersuchen": {
     "priorParams": [
-      1.9290184452421064,
-      1.8858944567981544,
-      144012.30577473275
+      2.0472743974119303,
+      1.904789707365142,
+      211718.2515350735
     ],
-    "numDrills": 5,
-    "lastTime": 1611690084,
+    "numDrills": 6,
+    "lastTime": 1611863154,
     "lastResult": true
   },
   "to look/glance-[de.verb]-blicken": {
@@ -2741,13 +2741,13 @@
   },
   "to press/push-[de.verb]-dr\u00fccken": {
     "priorParams": [
-      6.2841665944721745,
-      6.32605043966489,
-      44982.64708804943
+      6.467218724618068,
+      6.390045298135476,
+      53564.364243504395
     ],
-    "numDrills": 13,
-    "lastTime": 1611785233,
-    "lastResult": false
+    "numDrills": 14,
+    "lastTime": 1611862858,
+    "lastResult": true
   },
   "to go into (history/heaven/matrimony/etc.)-[de.verb]-eingehen": {
     "priorParams": [
@@ -2791,12 +2791,12 @@
   },
   "to treat/handle-[de.verb]-behandeln": {
     "priorParams": [
-      1.928502746399825,
-      1.8854564139405023,
-      143856.38594641443
+      2.0469173783831134,
+      1.9043505274435488,
+      211547.74932857527
     ],
-    "numDrills": 5,
-    "lastTime": 1611690081,
+    "numDrills": 6,
+    "lastTime": 1611863090,
     "lastResult": true
   },
   "to drive (nail/animals/ball/etc.)-[de.verb]-treiben": {
@@ -2821,12 +2821,12 @@
   },
   "to convince-[de.verb]-\u00fcberzeugen": {
     "priorParams": [
-      2.5690086083620063,
-      2.407225268584611,
-      156855.01618888383
+      2.5583665162318687,
+      2.43397345786363,
+      215763.6306429288
     ],
-    "numDrills": 9,
-    "lastTime": 1611689785,
+    "numDrills": 10,
+    "lastTime": 1611863143,
     "lastResult": true
   },
   "to use-[de.verb]-benutzen": {
@@ -2901,13 +2901,13 @@
   },
   "to turn/shift/spin-[de.verb]-drehen": {
     "priorParams": [
-      4.099666434428467,
-      4.170326530944817,
-      63937.38380114726
+      4.287008252398506,
+      4.209434575408551,
+      76497.74448371796
     ],
-    "numDrills": 8,
-    "lastTime": 1611785221,
-    "lastResult": false
+    "numDrills": 9,
+    "lastTime": 1611862830,
+    "lastResult": true
   },
   "to surprise-[de.verb]-\u00fcberraschen": {
     "priorParams": [
@@ -2921,12 +2921,12 @@
   },
   "to proceed with-[de.verb]-betreiben": {
     "priorParams": [
-      4.898721250303574,
-      4.902300016690875,
-      41157.14794845058
+      5.066234419803625,
+      4.963413666979139,
+      52465.00123904014
     ],
-    "numDrills": 10,
-    "lastTime": 1611785139,
+    "numDrills": 11,
+    "lastTime": 1611862797,
     "lastResult": true
   },
   "to fly-[de.verb]-fliegen": {
@@ -2951,32 +2951,32 @@
   },
   "to thrust/push/punch-[de.verb]-sto\u00dfen": {
     "priorParams": [
-      3.031096161432002,
-      2.8975613645346936,
-      69675.23124899596
+      3.0388250676089235,
+      2.9296777509410554,
+      91220.68850393563
     ],
-    "numDrills": 6,
-    "lastTime": 1611785076,
+    "numDrills": 7,
+    "lastTime": 1611863135,
     "lastResult": true
   },
   "to represent-[de.verb]-vertreten": {
     "priorParams": [
-      3.996722346603313,
-      4.011452275130363,
-      24585.128175989317
+      4.252034167769383,
+      4.082562414862051,
+      38269.535169047755
     ],
-    "numDrills": 10,
-    "lastTime": 1611785187,
+    "numDrills": 11,
+    "lastTime": 1611862741,
     "lastResult": true
   },
   "to advocate-[de.verb]-vertreten": {
     "priorParams": [
-      3.434057513133772,
-      3.183921970053814,
-      44449.14191494202
+      3.3743582995820827,
+      3.2299729822152337,
+      64364.19533330419
     ],
-    "numDrills": 9,
-    "lastTime": 1611785021,
+    "numDrills": 10,
+    "lastTime": 1611862895,
     "lastResult": true
   },
   "to enable-[de.verb]-erm\u00f6glichen": {
@@ -2991,12 +2991,12 @@
   },
   "to make/produce-[de.verb]-herstellen": {
     "priorParams": [
-      3.7967565070121307,
-      3.6562448404782457,
-      69218.43698946429
+      3.7882619787443055,
+      3.695051626162609,
+      86378.59410692369
     ],
-    "numDrills": 9,
-    "lastTime": 1611785215,
+    "numDrills": 10,
+    "lastTime": 1611863158,
     "lastResult": true
   },
   "to suffer-[de.verb]-leiden": {
@@ -3021,22 +3021,22 @@
   },
   "to swap/exchange-[de.verb]-wechseln": {
     "priorParams": [
-      2.692276935602887,
-      2.817322612143723,
-      80473.16293896655
+      2.922195567984527,
+      2.841204168035541,
+      97674.37386212489
     ],
-    "numDrills": 7,
-    "lastTime": 1611785289,
-    "lastResult": false
+    "numDrills": 8,
+    "lastTime": 1611863006,
+    "lastResult": true
   },
   "to deliver-[de.verb]-liefern": {
     "priorParams": [
-      5.1676733353943005,
-      5.000066141796318,
-      42150.408868764825
+      5.1714391253061045,
+      5.064695465530173,
+      54283.17733308839
     ],
-    "numDrills": 11,
-    "lastTime": 1611784982,
+    "numDrills": 12,
+    "lastTime": 1611862768,
     "lastResult": true
   },
   "to require/need-[de.verb]-ben\u00f6tigen": {

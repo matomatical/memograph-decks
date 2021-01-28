@@ -61,12 +61,12 @@
   },
   "neither - nor-[de.conj.coo]-weder* - noch*": {
     "priorParams": [
-      5.515343144217996,
-      5.447238878517012,
-      169576.08534961252
+      5.549428712385704,
+      5.489782892018288,
+      193728.3428075658
     ],
-    "numDrills": 19,
-    "lastTime": 1611691387,
+    "numDrills": 20,
+    "lastTime": 1611863130,
     "lastResult": true
   },
   "either - or-[de.conj.coo]-entweder* - oder": {
@@ -161,12 +161,12 @@
   },
   "because/since-[de.conj.sub]-da": {
     "priorParams": [
-      7.4630621288798675,
-      7.459616173315318,
-      128602.22081673065
+      7.571377670301258,
+      7.516203688303486,
+      145143.88542259648
     ],
-    "numDrills": 27,
-    "lastTime": 1611691419,
+    "numDrills": 28,
+    "lastTime": 1611862814,
     "lastResult": true
   },
   "so that-[de.conj.sub]-damit": {
@@ -221,12 +221,12 @@
   },
   "in order (to)-[de.conj.sub]-um (zu)": {
     "priorParams": [
-      4.696937369467079,
-      4.604796496907936,
-      148356.08212688632
+      4.72697079556548,
+      4.649142926755955,
+      177426.9436482838
     ],
-    "numDrills": 17,
-    "lastTime": 1611690028,
+    "numDrills": 18,
+    "lastTime": 1611863149,
     "lastResult": true
   },
   "without (to)-[de.conj.sub]-ohne (zu)": {
@@ -251,12 +251,12 @@
   },
   "before/until-[de.conj.sub]-ehe": {
     "priorParams": [
-      6.4608737330889205,
-      6.39438814993513,
-      148349.8205270535
+      6.5032440107567995,
+      6.444693730698211,
+      168883.2625140969
     ],
-    "numDrills": 19,
-    "lastTime": 1611690047,
+    "numDrills": 20,
+    "lastTime": 1611863085,
     "lastResult": true
   },
   "as well as/as soon as-[de.conj.sub]-sowie": {
