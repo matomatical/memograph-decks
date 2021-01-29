@@ -431,12 +431,12 @@
   },
   "yours (singular)-[de.pron.possessive]-deiner": {
     "priorParams": [
-      3.402283181310917,
-      3.2682846935402905,
-      128975.93439235135
+      3.41654222449962,
+      3.3066416787700157,
+      168751.73137031577
     ],
-    "numDrills": 8,
-    "lastTime": 1611785097,
+    "numDrills": 9,
+    "lastTime": 1611949730,
     "lastResult": true
   },
   "his/its (m)-[de.pron.possessive]-seiner": {
@@ -831,13 +831,13 @@
   },
   "the one-[de.pron.demonstrative]-derjenige": {
     "priorParams": [
-      7.580717682512422,
-      7.533525152818505,
-      76625.05724447894
+      8.42656598472975,
+      8.466926590854706,
+      70736.38641331317
     ],
-    "numDrills": 21,
-    "lastTime": 1611863069,
-    "lastResult": true
+    "numDrills": 22,
+    "lastTime": 1611949779,
+    "lastResult": false
   },
   "something-[de.pron.indefinite]-etwas": {
     "priorParams": [
@@ -931,13 +931,13 @@
   },
   "anyone/everyone?-[de.pron.indefinite]-jeder (?)": {
     "priorParams": [
-      4.350379896240726,
-      4.231452082212938,
-      128734.54603733867
+      5.0963073979030975,
+      5.154834567983504,
+      114608.16930275164
     ],
-    "numDrills": 11,
-    "lastTime": 1611786263,
-    "lastResult": true
+    "numDrills": 12,
+    "lastTime": 1611949680,
+    "lastResult": false
   },
   "some/few-[de.pron.indefinite]-einiger (?)": {
     "priorParams": [
