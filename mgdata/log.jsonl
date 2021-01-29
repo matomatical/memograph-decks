@@ -4763,3 +4763,15 @@
 {"id": "to decline-[de.verb]-ablehnen", "time": 1611951201, "event": "DRILL", "data": {"got": false}}
 {"id": "to decree-[de.verb]-verf\u00fcgen", "time": 1611951206, "event": "DRILL", "data": {"got": false}}
 {"id": "to force-[de.verb]-zwingen", "time": 1611951209, "event": "DRILL", "data": {"got": true}}
+{"id": "to decree-[de.verb]-verf\u00fcgen", "time": 1611959117, "event": "DRILL", "data": {"got": false}}
+{"id": "to declare-[de.verb]-angeben", "time": 1611959119, "event": "DRILL", "data": {"got": true}}
+{"id": "to mention-[de.verb]-erw\u00e4hnen", "time": 1611959140, "event": "DRILL", "data": {"got": false}}
+{"id": "to substantiate/justify-[de.verb]-begr\u00fcnden", "time": 1611959147, "event": "DRILL", "data": {"got": true}}
+{"id": "to force-[de.verb]-zwingen", "time": 1611959153, "event": "DRILL", "data": {"got": true}}
+{"id": "to decline-[de.verb]-ablehnen", "time": 1611959164, "event": "DRILL", "data": {"got": false}}
+{"id": "to prevent-[de.verb]-verhindern", "time": 1611959187, "event": "DRILL", "data": {"got": false}}
+{"id": "to do without-[de.verb]-verzichten", "time": 1611959193, "event": "DRILL", "data": {"got": false}}
+{"id": "to lean over-[de.verb]-\u00fcberlegen sich", "time": 1611959199, "event": "DRILL", "data": {"got": true}}
+{"id": "to detain-[de.verb]-festhalten", "time": 1611959204, "event": "DRILL", "data": {"got": true}}
+{"id": "to serve (ball)-[de.verb]-angeben", "time": 1611959209, "event": "DRILL", "data": {"got": false}}
+{"id": "to return-[de.verb]-zur\u00fcckkommen", "time": 1611959215, "event": "DRILL", "data": {"got": true}}
