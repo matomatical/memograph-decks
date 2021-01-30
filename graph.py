@@ -1,5 +1,5 @@
-from mg.graph import Node
-from mg.data import parse
+from mg.node import Node
+
 
 def graph():
     # most words
@@ -26,7 +26,24 @@ def graph():
                 Node(art,  speak_str=de,   speak_voice="de"),
                 "de.noun.gender"
             )
-    
+
+
+def parse(links_text, sep="--", skip_header=True):
+    """
+    utility functions for parsing lists of links
+    """
+    for line in links_text.splitlines()[skip_header:]:
+        if sep not in line:
+            continue
+        # remove comments, whitespace
+        line = line.split("#", maxsplit=1)[0].strip()
+        fields = tuple(map(str.strip, line.split(sep)))
+        if fields[0] == "":
+            fields = prefix + fields[1:]
+        if fields[-1] == "":
+            prefix = fields[:-1]
+        else:
+            yield fields
 
 
 LINKS = """topic -- de -- en                    # notes (ignored)

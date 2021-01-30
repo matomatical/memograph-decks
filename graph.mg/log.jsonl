@@ -4775,3 +4775,33 @@
 {"id": "to detain-[de.verb]-festhalten", "time": 1611959204, "event": "DRILL", "data": {"got": true}}
 {"id": "to serve (ball)-[de.verb]-angeben", "time": 1611959209, "event": "DRILL", "data": {"got": false}}
 {"id": "to return-[de.verb]-zur\u00fcckkommen", "time": 1611959215, "event": "DRILL", "data": {"got": true}}
+{"id": "to push-[de.verb]-schieben", "time": 1611968502, "event": "DRILL", "data": {"got": false}}
+{"id": "to raise-[de.verb]-erheben", "time": 1611968508, "event": "DRILL", "data": {"got": true}}
+{"id": "to decree-[de.verb]-verf\u00fcgen", "time": 1611968526, "event": "DRILL", "data": {"got": false}}
+{"id": "to pursue-[de.verb]-verfolgen", "time": 1611968538, "event": "DRILL", "data": {"got": false}}
+{"id": "to decline-[de.verb]-ablehnen", "time": 1611968548, "event": "DRILL", "data": {"got": false}}
+{"id": "to mention-[de.verb]-erw\u00e4hnen", "time": 1611968555, "event": "DRILL", "data": {"got": false}}
+{'id': 'to do without-[de.verb]-verzichten', 'time': 1611980238, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to decree-[de.verb]-verfügen', 'time': 1611980251, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to assert/maintain-[de.verb]-behaupten', 'time': 1611980259, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to serve (ball)-[de.verb]-angeben', 'time': 1611980261, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to decline-[de.verb]-ablehnen', 'time': 1611980271, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to mention-[de.verb]-erwähnen', 'time': 1611980277, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to come in/invade-[de.verb]-einfallen', 'time': 1611980466, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'to nod-[de.verb]-nicken', 'time': 1611980468, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'to serve out-[de.verb]-servieren', 'time': 1611980470, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'to concern-[de.verb]-kümmern', 'time': 1611980473, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'to grasp-[de.verb]-fassen', 'time': 1611980483, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'to secure-[de.verb]-sichern', 'time': 1611980485, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'to pursue-[de.verb]-verfolgen', 'time': 1611981802, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to prevent-[de.verb]-verhindern', 'time': 1611981813, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to force-[de.verb]-zwingen', 'time': 1611981818, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to protect-[de.verb]-schützen', 'time': 1611981825, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to declare-[de.verb]-angeben', 'time': 1611981837, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to push-[de.verb]-schieben', 'time': 1611981842, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to come/amount to-[de.verb]-betragen', 'time': 1611981973, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to turn out-[de.verb]-geraten', 'time': 1611981980, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to decree-[de.verb]-verfügen', 'time': 1611981987, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to substantiate/justify-[de.verb]-begründen', 'time': 1611981994, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to come into-[de.verb]-geraten', 'time': 1611982005, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to furnish-[de.verb]-einrichten', 'time': 1611982012, 'event': 'DRILL', 'data': {'got': False}}
