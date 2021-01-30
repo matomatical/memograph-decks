@@ -321,6 +321,7 @@ de.conj.coo --
  -- aber            -- but/however
  -- denn            -- because/since
  -- sondern         -- but (on the contrary)    # negative main clause
+ -- beziehungsweise -- respectively
  -- sowohl - als    -- both - and
  -- weder* - noch*  -- neither - nor
  -- entweder* - oder          -- either - or
@@ -349,8 +350,9 @@ de.conj.sub --
  -- solange         -- so long as
  -- sobald          -- as soon as
  -- sofern          -- provided that
- -- umso            -- all the
+ -- umso            -- all the                  # e.g. 'all the better to ...'
  -- während         -- while/during
+ -- je - desto      -- the - the                # e.g. 'the more the merrier'
 
 
 # # #
@@ -906,7 +908,6 @@ de.verb --
  -- verletzen       -- to injure
 
 # (some verbs gathered randomly e.g. from class, but i remember them anyway)
- -- servieren       -- to serve out
  -- atmen           -- to breathe
  -- hören           -- to hear
  -- hassen          -- to hate
@@ -940,7 +941,10 @@ de.verb --
  -- befehlen        -- to command               # emp + fehlen?
  -- empfehlen       -- to recommend             # emp + fehlen?
  -- füllen          -- to fill
- -- fassen          -- to grasp
+ -- servieren       -- to serve out
+ -- mitteln         -- to average
+ -- bereiten        -- to prepare
+ -- wähnen          -- to think/imagine         # but mistakenly?
 """
 
 """

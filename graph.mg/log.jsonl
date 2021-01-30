@@ -4805,3 +4805,57 @@
 {'id': 'to substantiate/justify-[de.verb]-begründen', 'time': 1611981994, 'event': 'DRILL', 'data': {'got': False}}
 {'id': 'to come into-[de.verb]-geraten', 'time': 1611982005, 'event': 'DRILL', 'data': {'got': False}}
 {'id': 'to furnish-[de.verb]-einrichten', 'time': 1611982012, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to decline-[de.verb]-ablehnen', 'time': 1611992907, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to decree-[de.verb]-verfügen', 'time': 1611992910, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to do without-[de.verb]-verzichten', 'time': 1611992964, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to mention-[de.verb]-erwähnen', 'time': 1611992993, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to push-[de.verb]-schieben', 'time': 1611992998, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to prevent-[de.verb]-verhindern', 'time': 1611993003, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to assert/maintain-[de.verb]-behaupten', 'time': 1611993111, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to consider-[de.verb]-berücksichtigen', 'time': 1611993133, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to protect-[de.verb]-schützen', 'time': 1611993172, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to lean over-[de.verb]-überlegen sich', 'time': 1611993177, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to detain-[de.verb]-festhalten', 'time': 1611993183, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to return-[de.verb]-zurückkommen', 'time': 1611993188, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to disturb-[de.verb]-stören', 'time': 1611993212, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to prepare-[de.verb]-vorbereiten', 'time': 1611993219, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to celebrate-[de.verb]-feiern', 'time': 1611993222, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to hold-[de.verb]-festhalten', 'time': 1611993225, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to behave-[de.verb]-betragen sich', 'time': 1611993232, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to mediate-[de.verb]-vermitteln', 'time': 1611993360, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to found/establish-[de.verb]-gründen', 'time': 1611993368, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to reign/prevail-[de.verb]-herrschen', 'time': 1611993380, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to slide-[de.verb]-schieben', 'time': 1611993382, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to function/work-[de.verb]-funktionieren', 'time': 1611993386, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to brag-[de.verb]-angeben', 'time': 1611993396, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to exclude/rule out-[de.verb]-ausschließen', 'time': 1611993404, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to lock-[de.verb]-abschließen', 'time': 1611993421, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to travel-[de.verb]-reisen', 'time': 1611993424, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to give up-[de.verb]-aufgeben', 'time': 1611993437, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to hold over (hold sth over sb)-[de.verb]-überlegen', 'time': 1611993441, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to conclude/end-[de.verb]-abschließen', 'time': 1611993449, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to sing-[de.verb]-singen', 'time': 1611993451, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to turn out-[de.verb]-geraten', 'time': 1611993457, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to declare-[de.verb]-angeben', 'time': 1611993470, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to grab-[de.verb]-greifen', 'time': 1611993476, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to force-[de.verb]-zwingen', 'time': 1611993482, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to substantiate/justify-[de.verb]-begründen', 'time': 1611993489, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to lay over/consider-[de.verb]-überlegen', 'time': 1611993494, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to come into-[de.verb]-geraten', 'time': 1611993507, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to come/amount to-[de.verb]-betragen', 'time': 1611993517, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to raise-[de.verb]-erheben', 'time': 1611993523, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to come in/invade-[de.verb]-einfallen', 'time': 1611993529, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to nod-[de.verb]-nicken', 'time': 1611993533, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to furnish-[de.verb]-einrichten', 'time': 1611993538, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to grasp-[de.verb]-fassen', 'time': 1611993753, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to concern-[de.verb]-kümmern', 'time': 1611993763, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to serve (ball)-[de.verb]-angeben', 'time': 1611993769, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to pursue-[de.verb]-verfolgen', 'time': 1611993863, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to serve out-[de.verb]-servieren', 'time': 1611993869, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to secure-[de.verb]-sichern', 'time': 1611993871, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to mention-[de.verb]-erwähnen', 'time': 1611993970, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to decline-[de.verb]-ablehnen', 'time': 1611993980, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'especially since-[de.conj.sub]-zumal', 'time': 1611993989, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'someone-[de.pron.indefinite]-jemand', 'time': 1611993999, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Stück-[de.noun.gender]-das', 'time': 1611994002, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'according to-[de.prep.dat]-zufolge', 'time': 1611994006, 'event': 'DRILL', 'data': {'got': True}}
