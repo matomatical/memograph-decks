@@ -4865,3 +4865,27 @@
 {'id': 'to do without-[de.verb]-verzichten', 'time': 1611996261, 'event': 'DRILL', 'data': {'got': False}}
 {'id': 'to mention-[de.verb]-erwähnen', 'time': 1611996269, 'event': 'DRILL', 'data': {'got': True}}
 {'id': 'to decree-[de.verb]-verfügen', 'time': 1611996274, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to do without-[de.verb]-verzichten', 'time': 1611999335, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to decline-[de.verb]-ablehnen', 'time': 1611999362, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to force-[de.verb]-zwingen', 'time': 1611999366, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to turn out-[de.verb]-geraten', 'time': 1611999854, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to come into-[de.verb]-geraten', 'time': 1611999873, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to mention-[de.verb]-erwähnen', 'time': 1611999921, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to consider-[de.verb]-berücksichtigen', 'time': 1612000024, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to disturb-[de.verb]-stören', 'time': 1612000029, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to concern-[de.verb]-kümmern', 'time': 1612000077, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to mediate-[de.verb]-vermitteln', 'time': 1612000147, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to declare-[de.verb]-angeben', 'time': 1612000218, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to decree-[de.verb]-verfügen', 'time': 1612000245, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to grab-[de.verb]-greifen', 'time': 1612000256, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to prevent-[de.verb]-verhindern', 'time': 1612000320, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to protect-[de.verb]-schützen', 'time': 1612000325, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to found/establish-[de.verb]-gründen', 'time': 1612000329, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to give up-[de.verb]-aufgeben', 'time': 1612000334, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to decline-[de.verb]-ablehnen', 'time': 1612000343, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'some or other-[de.art.der]-irgendwelcher', 'time': 1612000356, 'event': 'REVIEW', 'data': {}}
+{'id': 'to assert/maintain-[de.verb]-behaupten', 'time': 1612000456, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to pursue-[de.verb]-verfolgen', 'time': 1612000460, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to push-[de.verb]-schieben', 'time': 1612000462, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to substantiate/justify-[de.verb]-begründen', 'time': 1612000700, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'meanwhile-[de.adv]-inzwischen', 'time': 1612000708, 'event': 'DRILL', 'data': {'got': True}}
