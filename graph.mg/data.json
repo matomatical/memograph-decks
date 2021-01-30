@@ -5373,12 +5373,12 @@
   },
   "on behalf (of)-[de.prep.gen]-(...) halber": {
     "priorParams": [
-      3.876524630508723,
-      3.8802252402915918,
-      118383.08672893667
+      3.9979455659822163,
+      3.9172015553580684,
+      142905.08631451966
     ],
-    "numDrills": 11,
-    "lastTime": 1611862996,
+    "numDrills": 12,
+    "lastTime": 1611996245,
     "lastResult": true
   },
   "for (...'s) sake-[de.prep.gen]-um (...) willen": {
@@ -9533,13 +9533,13 @@
   },
   "to mention-[de.verb]-erw\u00e4hnen": {
     "priorParams": [
-      6.783915724989379,
-      6.822328971626327,
-      463.98160430612853
+      7.118888948748509,
+      6.9546950121558115,
+      701.941956922027
     ],
-    "numDrills": 11,
-    "lastTime": 1611993970,
-    "lastResult": false
+    "numDrills": 12,
+    "lastTime": 1611996269,
+    "lastResult": true
   },
   "to grab-[de.verb]-greifen": {
     "priorParams": [
@@ -9553,12 +9553,12 @@
   },
   "to do without-[de.verb]-verzichten": {
     "priorParams": [
-      2.8644683346678126,
-      2.8807716408065827,
-      1387.7896302347451
+      3.5827536195969953,
+      3.64929487336276,
+      1214.2620850354976
     ],
-    "numDrills": 5,
-    "lastTime": 1611992964,
+    "numDrills": 6,
+    "lastTime": 1611996261,
     "lastResult": false
   },
   "to give up-[de.verb]-aufgeben": {
@@ -9683,23 +9683,23 @@
   },
   "to decree-[de.verb]-verf\u00fcgen": {
     "priorParams": [
-      7.536526406221287,
-      7.2181408630995785,
-      1688.4072598808623
+      7.39391902408502,
+      7.30364089376669,
+      2075.428577263089
     ],
-    "numDrills": 11,
-    "lastTime": 1611992910,
+    "numDrills": 12,
+    "lastTime": 1611996274,
     "lastResult": true
   },
   "to protect-[de.verb]-sch\u00fctzen": {
     "priorParams": [
-      2.4920339161766507,
-      2.521776319679752,
-      1545.4653350622607
+      2.7202666652536798,
+      2.557213542128228,
+      2396.075370780097
     ],
-    "numDrills": 4,
-    "lastTime": 1611993172,
-    "lastResult": false
+    "numDrills": 5,
+    "lastTime": 1611996234,
+    "lastResult": true
   },
   "to prepare-[de.verb]-vorbereiten": {
     "priorParams": [
@@ -9863,12 +9863,12 @@
   },
   "to decline-[de.verb]-ablehnen": {
     "priorParams": [
-      5.106096193313847,
-      5.166135781386166,
-      599.21611258742
+      5.734901210825423,
+      5.7618006985703225,
+      567.3698964754768
     ],
-    "numDrills": 8,
-    "lastTime": 1611993980,
+    "numDrills": 9,
+    "lastTime": 1611996227,
     "lastResult": false
   },
   "to employ/apply-[de.verb]-anwenden": {},
@@ -9988,5 +9988,6 @@
     "lastResult": true
   },
   "to average-[de.verb]-mitteln": {},
-  "to prepare-[de.verb]-bereiten": {}
+  "to prepare-[de.verb]-bereiten": {},
+  "to think/imagine-[de.verb]-w\u00e4hnen": {}
 }

@@ -4859,3 +4859,9 @@
 {'id': 'someone-[de.pron.indefinite]-jemand', 'time': 1611993999, 'event': 'DRILL', 'data': {'got': True}}
 {'id': 'Stück-[de.noun.gender]-das', 'time': 1611994002, 'event': 'DRILL', 'data': {'got': True}}
 {'id': 'according to-[de.prep.dat]-zufolge', 'time': 1611994006, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to decline-[de.verb]-ablehnen', 'time': 1611996227, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to protect-[de.verb]-schützen', 'time': 1611996234, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'on behalf (of)-[de.prep.gen]-(...) halber', 'time': 1611996245, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to do without-[de.verb]-verzichten', 'time': 1611996261, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to mention-[de.verb]-erwähnen', 'time': 1611996269, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to decree-[de.verb]-verfügen', 'time': 1611996274, 'event': 'DRILL', 'data': {'got': True}}
