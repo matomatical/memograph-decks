@@ -228,22 +228,22 @@
 {"id": "therefore-[de.adv]-deshalb", "time": 1610482889, "event": "VOID", "data": {"drills": 15, "latest": false}}
 {"id": "Stadt-[de.noun.gender]-die", "time": 1609788095, "event": "LEARN", "data": {"prior": [1.9811710273400753, 1.9166514038274944, 766072.9240637763]}}
 {"id": "Stadt-[de.noun.gender]-die", "time": 1609788095, "event": "VOID", "data": {"drills": 8, "latest": true}}
-{"id": "the history-[de.noun.en]-Geschichte", "time": 1609276241, "event": "LEARN", "data": {"prior": [2.571511688893854, 1.7228405998566156, 863843.7204158901]}}
-{"id": "the history-[de.noun.en]-Geschichte", "time": 1609276241, "event": "VOID", "data": {"drills": 10, "latest": true}}
-{"id": "the number-[de.noun.en]-Zahl", "time": 1609276290, "event": "LEARN", "data": {"prior": [2.5721439151053764, 1.720100102540555, 863843.7204158901]}}
-{"id": "the number-[de.noun.en]-Zahl", "time": 1609276290, "event": "VOID", "data": {"drills": 10, "latest": true}}
+{"id": "history-[de.noun.en]-Geschichte", "time": 1609276241, "event": "LEARN", "data": {"prior": [2.571511688893854, 1.7228405998566156, 863843.7204158901]}}
+{"id": "history-[de.noun.en]-Geschichte", "time": 1609276241, "event": "VOID", "data": {"drills": 10, "latest": true}}
+{"id": "number-[de.noun.en]-Zahl", "time": 1609276290, "event": "LEARN", "data": {"prior": [2.5721439151053764, 1.720100102540555, 863843.7204158901]}}
+{"id": "number-[de.noun.en]-Zahl", "time": 1609276290, "event": "VOID", "data": {"drills": 10, "latest": true}}
 {"id": "whereby/by what/how-[de.pron.interrogative]-wodurch", "time": 1610653704, "event": "LEARN", "data": {"prior": [1.6265666748659715, 1.6923794247252937, 91942.4519806052]}}
 {"id": "whereby/by what/how-[de.pron.interrogative]-wodurch", "time": 1610653704, "event": "VOID", "data": {"drills": 3, "latest": true}}
 {"id": "(to) herself/itself (f)-[de.pron.reflexive]-sich", "time": 1610653706, "event": "LEARN", "data": {"prior": [1.6276860159435014, 1.6925698408919274, 91942.4519806052]}}
 {"id": "(to) herself/itself (f)-[de.pron.reflexive]-sich", "time": 1610653706, "event": "VOID", "data": {"drills": 3, "latest": true}}
-{"id": "the development-[de.noun.en]-Entwicklung", "time": 1609276235, "event": "LEARN", "data": {"prior": [2.5492804970423215, 1.7045680509967813, 863843.7204158901]}}
-{"id": "the development-[de.noun.en]-Entwicklung", "time": 1609276235, "event": "VOID", "data": {"drills": 10, "latest": true}}
-{"id": "the world-[de.noun.en]-Welt", "time": 1609276314, "event": "LEARN", "data": {"prior": [2.572602236354695, 1.7180861309418751, 863843.7204158901]}}
-{"id": "the world-[de.noun.en]-Welt", "time": 1609276314, "event": "VOID", "data": {"drills": 10, "latest": true}}
+{"id": "development-[de.noun.en]-Entwicklung", "time": 1609276235, "event": "LEARN", "data": {"prior": [2.5492804970423215, 1.7045680509967813, 863843.7204158901]}}
+{"id": "development-[de.noun.en]-Entwicklung", "time": 1609276235, "event": "VOID", "data": {"drills": 10, "latest": true}}
+{"id": "world-[de.noun.en]-Welt", "time": 1609276314, "event": "LEARN", "data": {"prior": [2.572602236354695, 1.7180861309418751, 863843.7204158901]}}
+{"id": "world-[de.noun.en]-Welt", "time": 1609276314, "event": "VOID", "data": {"drills": 10, "latest": true}}
 {"id": "St\u00fcck-[de.noun.gender]-das", "time": 1610482331, "event": "LEARN", "data": {"prior": [15.524822859982322, 8.377647446141534, 146687.85410447538]}}
 {"id": "St\u00fcck-[de.noun.gender]-das", "time": 1610482331, "event": "VOID", "data": {"drills": 33, "latest": true}}
-{"id": "the grounding/basis/reason-[de.noun.en]-Grund", "time": 1609276311, "event": "LEARN", "data": {"prior": [2.5758742082927144, 1.7014647058748407, 863843.7204158901]}}
-{"id": "the grounding/basis/reason-[de.noun.en]-Grund", "time": 1609276311, "event": "VOID", "data": {"drills": 10, "latest": true}}
+{"id": "grounding/basis/reason-[de.noun.en]-Grund", "time": 1609276311, "event": "LEARN", "data": {"prior": [2.5758742082927144, 1.7014647058748407, 863843.7204158901]}}
+{"id": "grounding/basis/reason-[de.noun.en]-Grund", "time": 1609276311, "event": "VOID", "data": {"drills": 10, "latest": true}}
 {"id": "tall-[de.adj]-gro\u00df", "time": 1609101133, "event": "LEARN", "data": {"prior": [1.8047864068419988, 1.0000000000000129, 766072.9240637763]}}
 {"id": "tall-[de.adj]-gro\u00df", "time": 1609101133, "event": "VOID", "data": {"drills": 5, "latest": true}}
 {"id": "Geschichte-[de.noun.gender]-die", "time": 1609529224, "event": "LEARN", "data": {"prior": [2.896198354461635, 1.9971381973044826, 766072.9240637763]}}
@@ -300,124 +300,124 @@
 {"id": "Paar-[de.noun.gender]-das", "time": 1608756254, "event": "VOID", "data": {"drills": 7, "latest": true}}
 {"id": "above/up-[de.adv]-oben", "time": 1610184366, "event": "LEARN", "data": {"prior": [3.505966913758922, 2.3134338001088968, 367703.28603280237]}}
 {"id": "above/up-[de.adv]-oben", "time": 1610184366, "event": "VOID", "data": {"drills": 16, "latest": true}}
-{"id": "the likelihood/possibility-[de.noun.en]-M\u00f6glichkeit", "time": 1608756267, "event": "LEARN", "data": {"prior": [0.6764518318475563, 1.019248700569921, 2716980.20825752]}}
-{"id": "the likelihood/possibility-[de.noun.en]-M\u00f6glichkeit", "time": 1608756267, "event": "VOID", "data": {"drills": 9, "latest": true}}
-{"id": "the thing-[de.noun.en]-Sache", "time": 1608756268, "event": "LEARN", "data": {"prior": [0.6765907028181884, 1.0188262508671198, 2716980.20825752]}}
-{"id": "the thing-[de.noun.en]-Sache", "time": 1608756268, "event": "VOID", "data": {"drills": 9, "latest": true}}
-{"id": "the area/region-[de.noun.en]-Bereich", "time": 1608756281, "event": "LEARN", "data": {"prior": [0.6767568925631484, 1.0183930302746664, 2716980.20825752]}}
-{"id": "the area/region-[de.noun.en]-Bereich", "time": 1608756281, "event": "VOID", "data": {"drills": 10, "latest": true}}
+{"id": "likelihood/possibility-[de.noun.en]-M\u00f6glichkeit", "time": 1608756267, "event": "LEARN", "data": {"prior": [0.6764518318475563, 1.019248700569921, 2716980.20825752]}}
+{"id": "likelihood/possibility-[de.noun.en]-M\u00f6glichkeit", "time": 1608756267, "event": "VOID", "data": {"drills": 9, "latest": true}}
+{"id": "thing-[de.noun.en]-Sache", "time": 1608756268, "event": "LEARN", "data": {"prior": [0.6765907028181884, 1.0188262508671198, 2716980.20825752]}}
+{"id": "thing-[de.noun.en]-Sache", "time": 1608756268, "event": "VOID", "data": {"drills": 9, "latest": true}}
+{"id": "area/region-[de.noun.en]-Bereich", "time": 1608756281, "event": "LEARN", "data": {"prior": [0.6767568925631484, 1.0183930302746664, 2716980.20825752]}}
+{"id": "area/region-[de.noun.en]-Bereich", "time": 1608756281, "event": "VOID", "data": {"drills": 10, "latest": true}}
 {"id": "just/exactly-[de.adv]-eben", "time": 1610184324, "event": "LEARN", "data": {"prior": [3.5107599574917865, 2.289826631190393, 367703.28603280237]}}
 {"id": "just/exactly-[de.adv]-eben", "time": 1610184324, "event": "VOID", "data": {"drills": 19, "latest": true}}
 {"id": "nevertheless-[de.adv]-trotzdem", "time": 1610482634, "event": "LEARN", "data": {"prior": [2.845426732315561, 3.720478096188392, 317790.34512605733]}}
 {"id": "nevertheless-[de.adv]-trotzdem", "time": 1610482634, "event": "VOID", "data": {"drills": 14, "latest": true}}
 {"id": "in closing/conclusion-[de.adv]-schlie\u00dflich", "time": 1609961277, "event": "LEARN", "data": {"prior": [1.151810720711516, 1.3651398632127794, 863843.7204158901]}}
 {"id": "in closing/conclusion-[de.adv]-schlie\u00dflich", "time": 1609961277, "event": "VOID", "data": {"drills": 10, "latest": true}}
-{"id": "the place/location-[de.noun.en]-Ort", "time": 1608756251, "event": "LEARN", "data": {"prior": [0.6811738982766065, 1.0000000000012956, 2716980.20825752]}}
-{"id": "the place/location-[de.noun.en]-Ort", "time": 1608756251, "event": "VOID", "data": {"drills": 8, "latest": true}}
-{"id": "the type/kind-[de.noun.en]-Art", "time": 1608755231, "event": "LEARN", "data": {"prior": [0.7743788047398621, 1.000000000000408, 2409469.356055713]}}
-{"id": "the type/kind-[de.noun.en]-Art", "time": 1608755231, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the rule/government-[de.noun.en]-Regierung", "time": 1608755236, "event": "LEARN", "data": {"prior": [0.7743783897131006, 0.9999999999906961, 2409469.356055713]}}
-{"id": "the rule/government-[de.noun.en]-Regierung", "time": 1608755236, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the look/glance/view-[de.noun.en]-Blick", "time": 1608755244, "event": "LEARN", "data": {"prior": [0.7744236278858134, 1.000000000006567, 2409469.356055713]}}
-{"id": "the look/glance/view-[de.noun.en]-Blick", "time": 1608755244, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the role-[de.noun.en]-Rolle", "time": 1608755241, "event": "LEARN", "data": {"prior": [0.7744281932073961, 1.0000000000020792, 2409469.356055713]}}
-{"id": "the role-[de.noun.en]-Rolle", "time": 1608755241, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the result-[de.noun.en]-Ergebnis", "time": 1608755227, "event": "LEARN", "data": {"prior": [0.7744356637325998, 0.9999999999993757, 2409469.356055713]}}
-{"id": "the result-[de.noun.en]-Ergebnis", "time": 1608755227, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the billion-[de.noun.en]-Milliarde", "time": 1608755247, "event": "LEARN", "data": {"prior": [0.7744281932076245, 1.0000000000011564, 2409469.356055713]}}
-{"id": "the billion-[de.noun.en]-Milliarde", "time": 1608755247, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the roll-[de.noun.en]-Rolle", "time": 1608755278, "event": "LEARN", "data": {"prior": [0.7744593203937824, 0.9999999999990368, 2409469.356055713]}}
-{"id": "the roll-[de.noun.en]-Rolle", "time": 1608755278, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the beginning-[de.noun.en]-Anfang", "time": 1608755288, "event": "LEARN", "data": {"prior": [0.774469281090903, 1.000000000008935, 2409469.356055713]}}
-{"id": "the beginning-[de.noun.en]-Anfang", "time": 1608755288, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the goal-[de.noun.en]-Ziel", "time": 1608755281, "event": "LEARN", "data": {"prior": [0.774475921560059, 0.999999999996403, 2409469.356055713]}}
-{"id": "the goal-[de.noun.en]-Ziel", "time": 1608755281, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the way/manner-[de.noun.en]-Weise", "time": 1608755284, "event": "LEARN", "data": {"prior": [0.7744825620240651, 1.0000000000063212, 2409469.356055713]}}
-{"id": "the way/manner-[de.noun.en]-Weise", "time": 1608755284, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the place-[de.noun.en]-Platz", "time": 1608755274, "event": "LEARN", "data": {"prior": [0.7746083158540852, 1.0000000000066525, 2409469.356055713]}}
-{"id": "the place-[de.noun.en]-Platz", "time": 1608755274, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the destination-[de.noun.en]-Ziel", "time": 1608755272, "event": "LEARN", "data": {"prior": [0.7746103910013972, 0.9999999999996272, 2409469.356055713]}}
-{"id": "the destination-[de.noun.en]-Ziel", "time": 1608755272, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the town-[de.noun.en]-Stadt", "time": 1608755331, "event": "LEARN", "data": {"prior": [0.774717468518781, 1.000000000005261, 2409469.356055713]}}
-{"id": "the town-[de.noun.en]-Stadt", "time": 1608755331, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the enterprise/company-[de.noun.en]-Unternehmen", "time": 1608755318, "event": "LEARN", "data": {"prior": [0.7747365598570148, 1.0000000000153233, 2409469.356055713]}}
-{"id": "the enterprise/company-[de.noun.en]-Unternehmen", "time": 1608755318, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the conversation-[de.noun.en]-Gespr\u00e4ch", "time": 1608756253, "event": "LEARN", "data": {"prior": [0.7746581193545609, 0.9999999999919329, 2409469.356055713]}}
-{"id": "the conversation-[de.noun.en]-Gespr\u00e4ch", "time": 1608756253, "event": "VOID", "data": {"drills": 8, "latest": true}}
-{"id": "the hand-[de.noun.en]-Hand", "time": 1608756256, "event": "LEARN", "data": {"prior": [0.7751212918757598, 0.9999999999981679, 2409469.356055713]}}
-{"id": "the hand-[de.noun.en]-Hand", "time": 1608756256, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the society/company-[de.noun.en]-Gesellschaft", "time": 1608667864, "event": "LEARN", "data": {"prior": [1.2019757448103066, 1.0000000000000087, 1623539.4170187458]}}
-{"id": "the society/company-[de.noun.en]-Gesellschaft", "time": 1608667864, "event": "VOID", "data": {"drills": 4, "latest": true}}
-{"id": "the gentleman-[de.noun.en]-Herr", "time": 1608667899, "event": "LEARN", "data": {"prior": [1.201990527327919, 1.000000000000019, 1623539.4170187458]}}
-{"id": "the gentleman-[de.noun.en]-Herr", "time": 1608667899, "event": "VOID", "data": {"drills": 4, "latest": true}}
-{"id": "the work-[de.noun.en]-Arbeit", "time": 1608667910, "event": "LEARN", "data": {"prior": [1.2020071576601865, 0.999999999999994, 1623539.4170187458]}}
-{"id": "the work-[de.noun.en]-Arbeit", "time": 1608667910, "event": "VOID", "data": {"drills": 4, "latest": true}}
-{"id": "the head-[de.noun.en]-Kopf", "time": 1608667873, "event": "LEARN", "data": {"prior": [1.2021457437626588, 1.000000000000004, 1623539.4170187458]}}
-{"id": "the head-[de.noun.en]-Kopf", "time": 1608667873, "event": "VOID", "data": {"drills": 4, "latest": true}}
-{"id": "the mother-[de.noun.en]-Mutter", "time": 1608667906, "event": "LEARN", "data": {"prior": [1.2021765406743192, 1.0000000000000053, 1623539.4170187458]}}
-{"id": "the mother-[de.noun.en]-Mutter", "time": 1608667906, "event": "VOID", "data": {"drills": 4, "latest": true}}
-{"id": "the pupil/student (f)-[de.noun.en]-Sch\u00fclerin", "time": 1608756261, "event": "LEARN", "data": {"prior": [0.706253821644522, 1.0, 2647858.238339239]}}
-{"id": "the pupil/student (f)-[de.noun.en]-Sch\u00fclerin", "time": 1608756261, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the o'clock-[de.noun.en]-Uhr", "time": 1608756283, "event": "LEARN", "data": {"prior": [0.706266662211096, 0.9999999999999933, 2647858.238339239]}}
-{"id": "the o'clock-[de.noun.en]-Uhr", "time": 1608756283, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the apartment-[de.noun.en]-Wohnung", "time": 1608756250, "event": "LEARN", "data": {"prior": [0.7063705197348921, 0.999999999999973, 2647858.238339239]}}
-{"id": "the apartment-[de.noun.en]-Wohnung", "time": 1608756250, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the life-[de.noun.en]-Leben", "time": 1608756266, "event": "LEARN", "data": {"prior": [0.7063678760888291, 1.0000000000000027, 2647858.238339239]}}
-{"id": "the life-[de.noun.en]-Leben", "time": 1608756266, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the system-[de.noun.en]-System", "time": 1608756255, "event": "LEARN", "data": {"prior": [0.7063776953456282, 1.0000000000000269, 2647858.238339239]}}
-{"id": "the system-[de.noun.en]-System", "time": 1608756255, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the pupil/student (m)-[de.noun.en]-Sch\u00fcler", "time": 1608756270, "event": "LEARN", "data": {"prior": [0.7063750516995678, 1.000000000000018, 2647858.238339239]}}
-{"id": "the pupil/student (m)-[de.noun.en]-Sch\u00fcler", "time": 1608756270, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the land/country-[de.noun.en]-Land", "time": 1608756220, "event": "LEARN", "data": {"prior": [0.7064222596649223, 0.9999999999999862, 2647858.238339239]}}
-{"id": "the land/country-[de.noun.en]-Land", "time": 1608756220, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the topic/theme-[de.noun.en]-Thema", "time": 1608756295, "event": "LEARN", "data": {"prior": [0.7063962008680459, 1.0000000000000067, 2647858.238339239]}}
-{"id": "the topic/theme-[de.noun.en]-Thema", "time": 1608756295, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the evening-[de.noun.en]-Abend", "time": 1608756293, "event": "LEARN", "data": {"prior": [0.7063977115229364, 1.0000000000000162, 2647858.238339239]}}
-{"id": "the evening-[de.noun.en]-Abend", "time": 1608756293, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the million-[de.noun.en]-Million", "time": 1608756291, "event": "LEARN", "data": {"prior": [0.7064007328327208, 1.0000000000000262, 2647858.238339239]}}
-{"id": "the million-[de.noun.en]-Million", "time": 1608756291, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the friend (f)-[de.noun.en]-Freundin", "time": 1608756240, "event": "LEARN", "data": {"prior": [0.7965826375784628, 0.9999999999999858, 2348170.6878349707]}}
-{"id": "the friend (f)-[de.noun.en]-Freundin", "time": 1608756240, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the significance-[de.noun.en]-Bedeutung", "time": 1608756217, "event": "LEARN", "data": {"prior": [0.7965937100273841, 1.0000000000000346, 2348170.6878349707]}}
-{"id": "the significance-[de.noun.en]-Bedeutung", "time": 1608756217, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the minute-[de.noun.en]-Minute", "time": 1608756252, "event": "LEARN", "data": {"prior": [0.7064305682668226, 0.9999999999999987, 2647858.238339239]}}
-{"id": "the minute-[de.noun.en]-Minute", "time": 1608756252, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the question-[de.noun.en]-Frage", "time": 1608756264, "event": "LEARN", "data": {"prior": [0.7064305682668325, 1.0000000000000053, 2647858.238339239]}}
-{"id": "the question-[de.noun.en]-Frage", "time": 1608756264, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the value/worth-[de.noun.en]-Wert", "time": 1608756284, "event": "LEARN", "data": {"prior": [0.7064256586384356, 0.9999999999999996, 2647858.238339239]}}
-{"id": "the value/worth-[de.noun.en]-Wert", "time": 1608756284, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the interest-[de.noun.en]-Interesse", "time": 1608756280, "event": "LEARN", "data": {"prior": [0.7064286799482185, 1.0000000000000062, 2647858.238339239]}}
-{"id": "the interest-[de.noun.en]-Interesse", "time": 1608756280, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the word-[de.noun.en]-Wort", "time": 1608756249, "event": "LEARN", "data": {"prior": [0.7064403875236167, 0.9999999999999762, 2647858.238339239]}}
-{"id": "the word-[de.noun.en]-Wort", "time": 1608756249, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the father-[de.noun.en]-Vater", "time": 1608756275, "event": "LEARN", "data": {"prior": [0.7965962652078994, 1.0000000000000067, 2348170.6878349707]}}
-{"id": "the father-[de.noun.en]-Vater", "time": 1608756275, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the child-[de.noun.en]-Kind", "time": 1608756293, "event": "LEARN", "data": {"prior": [0.7064309459305521, 0.9999999999999962, 2647858.238339239]}}
-{"id": "the child-[de.noun.en]-Kind", "time": 1608756293, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the month-[de.noun.en]-Monat", "time": 1608756296, "event": "LEARN", "data": {"prior": [0.7064313235942814, 1.00000000000002, 2647858.238339239]}}
-{"id": "the month-[de.noun.en]-Monat", "time": 1608756296, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the fall-[de.noun.en]-Fall", "time": 1608756274, "event": "LEARN", "data": {"prior": [0.7064415205148046, 1.0000000000000184, 2647858.238339239]}}
-{"id": "the fall-[de.noun.en]-Fall", "time": 1608756274, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the room/space-[de.noun.en]-Raum", "time": 1608756281, "event": "LEARN", "data": {"prior": [0.7966009497055208, 0.9999999999999845, 2348170.6878349707]}}
-{"id": "the room/space-[de.noun.en]-Raum", "time": 1608756281, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the right/law-[de.noun.en]-Recht", "time": 1608756267, "event": "LEARN", "data": {"prior": [0.7966069117933965, 0.9999999999999991, 2348170.6878349707]}}
-{"id": "the right/law-[de.noun.en]-Recht", "time": 1608756267, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the pair/couple-[de.noun.en]-Paar", "time": 1608756292, "event": "LEARN", "data": {"prior": [0.7064505844441518, 1.0000000000000153, 2647858.238339239]}}
-{"id": "the pair/couple-[de.noun.en]-Paar", "time": 1608756292, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the euro (currency)-[de.noun.en]-Euro", "time": 1608756265, "event": "LEARN", "data": {"prior": [0.7966239463301943, 1.0000000000000355, 2348170.6878349707]}}
-{"id": "the euro (currency)-[de.noun.en]-Euro", "time": 1608756265, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the parents-[de.noun.en]-Eltern", "time": 1608756302, "event": "LEARN", "data": {"prior": [0.7064505844441523, 1.0000000000000138, 2647858.238339239]}}
-{"id": "the parents-[de.noun.en]-Eltern", "time": 1608756302, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the door-[de.noun.en]-T\u00fcr", "time": 1608756263, "event": "LEARN", "data": {"prior": [0.7064653133293367, 1.0000000000000095, 2647858.238339239]}}
-{"id": "the door-[de.noun.en]-T\u00fcr", "time": 1608756263, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the mark (currency)-[de.noun.en]-Mark", "time": 1608756282, "event": "LEARN", "data": {"prior": [0.7064619143558354, 1.0000000000000364, 2647858.238339239]}}
-{"id": "the mark (currency)-[de.noun.en]-Mark", "time": 1608756282, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the name-[de.noun.en]-Name", "time": 1608756290, "event": "LEARN", "data": {"prior": [0.7064713559489015, 1.0000000000000022, 2647858.238339239]}}
-{"id": "the name-[de.noun.en]-Name", "time": 1608756290, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the text-[de.noun.en]-Text", "time": 1608671882, "event": "LEARN", "data": {"prior": [1.204668010827482, 0.9999999999999856, 1623539.4170187458]}}
-{"id": "the text-[de.noun.en]-Text", "time": 1608671882, "event": "VOID", "data": {"drills": 4, "latest": true}}
-{"id": "the task/asg./job-[de.noun.en]-Aufgabe", "time": 1608671893, "event": "LEARN", "data": {"prior": [1.2047025033685426, 0.9999999999999717, 1623539.4170187458]}}
-{"id": "the task/asg./job-[de.noun.en]-Aufgabe", "time": 1608671893, "event": "VOID", "data": {"drills": 4, "latest": true}}
+{"id": "place/location-[de.noun.en]-Ort", "time": 1608756251, "event": "LEARN", "data": {"prior": [0.6811738982766065, 1.0000000000012956, 2716980.20825752]}}
+{"id": "place/location-[de.noun.en]-Ort", "time": 1608756251, "event": "VOID", "data": {"drills": 8, "latest": true}}
+{"id": "type/kind-[de.noun.en]-Art", "time": 1608755231, "event": "LEARN", "data": {"prior": [0.7743788047398621, 1.000000000000408, 2409469.356055713]}}
+{"id": "type/kind-[de.noun.en]-Art", "time": 1608755231, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "rule/government-[de.noun.en]-Regierung", "time": 1608755236, "event": "LEARN", "data": {"prior": [0.7743783897131006, 0.9999999999906961, 2409469.356055713]}}
+{"id": "rule/government-[de.noun.en]-Regierung", "time": 1608755236, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "look/glance/view-[de.noun.en]-Blick", "time": 1608755244, "event": "LEARN", "data": {"prior": [0.7744236278858134, 1.000000000006567, 2409469.356055713]}}
+{"id": "look/glance/view-[de.noun.en]-Blick", "time": 1608755244, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "role-[de.noun.en]-Rolle", "time": 1608755241, "event": "LEARN", "data": {"prior": [0.7744281932073961, 1.0000000000020792, 2409469.356055713]}}
+{"id": "role-[de.noun.en]-Rolle", "time": 1608755241, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "result-[de.noun.en]-Ergebnis", "time": 1608755227, "event": "LEARN", "data": {"prior": [0.7744356637325998, 0.9999999999993757, 2409469.356055713]}}
+{"id": "result-[de.noun.en]-Ergebnis", "time": 1608755227, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "billion-[de.noun.en]-Milliarde", "time": 1608755247, "event": "LEARN", "data": {"prior": [0.7744281932076245, 1.0000000000011564, 2409469.356055713]}}
+{"id": "billion-[de.noun.en]-Milliarde", "time": 1608755247, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "roll-[de.noun.en]-Rolle", "time": 1608755278, "event": "LEARN", "data": {"prior": [0.7744593203937824, 0.9999999999990368, 2409469.356055713]}}
+{"id": "roll-[de.noun.en]-Rolle", "time": 1608755278, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "beginning-[de.noun.en]-Anfang", "time": 1608755288, "event": "LEARN", "data": {"prior": [0.774469281090903, 1.000000000008935, 2409469.356055713]}}
+{"id": "beginning-[de.noun.en]-Anfang", "time": 1608755288, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "goal-[de.noun.en]-Ziel", "time": 1608755281, "event": "LEARN", "data": {"prior": [0.774475921560059, 0.999999999996403, 2409469.356055713]}}
+{"id": "goal-[de.noun.en]-Ziel", "time": 1608755281, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "way/manner-[de.noun.en]-Weise", "time": 1608755284, "event": "LEARN", "data": {"prior": [0.7744825620240651, 1.0000000000063212, 2409469.356055713]}}
+{"id": "way/manner-[de.noun.en]-Weise", "time": 1608755284, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "place-[de.noun.en]-Platz", "time": 1608755274, "event": "LEARN", "data": {"prior": [0.7746083158540852, 1.0000000000066525, 2409469.356055713]}}
+{"id": "place-[de.noun.en]-Platz", "time": 1608755274, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "destination-[de.noun.en]-Ziel", "time": 1608755272, "event": "LEARN", "data": {"prior": [0.7746103910013972, 0.9999999999996272, 2409469.356055713]}}
+{"id": "destination-[de.noun.en]-Ziel", "time": 1608755272, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "town-[de.noun.en]-Stadt", "time": 1608755331, "event": "LEARN", "data": {"prior": [0.774717468518781, 1.000000000005261, 2409469.356055713]}}
+{"id": "town-[de.noun.en]-Stadt", "time": 1608755331, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "enterprise/company-[de.noun.en]-Unternehmen", "time": 1608755318, "event": "LEARN", "data": {"prior": [0.7747365598570148, 1.0000000000153233, 2409469.356055713]}}
+{"id": "enterprise/company-[de.noun.en]-Unternehmen", "time": 1608755318, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "conversation-[de.noun.en]-Gespr\u00e4ch", "time": 1608756253, "event": "LEARN", "data": {"prior": [0.7746581193545609, 0.9999999999919329, 2409469.356055713]}}
+{"id": "conversation-[de.noun.en]-Gespr\u00e4ch", "time": 1608756253, "event": "VOID", "data": {"drills": 8, "latest": true}}
+{"id": "hand-[de.noun.en]-Hand", "time": 1608756256, "event": "LEARN", "data": {"prior": [0.7751212918757598, 0.9999999999981679, 2409469.356055713]}}
+{"id": "hand-[de.noun.en]-Hand", "time": 1608756256, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "society/company-[de.noun.en]-Gesellschaft", "time": 1608667864, "event": "LEARN", "data": {"prior": [1.2019757448103066, 1.0000000000000087, 1623539.4170187458]}}
+{"id": "society/company-[de.noun.en]-Gesellschaft", "time": 1608667864, "event": "VOID", "data": {"drills": 4, "latest": true}}
+{"id": "gentleman-[de.noun.en]-Herr", "time": 1608667899, "event": "LEARN", "data": {"prior": [1.201990527327919, 1.000000000000019, 1623539.4170187458]}}
+{"id": "gentleman-[de.noun.en]-Herr", "time": 1608667899, "event": "VOID", "data": {"drills": 4, "latest": true}}
+{"id": "work-[de.noun.en]-Arbeit", "time": 1608667910, "event": "LEARN", "data": {"prior": [1.2020071576601865, 0.999999999999994, 1623539.4170187458]}}
+{"id": "work-[de.noun.en]-Arbeit", "time": 1608667910, "event": "VOID", "data": {"drills": 4, "latest": true}}
+{"id": "head-[de.noun.en]-Kopf", "time": 1608667873, "event": "LEARN", "data": {"prior": [1.2021457437626588, 1.000000000000004, 1623539.4170187458]}}
+{"id": "head-[de.noun.en]-Kopf", "time": 1608667873, "event": "VOID", "data": {"drills": 4, "latest": true}}
+{"id": "mother-[de.noun.en]-Mutter", "time": 1608667906, "event": "LEARN", "data": {"prior": [1.2021765406743192, 1.0000000000000053, 1623539.4170187458]}}
+{"id": "mother-[de.noun.en]-Mutter", "time": 1608667906, "event": "VOID", "data": {"drills": 4, "latest": true}}
+{"id": "pupil/student (f)-[de.noun.en]-Sch\u00fclerin", "time": 1608756261, "event": "LEARN", "data": {"prior": [0.706253821644522, 1.0, 2647858.238339239]}}
+{"id": "pupil/student (f)-[de.noun.en]-Sch\u00fclerin", "time": 1608756261, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "o'clock-[de.noun.en]-Uhr", "time": 1608756283, "event": "LEARN", "data": {"prior": [0.706266662211096, 0.9999999999999933, 2647858.238339239]}}
+{"id": "o'clock-[de.noun.en]-Uhr", "time": 1608756283, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "apartment-[de.noun.en]-Wohnung", "time": 1608756250, "event": "LEARN", "data": {"prior": [0.7063705197348921, 0.999999999999973, 2647858.238339239]}}
+{"id": "apartment-[de.noun.en]-Wohnung", "time": 1608756250, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "life-[de.noun.en]-Leben", "time": 1608756266, "event": "LEARN", "data": {"prior": [0.7063678760888291, 1.0000000000000027, 2647858.238339239]}}
+{"id": "life-[de.noun.en]-Leben", "time": 1608756266, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "system-[de.noun.en]-System", "time": 1608756255, "event": "LEARN", "data": {"prior": [0.7063776953456282, 1.0000000000000269, 2647858.238339239]}}
+{"id": "system-[de.noun.en]-System", "time": 1608756255, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "pupil/student (m)-[de.noun.en]-Sch\u00fcler", "time": 1608756270, "event": "LEARN", "data": {"prior": [0.7063750516995678, 1.000000000000018, 2647858.238339239]}}
+{"id": "pupil/student (m)-[de.noun.en]-Sch\u00fcler", "time": 1608756270, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "land/country-[de.noun.en]-Land", "time": 1608756220, "event": "LEARN", "data": {"prior": [0.7064222596649223, 0.9999999999999862, 2647858.238339239]}}
+{"id": "land/country-[de.noun.en]-Land", "time": 1608756220, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "topic/theme-[de.noun.en]-Thema", "time": 1608756295, "event": "LEARN", "data": {"prior": [0.7063962008680459, 1.0000000000000067, 2647858.238339239]}}
+{"id": "topic/theme-[de.noun.en]-Thema", "time": 1608756295, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "evening-[de.noun.en]-Abend", "time": 1608756293, "event": "LEARN", "data": {"prior": [0.7063977115229364, 1.0000000000000162, 2647858.238339239]}}
+{"id": "evening-[de.noun.en]-Abend", "time": 1608756293, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "million-[de.noun.en]-Million", "time": 1608756291, "event": "LEARN", "data": {"prior": [0.7064007328327208, 1.0000000000000262, 2647858.238339239]}}
+{"id": "million-[de.noun.en]-Million", "time": 1608756291, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "friend (f)-[de.noun.en]-Freundin", "time": 1608756240, "event": "LEARN", "data": {"prior": [0.7965826375784628, 0.9999999999999858, 2348170.6878349707]}}
+{"id": "friend (f)-[de.noun.en]-Freundin", "time": 1608756240, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "significance-[de.noun.en]-Bedeutung", "time": 1608756217, "event": "LEARN", "data": {"prior": [0.7965937100273841, 1.0000000000000346, 2348170.6878349707]}}
+{"id": "significance-[de.noun.en]-Bedeutung", "time": 1608756217, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "minute-[de.noun.en]-Minute", "time": 1608756252, "event": "LEARN", "data": {"prior": [0.7064305682668226, 0.9999999999999987, 2647858.238339239]}}
+{"id": "minute-[de.noun.en]-Minute", "time": 1608756252, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "question-[de.noun.en]-Frage", "time": 1608756264, "event": "LEARN", "data": {"prior": [0.7064305682668325, 1.0000000000000053, 2647858.238339239]}}
+{"id": "question-[de.noun.en]-Frage", "time": 1608756264, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "value/worth-[de.noun.en]-Wert", "time": 1608756284, "event": "LEARN", "data": {"prior": [0.7064256586384356, 0.9999999999999996, 2647858.238339239]}}
+{"id": "value/worth-[de.noun.en]-Wert", "time": 1608756284, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "interest-[de.noun.en]-Interesse", "time": 1608756280, "event": "LEARN", "data": {"prior": [0.7064286799482185, 1.0000000000000062, 2647858.238339239]}}
+{"id": "interest-[de.noun.en]-Interesse", "time": 1608756280, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "word-[de.noun.en]-Wort", "time": 1608756249, "event": "LEARN", "data": {"prior": [0.7064403875236167, 0.9999999999999762, 2647858.238339239]}}
+{"id": "word-[de.noun.en]-Wort", "time": 1608756249, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "father-[de.noun.en]-Vater", "time": 1608756275, "event": "LEARN", "data": {"prior": [0.7965962652078994, 1.0000000000000067, 2348170.6878349707]}}
+{"id": "father-[de.noun.en]-Vater", "time": 1608756275, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "child-[de.noun.en]-Kind", "time": 1608756293, "event": "LEARN", "data": {"prior": [0.7064309459305521, 0.9999999999999962, 2647858.238339239]}}
+{"id": "child-[de.noun.en]-Kind", "time": 1608756293, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "month-[de.noun.en]-Monat", "time": 1608756296, "event": "LEARN", "data": {"prior": [0.7064313235942814, 1.00000000000002, 2647858.238339239]}}
+{"id": "month-[de.noun.en]-Monat", "time": 1608756296, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "fall-[de.noun.en]-Fall", "time": 1608756274, "event": "LEARN", "data": {"prior": [0.7064415205148046, 1.0000000000000184, 2647858.238339239]}}
+{"id": "fall-[de.noun.en]-Fall", "time": 1608756274, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "room/space-[de.noun.en]-Raum", "time": 1608756281, "event": "LEARN", "data": {"prior": [0.7966009497055208, 0.9999999999999845, 2348170.6878349707]}}
+{"id": "room/space-[de.noun.en]-Raum", "time": 1608756281, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "right/law-[de.noun.en]-Recht", "time": 1608756267, "event": "LEARN", "data": {"prior": [0.7966069117933965, 0.9999999999999991, 2348170.6878349707]}}
+{"id": "right/law-[de.noun.en]-Recht", "time": 1608756267, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "pair/couple-[de.noun.en]-Paar", "time": 1608756292, "event": "LEARN", "data": {"prior": [0.7064505844441518, 1.0000000000000153, 2647858.238339239]}}
+{"id": "pair/couple-[de.noun.en]-Paar", "time": 1608756292, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "euro (currency)-[de.noun.en]-Euro", "time": 1608756265, "event": "LEARN", "data": {"prior": [0.7966239463301943, 1.0000000000000355, 2348170.6878349707]}}
+{"id": "euro (currency)-[de.noun.en]-Euro", "time": 1608756265, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "parents-[de.noun.en]-Eltern", "time": 1608756302, "event": "LEARN", "data": {"prior": [0.7064505844441523, 1.0000000000000138, 2647858.238339239]}}
+{"id": "parents-[de.noun.en]-Eltern", "time": 1608756302, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "door-[de.noun.en]-T\u00fcr", "time": 1608756263, "event": "LEARN", "data": {"prior": [0.7064653133293367, 1.0000000000000095, 2647858.238339239]}}
+{"id": "door-[de.noun.en]-T\u00fcr", "time": 1608756263, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "mark (currency)-[de.noun.en]-Mark", "time": 1608756282, "event": "LEARN", "data": {"prior": [0.7064619143558354, 1.0000000000000364, 2647858.238339239]}}
+{"id": "mark (currency)-[de.noun.en]-Mark", "time": 1608756282, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "name-[de.noun.en]-Name", "time": 1608756290, "event": "LEARN", "data": {"prior": [0.7064713559489015, 1.0000000000000022, 2647858.238339239]}}
+{"id": "name-[de.noun.en]-Name", "time": 1608756290, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "text-[de.noun.en]-Text", "time": 1608671882, "event": "LEARN", "data": {"prior": [1.204668010827482, 0.9999999999999856, 1623539.4170187458]}}
+{"id": "text-[de.noun.en]-Text", "time": 1608671882, "event": "VOID", "data": {"drills": 4, "latest": true}}
+{"id": "task/asg./job-[de.noun.en]-Aufgabe", "time": 1608671893, "event": "LEARN", "data": {"prior": [1.2047025033685426, 0.9999999999999717, 1623539.4170187458]}}
+{"id": "task/asg./job-[de.noun.en]-Aufgabe", "time": 1608671893, "event": "VOID", "data": {"drills": 4, "latest": true}}
 {"id": "complete-[de.adj]-v\u00f6llig", "time": 1610482530, "event": "LEARN", "data": {"prior": [3.766766789882743, 8.48314402550255, 467549.55303397507]}}
 {"id": "complete-[de.adj]-v\u00f6llig", "time": 1610482530, "event": "VOID", "data": {"drills": 37, "latest": true}}
 {"id": "general-[de.adj]-allgemein", "time": 1610184300, "event": "LEARN", "data": {"prior": [5.573541440039702, 3.9064261327463745, 414631.77282229677]}}
@@ -434,58 +434,58 @@
 {"id": "after-[de.conj.sub]-nachdem", "time": 1610652674, "event": "VOID", "data": {"drills": 10, "latest": true}}
 {"id": "any/each time-[de.adv]-jeweils", "time": 1610566198, "event": "LEARN", "data": {"prior": [2.2190115315868106, 4.228964635172537, 317790.34512605733]}}
 {"id": "any/each time-[de.adv]-jeweils", "time": 1610566198, "event": "VOID", "data": {"drills": 13, "latest": true}}
-{"id": "the week-[de.noun.en]-Woche", "time": 1608756260, "event": "LEARN", "data": {"prior": [1.2567067843333088, 1.0000000000000013, 1623539.4170187458]}}
-{"id": "the week-[de.noun.en]-Woche", "time": 1608756260, "event": "VOID", "data": {"drills": 4, "latest": true}}
-{"id": "the morning-[de.noun.en]-Morgen", "time": 1608756279, "event": "LEARN", "data": {"prior": [1.256701856827436, 1.0000000000000029, 1623539.4170187458]}}
-{"id": "the morning-[de.noun.en]-Morgen", "time": 1608756279, "event": "VOID", "data": {"drills": 4, "latest": true}}
-{"id": "the street-[de.noun.en]-Stra\u00dfe", "time": 1608756253, "event": "LEARN", "data": {"prior": [1.256720950912687, 1.0000000000000118, 1623539.4170187458]}}
-{"id": "the street-[de.noun.en]-Stra\u00dfe", "time": 1608756253, "event": "VOID", "data": {"drills": 4, "latest": true}}
-{"id": "the house/home-[de.noun.en]-Haus", "time": 1608756232, "event": "LEARN", "data": {"prior": [1.2567505159478671, 1.0000000000000113, 1623539.4170187458]}}
-{"id": "the house/home-[de.noun.en]-Haus", "time": 1608756232, "event": "VOID", "data": {"drills": 4, "latest": true}}
-{"id": "the state-[de.noun.en]-Staat", "time": 1608756266, "event": "LEARN", "data": {"prior": [1.2567443565655394, 1.0000000000000069, 1623539.4170187458]}}
-{"id": "the state-[de.noun.en]-Staat", "time": 1608756266, "event": "VOID", "data": {"drills": 4, "latest": true}}
-{"id": "the page-[de.noun.en]-Seite", "time": 1608756264, "event": "LEARN", "data": {"prior": [1.256760986897826, 1.0000000000000093, 1623539.4170187458]}}
-{"id": "the page-[de.noun.en]-Seite", "time": 1608756264, "event": "VOID", "data": {"drills": 4, "latest": true}}
-{"id": "the university-[de.noun.en]-Universit\u00e4t", "time": 1608756260, "event": "LEARN", "data": {"prior": [1.2567757694154271, 1.000000000000007, 1623539.4170187458]}}
-{"id": "the university-[de.noun.en]-Universit\u00e4t", "time": 1608756260, "event": "VOID", "data": {"drills": 4, "latest": true}}
-{"id": "the day-[de.noun.en]-Tag", "time": 1608756259, "event": "LEARN", "data": {"prior": [1.256780080983052, 0.9999999999999847, 1623539.4170187458]}}
-{"id": "the day-[de.noun.en]-Tag", "time": 1608756259, "event": "VOID", "data": {"drills": 4, "latest": true}}
-{"id": "the group-[de.noun.en]-Gruppe", "time": 1608756276, "event": "LEARN", "data": {"prior": [1.2567806969212838, 0.999999999999996, 1623539.4170187458]}}
-{"id": "the group-[de.noun.en]-Gruppe", "time": 1608756276, "event": "VOID", "data": {"drills": 4, "latest": true}}
-{"id": "the way/path-[de.noun.en]-Weg", "time": 1608756276, "event": "LEARN", "data": {"prior": [1.256783160674223, 1.000000000000001, 1623539.4170187458]}}
-{"id": "the way/path-[de.noun.en]-Weg", "time": 1608756276, "event": "VOID", "data": {"drills": 4, "latest": true}}
-{"id": "the person-[de.noun.en]-Person", "time": 1608756209, "event": "LEARN", "data": {"prior": [1.2568656963974538, 0.9999999999999769, 1623539.4170187458]}}
-{"id": "the person-[de.noun.en]-Person", "time": 1608756209, "event": "VOID", "data": {"drills": 4, "latest": true}}
-{"id": "the book-[de.noun.en]-Buch", "time": 1608756258, "event": "LEARN", "data": {"prior": [1.2568453704357827, 1.0000000000000115, 1623539.4170187458]}}
-{"id": "the book-[de.noun.en]-Buch", "time": 1608756258, "event": "VOID", "data": {"drills": 4, "latest": true}}
-{"id": "the thing-[de.noun.en]-Ding", "time": 1608756257, "event": "LEARN", "data": {"prior": [1.2568552254475016, 1.0000000000000064, 1623539.4170187458]}}
-{"id": "the thing-[de.noun.en]-Ding", "time": 1608756257, "event": "VOID", "data": {"drills": 4, "latest": true}}
-{"id": "the eye-[de.noun.en]-Auge", "time": 1608756243, "event": "LEARN", "data": {"prior": [1.2569014208149902, 0.9999999999999865, 1623539.4170187458]}}
-{"id": "the eye-[de.noun.en]-Auge", "time": 1608756243, "event": "VOID", "data": {"drills": 5, "latest": true}}
-{"id": "the night-[de.noun.en]-Nacht", "time": 1608756298, "event": "LEARN", "data": {"prior": [1.2568681601504044, 1.00000000000002, 1623539.4170187458]}}
-{"id": "the night-[de.noun.en]-Nacht", "time": 1608756298, "event": "VOID", "data": {"drills": 4, "latest": true}}
-{"id": "the friend (m)-[de.noun.en]-Freund", "time": 1608756286, "event": "LEARN", "data": {"prior": [1.2568810948532911, 0.9999999999999816, 1623539.4170187458]}}
-{"id": "the friend (m)-[de.noun.en]-Freund", "time": 1608756286, "event": "VOID", "data": {"drills": 4, "latest": true}}
-{"id": "the school-[de.noun.en]-Schule", "time": 1608756291, "event": "LEARN", "data": {"prior": [1.2568909498650171, 0.9999999999999845, 1623539.4170187458]}}
-{"id": "the school-[de.noun.en]-Schule", "time": 1608756291, "event": "VOID", "data": {"drills": 4, "latest": true}}
-{"id": "the family-[de.noun.en]-Familie", "time": 1608756277, "event": "LEARN", "data": {"prior": [1.256911891764954, 1.000000000000003, 1623539.4170187458]}}
-{"id": "the family-[de.noun.en]-Familie", "time": 1608756277, "event": "VOID", "data": {"drills": 4, "latest": true}}
-{"id": "the water-[de.noun.en]-Wasser", "time": 1608756301, "event": "LEARN", "data": {"prior": [1.2569137395796526, 1.000000000000004, 1623539.4170187458]}}
-{"id": "the water-[de.noun.en]-Wasser", "time": 1608756301, "event": "VOID", "data": {"drills": 4, "latest": true}}
-{"id": "the man/husband-[de.noun.en]-Mann", "time": 1608756282, "event": "LEARN", "data": {"prior": [1.2569279061590142, 0.9999999999999947, 1623539.4170187458]}}
-{"id": "the man/husband-[de.noun.en]-Mann", "time": 1608756282, "event": "VOID", "data": {"drills": 5, "latest": true}}
-{"id": "the result/consequence-[de.noun.en]-Folge", "time": 1608756294, "event": "LEARN", "data": {"prior": [1.256927906159007, 0.9999999999999791, 1623539.4170187458]}}
-{"id": "the result/consequence-[de.noun.en]-Folge", "time": 1608756294, "event": "VOID", "data": {"drills": 4, "latest": true}}
+{"id": "week-[de.noun.en]-Woche", "time": 1608756260, "event": "LEARN", "data": {"prior": [1.2567067843333088, 1.0000000000000013, 1623539.4170187458]}}
+{"id": "week-[de.noun.en]-Woche", "time": 1608756260, "event": "VOID", "data": {"drills": 4, "latest": true}}
+{"id": "morning-[de.noun.en]-Morgen", "time": 1608756279, "event": "LEARN", "data": {"prior": [1.256701856827436, 1.0000000000000029, 1623539.4170187458]}}
+{"id": "morning-[de.noun.en]-Morgen", "time": 1608756279, "event": "VOID", "data": {"drills": 4, "latest": true}}
+{"id": "street-[de.noun.en]-Stra\u00dfe", "time": 1608756253, "event": "LEARN", "data": {"prior": [1.256720950912687, 1.0000000000000118, 1623539.4170187458]}}
+{"id": "street-[de.noun.en]-Stra\u00dfe", "time": 1608756253, "event": "VOID", "data": {"drills": 4, "latest": true}}
+{"id": "house/home-[de.noun.en]-Haus", "time": 1608756232, "event": "LEARN", "data": {"prior": [1.2567505159478671, 1.0000000000000113, 1623539.4170187458]}}
+{"id": "house/home-[de.noun.en]-Haus", "time": 1608756232, "event": "VOID", "data": {"drills": 4, "latest": true}}
+{"id": "state-[de.noun.en]-Staat", "time": 1608756266, "event": "LEARN", "data": {"prior": [1.2567443565655394, 1.0000000000000069, 1623539.4170187458]}}
+{"id": "state-[de.noun.en]-Staat", "time": 1608756266, "event": "VOID", "data": {"drills": 4, "latest": true}}
+{"id": "page-[de.noun.en]-Seite", "time": 1608756264, "event": "LEARN", "data": {"prior": [1.256760986897826, 1.0000000000000093, 1623539.4170187458]}}
+{"id": "page-[de.noun.en]-Seite", "time": 1608756264, "event": "VOID", "data": {"drills": 4, "latest": true}}
+{"id": "university-[de.noun.en]-Universit\u00e4t", "time": 1608756260, "event": "LEARN", "data": {"prior": [1.2567757694154271, 1.000000000000007, 1623539.4170187458]}}
+{"id": "university-[de.noun.en]-Universit\u00e4t", "time": 1608756260, "event": "VOID", "data": {"drills": 4, "latest": true}}
+{"id": "day-[de.noun.en]-Tag", "time": 1608756259, "event": "LEARN", "data": {"prior": [1.256780080983052, 0.9999999999999847, 1623539.4170187458]}}
+{"id": "day-[de.noun.en]-Tag", "time": 1608756259, "event": "VOID", "data": {"drills": 4, "latest": true}}
+{"id": "group-[de.noun.en]-Gruppe", "time": 1608756276, "event": "LEARN", "data": {"prior": [1.2567806969212838, 0.999999999999996, 1623539.4170187458]}}
+{"id": "group-[de.noun.en]-Gruppe", "time": 1608756276, "event": "VOID", "data": {"drills": 4, "latest": true}}
+{"id": "way/path-[de.noun.en]-Weg", "time": 1608756276, "event": "LEARN", "data": {"prior": [1.256783160674223, 1.000000000000001, 1623539.4170187458]}}
+{"id": "way/path-[de.noun.en]-Weg", "time": 1608756276, "event": "VOID", "data": {"drills": 4, "latest": true}}
+{"id": "person-[de.noun.en]-Person", "time": 1608756209, "event": "LEARN", "data": {"prior": [1.2568656963974538, 0.9999999999999769, 1623539.4170187458]}}
+{"id": "person-[de.noun.en]-Person", "time": 1608756209, "event": "VOID", "data": {"drills": 4, "latest": true}}
+{"id": "book-[de.noun.en]-Buch", "time": 1608756258, "event": "LEARN", "data": {"prior": [1.2568453704357827, 1.0000000000000115, 1623539.4170187458]}}
+{"id": "book-[de.noun.en]-Buch", "time": 1608756258, "event": "VOID", "data": {"drills": 4, "latest": true}}
+{"id": "thing-[de.noun.en]-Ding", "time": 1608756257, "event": "LEARN", "data": {"prior": [1.2568552254475016, 1.0000000000000064, 1623539.4170187458]}}
+{"id": "thing-[de.noun.en]-Ding", "time": 1608756257, "event": "VOID", "data": {"drills": 4, "latest": true}}
+{"id": "eye-[de.noun.en]-Auge", "time": 1608756243, "event": "LEARN", "data": {"prior": [1.2569014208149902, 0.9999999999999865, 1623539.4170187458]}}
+{"id": "eye-[de.noun.en]-Auge", "time": 1608756243, "event": "VOID", "data": {"drills": 5, "latest": true}}
+{"id": "night-[de.noun.en]-Nacht", "time": 1608756298, "event": "LEARN", "data": {"prior": [1.2568681601504044, 1.00000000000002, 1623539.4170187458]}}
+{"id": "night-[de.noun.en]-Nacht", "time": 1608756298, "event": "VOID", "data": {"drills": 4, "latest": true}}
+{"id": "friend (m)-[de.noun.en]-Freund", "time": 1608756286, "event": "LEARN", "data": {"prior": [1.2568810948532911, 0.9999999999999816, 1623539.4170187458]}}
+{"id": "friend (m)-[de.noun.en]-Freund", "time": 1608756286, "event": "VOID", "data": {"drills": 4, "latest": true}}
+{"id": "school-[de.noun.en]-Schule", "time": 1608756291, "event": "LEARN", "data": {"prior": [1.2568909498650171, 0.9999999999999845, 1623539.4170187458]}}
+{"id": "school-[de.noun.en]-Schule", "time": 1608756291, "event": "VOID", "data": {"drills": 4, "latest": true}}
+{"id": "family-[de.noun.en]-Familie", "time": 1608756277, "event": "LEARN", "data": {"prior": [1.256911891764954, 1.000000000000003, 1623539.4170187458]}}
+{"id": "family-[de.noun.en]-Familie", "time": 1608756277, "event": "VOID", "data": {"drills": 4, "latest": true}}
+{"id": "water-[de.noun.en]-Wasser", "time": 1608756301, "event": "LEARN", "data": {"prior": [1.2569137395796526, 1.000000000000004, 1623539.4170187458]}}
+{"id": "water-[de.noun.en]-Wasser", "time": 1608756301, "event": "VOID", "data": {"drills": 4, "latest": true}}
+{"id": "man/husband-[de.noun.en]-Mann", "time": 1608756282, "event": "LEARN", "data": {"prior": [1.2569279061590142, 0.9999999999999947, 1623539.4170187458]}}
+{"id": "man/husband-[de.noun.en]-Mann", "time": 1608756282, "event": "VOID", "data": {"drills": 5, "latest": true}}
+{"id": "result/consequence-[de.noun.en]-Folge", "time": 1608756294, "event": "LEARN", "data": {"prior": [1.256927906159007, 0.9999999999999791, 1623539.4170187458]}}
+{"id": "result/consequence-[de.noun.en]-Folge", "time": 1608756294, "event": "VOID", "data": {"drills": 4, "latest": true}}
 {"id": "variable/different/diverse-[de.adj]-unterschiedlich", "time": 1609787488, "event": "LEARN", "data": {"prior": [3.058779188966352, 2.0450746685574273, 697102.7407393928]}}
 {"id": "variable/different/diverse-[de.adj]-unterschiedlich", "time": 1609787488, "event": "VOID", "data": {"drills": 15, "latest": true}}
 {"id": "absolutely-[de.adv]-unbedingt", "time": 1610482661, "event": "LEARN", "data": {"prior": [2.8634185727181873, 3.3051259472117462, 317790.34512605733]}}
 {"id": "absolutely-[de.adv]-unbedingt", "time": 1610482661, "event": "VOID", "data": {"drills": 11, "latest": true}}
-{"id": "the woman/wife-[de.noun.en]-Frau", "time": 1608756211, "event": "LEARN", "data": {"prior": [1.2758236592761967, 1.0000000000000067, 1623539.4170187458]}}
-{"id": "the woman/wife-[de.noun.en]-Frau", "time": 1608756211, "event": "VOID", "data": {"drills": 5, "latest": true}}
-{"id": "the year-[de.noun.en]-Jahr", "time": 1608756265, "event": "LEARN", "data": {"prior": [1.2758433692996565, 0.9999999999999949, 1623539.4170187458]}}
-{"id": "the year-[de.noun.en]-Jahr", "time": 1608756265, "event": "VOID", "data": {"drills": 5, "latest": true}}
-{"id": "the time-[de.noun.en]-Zeit", "time": 1608756297, "event": "LEARN", "data": {"prior": [1.2758877168524516, 0.9999999999999991, 1623539.4170187458]}}
-{"id": "the time-[de.noun.en]-Zeit", "time": 1608756297, "event": "VOID", "data": {"drills": 5, "latest": true}}
+{"id": "woman/wife-[de.noun.en]-Frau", "time": 1608756211, "event": "LEARN", "data": {"prior": [1.2758236592761967, 1.0000000000000067, 1623539.4170187458]}}
+{"id": "woman/wife-[de.noun.en]-Frau", "time": 1608756211, "event": "VOID", "data": {"drills": 5, "latest": true}}
+{"id": "year-[de.noun.en]-Jahr", "time": 1608756265, "event": "LEARN", "data": {"prior": [1.2758433692996565, 0.9999999999999949, 1623539.4170187458]}}
+{"id": "year-[de.noun.en]-Jahr", "time": 1608756265, "event": "VOID", "data": {"drills": 5, "latest": true}}
+{"id": "time-[de.noun.en]-Zeit", "time": 1608756297, "event": "LEARN", "data": {"prior": [1.2758877168524516, 0.9999999999999991, 1623539.4170187458]}}
+{"id": "time-[de.noun.en]-Zeit", "time": 1608756297, "event": "VOID", "data": {"drills": 5, "latest": true}}
 {"id": "public-[de.adj]-\u00f6ffentlich", "time": 1609874825, "event": "LEARN", "data": {"prior": [1.2965199848819045, 2.2547200767478883, 1433135.307433633]}}
 {"id": "public-[de.adj]-\u00f6ffentlich", "time": 1609874825, "event": "VOID", "data": {"drills": 22, "latest": true}}
 {"id": "neither - nor-[de.conj.coo]-weder* - noch*", "time": 1610652637, "event": "LEARN", "data": {"prior": [2.7352494190457404, 2.4981117011983147, 103676.69615807125]}}
@@ -558,8 +558,8 @@
 {"id": "various/different/diverse-[de.adj]-verschieden", "time": 1609875030, "event": "VOID", "data": {"drills": 13, "latest": true}}
 {"id": "that/those-[de.pron.demonstrative]-jener", "time": 1610653556, "event": "LEARN", "data": {"prior": [3.388733530941095, 3.439992077990196, 116908.53457465378]}}
 {"id": "that/those-[de.pron.demonstrative]-jener", "time": 1610653556, "event": "VOID", "data": {"drills": 9, "latest": true}}
-{"id": "the town-[de.noun.en]-Ort", "time": 1609618658, "event": "LEARN", "data": {"prior": [2.509197208393256, 1.7074562073117834, 886394.2402254909]}}
-{"id": "the town-[de.noun.en]-Ort", "time": 1609618658, "event": "VOID", "data": {"drills": 12, "latest": true}}
+{"id": "town-[de.noun.en]-Ort", "time": 1609618658, "event": "LEARN", "data": {"prior": [2.509197208393256, 1.7074562073117834, 886394.2402254909]}}
+{"id": "town-[de.noun.en]-Ort", "time": 1609618658, "event": "VOID", "data": {"drills": 12, "latest": true}}
 {"id": "from on-[de.prep.dat]-ab", "time": 1610742566, "event": "LEARN", "data": {"prior": [6.129097143190899, 4.1529088439887065, 14031.115039588809]}}
 {"id": "from on-[de.prep.dat]-ab", "time": 1610742566, "event": "VOID", "data": {"drills": 7, "latest": false}}
 {"id": "one-[de.pron.personal.akk]-einen", "time": 1610653571, "event": "LEARN", "data": {"prior": [2.4988974146965344, 2.922513672817818, 131829.09914060752]}}
@@ -574,8 +574,8 @@
 {"id": "somehow-[de.adv]-irgendwie", "time": 1609961332, "event": "VOID", "data": {"drills": 5, "latest": true}}
 {"id": "Beispiel-[de.noun.gender]-das", "time": 1610135808, "event": "LEARN", "data": {"prior": [2.054101379469806, 3.8911194917606715, 1127086.013564608]}}
 {"id": "Beispiel-[de.noun.gender]-das", "time": 1610135808, "event": "VOID", "data": {"drills": 23, "latest": true}}
-{"id": "the position/role-[de.noun.en]-Stelle", "time": 1609276221, "event": "LEARN", "data": {"prior": [1.9898217228140151, 0.99999999999999, 863843.7204158901]}}
-{"id": "the position/role-[de.noun.en]-Stelle", "time": 1609276221, "event": "VOID", "data": {"drills": 6, "latest": true}}
+{"id": "position/role-[de.noun.en]-Stelle", "time": 1609276221, "event": "LEARN", "data": {"prior": [1.9898217228140151, 0.99999999999999, 863843.7204158901]}}
+{"id": "position/role-[de.noun.en]-Stelle", "time": 1609276221, "event": "VOID", "data": {"drills": 6, "latest": true}}
 {"id": "(to) yourself (formal)-[de.pron.reflexive]-sich", "time": 1610565203, "event": "LEARN", "data": {"prior": [0.8947669817612246, 1.1251594672363958, 281822.4792011548]}}
 {"id": "(to) yourself (formal)-[de.pron.reflexive]-sich", "time": 1610565203, "event": "VOID", "data": {"drills": 5, "latest": true}}
 {"id": "yourself (singular)-[de.pron.reflexive]-dich", "time": 1610565192, "event": "LEARN", "data": {"prior": [0.894926677083766, 1.1250942383525766, 281822.4792011548]}}
@@ -600,8 +600,8 @@
 {"id": "special/particular-[de.adj]-speziell", "time": 1609961306, "event": "VOID", "data": {"drills": 9, "latest": true}}
 {"id": "at least-[de.adv]-mindestens", "time": 1610135980, "event": "LEARN", "data": {"prior": [1.017495822545359, 0.999999999999966, 766072.9240637763]}}
 {"id": "at least-[de.adv]-mindestens", "time": 1610135980, "event": "VOID", "data": {"drills": 5, "latest": true}}
-{"id": "the language-[de.noun.en]-Sprache", "time": 1609788072, "event": "LEARN", "data": {"prior": [2.959647040352587, 2.0306780447638464, 863843.7204158901]}}
-{"id": "the language-[de.noun.en]-Sprache", "time": 1609788072, "event": "VOID", "data": {"drills": 12, "latest": true}}
+{"id": "language-[de.noun.en]-Sprache", "time": 1609788072, "event": "LEARN", "data": {"prior": [2.959647040352587, 2.0306780447638464, 863843.7204158901]}}
+{"id": "language-[de.noun.en]-Sprache", "time": 1609788072, "event": "VOID", "data": {"drills": 12, "latest": true}}
 {"id": "actual/real-[de.adj]-tats\u00e4chlich", "time": 1609787733, "event": "LEARN", "data": {"prior": [2.3033786817468327, 1.6316877289158362, 886394.2402254909]}}
 {"id": "actual/real-[de.adj]-tats\u00e4chlich", "time": 1609787733, "event": "VOID", "data": {"drills": 11, "latest": true}}
 {"id": "to achieve-[de.verb]-leisten", "time": 1610743079, "event": "LEARN", "data": {"prior": [2.290416265414383, 3.7531455773945317, 30778.558567747586]}}
@@ -754,8 +754,8 @@
 {"id": "bad-[de.adj]-schlecht", "time": 1610482494, "event": "VOID", "data": {"drills": 12, "latest": true}}
 {"id": "to own/possess-[de.verb]-besitzen", "time": 1610756834, "event": "LEARN", "data": {"prior": [1.085926794431929, 2.286925728798173, 12443.057780263867]}}
 {"id": "to own/possess-[de.verb]-besitzen", "time": 1610756834, "event": "VOID", "data": {"drills": 5, "latest": true}}
-{"id": "the man/human-[de.noun.en]-Mensch", "time": 1609787595, "event": "LEARN", "data": {"prior": [1.0049939344729226, 1.3293457015029928, 2647858.238339239]}}
-{"id": "the man/human-[de.noun.en]-Mensch", "time": 1609787595, "event": "VOID", "data": {"drills": 9, "latest": true}}
+{"id": "man/human-[de.noun.en]-Mensch", "time": 1609787595, "event": "LEARN", "data": {"prior": [1.0049939344729226, 1.3293457015029928, 2647858.238339239]}}
+{"id": "man/human-[de.noun.en]-Mensch", "time": 1609787595, "event": "VOID", "data": {"drills": 9, "latest": true}}
 {"id": "to occur-[de.verb]-vorkommen", "time": 1610756830, "event": "LEARN", "data": {"prior": [1.1422900068245643, 2.290326634958089, 12443.057780263867]}}
 {"id": "to occur-[de.verb]-vorkommen", "time": 1610756830, "event": "VOID", "data": {"drills": 6, "latest": true}}
 {"id": "Thema-[de.noun.gender]-das", "time": 1610482895, "event": "LEARN", "data": {"prior": [1.7207986521053174, 2.9798856053492875, 863843.7204158901]}}
@@ -916,38 +916,38 @@
 {"id": "Frau-[de.noun.gender]-die", "time": 1609787586, "event": "VOID", "data": {"drills": 7, "latest": true}}
 {"id": "strong-[de.adj]-stark", "time": 1609875129, "event": "LEARN", "data": {"prior": [1.591577619190103, 0.9999999999999816, 1623539.4170187458]}}
 {"id": "strong-[de.adj]-stark", "time": 1609875129, "event": "VOID", "data": {"drills": 5, "latest": true}}
-{"id": "the face-[de.noun.en]-Gesicht", "time": 1610482814, "event": "LEARN", "data": {"prior": [2.687302545864531, 2.9484781549127654, 766072.9240637764]}}
-{"id": "the face-[de.noun.en]-Gesicht", "time": 1610482814, "event": "VOID", "data": {"drills": 11, "latest": true}}
-{"id": "the clock/watch-[de.noun.en]-Uhr", "time": 1609787811, "event": "LEARN", "data": {"prior": [1.2359463539151179, 0.9999999999999942, 2348170.6878349707]}}
-{"id": "the clock/watch-[de.noun.en]-Uhr", "time": 1609787811, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the side-[de.noun.en]-Seite", "time": 1609787818, "event": "LEARN", "data": {"prior": [1.2359382625101658, 0.9999999999999754, 2348170.6878349707]}}
-{"id": "the side-[de.noun.en]-Seite", "time": 1609787818, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the hour-[de.noun.en]-Stunde", "time": 1609787866, "event": "LEARN", "data": {"prior": [1.2359574263640414, 1.0000000000000253, 2348170.6878349707]}}
-{"id": "the hour-[de.noun.en]-Stunde", "time": 1609787866, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the part/section-[de.noun.en]-Teil", "time": 1609787796, "event": "LEARN", "data": {"prior": [1.2360575042677415, 1.000000000000008, 2348170.6878349707]}}
-{"id": "the part/section-[de.noun.en]-Teil", "time": 1609787796, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the end-[de.noun.en]-Ende", "time": 1609787799, "event": "LEARN", "data": {"prior": [1.2361418252249252, 1.0000000000000333, 2348170.6878349707]}}
-{"id": "the end-[de.noun.en]-Ende", "time": 1609787799, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the picture-[de.noun.en]-Bild", "time": 1609787801, "event": "LEARN", "data": {"prior": [1.2361482131762467, 1.000000000000049, 2348170.6878349707]}}
-{"id": "the picture-[de.noun.en]-Bild", "time": 1609787801, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the money-[de.noun.en]-Geld", "time": 1609787856, "event": "LEARN", "data": {"prior": [1.236153323537266, 1.0000000000000175, 2348170.6878349707]}}
-{"id": "the money-[de.noun.en]-Geld", "time": 1609787856, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the public square-[de.noun.en]-Platz", "time": 1609787853, "event": "LEARN", "data": {"prior": [1.2362125185526363, 1.0000000000000135, 2348170.6878349707]}}
-{"id": "the public square-[de.noun.en]-Platz", "time": 1609787853, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the people-[de.noun.en]-Leute", "time": 1609787889, "event": "LEARN", "data": {"prior": [1.236173764981472, 0.9999999999999916, 2348170.6878349707]}}
-{"id": "the people-[de.noun.en]-Leute", "time": 1609787889, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the moment-[de.noun.en]-Moment", "time": 1609787859, "event": "LEARN", "data": {"prior": [1.2362120926892544, 1.0000000000000304, 2348170.6878349707]}}
-{"id": "the moment-[de.noun.en]-Moment", "time": 1609787859, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the place-[de.noun.en]-Stelle", "time": 1609787870, "event": "LEARN", "data": {"prior": [1.0963404150445684, 1.0000000000000029, 2647858.238339239]}}
-{"id": "the place-[de.noun.en]-Stelle", "time": 1609787870, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the form/shape-[de.noun.en]-Form", "time": 1609787862, "event": "LEARN", "data": {"prior": [1.0963630748679352, 1.000000000000016, 2647858.238339239]}}
-{"id": "the form/shape-[de.noun.en]-Form", "time": 1609787862, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the percent-[de.noun.en]-Prozent", "time": 1609787885, "event": "LEARN", "data": {"prior": [1.0963536332748796, 1.0000000000000042, 2647858.238339239]}}
-{"id": "the percent-[de.noun.en]-Prozent", "time": 1609787885, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the problem-[de.noun.en]-Problem", "time": 1609787877, "event": "LEARN", "data": {"prior": [1.0963642078591014, 0.9999999999999908, 2647858.238339239]}}
-{"id": "the problem-[de.noun.en]-Problem", "time": 1609787877, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the meaning-[de.noun.en]-Bedeutung", "time": 1609787881, "event": "LEARN", "data": {"prior": [1.0963864900187688, 1.0000000000000229, 2647858.238339239]}}
-{"id": "the meaning-[de.noun.en]-Bedeutung", "time": 1609787881, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "face-[de.noun.en]-Gesicht", "time": 1610482814, "event": "LEARN", "data": {"prior": [2.687302545864531, 2.9484781549127654, 766072.9240637764]}}
+{"id": "face-[de.noun.en]-Gesicht", "time": 1610482814, "event": "VOID", "data": {"drills": 11, "latest": true}}
+{"id": "clock/watch-[de.noun.en]-Uhr", "time": 1609787811, "event": "LEARN", "data": {"prior": [1.2359463539151179, 0.9999999999999942, 2348170.6878349707]}}
+{"id": "clock/watch-[de.noun.en]-Uhr", "time": 1609787811, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "side-[de.noun.en]-Seite", "time": 1609787818, "event": "LEARN", "data": {"prior": [1.2359382625101658, 0.9999999999999754, 2348170.6878349707]}}
+{"id": "side-[de.noun.en]-Seite", "time": 1609787818, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "hour-[de.noun.en]-Stunde", "time": 1609787866, "event": "LEARN", "data": {"prior": [1.2359574263640414, 1.0000000000000253, 2348170.6878349707]}}
+{"id": "hour-[de.noun.en]-Stunde", "time": 1609787866, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "part/section-[de.noun.en]-Teil", "time": 1609787796, "event": "LEARN", "data": {"prior": [1.2360575042677415, 1.000000000000008, 2348170.6878349707]}}
+{"id": "part/section-[de.noun.en]-Teil", "time": 1609787796, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "end-[de.noun.en]-Ende", "time": 1609787799, "event": "LEARN", "data": {"prior": [1.2361418252249252, 1.0000000000000333, 2348170.6878349707]}}
+{"id": "end-[de.noun.en]-Ende", "time": 1609787799, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "picture-[de.noun.en]-Bild", "time": 1609787801, "event": "LEARN", "data": {"prior": [1.2361482131762467, 1.000000000000049, 2348170.6878349707]}}
+{"id": "picture-[de.noun.en]-Bild", "time": 1609787801, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "money-[de.noun.en]-Geld", "time": 1609787856, "event": "LEARN", "data": {"prior": [1.236153323537266, 1.0000000000000175, 2348170.6878349707]}}
+{"id": "money-[de.noun.en]-Geld", "time": 1609787856, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "public square-[de.noun.en]-Platz", "time": 1609787853, "event": "LEARN", "data": {"prior": [1.2362125185526363, 1.0000000000000135, 2348170.6878349707]}}
+{"id": "public square-[de.noun.en]-Platz", "time": 1609787853, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "people-[de.noun.en]-Leute", "time": 1609787889, "event": "LEARN", "data": {"prior": [1.236173764981472, 0.9999999999999916, 2348170.6878349707]}}
+{"id": "people-[de.noun.en]-Leute", "time": 1609787889, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "moment-[de.noun.en]-Moment", "time": 1609787859, "event": "LEARN", "data": {"prior": [1.2362120926892544, 1.0000000000000304, 2348170.6878349707]}}
+{"id": "moment-[de.noun.en]-Moment", "time": 1609787859, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "place-[de.noun.en]-Stelle", "time": 1609787870, "event": "LEARN", "data": {"prior": [1.0963404150445684, 1.0000000000000029, 2647858.238339239]}}
+{"id": "place-[de.noun.en]-Stelle", "time": 1609787870, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "form/shape-[de.noun.en]-Form", "time": 1609787862, "event": "LEARN", "data": {"prior": [1.0963630748679352, 1.000000000000016, 2647858.238339239]}}
+{"id": "form/shape-[de.noun.en]-Form", "time": 1609787862, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "percent-[de.noun.en]-Prozent", "time": 1609787885, "event": "LEARN", "data": {"prior": [1.0963536332748796, 1.0000000000000042, 2647858.238339239]}}
+{"id": "percent-[de.noun.en]-Prozent", "time": 1609787885, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "problem-[de.noun.en]-Problem", "time": 1609787877, "event": "LEARN", "data": {"prior": [1.0963642078591014, 0.9999999999999908, 2647858.238339239]}}
+{"id": "problem-[de.noun.en]-Problem", "time": 1609787877, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "meaning-[de.noun.en]-Bedeutung", "time": 1609787881, "event": "LEARN", "data": {"prior": [1.0963864900187688, 1.0000000000000229, 2647858.238339239]}}
+{"id": "meaning-[de.noun.en]-Bedeutung", "time": 1609787881, "event": "VOID", "data": {"drills": 7, "latest": true}}
 {"id": "to behave-[de.verb]-verhalten sich", "time": 1610742899, "event": "LEARN", "data": {"prior": [4.643328995313669, 3.3138781478819412, 33823.737854557214]}}
 {"id": "to behave-[de.verb]-verhalten sich", "time": 1610742899, "event": "VOID", "data": {"drills": 8, "latest": true}}
 {"id": "Text-[de.noun.gender]-der", "time": 1609836703, "event": "LEARN", "data": {"prior": [0.7146052151710461, 1.0000000000000526, 3895665.6639199127]}}
@@ -1000,18 +1000,18 @@
 {"id": "suddenly-[de.adv]-pl\u00f6tzlich", "time": 1610482709, "event": "VOID", "data": {"drills": 18, "latest": true}}
 {"id": "provided that-[de.conj.sub]-sofern", "time": 1610653266, "event": "LEARN", "data": {"prior": [1.4200105074281855, 1.3925325097209547, 317790.3451260573]}}
 {"id": "provided that-[de.conj.sub]-sofern", "time": 1610653266, "event": "VOID", "data": {"drills": 8, "latest": true}}
-{"id": "the piece/bit/part-[de.noun.en]-St\u00fcck", "time": 1610482382, "event": "LEARN", "data": {"prior": [2.200664116690878, 3.0320839181549544, 999521.1606876453]}}
-{"id": "the piece/bit/part-[de.noun.en]-St\u00fcck", "time": 1610482382, "event": "VOID", "data": {"drills": 12, "latest": true}}
+{"id": "piece/bit/part-[de.noun.en]-St\u00fcck", "time": 1610482382, "event": "LEARN", "data": {"prior": [2.200664116690878, 3.0320839181549544, 999521.1606876453]}}
+{"id": "piece/bit/part-[de.noun.en]-St\u00fcck", "time": 1610482382, "event": "VOID", "data": {"drills": 12, "latest": true}}
 {"id": "to him/it (m)-[de.pron.personal.dat]-ihm", "time": 1610653564, "event": "LEARN", "data": {"prior": [1.2425836327628401, 0.9999999999999843, 281822.4792011548]}}
 {"id": "to him/it (m)-[de.pron.personal.dat]-ihm", "time": 1610653564, "event": "VOID", "data": {"drills": 4, "latest": true}}
 {"id": "mostly-[de.adv]-meist", "time": 1610482699, "event": "LEARN", "data": {"prior": [1.408738735295417, 1.2073464612348852, 766072.9240637763]}}
 {"id": "mostly-[de.adv]-meist", "time": 1610482699, "event": "VOID", "data": {"drills": 8, "latest": true}}
 {"id": "Anfang-[de.noun.gender]-der", "time": 1610482396, "event": "LEARN", "data": {"prior": [2.1513801530020693, 3.320475566559596, 1127086.0135646083]}}
 {"id": "Anfang-[de.noun.gender]-der", "time": 1610482396, "event": "VOID", "data": {"drills": 21, "latest": true}}
-{"id": "the time/occurrence-[de.noun.en]-Mal", "time": 1609874966, "event": "LEARN", "data": {"prior": [1.2865040074174954, 0.9999999999999992, 2348170.68783497]}}
-{"id": "the time/occurrence-[de.noun.en]-Mal", "time": 1609874966, "event": "VOID", "data": {"drills": 7, "latest": true}}
-{"id": "the example-[de.noun.en]-Beispiel", "time": 1609874989, "event": "LEARN", "data": {"prior": [1.286496767739352, 0.9999999999999878, 2348170.68783497]}}
-{"id": "the example-[de.noun.en]-Beispiel", "time": 1609874989, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "time/occurrence-[de.noun.en]-Mal", "time": 1609874966, "event": "LEARN", "data": {"prior": [1.2865040074174954, 0.9999999999999992, 2348170.68783497]}}
+{"id": "time/occurrence-[de.noun.en]-Mal", "time": 1609874966, "event": "VOID", "data": {"drills": 7, "latest": true}}
+{"id": "example-[de.noun.en]-Beispiel", "time": 1609874989, "event": "LEARN", "data": {"prior": [1.286496767739352, 0.9999999999999878, 2348170.68783497]}}
+{"id": "example-[de.noun.en]-Beispiel", "time": 1609874989, "event": "VOID", "data": {"drills": 7, "latest": true}}
 {"id": "to be correct/all right-[de.verb]-stimmen", "time": 1610742913, "event": "LEARN", "data": {"prior": [5.107187295852246, 4.134810958599332, 43008.24636749586]}}
 {"id": "to be correct/all right-[de.verb]-stimmen", "time": 1610742913, "event": "VOID", "data": {"drills": 7, "latest": true}}
 {"id": "to report-[de.verb]-berichten", "time": 1610742976, "event": "LEARN", "data": {"prior": [3.7527115585554705, 2.927573367805318, 43008.24636749587]}}
@@ -1024,8 +1024,8 @@
 {"id": "so that-[de.conj.sub]-damit", "time": 1610742569, "event": "VOID", "data": {"drills": 18, "latest": true}}
 {"id": "necessary-[de.adj]-notwendig", "time": 1610482514, "event": "LEARN", "data": {"prior": [2.4886506235293107, 1.953176919709942, 766072.9240637763]}}
 {"id": "necessary-[de.adj]-notwendig", "time": 1610482514, "event": "VOID", "data": {"drills": 8, "latest": true}}
-{"id": "the war-[de.noun.en]-Krieg", "time": 1610482350, "event": "LEARN", "data": {"prior": [4.6672369559710845, 3.1945185150641797, 673493.5219002627]}}
-{"id": "the war-[de.noun.en]-Krieg", "time": 1610482350, "event": "VOID", "data": {"drills": 12, "latest": true}}
+{"id": "war-[de.noun.en]-Krieg", "time": 1610482350, "event": "LEARN", "data": {"prior": [4.6672369559710845, 3.1945185150641797, 673493.5219002627]}}
+{"id": "war-[de.noun.en]-Krieg", "time": 1610482350, "event": "VOID", "data": {"drills": 12, "latest": true}}
 {"id": "because/since-[de.conj.sub]-da", "time": 1610742589, "event": "LEARN", "data": {"prior": [2.9061654543286397, 5.597294676450917, 91942.4519806052]}}
 {"id": "because/since-[de.conj.sub]-da", "time": 1610742589, "event": "VOID", "data": {"drills": 16, "latest": true}}
 {"id": "to decide-[de.verb]-entscheiden", "time": 1610652557, "event": "LEARN", "data": {"prior": [0.8163782712543152, 1.000000000000007, 529667.4534656998]}}
@@ -1502,8 +1502,8 @@
 {"id": "my-[de.art.ein]-mein", "time": 1610653358, "event": "VOID", "data": {"drills": 6, "latest": true}}
 {"id": "to comprise-[de.verb]-umfassen", "time": 1610757467, "event": "LEARN", "data": {"prior": [5.168281602873906, 1.1502965517517847, 3600]}}
 {"id": "to comprise-[de.verb]-umfassen", "time": 1610757467, "event": "VOID", "data": {"drills": 4, "latest": true}}
-{"id": "the sense/meaning-[de.noun.en]-Sinn", "time": 1610482319, "event": "LEARN", "data": {"prior": [2.6893300293242817, 2.025630431318862, 1098412.1184482018]}}
-{"id": "the sense/meaning-[de.noun.en]-Sinn", "time": 1610482319, "event": "VOID", "data": {"drills": 10, "latest": true}}
+{"id": "sense/meaning-[de.noun.en]-Sinn", "time": 1610482319, "event": "LEARN", "data": {"prior": [2.6893300293242817, 2.025630431318862, 1098412.1184482018]}}
+{"id": "sense/meaning-[de.noun.en]-Sinn", "time": 1610482319, "event": "VOID", "data": {"drills": 10, "latest": true}}
 {"id": "before/until-[de.conj.sub]-ehe", "time": 1610742604, "event": "LEARN", "data": {"prior": [3.8271978288617676, 4.325551077559475, 91942.4519806052]}}
 {"id": "before/until-[de.conj.sub]-ehe", "time": 1610742604, "event": "VOID", "data": {"drills": 10, "latest": false}}
 {"id": "alone-[de.adv]-allein", "time": 1610482685, "event": "LEARN", "data": {"prior": [0.6995824488017185, 0.9999999999999564, 2348170.6878349707]}}
@@ -2878,7 +2878,7 @@
 {"id": "to allow-[de.verb]-erlauben", "time": 1611176445, "event": "DRILL", "data": {"got": true}}
 {"id": "to pursue (craft/study/hobby/etc.)-[de.verb]-treiben", "time": 1611176448, "event": "DRILL", "data": {"got": true}}
 {"id": "to suffice-[de.verb]-ausreichen", "time": 1611176461, "event": "DRILL", "data": {"got": false}}
-{"id": "the grounding/basis/reason-[de.noun.en]-Grund", "time": 1611176503, "event": "DRILL", "data": {"got": true}}
+{"id": "grounding/basis/reason-[de.noun.en]-Grund", "time": 1611176503, "event": "DRILL", "data": {"got": true}}
 {"id": "European-[de.adj]-europ\u00e4isch", "time": 1611176508, "event": "DRILL", "data": {"got": true}}
 {"id": "Ergebnis-[de.noun.gender]-das", "time": 1611176510, "event": "DRILL", "data": {"got": true}}
 {"id": "Interesse-[de.noun.gender]-das", "time": 1611176512, "event": "DRILL", "data": {"got": true}}
@@ -2889,15 +2889,15 @@
 {"id": "Sache-[de.noun.gender]-die", "time": 1611176538, "event": "DRILL", "data": {"got": true}}
 {"id": "full-[de.adj]-voll", "time": 1611176541, "event": "DRILL", "data": {"got": true}}
 {"id": "near/close-[de.adj]-nah", "time": 1611176545, "event": "DRILL", "data": {"got": true}}
-{"id": "the world-[de.noun.en]-Welt", "time": 1611176549, "event": "DRILL", "data": {"got": true}}
+{"id": "world-[de.noun.en]-Welt", "time": 1611176549, "event": "DRILL", "data": {"got": true}}
 {"id": "social-[de.adj]-sozial", "time": 1611176552, "event": "DRILL", "data": {"got": true}}
 {"id": "what for a/what kind of-[de.pron.interrogative]-was f\u00fcr einer", "time": 1611176558, "event": "DRILL", "data": {"got": true}}
-{"id": "the history-[de.noun.en]-Geschichte", "time": 1611176569, "event": "DRILL", "data": {"got": true}}
-{"id": "the development-[de.noun.en]-Entwicklung", "time": 1611176585, "event": "DRILL", "data": {"got": false}}
+{"id": "history-[de.noun.en]-Geschichte", "time": 1611176569, "event": "DRILL", "data": {"got": true}}
+{"id": "development-[de.noun.en]-Entwicklung", "time": 1611176585, "event": "DRILL", "data": {"got": false}}
 {"id": "Ort-[de.noun.gender]-der", "time": 1611176588, "event": "DRILL", "data": {"got": true}}
 {"id": "Geschichte-[de.noun.gender]-die", "time": 1611176596, "event": "DRILL", "data": {"got": true}}
 {"id": "known/certain-[de.adj]-gewiss", "time": 1611176601, "event": "DRILL", "data": {"got": true}}
-{"id": "the number-[de.noun.en]-Zahl", "time": 1611176604, "event": "DRILL", "data": {"got": true}}
+{"id": "number-[de.noun.en]-Zahl", "time": 1611176604, "event": "DRILL", "data": {"got": true}}
 {"id": "black-[de.adj]-schwarz", "time": 1611176610, "event": "DRILL", "data": {"got": true}}
 {"id": "individual-[de.adj]-einzeln", "time": 1611176613, "event": "DRILL", "data": {"got": true}}
 {"id": "Bereich-[de.noun.gender]-der", "time": 1611176615, "event": "DRILL", "data": {"got": true}}
@@ -3128,120 +3128,120 @@
 {"id": "Moment-[de.noun.gender]-der", "time": 1611226264, "event": "DRILL", "data": {"got": true}}
 {"id": "Ding-[de.noun.gender]-das", "time": 1611226265, "event": "DRILL", "data": {"got": true}}
 {"id": "Fall-[de.noun.gender]-der", "time": 1611226267, "event": "DRILL", "data": {"got": true}}
-{"id": "the beginning-[de.noun.en]-Anfang", "time": 1611226288, "event": "DRILL", "data": {"got": true}}
-{"id": "the life-[de.noun.en]-Leben", "time": 1611226290, "event": "DRILL", "data": {"got": true}}
-{"id": "the place-[de.noun.en]-Platz", "time": 1611226293, "event": "DRILL", "data": {"got": true}}
-{"id": "the significance-[de.noun.en]-Bedeutung", "time": 1611226295, "event": "DRILL", "data": {"got": true}}
-{"id": "the town-[de.noun.en]-Ort", "time": 1611226298, "event": "DRILL", "data": {"got": true}}
-{"id": "the question-[de.noun.en]-Frage", "time": 1611226300, "event": "DRILL", "data": {"got": true}}
-{"id": "the land/country-[de.noun.en]-Land", "time": 1611226301, "event": "DRILL", "data": {"got": true}}
-{"id": "the goal-[de.noun.en]-Ziel", "time": 1611226304, "event": "DRILL", "data": {"got": true}}
-{"id": "the friend (f)-[de.noun.en]-Freundin", "time": 1611226307, "event": "DRILL", "data": {"got": true}}
-{"id": "the conversation-[de.noun.en]-Gespr\u00e4ch", "time": 1611226313, "event": "DRILL", "data": {"got": false}}
-{"id": "the way/manner-[de.noun.en]-Weise", "time": 1611226317, "event": "DRILL", "data": {"got": false}}
-{"id": "the destination-[de.noun.en]-Ziel", "time": 1611226319, "event": "DRILL", "data": {"got": true}}
-{"id": "the town-[de.noun.en]-Stadt", "time": 1611226324, "event": "DRILL", "data": {"got": true}}
-{"id": "the roll-[de.noun.en]-Rolle", "time": 1611226326, "event": "DRILL", "data": {"got": true}}
-{"id": "the system-[de.noun.en]-System", "time": 1611226329, "event": "DRILL", "data": {"got": true}}
-{"id": "the evening-[de.noun.en]-Abend", "time": 1611226331, "event": "DRILL", "data": {"got": true}}
-{"id": "the likelihood/possibility-[de.noun.en]-M\u00f6glichkeit", "time": 1611226335, "event": "DRILL", "data": {"got": true}}
-{"id": "the billion-[de.noun.en]-Milliarde", "time": 1611226343, "event": "DRILL", "data": {"got": true}}
-{"id": "the thing-[de.noun.en]-Sache", "time": 1611226348, "event": "DRILL", "data": {"got": false}}
-{"id": "the pupil/student (m)-[de.noun.en]-Sch\u00fcler", "time": 1611226352, "event": "DRILL", "data": {"got": true}}
-{"id": "the apartment-[de.noun.en]-Wohnung", "time": 1611226354, "event": "DRILL", "data": {"got": true}}
-{"id": "the o'clock-[de.noun.en]-Uhr", "time": 1611226356, "event": "DRILL", "data": {"got": true}}
-{"id": "the look/glance/view-[de.noun.en]-Blick", "time": 1611226358, "event": "DRILL", "data": {"got": true}}
-{"id": "the topic/theme-[de.noun.en]-Thema", "time": 1611226360, "event": "DRILL", "data": {"got": true}}
-{"id": "the type/kind-[de.noun.en]-Art", "time": 1611226363, "event": "DRILL", "data": {"got": true}}
-{"id": "the million-[de.noun.en]-Million", "time": 1611226368, "event": "DRILL", "data": {"got": true}}
-{"id": "the minute-[de.noun.en]-Minute", "time": 1611226370, "event": "DRILL", "data": {"got": true}}
-{"id": "the area/region-[de.noun.en]-Bereich", "time": 1611226372, "event": "DRILL", "data": {"got": true}}
-{"id": "the enterprise/company-[de.noun.en]-Unternehmen", "time": 1611226379, "event": "DRILL", "data": {"got": true}}
-{"id": "the role-[de.noun.en]-Rolle", "time": 1611226382, "event": "DRILL", "data": {"got": true}}
-{"id": "the place/location-[de.noun.en]-Ort", "time": 1611226385, "event": "DRILL", "data": {"got": true}}
-{"id": "the pupil/student (f)-[de.noun.en]-Sch\u00fclerin", "time": 1611226390, "event": "DRILL", "data": {"got": true}}
-{"id": "the result-[de.noun.en]-Ergebnis", "time": 1611226394, "event": "DRILL", "data": {"got": false}}
-{"id": "the hand-[de.noun.en]-Hand", "time": 1611226397, "event": "DRILL", "data": {"got": true}}
-{"id": "the value/worth-[de.noun.en]-Wert", "time": 1611226399, "event": "DRILL", "data": {"got": true}}
-{"id": "the rule/government-[de.noun.en]-Regierung", "time": 1611226403, "event": "DRILL", "data": {"got": true}}
-{"id": "the result-[de.noun.en]-Ergebnis", "time": 1611226417, "event": "DRILL", "data": {"got": true}}
-{"id": "the thing-[de.noun.en]-Sache", "time": 1611226419, "event": "DRILL", "data": {"got": true}}
-{"id": "the conversation-[de.noun.en]-Gespr\u00e4ch", "time": 1611226423, "event": "DRILL", "data": {"got": true}}
-{"id": "the development-[de.noun.en]-Entwicklung", "time": 1611226427, "event": "DRILL", "data": {"got": true}}
-{"id": "the way/manner-[de.noun.en]-Weise", "time": 1611226430, "event": "DRILL", "data": {"got": true}}
+{"id": "beginning-[de.noun.en]-Anfang", "time": 1611226288, "event": "DRILL", "data": {"got": true}}
+{"id": "life-[de.noun.en]-Leben", "time": 1611226290, "event": "DRILL", "data": {"got": true}}
+{"id": "place-[de.noun.en]-Platz", "time": 1611226293, "event": "DRILL", "data": {"got": true}}
+{"id": "significance-[de.noun.en]-Bedeutung", "time": 1611226295, "event": "DRILL", "data": {"got": true}}
+{"id": "town-[de.noun.en]-Ort", "time": 1611226298, "event": "DRILL", "data": {"got": true}}
+{"id": "question-[de.noun.en]-Frage", "time": 1611226300, "event": "DRILL", "data": {"got": true}}
+{"id": "land/country-[de.noun.en]-Land", "time": 1611226301, "event": "DRILL", "data": {"got": true}}
+{"id": "goal-[de.noun.en]-Ziel", "time": 1611226304, "event": "DRILL", "data": {"got": true}}
+{"id": "friend (f)-[de.noun.en]-Freundin", "time": 1611226307, "event": "DRILL", "data": {"got": true}}
+{"id": "conversation-[de.noun.en]-Gespr\u00e4ch", "time": 1611226313, "event": "DRILL", "data": {"got": false}}
+{"id": "way/manner-[de.noun.en]-Weise", "time": 1611226317, "event": "DRILL", "data": {"got": false}}
+{"id": "destination-[de.noun.en]-Ziel", "time": 1611226319, "event": "DRILL", "data": {"got": true}}
+{"id": "town-[de.noun.en]-Stadt", "time": 1611226324, "event": "DRILL", "data": {"got": true}}
+{"id": "roll-[de.noun.en]-Rolle", "time": 1611226326, "event": "DRILL", "data": {"got": true}}
+{"id": "system-[de.noun.en]-System", "time": 1611226329, "event": "DRILL", "data": {"got": true}}
+{"id": "evening-[de.noun.en]-Abend", "time": 1611226331, "event": "DRILL", "data": {"got": true}}
+{"id": "likelihood/possibility-[de.noun.en]-M\u00f6glichkeit", "time": 1611226335, "event": "DRILL", "data": {"got": true}}
+{"id": "billion-[de.noun.en]-Milliarde", "time": 1611226343, "event": "DRILL", "data": {"got": true}}
+{"id": "thing-[de.noun.en]-Sache", "time": 1611226348, "event": "DRILL", "data": {"got": false}}
+{"id": "pupil/student (m)-[de.noun.en]-Sch\u00fcler", "time": 1611226352, "event": "DRILL", "data": {"got": true}}
+{"id": "apartment-[de.noun.en]-Wohnung", "time": 1611226354, "event": "DRILL", "data": {"got": true}}
+{"id": "o'clock-[de.noun.en]-Uhr", "time": 1611226356, "event": "DRILL", "data": {"got": true}}
+{"id": "look/glance/view-[de.noun.en]-Blick", "time": 1611226358, "event": "DRILL", "data": {"got": true}}
+{"id": "topic/theme-[de.noun.en]-Thema", "time": 1611226360, "event": "DRILL", "data": {"got": true}}
+{"id": "type/kind-[de.noun.en]-Art", "time": 1611226363, "event": "DRILL", "data": {"got": true}}
+{"id": "million-[de.noun.en]-Million", "time": 1611226368, "event": "DRILL", "data": {"got": true}}
+{"id": "minute-[de.noun.en]-Minute", "time": 1611226370, "event": "DRILL", "data": {"got": true}}
+{"id": "area/region-[de.noun.en]-Bereich", "time": 1611226372, "event": "DRILL", "data": {"got": true}}
+{"id": "enterprise/company-[de.noun.en]-Unternehmen", "time": 1611226379, "event": "DRILL", "data": {"got": true}}
+{"id": "role-[de.noun.en]-Rolle", "time": 1611226382, "event": "DRILL", "data": {"got": true}}
+{"id": "place/location-[de.noun.en]-Ort", "time": 1611226385, "event": "DRILL", "data": {"got": true}}
+{"id": "pupil/student (f)-[de.noun.en]-Sch\u00fclerin", "time": 1611226390, "event": "DRILL", "data": {"got": true}}
+{"id": "result-[de.noun.en]-Ergebnis", "time": 1611226394, "event": "DRILL", "data": {"got": false}}
+{"id": "hand-[de.noun.en]-Hand", "time": 1611226397, "event": "DRILL", "data": {"got": true}}
+{"id": "value/worth-[de.noun.en]-Wert", "time": 1611226399, "event": "DRILL", "data": {"got": true}}
+{"id": "rule/government-[de.noun.en]-Regierung", "time": 1611226403, "event": "DRILL", "data": {"got": true}}
+{"id": "result-[de.noun.en]-Ergebnis", "time": 1611226417, "event": "DRILL", "data": {"got": true}}
+{"id": "thing-[de.noun.en]-Sache", "time": 1611226419, "event": "DRILL", "data": {"got": true}}
+{"id": "conversation-[de.noun.en]-Gespr\u00e4ch", "time": 1611226423, "event": "DRILL", "data": {"got": true}}
+{"id": "development-[de.noun.en]-Entwicklung", "time": 1611226427, "event": "DRILL", "data": {"got": true}}
+{"id": "way/manner-[de.noun.en]-Weise", "time": 1611226430, "event": "DRILL", "data": {"got": true}}
 {"id": "Mal-[de.noun.gender]-das", "time": 1611226433, "event": "DRILL", "data": {"got": true}}
-{"id": "the state-[de.noun.en]-Staat", "time": 1611226442, "event": "DRILL", "data": {"got": true}}
-{"id": "the head-[de.noun.en]-Kopf", "time": 1611226445, "event": "DRILL", "data": {"got": true}}
-{"id": "the thing-[de.noun.en]-Ding", "time": 1611226447, "event": "DRILL", "data": {"got": true}}
-{"id": "the morning-[de.noun.en]-Morgen", "time": 1611226450, "event": "DRILL", "data": {"got": true}}
-{"id": "the group-[de.noun.en]-Gruppe", "time": 1611226452, "event": "DRILL", "data": {"got": true}}
-{"id": "the month-[de.noun.en]-Monat", "time": 1611226453, "event": "DRILL", "data": {"got": true}}
-{"id": "the door-[de.noun.en]-T\u00fcr", "time": 1611226455, "event": "DRILL", "data": {"got": true}}
-{"id": "the euro (currency)-[de.noun.en]-Euro", "time": 1611226457, "event": "DRILL", "data": {"got": true}}
-{"id": "the child-[de.noun.en]-Kind", "time": 1611226460, "event": "DRILL", "data": {"got": true}}
-{"id": "the pair/couple-[de.noun.en]-Paar", "time": 1611226462, "event": "DRILL", "data": {"got": true}}
-{"id": "the work-[de.noun.en]-Arbeit", "time": 1611226466, "event": "DRILL", "data": {"got": false}}
-{"id": "the society/company-[de.noun.en]-Gesellschaft", "time": 1611226473, "event": "DRILL", "data": {"got": false}}
-{"id": "the right/law-[de.noun.en]-Recht", "time": 1611226475, "event": "DRILL", "data": {"got": true}}
-{"id": "the mother-[de.noun.en]-Mutter", "time": 1611226477, "event": "DRILL", "data": {"got": true}}
-{"id": "the week-[de.noun.en]-Woche", "time": 1611226479, "event": "DRILL", "data": {"got": true}}
-{"id": "the gentleman-[de.noun.en]-Herr", "time": 1611226482, "event": "DRILL", "data": {"got": true}}
-{"id": "the person-[de.noun.en]-Person", "time": 1611226484, "event": "DRILL", "data": {"got": true}}
-{"id": "the task/asg./job-[de.noun.en]-Aufgabe", "time": 1611226486, "event": "DRILL", "data": {"got": true}}
-{"id": "the day-[de.noun.en]-Tag", "time": 1611226488, "event": "DRILL", "data": {"got": true}}
-{"id": "the language-[de.noun.en]-Sprache", "time": 1611226491, "event": "DRILL", "data": {"got": true}}
-{"id": "the mark (currency)-[de.noun.en]-Mark", "time": 1611226493, "event": "DRILL", "data": {"got": true}}
-{"id": "the parents-[de.noun.en]-Eltern", "time": 1611226498, "event": "DRILL", "data": {"got": true}}
-{"id": "the book-[de.noun.en]-Buch", "time": 1611226500, "event": "DRILL", "data": {"got": true}}
-{"id": "the night-[de.noun.en]-Nacht", "time": 1611226501, "event": "DRILL", "data": {"got": true}}
-{"id": "the way/path-[de.noun.en]-Weg", "time": 1611226503, "event": "DRILL", "data": {"got": true}}
-{"id": "the fall-[de.noun.en]-Fall", "time": 1611226505, "event": "DRILL", "data": {"got": true}}
-{"id": "the word-[de.noun.en]-Wort", "time": 1611226507, "event": "DRILL", "data": {"got": true}}
-{"id": "the name-[de.noun.en]-Name", "time": 1611226509, "event": "DRILL", "data": {"got": true}}
-{"id": "the interest-[de.noun.en]-Interesse", "time": 1611226513, "event": "DRILL", "data": {"got": true}}
-{"id": "the room/space-[de.noun.en]-Raum", "time": 1611226515, "event": "DRILL", "data": {"got": true}}
-{"id": "the house/home-[de.noun.en]-Haus", "time": 1611226517, "event": "DRILL", "data": {"got": true}}
-{"id": "the father-[de.noun.en]-Vater", "time": 1611226519, "event": "DRILL", "data": {"got": true}}
-{"id": "the text-[de.noun.en]-Text", "time": 1611226521, "event": "DRILL", "data": {"got": true}}
-{"id": "the university-[de.noun.en]-Universit\u00e4t", "time": 1611226524, "event": "DRILL", "data": {"got": true}}
-{"id": "the page-[de.noun.en]-Seite", "time": 1611226527, "event": "DRILL", "data": {"got": true}}
-{"id": "the street-[de.noun.en]-Stra\u00dfe", "time": 1611226530, "event": "DRILL", "data": {"got": true}}
-{"id": "the family-[de.noun.en]-Familie", "time": 1611226559, "event": "DRILL", "data": {"got": true}}
+{"id": "state-[de.noun.en]-Staat", "time": 1611226442, "event": "DRILL", "data": {"got": true}}
+{"id": "head-[de.noun.en]-Kopf", "time": 1611226445, "event": "DRILL", "data": {"got": true}}
+{"id": "thing-[de.noun.en]-Ding", "time": 1611226447, "event": "DRILL", "data": {"got": true}}
+{"id": "morning-[de.noun.en]-Morgen", "time": 1611226450, "event": "DRILL", "data": {"got": true}}
+{"id": "group-[de.noun.en]-Gruppe", "time": 1611226452, "event": "DRILL", "data": {"got": true}}
+{"id": "month-[de.noun.en]-Monat", "time": 1611226453, "event": "DRILL", "data": {"got": true}}
+{"id": "door-[de.noun.en]-T\u00fcr", "time": 1611226455, "event": "DRILL", "data": {"got": true}}
+{"id": "euro (currency)-[de.noun.en]-Euro", "time": 1611226457, "event": "DRILL", "data": {"got": true}}
+{"id": "child-[de.noun.en]-Kind", "time": 1611226460, "event": "DRILL", "data": {"got": true}}
+{"id": "pair/couple-[de.noun.en]-Paar", "time": 1611226462, "event": "DRILL", "data": {"got": true}}
+{"id": "work-[de.noun.en]-Arbeit", "time": 1611226466, "event": "DRILL", "data": {"got": false}}
+{"id": "society/company-[de.noun.en]-Gesellschaft", "time": 1611226473, "event": "DRILL", "data": {"got": false}}
+{"id": "right/law-[de.noun.en]-Recht", "time": 1611226475, "event": "DRILL", "data": {"got": true}}
+{"id": "mother-[de.noun.en]-Mutter", "time": 1611226477, "event": "DRILL", "data": {"got": true}}
+{"id": "week-[de.noun.en]-Woche", "time": 1611226479, "event": "DRILL", "data": {"got": true}}
+{"id": "gentleman-[de.noun.en]-Herr", "time": 1611226482, "event": "DRILL", "data": {"got": true}}
+{"id": "person-[de.noun.en]-Person", "time": 1611226484, "event": "DRILL", "data": {"got": true}}
+{"id": "task/asg./job-[de.noun.en]-Aufgabe", "time": 1611226486, "event": "DRILL", "data": {"got": true}}
+{"id": "day-[de.noun.en]-Tag", "time": 1611226488, "event": "DRILL", "data": {"got": true}}
+{"id": "language-[de.noun.en]-Sprache", "time": 1611226491, "event": "DRILL", "data": {"got": true}}
+{"id": "mark (currency)-[de.noun.en]-Mark", "time": 1611226493, "event": "DRILL", "data": {"got": true}}
+{"id": "parents-[de.noun.en]-Eltern", "time": 1611226498, "event": "DRILL", "data": {"got": true}}
+{"id": "book-[de.noun.en]-Buch", "time": 1611226500, "event": "DRILL", "data": {"got": true}}
+{"id": "night-[de.noun.en]-Nacht", "time": 1611226501, "event": "DRILL", "data": {"got": true}}
+{"id": "way/path-[de.noun.en]-Weg", "time": 1611226503, "event": "DRILL", "data": {"got": true}}
+{"id": "fall-[de.noun.en]-Fall", "time": 1611226505, "event": "DRILL", "data": {"got": true}}
+{"id": "word-[de.noun.en]-Wort", "time": 1611226507, "event": "DRILL", "data": {"got": true}}
+{"id": "name-[de.noun.en]-Name", "time": 1611226509, "event": "DRILL", "data": {"got": true}}
+{"id": "interest-[de.noun.en]-Interesse", "time": 1611226513, "event": "DRILL", "data": {"got": true}}
+{"id": "room/space-[de.noun.en]-Raum", "time": 1611226515, "event": "DRILL", "data": {"got": true}}
+{"id": "house/home-[de.noun.en]-Haus", "time": 1611226517, "event": "DRILL", "data": {"got": true}}
+{"id": "father-[de.noun.en]-Vater", "time": 1611226519, "event": "DRILL", "data": {"got": true}}
+{"id": "text-[de.noun.en]-Text", "time": 1611226521, "event": "DRILL", "data": {"got": true}}
+{"id": "university-[de.noun.en]-Universit\u00e4t", "time": 1611226524, "event": "DRILL", "data": {"got": true}}
+{"id": "page-[de.noun.en]-Seite", "time": 1611226527, "event": "DRILL", "data": {"got": true}}
+{"id": "street-[de.noun.en]-Stra\u00dfe", "time": 1611226530, "event": "DRILL", "data": {"got": true}}
+{"id": "family-[de.noun.en]-Familie", "time": 1611226559, "event": "DRILL", "data": {"got": true}}
 {"id": "Beispiel-[de.noun.gender]-das", "time": 1611226562, "event": "DRILL", "data": {"got": true}}
-{"id": "the moment-[de.noun.en]-Moment", "time": 1611226566, "event": "DRILL", "data": {"got": true}}
-{"id": "the water-[de.noun.en]-Wasser", "time": 1611226568, "event": "DRILL", "data": {"got": true}}
-{"id": "the part/section-[de.noun.en]-Teil", "time": 1611226570, "event": "DRILL", "data": {"got": true}}
-{"id": "the man/human-[de.noun.en]-Mensch", "time": 1611226573, "event": "DRILL", "data": {"got": true}}
-{"id": "the result/consequence-[de.noun.en]-Folge", "time": 1611226583, "event": "DRILL", "data": {"got": false}}
-{"id": "the clock/watch-[de.noun.en]-Uhr", "time": 1611226585, "event": "DRILL", "data": {"got": true}}
-{"id": "the face-[de.noun.en]-Gesicht", "time": 1611226588, "event": "DRILL", "data": {"got": true}}
-{"id": "the sense/meaning-[de.noun.en]-Sinn", "time": 1611226590, "event": "DRILL", "data": {"got": true}}
+{"id": "moment-[de.noun.en]-Moment", "time": 1611226566, "event": "DRILL", "data": {"got": true}}
+{"id": "water-[de.noun.en]-Wasser", "time": 1611226568, "event": "DRILL", "data": {"got": true}}
+{"id": "part/section-[de.noun.en]-Teil", "time": 1611226570, "event": "DRILL", "data": {"got": true}}
+{"id": "man/human-[de.noun.en]-Mensch", "time": 1611226573, "event": "DRILL", "data": {"got": true}}
+{"id": "result/consequence-[de.noun.en]-Folge", "time": 1611226583, "event": "DRILL", "data": {"got": false}}
+{"id": "clock/watch-[de.noun.en]-Uhr", "time": 1611226585, "event": "DRILL", "data": {"got": true}}
+{"id": "face-[de.noun.en]-Gesicht", "time": 1611226588, "event": "DRILL", "data": {"got": true}}
+{"id": "sense/meaning-[de.noun.en]-Sinn", "time": 1611226590, "event": "DRILL", "data": {"got": true}}
 {"id": "Euro-[de.noun.gender]-der", "time": 1611226595, "event": "DRILL", "data": {"got": true}}
-{"id": "the meaning-[de.noun.en]-Bedeutung", "time": 1611226598, "event": "DRILL", "data": {"got": true}}
-{"id": "the piece/bit/part-[de.noun.en]-St\u00fcck", "time": 1611226601, "event": "DRILL", "data": {"got": true}}
-{"id": "the money-[de.noun.en]-Geld", "time": 1611226605, "event": "DRILL", "data": {"got": false}}
-{"id": "the friend (m)-[de.noun.en]-Freund", "time": 1611226608, "event": "DRILL", "data": {"got": true}}
+{"id": "meaning-[de.noun.en]-Bedeutung", "time": 1611226598, "event": "DRILL", "data": {"got": true}}
+{"id": "piece/bit/part-[de.noun.en]-St\u00fcck", "time": 1611226601, "event": "DRILL", "data": {"got": true}}
+{"id": "money-[de.noun.en]-Geld", "time": 1611226605, "event": "DRILL", "data": {"got": false}}
+{"id": "friend (m)-[de.noun.en]-Freund", "time": 1611226608, "event": "DRILL", "data": {"got": true}}
 {"id": "Interesse-[de.noun.gender]-das", "time": 1611226611, "event": "DRILL", "data": {"got": true}}
-{"id": "the time-[de.noun.en]-Zeit", "time": 1611226618, "event": "DRILL", "data": {"got": true}}
-{"id": "the war-[de.noun.en]-Krieg", "time": 1611226620, "event": "DRILL", "data": {"got": true}}
-{"id": "the time/occurrence-[de.noun.en]-Mal", "time": 1611226622, "event": "DRILL", "data": {"got": true}}
-{"id": "the side-[de.noun.en]-Seite", "time": 1611226624, "event": "DRILL", "data": {"got": true}}
-{"id": "the place-[de.noun.en]-Stelle", "time": 1611226628, "event": "DRILL", "data": {"got": true}}
-{"id": "the man/husband-[de.noun.en]-Mann", "time": 1611226630, "event": "DRILL", "data": {"got": true}}
-{"id": "the form/shape-[de.noun.en]-Form", "time": 1611226633, "event": "DRILL", "data": {"got": true}}
-{"id": "the problem-[de.noun.en]-Problem", "time": 1611226635, "event": "DRILL", "data": {"got": true}}
-{"id": "the school-[de.noun.en]-Schule", "time": 1611226638, "event": "DRILL", "data": {"got": true}}
-{"id": "the percent-[de.noun.en]-Prozent", "time": 1611226640, "event": "DRILL", "data": {"got": true}}
-{"id": "the end-[de.noun.en]-Ende", "time": 1611226642, "event": "DRILL", "data": {"got": true}}
-{"id": "the public square-[de.noun.en]-Platz", "time": 1611226644, "event": "DRILL", "data": {"got": true}}
-{"id": "the picture-[de.noun.en]-Bild", "time": 1611226646, "event": "DRILL", "data": {"got": true}}
-{"id": "the woman/wife-[de.noun.en]-Frau", "time": 1611226649, "event": "DRILL", "data": {"got": true}}
-{"id": "the position/role-[de.noun.en]-Stelle", "time": 1611226654, "event": "DRILL", "data": {"got": false}}
-{"id": "the people-[de.noun.en]-Leute", "time": 1611226657, "event": "DRILL", "data": {"got": true}}
-{"id": "the eye-[de.noun.en]-Auge", "time": 1611226659, "event": "DRILL", "data": {"got": true}}
-{"id": "the hour-[de.noun.en]-Stunde", "time": 1611226662, "event": "DRILL", "data": {"got": true}}
-{"id": "the example-[de.noun.en]-Beispiel", "time": 1611226666, "event": "DRILL", "data": {"got": true}}
-{"id": "the year-[de.noun.en]-Jahr", "time": 1611226670, "event": "DRILL", "data": {"got": true}}
+{"id": "time-[de.noun.en]-Zeit", "time": 1611226618, "event": "DRILL", "data": {"got": true}}
+{"id": "war-[de.noun.en]-Krieg", "time": 1611226620, "event": "DRILL", "data": {"got": true}}
+{"id": "time/occurrence-[de.noun.en]-Mal", "time": 1611226622, "event": "DRILL", "data": {"got": true}}
+{"id": "side-[de.noun.en]-Seite", "time": 1611226624, "event": "DRILL", "data": {"got": true}}
+{"id": "place-[de.noun.en]-Stelle", "time": 1611226628, "event": "DRILL", "data": {"got": true}}
+{"id": "man/husband-[de.noun.en]-Mann", "time": 1611226630, "event": "DRILL", "data": {"got": true}}
+{"id": "form/shape-[de.noun.en]-Form", "time": 1611226633, "event": "DRILL", "data": {"got": true}}
+{"id": "problem-[de.noun.en]-Problem", "time": 1611226635, "event": "DRILL", "data": {"got": true}}
+{"id": "school-[de.noun.en]-Schule", "time": 1611226638, "event": "DRILL", "data": {"got": true}}
+{"id": "percent-[de.noun.en]-Prozent", "time": 1611226640, "event": "DRILL", "data": {"got": true}}
+{"id": "end-[de.noun.en]-Ende", "time": 1611226642, "event": "DRILL", "data": {"got": true}}
+{"id": "public square-[de.noun.en]-Platz", "time": 1611226644, "event": "DRILL", "data": {"got": true}}
+{"id": "picture-[de.noun.en]-Bild", "time": 1611226646, "event": "DRILL", "data": {"got": true}}
+{"id": "woman/wife-[de.noun.en]-Frau", "time": 1611226649, "event": "DRILL", "data": {"got": true}}
+{"id": "position/role-[de.noun.en]-Stelle", "time": 1611226654, "event": "DRILL", "data": {"got": false}}
+{"id": "people-[de.noun.en]-Leute", "time": 1611226657, "event": "DRILL", "data": {"got": true}}
+{"id": "eye-[de.noun.en]-Auge", "time": 1611226659, "event": "DRILL", "data": {"got": true}}
+{"id": "hour-[de.noun.en]-Stunde", "time": 1611226662, "event": "DRILL", "data": {"got": true}}
+{"id": "example-[de.noun.en]-Beispiel", "time": 1611226666, "event": "DRILL", "data": {"got": true}}
+{"id": "year-[de.noun.en]-Jahr", "time": 1611226670, "event": "DRILL", "data": {"got": true}}
 {"id": "to confirm/endorse-[de.verb]-best\u00e4tigen", "time": 1611226695, "event": "DRILL", "data": {"got": true}}
 {"id": "to cover-[de.verb]-beziehen", "time": 1611226699, "event": "DRILL", "data": {"got": true}}
 {"id": "to demand-[de.verb]-verlangen", "time": 1611226703, "event": "DRILL", "data": {"got": true}}
@@ -3330,10 +3330,10 @@
 {"id": "to you (formal)-[de.pron.personal.dat]-Ihnen", "time": 1611260873, "event": "DRILL", "data": {"got": false}}
 {"id": "them-[de.pron.personal.akk]-sie", "time": 1611260878, "event": "DRILL", "data": {"got": true}}
 {"id": "ours-[de.pron.possessive]-unserer", "time": 1611260891, "event": "DRILL", "data": {"got": true}}
-{"id": "the position/role-[de.noun.en]-Stelle", "time": 1611260895, "event": "DRILL", "data": {"got": true}}
+{"id": "position/role-[de.noun.en]-Stelle", "time": 1611260895, "event": "DRILL", "data": {"got": true}}
 {"id": "bad-[de.adj]-schlecht", "time": 1611260901, "event": "DRILL", "data": {"got": false}}
 {"id": "that/those-[de.art.der]-jener", "time": 1611260909, "event": "DRILL", "data": {"got": false}}
-{"id": "the work-[de.noun.en]-Arbeit", "time": 1611260919, "event": "DRILL", "data": {"got": true}}
+{"id": "work-[de.noun.en]-Arbeit", "time": 1611260919, "event": "DRILL", "data": {"got": true}}
 {"id": "direct-[de.adj]-direkt", "time": 1611260922, "event": "DRILL", "data": {"got": true}}
 {"id": "simultaneous-[de.adj]-gleichzeitig", "time": 1611260929, "event": "DRILL", "data": {"got": true}}
 {"id": "to press/push-[de.verb]-dr\u00fccken", "time": 1611260937, "event": "DRILL", "data": {"got": false}}
@@ -3349,7 +3349,7 @@
 {"id": "in order (to)-[de.conj.sub]-um (zu)", "time": 1611261005, "event": "DRILL", "data": {"got": true}}
 {"id": "yours (plural)-[de.pron.possessive]-euerer", "time": 1611261011, "event": "DRILL", "data": {"got": true}}
 {"id": "your (plural)-[de.art.ein]-euer", "time": 1611261016, "event": "DRILL", "data": {"got": true}}
-{"id": "the society/company-[de.noun.en]-Gesellschaft", "time": 1611261021, "event": "DRILL", "data": {"got": true}}
+{"id": "society/company-[de.noun.en]-Gesellschaft", "time": 1611261021, "event": "DRILL", "data": {"got": true}}
 {"id": "in accordance with-[de.prep.dat]-gem\u00e4\u00df", "time": 1611261048, "event": "DRILL", "data": {"got": true}}
 {"id": "clear-[de.adj]-klar", "time": 1611261053, "event": "DRILL", "data": {"got": true}}
 {"id": "sure/certain-[de.adj]-sicher", "time": 1611261056, "event": "DRILL", "data": {"got": true}}
@@ -3480,12 +3480,12 @@
 {"id": "one-[de.pron.personal.akk]-einen", "time": 1611351357, "event": "DRILL", "data": {"got": true}}
 {"id": "on behalf (of)-[de.prep.gen]-(...) halber", "time": 1611351365, "event": "DRILL", "data": {"got": true}}
 {"id": "to you (formal)-[de.pron.personal.dat]-Ihnen", "time": 1611351373, "event": "DRILL", "data": {"got": true}}
-{"id": "the money-[de.noun.en]-Geld", "time": 1611351379, "event": "DRILL", "data": {"got": false}}
+{"id": "money-[de.noun.en]-Geld", "time": 1611351379, "event": "DRILL", "data": {"got": false}}
 {"id": "someone-[de.pron.indefinite]-jemand", "time": 1611351386, "event": "DRILL", "data": {"got": true}}
 {"id": "their-[de.art.ein]-ihr", "time": 1611351399, "event": "DRILL", "data": {"got": true}}
 {"id": "some/few a-[de.art.der]-einiger", "time": 1611351404, "event": "DRILL", "data": {"got": true}}
 {"id": "according to-[de.prep.dat]-zufolge", "time": 1611351413, "event": "DRILL", "data": {"got": true}}
-{"id": "the result/consequence-[de.noun.en]-Folge", "time": 1611351425, "event": "DRILL", "data": {"got": false}}
+{"id": "result/consequence-[de.noun.en]-Folge", "time": 1611351425, "event": "DRILL", "data": {"got": false}}
 {"id": "to; at-[de.prep.wex]-an", "time": 1611351427, "event": "DRILL", "data": {"got": false}}
 {"id": "to suffice/be enough-[de.verb]-gen\u00fcgen", "time": 1611351431, "event": "DRILL", "data": {"got": false}}
 {"id": "that/those-[de.art.der]-jener", "time": 1611351435, "event": "DRILL", "data": {"got": true}}
@@ -3499,11 +3499,11 @@
 {"id": "first-[de.adj]-erste", "time": 1611351483, "event": "DRILL", "data": {"got": true}}
 {"id": "to suffice/be enough-[de.verb]-gen\u00fcgen", "time": 1611351488, "event": "DRILL", "data": {"got": true}}
 {"id": "entire-[de.adj]-gesamt", "time": 1611351491, "event": "DRILL", "data": {"got": true}}
-{"id": "the money-[de.noun.en]-Geld", "time": 1611351495, "event": "DRILL", "data": {"got": true}}
+{"id": "money-[de.noun.en]-Geld", "time": 1611351495, "event": "DRILL", "data": {"got": true}}
 {"id": "additional-[de.adj]-zus\u00e4tzlich", "time": 1611351508, "event": "DRILL", "data": {"got": false}}
 {"id": "bad-[de.adj]-schlecht", "time": 1611351511, "event": "DRILL", "data": {"got": true}}
 {"id": "to; at-[de.prep.wex]-an", "time": 1611351513, "event": "DRILL", "data": {"got": true}}
-{"id": "the result/consequence-[de.noun.en]-Folge", "time": 1611351515, "event": "DRILL", "data": {"got": true}}
+{"id": "result/consequence-[de.noun.en]-Folge", "time": 1611351515, "event": "DRILL", "data": {"got": true}}
 {"id": "additional-[de.adj]-zus\u00e4tzlich", "time": 1611351523, "event": "DRILL", "data": {"got": true}}
 {"id": "to suffice-[de.verb]-ausreichen", "time": 1611391933, "event": "DRILL", "data": {"got": true}}
 {"id": "to pursue (craft/study/hobby/etc.)-[de.verb]-treiben", "time": 1611391937, "event": "DRILL", "data": {"got": true}}
@@ -4068,68 +4068,68 @@
 {"id": "to achieve/reach-[de.verb]-erreichen", "time": 1611690922, "event": "DRILL", "data": {"got": true}}
 {"id": "to succeed-[de.verb]-gelingen", "time": 1611690931, "event": "DRILL", "data": {"got": true}}
 {"id": "to enclose-[de.verb]-umfassen", "time": 1611690945, "event": "DRILL", "data": {"got": true}}
-{"id": "the town-[de.noun.en]-Ort", "time": 1611690985, "event": "DRILL", "data": {"got": true}}
+{"id": "town-[de.noun.en]-Ort", "time": 1611690985, "event": "DRILL", "data": {"got": true}}
 {"id": "Interesse-[de.noun.gender]-das", "time": 1611690988, "event": "DRILL", "data": {"got": true}}
-{"id": "the result-[de.noun.en]-Ergebnis", "time": 1611690995, "event": "DRILL", "data": {"got": false}}
+{"id": "result-[de.noun.en]-Ergebnis", "time": 1611690995, "event": "DRILL", "data": {"got": false}}
 {"id": "Mal-[de.noun.gender]-das", "time": 1611690999, "event": "DRILL", "data": {"got": true}}
 {"id": "Ort-[de.noun.gender]-der", "time": 1611691000, "event": "DRILL", "data": {"got": true}}
 {"id": "Wort-[de.noun.gender]-das", "time": 1611691005, "event": "DRILL", "data": {"got": true}}
 {"id": "Bereich-[de.noun.gender]-der", "time": 1611691007, "event": "DRILL", "data": {"got": true}}
-{"id": "the money-[de.noun.en]-Geld", "time": 1611691009, "event": "DRILL", "data": {"got": true}}
+{"id": "money-[de.noun.en]-Geld", "time": 1611691009, "event": "DRILL", "data": {"got": true}}
 {"id": "Ende-[de.noun.gender]-das", "time": 1611691011, "event": "DRILL", "data": {"got": true}}
-{"id": "the conversation-[de.noun.en]-Gespr\u00e4ch", "time": 1611691016, "event": "DRILL", "data": {"got": true}}
+{"id": "conversation-[de.noun.en]-Gespr\u00e4ch", "time": 1611691016, "event": "DRILL", "data": {"got": true}}
 {"id": "Ergebnis-[de.noun.gender]-das", "time": 1611691019, "event": "DRILL", "data": {"got": true}}
 {"id": "Schule-[de.noun.gender]-die", "time": 1611691021, "event": "DRILL", "data": {"got": true}}
-{"id": "the work-[de.noun.en]-Arbeit", "time": 1611691025, "event": "DRILL", "data": {"got": true}}
-{"id": "the society/company-[de.noun.en]-Gesellschaft", "time": 1611691035, "event": "DRILL", "data": {"got": true}}
+{"id": "work-[de.noun.en]-Arbeit", "time": 1611691025, "event": "DRILL", "data": {"got": true}}
+{"id": "society/company-[de.noun.en]-Gesellschaft", "time": 1611691035, "event": "DRILL", "data": {"got": true}}
 {"id": "Moment-[de.noun.gender]-der", "time": 1611691038, "event": "DRILL", "data": {"got": true}}
-{"id": "the position/role-[de.noun.en]-Stelle", "time": 1611691045, "event": "DRILL", "data": {"got": false}}
+{"id": "position/role-[de.noun.en]-Stelle", "time": 1611691045, "event": "DRILL", "data": {"got": false}}
 {"id": "Geschichte-[de.noun.gender]-die", "time": 1611691048, "event": "DRILL", "data": {"got": true}}
 {"id": "Prozent-[de.noun.gender]-das", "time": 1611691050, "event": "DRILL", "data": {"got": true}}
-{"id": "the world-[de.noun.en]-Welt", "time": 1611691054, "event": "DRILL", "data": {"got": true}}
-{"id": "the sense/meaning-[de.noun.en]-Sinn", "time": 1611691060, "event": "DRILL", "data": {"got": false}}
+{"id": "world-[de.noun.en]-Welt", "time": 1611691054, "event": "DRILL", "data": {"got": true}}
+{"id": "sense/meaning-[de.noun.en]-Sinn", "time": 1611691060, "event": "DRILL", "data": {"got": false}}
 {"id": "Raum-[de.noun.gender]-der", "time": 1611691067, "event": "DRILL", "data": {"got": true}}
 {"id": "Form-[de.noun.gender]-die", "time": 1611691069, "event": "DRILL", "data": {"got": true}}
 {"id": "Euro-[de.noun.gender]-der", "time": 1611691072, "event": "DRILL", "data": {"got": false}}
-{"id": "the language-[de.noun.en]-Sprache", "time": 1611691082, "event": "DRILL", "data": {"got": true}}
+{"id": "language-[de.noun.en]-Sprache", "time": 1611691082, "event": "DRILL", "data": {"got": true}}
 {"id": "Wert-[de.noun.gender]-der", "time": 1611691085, "event": "DRILL", "data": {"got": true}}
-{"id": "the result/consequence-[de.noun.en]-Folge", "time": 1611691090, "event": "DRILL", "data": {"got": true}}
+{"id": "result/consequence-[de.noun.en]-Folge", "time": 1611691090, "event": "DRILL", "data": {"got": true}}
 {"id": "Folge-[de.noun.gender]-die", "time": 1611691092, "event": "DRILL", "data": {"got": true}}
-{"id": "the face-[de.noun.en]-Gesicht", "time": 1611691098, "event": "DRILL", "data": {"got": true}}
-{"id": "the grounding/basis/reason-[de.noun.en]-Grund", "time": 1611691101, "event": "DRILL", "data": {"got": true}}
+{"id": "face-[de.noun.en]-Gesicht", "time": 1611691098, "event": "DRILL", "data": {"got": true}}
+{"id": "grounding/basis/reason-[de.noun.en]-Grund", "time": 1611691101, "event": "DRILL", "data": {"got": true}}
 {"id": "Anfang-[de.noun.gender]-der", "time": 1611691104, "event": "DRILL", "data": {"got": true}}
 {"id": "Beispiel-[de.noun.gender]-das", "time": 1611691106, "event": "DRILL", "data": {"got": true}}
 {"id": "Ziel-[de.noun.gender]-das", "time": 1611691108, "event": "DRILL", "data": {"got": true}}
 {"id": "Teil-[de.noun.gender]-der", "time": 1611691115, "event": "DRILL", "data": {"got": false}}
 {"id": "Gespr\u00e4ch-[de.noun.gender]-das", "time": 1611691119, "event": "DRILL", "data": {"got": false}}
 {"id": "T\u00fcr-[de.noun.gender]-die", "time": 1611691121, "event": "DRILL", "data": {"got": true}}
-{"id": "the war-[de.noun.en]-Krieg", "time": 1611691123, "event": "DRILL", "data": {"got": true}}
-{"id": "the thing-[de.noun.en]-Sache", "time": 1611691131, "event": "REVIEW", "data": {}}
+{"id": "war-[de.noun.en]-Krieg", "time": 1611691123, "event": "DRILL", "data": {"got": true}}
+{"id": "thing-[de.noun.en]-Sache", "time": 1611691131, "event": "REVIEW", "data": {}}
 {"id": "Hand-[de.noun.gender]-die", "time": 1611691136, "event": "DRILL", "data": {"got": true}}
 {"id": "Gesellschaft-[de.noun.gender]-die", "time": 1611691139, "event": "DRILL", "data": {"got": true}}
 {"id": "Art-[de.noun.gender]-die", "time": 1611691141, "event": "DRILL", "data": {"got": true}}
-{"id": "the piece/bit/part-[de.noun.en]-St\u00fcck", "time": 1611691151, "event": "DRILL", "data": {"got": true}}
-{"id": "the way/manner-[de.noun.en]-Weise", "time": 1611691154, "event": "DRILL", "data": {"got": true}}
+{"id": "piece/bit/part-[de.noun.en]-St\u00fcck", "time": 1611691151, "event": "DRILL", "data": {"got": true}}
+{"id": "way/manner-[de.noun.en]-Weise", "time": 1611691154, "event": "DRILL", "data": {"got": true}}
 {"id": "Grund-[de.noun.gender]-der", "time": 1611691156, "event": "DRILL", "data": {"got": true}}
-{"id": "the history-[de.noun.en]-Geschichte", "time": 1611691169, "event": "DRILL", "data": {"got": false}}
+{"id": "history-[de.noun.en]-Geschichte", "time": 1611691169, "event": "DRILL", "data": {"got": false}}
 {"id": "St\u00fcck-[de.noun.gender]-das", "time": 1611691171, "event": "DRILL", "data": {"got": true}}
 {"id": "Land-[de.noun.gender]-das", "time": 1611691173, "event": "DRILL", "data": {"got": true}}
 {"id": "Leben-[de.noun.gender]-das", "time": 1611691176, "event": "DRILL", "data": {"got": false}}
-{"id": "the number-[de.noun.en]-Zahl", "time": 1611691181, "event": "DRILL", "data": {"got": true}}
+{"id": "number-[de.noun.en]-Zahl", "time": 1611691181, "event": "DRILL", "data": {"got": true}}
 {"id": "Thema-[de.noun.gender]-das", "time": 1611691184, "event": "DRILL", "data": {"got": false}}
 {"id": "Staat-[de.noun.gender]-der", "time": 1611691187, "event": "DRILL", "data": {"got": true}}
 {"id": "Sache-[de.noun.gender]-die", "time": 1611691190, "event": "DRILL", "data": {"got": true}}
 {"id": "Unternehmen-[de.noun.gender]-das", "time": 1611691194, "event": "DRILL", "data": {"got": true}}
-{"id": "the development-[de.noun.en]-Entwicklung", "time": 1611691204, "event": "DRILL", "data": {"got": true}}
-{"id": "the sense/meaning-[de.noun.en]-Sinn", "time": 1611691213, "event": "DRILL", "data": {"got": true}}
+{"id": "development-[de.noun.en]-Entwicklung", "time": 1611691204, "event": "DRILL", "data": {"got": true}}
+{"id": "sense/meaning-[de.noun.en]-Sinn", "time": 1611691213, "event": "DRILL", "data": {"got": true}}
 {"id": "Thema-[de.noun.gender]-das", "time": 1611691215, "event": "DRILL", "data": {"got": true}}
-{"id": "the result-[de.noun.en]-Ergebnis", "time": 1611691218, "event": "DRILL", "data": {"got": true}}
+{"id": "result-[de.noun.en]-Ergebnis", "time": 1611691218, "event": "DRILL", "data": {"got": true}}
 {"id": "Euro-[de.noun.gender]-der", "time": 1611691220, "event": "DRILL", "data": {"got": true}}
-{"id": "the position/role-[de.noun.en]-Stelle", "time": 1611691222, "event": "DRILL", "data": {"got": true}}
+{"id": "position/role-[de.noun.en]-Stelle", "time": 1611691222, "event": "DRILL", "data": {"got": true}}
 {"id": "Gespr\u00e4ch-[de.noun.gender]-das", "time": 1611691225, "event": "DRILL", "data": {"got": true}}
 {"id": "Leben-[de.noun.gender]-das", "time": 1611691227, "event": "DRILL", "data": {"got": true}}
 {"id": "Teil-[de.noun.gender]-der", "time": 1611691230, "event": "DRILL", "data": {"got": true}}
-{"id": "the history-[de.noun.en]-Geschichte", "time": 1611691234, "event": "DRILL", "data": {"got": true}}
+{"id": "history-[de.noun.en]-Geschichte", "time": 1611691234, "event": "DRILL", "data": {"got": true}}
 {"id": "either - or-[de.conj.coo]-entweder* - oder", "time": 1611691275, "event": "DRILL", "data": {"got": true}}
 {"id": "all the-[de.conj.sub]-umso", "time": 1611691281, "event": "DRILL", "data": {"got": true}}
 {"id": "in case/if-[de.conj.sub]-falls", "time": 1611691283, "event": "DRILL", "data": {"got": true}}
@@ -5493,3 +5493,75 @@
 {'id': 'ever/forever-[de.adv]-je', 'time': 1612208610, 'event': 'DRILL', 'data': {'got': True}}
 {'id': 'to restrict/limit-[de.verb]-beschränken', 'time': 1612208616, 'event': 'DRILL', 'data': {'got': True}}
 {'id': 'to announce/herald-[de.verb]-ankündigen', 'time': 1612208626, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to promote/support-[de.verb]-fördern', 'time': 1612219293, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to leave-[de.verb]-entfernen sich', 'time': 1612219312, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to announce/herald-[de.verb]-ankündigen', 'time': 1612219318, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to occur/remind-[de.verb]-einfallen', 'time': 1612219321, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to avoid-[de.verb]-vermeiden', 'time': 1612219336, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to restrict/limit-[de.verb]-beschränken', 'time': 1612219340, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to remove-[de.verb]-entfernen', 'time': 1612219352, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to turn-[de.verb]-wenden', 'time': 1612219354, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to feel-[de.verb]-empfinden', 'time': 1612219360, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to do without-[de.verb]-verzichten', 'time': 1612219370, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'at the moment-[de.adv]-derzeit', 'time': 1612219375, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to employ/apply-[de.verb]-anwenden', 'time': 1612219385, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'two-[de.num.card]-zwei', 'time': 1612219424, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'eighty-[de.num.card]-achtzig', 'time': 1612219427, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'nineteen-[de.num.card]-neunzehn', 'time': 1612219429, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'fifteen-[de.num.card]-fünfzehn', 'time': 1612219432, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'ninety-[de.num.card]-neunzig', 'time': 1612219434, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'eleven-[de.num.card]-elf', 'time': 1612219436, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'fourteen-[de.num.card]-vierzehn', 'time': 1612219440, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'seventy-[de.num.card]-siebzig', 'time': 1612219443, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'thousand-[de.num.card]-tausend', 'time': 1612219447, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'twenty-[de.num.card]-zwanzig', 'time': 1612219451, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'eighteen-[de.num.card]-achtzehn', 'time': 1612219457, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'hundredthousand-[de.num.card]-hunderttausend', 'time': 1612219462, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'fifteenth-[de.num.ord]-fünfzehnte', 'time': 1612219468, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'seventeenth-[de.num.ord]-siebzehnte', 'time': 1612219474, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'thirteen-[de.num.card]-dreizehn', 'time': 1612219478, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'thirty-[de.num.card]-dreißig', 'time': 1612219482, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'sixteen-[de.num.card]-sechzehn', 'time': 1612219488, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'four-[de.num.card]-vier', 'time': 1612219491, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'ninetieth-[de.num.ord]-neunzigste', 'time': 1612219499, 'event': 'REVIEW', 'data': {}}
+{'id': 'eighth-[de.num.ord]-achte', 'time': 1612219504, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'seventieth-[de.num.ord]-siebzigste', 'time': 1612219510, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'fortieth-[de.num.ord]-vierzigste', 'time': 1612219514, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'fourth-[de.num.ord]-vierte', 'time': 1612219517, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'twentieth-[de.num.ord]-zwanzigste', 'time': 1612219527, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'ninth-[de.num.ord]-neunte', 'time': 1612219532, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'hundredth-[de.num.ord]-hundertste', 'time': 1612219536, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'seventh-[de.num.ord]-siebte', 'time': 1612219539, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'sixteenth-[de.num.ord]-sechzehnte', 'time': 1612219548, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'thirteenth-[de.num.ord]-dreizehnte', 'time': 1612219554, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'hundredthousandth-[de.num.ord]-hunderttausendste', 'time': 1612219562, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'sixtieth-[de.num.ord]-sechzigste', 'time': 1612219569, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'thousandth-[de.num.ord]-tausendste', 'time': 1612219575, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'first-[de.num.ord]-erste', 'time': 1612219578, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'fourteenth-[de.num.ord]-vierzehnte', 'time': 1612219583, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'second-[de.num.ord]-zweite', 'time': 1612219587, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to avoid-[de.verb]-vermeiden', 'time': 1612219595, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'nineteenth-[de.num.ord]-neunzehnte', 'time': 1612219603, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'tenth-[de.num.ord]-zehnte', 'time': 1612219605, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'fifth-[de.num.ord]-fünfte', 'time': 1612219609, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'sixth-[de.num.ord]-sechste', 'time': 1612219612, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to leave-[de.verb]-entfernen sich', 'time': 1612219624, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'millionth-[de.num.ord]-millionste', 'time': 1612219628, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'fiftieth-[de.num.ord]-fünfzigste', 'time': 1612219633, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to announce/herald-[de.verb]-ankündigen', 'time': 1612219637, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'eighteenth-[de.num.ord]-achtzehnte', 'time': 1612219643, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'billionth-[de.num.ord]-milliardste', 'time': 1612219646, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'third-[de.num.ord]-dritte', 'time': 1612219648, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'eightieth-[de.num.ord]-achtzigste', 'time': 1612219651, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'on the basis (of)-[de.prep.gen]-anhand', 'time': 1612219661, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'so that-[de.conj.sub]-damit', 'time': 1612219663, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'before/until-[de.conj.sub]-ehe', 'time': 1612219668, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to employ/apply-[de.verb]-anwenden', 'time': 1612219674, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'neither - nor-[de.conj.coo]-weder* - noch*', 'time': 1612219683, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to avoid-[de.verb]-vermeiden', 'time': 1612219688, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Stadt-[de.noun.gender]-die', 'time': 1612219708, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'actually-[de.adv]-eigentlich', 'time': 1612219717, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'for now-[de.adv]-zunächst', 'time': 1612219724, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'just as (sth as sth)-[de.adv]-ebenso', 'time': 1612219728, 'event': 'DRILL', 'data': {'got': True}}
+{'id': '(to) herself/itself (f)-[de.pron.reflexive]-sich', 'time': 1612219731, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'first-[de.adv]-erst', 'time': 1612219739, 'event': 'DRILL', 'data': {'got': True}}

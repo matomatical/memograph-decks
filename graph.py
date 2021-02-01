@@ -3,29 +3,33 @@ from mg.node import Node
 
 def graph():
     # most words
-    for topic, de, en in parse(LINKS):
-        yield (
-            Node(en, speak_str=en, speak_voice="en"),
-            Node(de, speak_str=de, speak_voice="de"),
-            topic,
-        )
-
-    # nouns (and their genders)
-    words = set()
-    for de, en in parse(NOUNS):
-        art, noun = de[:3], de[4:]
-        yield (
-            Node(en,   speak_str=en, speak_voice="en"),
-            Node(noun, print_str=de, speak_str=de, speak_voice="de"),
-            "de.noun.en"
-        )
-        if de not in words:
-            words.add(de)
+    for topic, *args in parse(LINKS):
+        # treat nouns specially
+        if topic.startswith("de.noun"):
+            der, de, en = args
+            der_de = f"{der} {de}"
+            the_en = f"the {en}"
+            # one for the translation (without articles)
             yield (
-                Node(noun, speak_str=noun, speak_voice="de"),
-                Node(art,  speak_str=de,   speak_voice="de"),
+                Node(en, print_str=the_en,speak_str=the_en,speak_voice="en"),
+                Node(de, print_str=der_de,speak_str=der_de,speak_voice="de"),
+                "de.noun.en"
+            )
+            # one for the gender itself (note: duplicates removed by mg TODO)
+            yield (
+                Node(de,  speak_str=de,     speak_voice="de"),
+                Node(der, speak_str=der_de, speak_voice="de"),
                 "de.noun.gender"
             )
+        # all others have standard format (so far)
+        else:
+            de, en = args
+            yield (
+                Node(en, speak_str=en, speak_voice="en"),
+                Node(de, speak_str=de, speak_voice="de"),
+                topic,
+            )
+
 
 
 def parse(links_text, sep="--", skip_header=True):
@@ -163,6 +167,7 @@ de.adj --
  -- privat          -- private
  -- tot             -- dead
 
+
 # # #
 # ADVERBS
 #
@@ -278,6 +283,7 @@ de.adv --
  -- zuvor           -- before
  -- teilweise       -- partly
 
+
 # # #
 # ARTICLES
 # 
@@ -310,10 +316,10 @@ de.art.ein --
  -- Ihr             -- your (formal)
  -- irgendein       -- someone's                # note it's irgend + ein!!
 
+
 # # #
 # CONJUNCTIONS
 # 
-# TODO: classify 'je - desto' and 'bezeihungsweise' as COO or SUB conj?
 
 de.conj.coo --
  -- und             -- and
@@ -424,6 +430,7 @@ de.prep.gen --
  -- diesseits       -- on this side (of)
  -- (...) halber    -- on behalf (of)
  -- um (...) willen -- for (...'s) sake
+
 
 # # #
 # PRONOUNS
@@ -547,7 +554,6 @@ de.pron.indefinite --
  -- einiger (?)     -- some/few                 # what is the declension?
  -- mancher (?)     -- many                     # what is the declension?
  -- solcher (?)     -- such                     # what is the declension?
-
 
 
 # # #
@@ -1017,210 +1023,223 @@ de.num.ord --
  -- hunderttausendste   -- hundredthousandth
  -- millionste      -- millionth
  -- milliardste     -- billionth
-"""
 
-# TODO: Could add nouns with genders as topic, like so:
-"""
-de.noun.das -- Jahr -- year
-de.noun.das -- Mal  -- time/occurrence
-"""
-# but then how to quiz noun-to-topic?
-# what are the alternatives, an extra layer?
-"""
+
+# # #
+# Nouns (and their genders)
+# 
+
 de.noun --
- -- das -- Jahr     -- year
- -- das -- Mal      -- time/occurrence
-"""
-# this way don't ned to add 'the' and can easily create two quizzes, and
-# doesn't screw up formatting since genders are always 3 characters :)
-#
-# either way will prolly still need to special case the loop
-
-
-NOUNS = """art de -- the en                 # notes (ignored)
-das Jahr        -- the year
-das Mal         -- the time/occurrence
-das Beispiel    -- the example
-die Zeit        -- the time
-die Frau        -- the woman/wife           # also title 'Mrs.'
-der Mensch      -- the man/human
-das Kind        -- the child
-der Tag         -- the day
-der Mann        -- the man/husband
-das Land        -- the land/country
-die Frage       -- the question
-das Haus        -- the house/home
-der Fall        -- the fall                 # also means 'case'
-plu Leute       -- the people               # plural only
-die Arbeit      -- the work
-das Prozent     -- the percent
-die Hand        -- the hand
-die Stadt       -- the town
-der Herr        -- the gentleman            # also title 'Mr.'
-der Teil        -- the part/section
-das Problem     -- the problem
-die Welt        -- the world
-das Recht       -- the right/law
-das Ende        -- the end
-die Million     -- the million
-die Schule      -- the school
-die Woche       -- the week
-der Vater       -- the father
-die Seite       -- the side
-die Seite       -- the page
-das Leben       -- the life
-die Mutter      -- the mother
-der Grund       -- the grounding/basis/reason
-das Auge        -- the eye
-das Wort        -- the word
-das Geld        -- the money
-die Sache       -- the thing
-die Art         -- the type/kind
-der Bereich     -- the area/region
-der Weg         -- the way/path
-die Stunde      -- the hour
-der Name        -- the name
-die Geschichte  -- the history
-die Gesellschaft -- the society/company
-der Kopf        -- the head
-das Paar        -- the pair/couple
-die Möglichkeit -- the likelihood/possibility
-das Unternehmen -- the enterprise/company
-das Bild        -- the picture
-das Buch        -- the book
-das Wasser      -- the water
-die Stelle      -- the place                # stellen = to place
-die Stelle      -- the position/role        # like for a job
-die Form        -- the form/shape
-die Mark        -- the mark (currency)
-die Entwicklung -- the development
-der Monat       -- the month
-die Familie     -- the family
-der Morgen      -- the morning              # also 'tomorrow'?
-der Abend       -- the evening
-die Aufgabe     -- the task/asg./job
-die Universität -- the university           # abbr.: 'die Uni'
-der Sinn        -- the sense/meaning
-der Staat       -- the state
-das Ziel        -- the goal
-das Ziel        -- the destination
-der Freund      -- the friend (m)
-die Freundin    -- the friend (f)
-das Thema       -- the topic/theme
-die Person      -- the person
-der Euro        -- the euro (currency)
-die Nacht       -- the night
-das Ding        -- the thing
-der Raum        -- the room/space
-der Blick       -- the look/glance/view
-der Platz       -- the place
-der Platz       -- the public square
-die Zahl        -- the number
-das System      -- the system
-die Uhr         -- the clock/watch
-die Uhr         -- the o'clock
-plu Eltern      -- the parents              # plural only
-die Straße      -- the street
-die Minute      -- the minute
-die Gruppe      -- the group
-der Wert        -- the value/worth
-das Gesicht     -- the face
-die Sprache     -- the language
-der Anfang      -- the beginning
-der Ort         -- the place/location
-der Ort         -- the town
-der Moment      -- the moment
-die Folge       -- the result/consequence
-das Interesse   -- the interest
-die Milliarde   -- the billion
-die Rolle       -- the role
-die Rolle       -- the roll
-die Tür         -- the door
-der Schüler     -- the pupil/student (m)
-die Schülerin   -- the pupil/student (f)
-die Bedeutung   -- the meaning
-die Bedeutung   -- the significance
-der Text        -- the text
-das Ergebnis    -- the result
-der Krieg       -- the war
-die Weise       -- the way/manner
-die Regierung   -- the rule/government
-das Stück       -- the piece/bit/part
-die Wohnung     -- the apartment
-das Gespräch    -- the conversation
+ -- das -- Jahr         -- year
+ -- das -- Mal          -- time/occurrence
+ -- das -- Beispiel     -- example
+ -- die -- Zeit         -- time
+ -- die -- Frau         -- woman/wife           # also title 'Mrs.'
+ -- der -- Mensch       -- man/human
+ -- das -- Kind         -- child
+ -- der -- Tag          -- day
+ -- der -- Mann         -- man/husband
+ -- das -- Land         -- land/country
+ -- die -- Frage        -- question
+ -- das -- Haus         -- house/home
+ -- der -- Fall         -- fall                 # also means 'case'
+ -- plu -- Leute        -- people               # plural only
+ -- die -- Arbeit       -- work
+ -- das -- Prozent      -- percent
+ -- die -- Hand         -- hand
+ -- die -- Stadt        -- town
+ -- der -- Herr         -- gentleman            # also title 'Mr.'
+ -- der -- Teil         -- part/section
+ -- das -- Problem      -- problem
+ -- die -- Welt         -- world
+ -- das -- Recht        -- right/law
+ -- das -- Ende         -- end
+ -- die -- Million      -- million
+ -- die -- Schule       -- school
+ -- die -- Woche        -- week
+ -- der -- Vater        -- father
+ -- die -- Seite        -- side
+ -- die -- Seite        -- page
+ -- das -- Leben        -- life
+ -- die -- Mutter       -- mother
+ -- der -- Grund        -- grounding/basis/reason
+ -- das -- Auge         -- eye
+ -- das -- Wort         -- word
+ -- das -- Geld         -- money
+ -- die -- Sache        -- thing
+ -- die -- Art          -- type/kind
+ -- der -- Bereich      -- area/region
+ -- der -- Weg          -- way/path
+ -- die -- Stunde       -- hour
+ -- der -- Name         -- name
+ -- die -- Geschichte   -- history
+ -- die -- Gesellschaft -- society/company
+ -- der -- Kopf         -- head
+ -- das -- Paar         -- pair/couple
+ -- die -- Möglichkeit  -- likelihood/possibility
+ -- das -- Unternehmen  -- enterprise/company
+ -- das -- Bild         -- picture
+ -- das -- Buch         -- book
+ -- das -- Wasser       -- water
+ -- die -- Stelle       -- place                # stellen = to place
+ -- die -- Stelle       -- position/role        # like for a job
+ -- die -- Form         -- form/shape
+ -- die -- Mark         -- mark (currency)
+ -- die -- Entwicklung  -- development
+ -- der -- Monat        -- month
+ -- die -- Familie      -- family
+ -- der -- Morgen       -- morning              # also 'tomorrow'?
+ -- der -- Abend        -- evening
+ -- die -- Aufgabe      -- task/asg./job
+ -- die -- Universität  -- university           # abbr.: 'die Uni'
+ -- der -- Sinn         -- sense/meaning
+ -- der -- Staat        -- state
+ -- das -- Ziel         -- goal
+ -- das -- Ziel         -- destination
+ -- der -- Freund       -- friend (m)
+ -- die -- Freundin     -- friend (f)
+ -- das -- Thema        -- topic/theme
+ -- die -- Person       -- person
+ -- der -- Euro         -- euro (currency)
+ -- die -- Nacht        -- night
+ -- das -- Ding         -- thing
+ -- der -- Raum         -- room/space
+ -- der -- Blick        -- look/glance/view
+ -- der -- Platz        -- place
+ -- der -- Platz        -- public square
+ -- die -- Zahl         -- number
+ -- das -- System       -- system
+ -- die -- Uhr          -- clock/watch
+ -- die -- Uhr          -- o'clock
+ -- plu -- Eltern       -- parents              # plural only
+ -- die -- Straße       -- street
+ -- die -- Minute       -- minute
+ -- die -- Gruppe       -- group
+ -- der -- Wert         -- value/worth
+ -- das -- Gesicht      -- face
+ -- die -- Sprache      -- language
+ -- der -- Anfang       -- beginning
+ -- der -- Ort          -- place/location
+ -- der -- Ort          -- town
+ -- der -- Moment       -- moment
+ -- die -- Folge        -- result/consequence
+ -- das -- Interesse    -- interest
+ -- die -- Milliarde    -- billion
+ -- die -- Rolle        -- role
+ -- die -- Rolle        -- roll
+ -- die -- Tür          -- door
+ -- der -- Schüler      -- pupil/student (m)
+ -- die -- Schülerin    -- pupil/student (f)
+ -- die -- Bedeutung    -- meaning
+ -- die -- Bedeutung    -- significance
+ -- der -- Text         -- text
+ -- das -- Ergebnis     -- result
+ -- der -- Krieg        -- war
+ -- die -- Weise        -- way/manner
+ -- die -- Regierung    -- rule/government
+ -- das -- Stück        -- piece/bit/part
+ -- die -- Wohnung      -- apartment
+ -- das -- Gespräch     -- conversation
 """
 
 # TODO: Add calendar dates (remove duplicates)
 """
 de.noun.cal --
- -- die Zeit        -- the time
- -- der Morgen      -- the morning
- -- der Vormittag   -- the beforemidday
- -- der Mittag      -- the midday
- -- der Nachmittag  -- the afternoon
- -- der Abend       -- the evening
- -- die Nacht       -- the night
- -- die Mitternacht -- the midnight
- -- der Tag         -- the day
- -- der Sonntag     -- the Sunday
- -- der Montag      -- the Monday
- -- der Dienstag    -- the Tuesday
- -- der Mittwoch    -- the Wednesday
- -- der Donnerstag  -- the Thursday
- -- der Freitag     -- the Friday
- -- der Samstag     -- the Saturday
- -- das Wochenende  -- the Weekend
- -- die Woche       -- the Week
- -- der Wochentag   -- the Weekday
- -- der Monat       -- the Month
- -- der Januar      -- the January
- -- der Februar     -- the February
- -- der März        -- the March
- -- der April       -- the April
- -- der Mai         -- the May
- -- der Juni        -- the June
- -- der Juli        -- the July
- -- der August      -- the August
- -- der September   -- the September
- -- der Oktober     -- the October
- -- der November    -- the November
- -- der Dezember    -- the December
- -- die Jahreszeit  -- the Season
- -- der Sommer      -- the Summer
- -- der Herbst      -- the Autumn
- -- der Winter      -- the Winter
- -- der Frühling    -- the Spring
- -- das Semester    -- the semester
- -- das Wintersemester      -- the Winter semester  # WS, Okt--Mär, [de]
- -- das Sommersemester      -- the Summer semester  # SS, Apr--Sep, [de]
- -- das Herbstsemester      -- the Autumn semester  # HS, Sep--Dez, [ch]
- -- das Frühlingsemester    -- the Spring semester  # FS, Feb--Jun, [ch]
- -- das Jahr        -- the year
- -- das Morgen      -- the future
- -- das Morgen      -- the tomorrow (vague)
- -- das Datum       -- the date
+ -- die -- Zeit         -- time
+ -- der -- Morgen       -- morning
+ -- der -- Vormittag    -- beforemidday
+ -- der -- Mittag       -- midday
+ -- der -- Nachmittag   -- afternoon
+ -- der -- Abend        -- evening
+ -- die -- Nacht        -- night
+ -- die -- Mitternacht  -- midnight
+ -- der -- Tag          -- day
+ -- der -- Sonntag      -- Sunday
+ -- der -- Montag       -- Monday
+ -- der -- Dienstag     -- Tuesday
+ -- der -- Mittwoch     -- Wednesday
+ -- der -- Donnerstag   -- Thursday
+ -- der -- Freitag      -- Friday
+ -- der -- Samstag      -- Saturday
+ -- das -- Wochenende   -- Weekend
+ -- die -- Woche        -- Week
+ -- der -- Wochentag    -- Weekday
+ -- der -- Monat        -- Month
+ -- der -- Januar       -- January
+ -- der -- Februar      -- February
+ -- der -- März         -- March
+ -- der -- April        -- April
+ -- der -- Mai          -- May
+ -- der -- Juni         -- June
+ -- der -- Juli         -- July
+ -- der -- August       -- August
+ -- der -- September    -- September
+ -- der -- Oktober      -- October
+ -- der -- November     -- November
+ -- der -- Dezember     -- December
+ -- die -- Jahreszeit   -- Season
+ -- der -- Sommer       -- Summer
+ -- der -- Herbst       -- Autumn
+ -- der -- Winter       -- Winter
+ -- der -- Frühling     -- Spring
+ -- das -- Semester     -- semester
+ -- das -- Wintersemester   -- Winter semester  # WS, Okt--Mär, germany
+ -- das -- Sommersemester   -- Summer semester  # SS, Apr--Sep, germany
+ -- das -- Herbstsemester   -- Autumn semester  # HS, Sep--Dez, switzerland
+ -- das -- Frühlingsemester -- Spring semester  # FS, Feb--Jun, switzerland
+ -- das -- Jahr         -- year
+ -- das -- Morgen       -- future
+ -- das -- Morgen       -- tomorrow (vague)
+ -- das -- Datum        -- date
+
+de.adv -- heute     -- today
+de.adv -- gestern   -- yesterday
+de.adv -- morgen    -- tomorrow
 """
 # where do these go? are they adverbs or?
 """
- -- heute
- -- gestern
- -- morgen
- -- vor Christus (v.C.)
- -- nach Christus (n.C.)
+de.??? -- vor Christus (v.C.)
+de.??? -- nach Christus (n.C.)
 """
-# don't forget the holidays too
+# don't forget the holidays too!
 
 # TODO: Add colours to adjectives (remove duplicates)
 """
 de.adj.colour --
  -- rot             -- red
- -- blutrot         -- blood red
- -- weinrot         -- wine red
  -- rosa            -- pink                     # no declension
- -- altrosa         -- old pink                 # no declension
- # some are special ones...?
- -- das Morgenrot   -- the morning red sky
- -- das Abendrot    -- the evening red sky
- -- rot werden      -- to become red/blush
- -- rotsehen        -- to see red
+ -- lila            -- lilac                    # no declension
+ -- violett         -- violet
+ -- gelb            -- yellow
+ -- gold            -- gold
+ -- grün            -- green
+ -- blau            -- blue
+ -- türkis          -- turquoise
+ -- braun           -- brown
+ -- beige           -- beige
+ -- ocker           -- ochre
+ -- grau            -- gray
+ -- silber          -- silver
+ -- weiß            -- white
+ -- schwarz         -- black
+# TODO: Probably unnecessary, but consider adding colour mixes?
+"""
+# some are special ones, not necessarily adjectives: these need
+# their own category?
+"""
+de.noun -- das -- Morgenrot     -- the morning red sky
+de.noun -- das -- Abendrot      -- the evening red sky
+de.verb -- rot werden           -- to become red/blush
+de.verb -- rotsehen             -- to see red
+de.adj  -- blau                 -- drunk
+de.adj  -- baluäugig            -- blue-eyed/naive
+de.verb -- blaumachen           -- to 'make blue' (skip work)
+de.verb -- bräunen              -- to brown/tan
+de.noun -- die -- Grauzone          -- grey area
+de.noun -- der -- Schwarzfahrer     -- 'black rider' (fare evader) (m)
+de.noun -- die -- Schwarzfahrerin   -- 'black rider' (fare evader) (f)
+de.noun -- der -- Schwarzseher      -- 'black seer' (pessimist) (m)
+de.noun -- die -- Schwarzseherin    -- 'black seer' (pessimist) (f)
+de.verb -- schwarzmalen             -- to 'paint black' (be pessimistic)
+de.verb -- schwarzärgern sich       -- to turn black (with anger)
 """
