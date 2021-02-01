@@ -2011,12 +2011,12 @@
   },
   "absolutely-[de.adv]-unbedingt": {
     "priorParams": [
-      6.8915144773315635,
-      6.875017156815856,
-      201248.67268172733
+      7.0045876230767155,
+      6.9371887384252995,
+      233887.11845806421
     ],
-    "numDrills": 21,
-    "lastTime": 1611863012,
+    "numDrills": 22,
+    "lastTime": 1612172494,
     "lastResult": true
   },
   "out/beyond-[de.adv]-hinaus": {
@@ -2071,13 +2071,13 @@
   },
   "again-[de.adv]-nochmal": {
     "priorParams": [
-      12.03339844153402,
-      12.000081932434254,
-      80039.91539584803
+      12.860435905431082,
+      12.881414665003321,
+      76755.3272195298
     ],
-    "numDrills": 27,
-    "lastTime": 1612037415,
-    "lastResult": true
+    "numDrills": 28,
+    "lastTime": 1612172445,
+    "lastResult": false
   },
   "thank you-[de.adv]-danke": {
     "priorParams": [
@@ -2431,13 +2431,13 @@
   },
   "neither - nor-[de.conj.coo]-weder* - noch*": {
     "priorParams": [
-      5.549428712385704,
-      5.489782892018288,
-      193728.3428075658
+      6.3324459171735175,
+      6.376245828011059,
+      177529.9941312147
     ],
-    "numDrills": 20,
-    "lastTime": 1611863130,
-    "lastResult": true
+    "numDrills": 21,
+    "lastTime": 1612172491,
+    "lastResult": false
   },
   "either - or-[de.conj.coo]-entweder* - oder": {
     "priorParams": [
@@ -5079,12 +5079,12 @@
   },
   "together with-[de.prep.dat]-samt": {
     "priorParams": [
-      3.884154643735647,
-      3.7556236052929513,
-      193437.84206804185
+      3.920691982218749,
+      3.8041908364721606,
+      257065.06385981714
     ],
-    "numDrills": 14,
-    "lastTime": 1611862816,
+    "numDrills": 15,
+    "lastTime": 1612172503,
     "lastResult": true
   },
   "into; in-[de.prep.wex]-in": {
@@ -5109,12 +5109,12 @@
   },
   "to; at-[de.prep.wex]-an": {
     "priorParams": [
-      4.642686266172305,
-      4.543025185012931,
-      135892.11567990936
+      4.700622800586055,
+      4.598423159176683,
+      173118.33918095555
     ],
-    "numDrills": 14,
-    "lastTime": 1611949591,
+    "numDrills": 15,
+    "lastTime": 1612172513,
     "lastResult": true
   },
   "over/above-[de.prep.wex]-\u00fcber": {
@@ -5229,12 +5229,12 @@
   },
   "in accordance (of)-[de.prep.gen]-laut*": {
     "priorParams": [
-      8.700222532561297,
-      8.651210372018037,
-      74524.29876991082
+      8.795203293648461,
+      8.729525374466968,
+      86157.48310837522
     ],
-    "numDrills": 25,
-    "lastTime": 1612035768,
+    "numDrills": 26,
+    "lastTime": 1612172385,
     "lastResult": true
   },
   "outside (of)-[de.prep.gen]-au\u00dferhalb": {
@@ -5299,13 +5299,13 @@
   },
   "concerning-[de.prep.gen]-bez\u00fcglich": {
     "priorParams": [
-      6.456242138982912,
-      6.50947912959451,
-      81484.4130059203
+      6.6348786966698015,
+      6.567729748063686,
+      94672.6839571479
     ],
-    "numDrills": 22,
-    "lastTime": 1612048490,
-    "lastResult": false
+    "numDrills": 23,
+    "lastTime": 1612172501,
+    "lastResult": true
   },
   "inclusive (of)-[de.prep.gen]-einschlie\u00dflich": {
     "priorParams": [
@@ -8339,13 +8339,13 @@
   },
   "to decide/determine/define-[de.verb]-bestimmen": {
     "priorParams": [
-      2.751428737694333,
-      2.932621342257555,
-      404896.38513771404
+      2.9551205063575243,
+      2.93837473635709,
+      420238.06098015764
     ],
-    "numDrills": 14,
-    "lastTime": 1612037027,
-    "lastResult": false
+    "numDrills": 15,
+    "lastTime": 1612172853,
+    "lastResult": true
   },
   "to demand-[de.verb]-fordern": {
     "priorParams": [
@@ -8529,12 +8529,12 @@
   },
   "to establish/determine-[de.verb]-feststellen": {
     "priorParams": [
-      9.58565566673055,
-      9.554032783386939,
-      109098.11894488928
+      9.655767934640386,
+      9.612719640977838,
+      119666.46751208966
     ],
-    "numDrills": 33,
-    "lastTime": 1612036926,
+    "numDrills": 34,
+    "lastTime": 1612173943,
     "lastResult": true
   },
   "to disappear-[de.verb]-verschwinden": {
@@ -8649,12 +8649,12 @@
   },
   "to achieve-[de.verb]-leisten": {
     "priorParams": [
-      5.241541580924634,
-      5.181774690223623,
-      198169.6711941416
+      5.294233087778621,
+      5.226721198377478,
+      230800.98189278974
     ],
-    "numDrills": 28,
-    "lastTime": 1611950061,
+    "numDrills": 29,
+    "lastTime": 1612173945,
     "lastResult": true
   },
   "to demand-[de.verb]-verlangen": {
@@ -8759,13 +8759,13 @@
   },
   "to stash/put/pin-[de.verb]-stecken": {
     "priorParams": [
-      2.8499757789592466,
-      2.8711158575961924,
-      209905.16394295305
+      3.6926175512692145,
+      3.8000806081233933,
+      170448.30394480913
     ],
-    "numDrills": 10,
-    "lastTime": 1611950126,
-    "lastResult": true
+    "numDrills": 11,
+    "lastTime": 1612174105,
+    "lastResult": false
   },
   "to request/beg-[de.verb]-bitten": {
     "priorParams": [
@@ -8809,12 +8809,12 @@
   },
   "to cover-[de.verb]-beziehen": {
     "priorParams": [
-      5.790329117589095,
-      5.794095551991504,
-      153700.00483888027
+      5.922270296550649,
+      5.849169621941132,
+      181315.42061249886
     ],
-    "numDrills": 24,
-    "lastTime": 1611950129,
+    "numDrills": 25,
+    "lastTime": 1612173872,
     "lastResult": true
   },
   "to sense/notice-[de.verb]-sp\u00fcren": {
@@ -9099,12 +9099,12 @@
   },
   "to suffice/be enough-[de.verb]-gen\u00fcgen": {
     "priorParams": [
-      6.005005999537628,
-      5.959431206807837,
-      124414.91486954005
+      6.064022038436513,
+      6.005687186078899,
+      141617.53444060648
     ],
-    "numDrills": 20,
-    "lastTime": 1612036961,
+    "numDrills": 21,
+    "lastTime": 1612174099,
     "lastResult": true
   },
   "to build up/erect-[de.verb]-aufbauen": {
@@ -9129,13 +9129,13 @@
   },
   "to examine-[de.verb]-untersuchen": {
     "priorParams": [
-      2.7376204889901135,
-      2.8723448689818216,
-      163029.5300422149
+      2.961792325585665,
+      2.893473241596208,
+      191458.86928721826
     ],
-    "numDrills": 7,
-    "lastTime": 1612037009,
-    "lastResult": false
+    "numDrills": 8,
+    "lastTime": 1612172847,
+    "lastResult": true
   },
   "to look/glance-[de.verb]-blicken": {
     "priorParams": [
@@ -9149,12 +9149,12 @@
   },
   "to press/push-[de.verb]-dr\u00fccken": {
     "priorParams": [
-      6.57751413569278,
-      6.511494059885118,
-      73882.86692779807
+      7.368832063013523,
+      7.36997577314955,
+      68954.83347858244
     ],
-    "numDrills": 16,
-    "lastTime": 1612035781,
+    "numDrills": 18,
+    "lastTime": 1612173011,
     "lastResult": true
   },
   "to go into (history/heaven/matrimony/etc.)-[de.verb]-eingehen": {
@@ -9179,12 +9179,12 @@
   },
   "to suffice-[de.verb]-ausreichen": {
     "priorParams": [
-      3.731656168426807,
-      3.6317570091014515,
-      162776.45950369717
+      3.780372319484044,
+      3.6746089454324165,
+      210121.70271597078
     ],
-    "numDrills": 14,
-    "lastTime": 1611949666,
+    "numDrills": 15,
+    "lastTime": 1612173921,
     "lastResult": true
   },
   "to remain silent-[de.verb]-schweigen": {
@@ -9249,12 +9249,12 @@
   },
   "to threaten-[de.verb]-drohen": {
     "priorParams": [
-      4.3462256176485665,
-      4.292777164773269,
-      150668.2348219503
+      4.39323549786346,
+      4.327632785825468,
+      174936.00993497204
     ],
-    "numDrills": 13,
-    "lastTime": 1612036946,
+    "numDrills": 14,
+    "lastTime": 1612174111,
     "lastResult": true
   },
   "to promise-[de.verb]-versprechen": {
@@ -9309,32 +9309,32 @@
   },
   "to turn/shift/spin-[de.verb]-drehen": {
     "priorParams": [
-      5.129108529706334,
-      5.199795748847438,
-      80329.70614878785
+      6.059087017087384,
+      6.061684842578584,
+      71886.49659670396
     ],
-    "numDrills": 11,
-    "lastTime": 1612036999,
-    "lastResult": false
+    "numDrills": 13,
+    "lastTime": 1612173008,
+    "lastResult": true
   },
   "to surprise-[de.verb]-\u00fcberraschen": {
     "priorParams": [
-      3.2102906714662347,
-      3.1439106512367947,
-      136992.5881974525
+      3.265598361119564,
+      3.17480570525457,
+      170295.38227318405
     ],
-    "numDrills": 10,
-    "lastTime": 1612036950,
+    "numDrills": 11,
+    "lastTime": 1612174137,
     "lastResult": true
   },
   "to proceed with-[de.verb]-betreiben": {
     "priorParams": [
-      5.152151559992146,
-      5.072437639133223,
-      78950.17126247131
+      5.230306150201774,
+      5.133098748181468,
+      99120.82964670415
     ],
-    "numDrills": 13,
-    "lastTime": 1612035722,
+    "numDrills": 14,
+    "lastTime": 1612172420,
     "lastResult": true
   },
   "to fly-[de.verb]-fliegen": {
@@ -9359,52 +9359,52 @@
   },
   "to thrust/push/punch-[de.verb]-sto\u00dfen": {
     "priorParams": [
-      3.0628114454580033,
-      2.983838535914105,
-      138581.59650022877
+      3.1078143698569933,
+      3.0134791711564075,
+      174083.11921159533
     ],
-    "numDrills": 9,
-    "lastTime": 1612037013,
+    "numDrills": 10,
+    "lastTime": 1612174117,
     "lastResult": true
   },
   "to represent-[de.verb]-vertreten": {
     "priorParams": [
-      5.836812420871802,
-      5.88780119024712,
-      44603.89880024212
+      6.813018978962564,
+      6.815843860782573,
+      39545.63014128725
     ],
-    "numDrills": 14,
-    "lastTime": 1612125373,
-    "lastResult": false
+    "numDrills": 16,
+    "lastTime": 1612173001,
+    "lastResult": true
   },
   "to advocate-[de.verb]-vertreten": {
     "priorParams": [
-      3.395106874738537,
-      3.302510234737709,
-      106847.17159316821
+      3.4477375225284503,
+      3.3406034355486605,
+      138700.42545642663
     ],
-    "numDrills": 12,
-    "lastTime": 1612036798,
+    "numDrills": 13,
+    "lastTime": 1612174076,
     "lastResult": true
   },
   "to enable-[de.verb]-erm\u00f6glichen": {
     "priorParams": [
-      2.416740506267074,
-      2.277706298491275,
-      186256.8783505142
+      3.1065821249285444,
+      3.205225802724724,
+      153258.35979592765
     ],
-    "numDrills": 9,
-    "lastTime": 1611949718,
-    "lastResult": true
+    "numDrills": 10,
+    "lastTime": 1612173961,
+    "lastResult": false
   },
   "to make/produce-[de.verb]-herstellen": {
     "priorParams": [
-      3.831308325276737,
-      3.7613002957793302,
-      123154.49035708728
+      3.885373504728898,
+      3.7989926258239954,
+      150899.00414203986
     ],
-    "numDrills": 12,
-    "lastTime": 1612036985,
+    "numDrills": 13,
+    "lastTime": 1612174093,
     "lastResult": true
   },
   "to suffer-[de.verb]-leiden": {
@@ -9429,22 +9429,22 @@
   },
   "to swap/exchange-[de.verb]-wechseln": {
     "priorParams": [
-      2.968497715672086,
-      2.8913478263597083,
-      146064.8907867903
+      3.011954210563873,
+      2.919243847459248,
+      182797.67915571787
     ],
-    "numDrills": 10,
-    "lastTime": 1612036973,
+    "numDrills": 11,
+    "lastTime": 1612174121,
     "lastResult": true
   },
   "to deliver-[de.verb]-liefern": {
     "priorParams": [
-      5.249579633395376,
-      5.172709530449209,
-      80301.99167851152
+      5.327745855070602,
+      5.233279035957188,
+      100078.18183794804
     ],
-    "numDrills": 14,
-    "lastTime": 1612035750,
+    "numDrills": 15,
+    "lastTime": 1612172510,
     "lastResult": true
   },
   "to require/need-[de.verb]-ben\u00f6tigen": {
@@ -9469,13 +9469,13 @@
   },
   "to prevent-[de.verb]-verhindern": {
     "priorParams": [
-      3.1104246712868537,
-      2.8317405149505346,
-      40014.853795604635
+      3.7050011805222844,
+      3.7701971070848166,
+      35098.44031934862
     ],
-    "numDrills": 8,
-    "lastTime": 1612125075,
-    "lastResult": true
+    "numDrills": 9,
+    "lastTime": 1612174053,
+    "lastResult": false
   },
   "to lock-[de.verb]-abschlie\u00dfen": {
     "priorParams": [
@@ -9489,52 +9489,52 @@
   },
   "to conclude/end-[de.verb]-abschlie\u00dfen": {
     "priorParams": [
-      1.2251597878727551,
-      1.000000000000071,
-      74077.68431380292
+      1.2490401171063399,
+      1.0000000000000668,
+      182295.1856242217
     ],
-    "numDrills": 3,
-    "lastTime": 1612036994,
+    "numDrills": 4,
+    "lastTime": 1612173931,
     "lastResult": true
   },
   "to travel-[de.verb]-reisen": {
     "priorParams": [
-      1.225196512043994,
-      0.99999999999997,
-      74006.08727552659
+      1.2491649656178219,
+      0.9999999999999553,
+      182242.5430314589
     ],
-    "numDrills": 3,
-    "lastTime": 1612036922,
+    "numDrills": 4,
+    "lastTime": 1612173901,
     "lastResult": true
   },
   "to sing-[de.verb]-singen": {
     "priorParams": [
-      1.2250778726999842,
-      1.0000000000000273,
-      74032.84478570643
+      1.2491104958678536,
+      1.0000000000000238,
+      182254.49289962862
     ],
-    "numDrills": 3,
-    "lastTime": 1612036935,
+    "numDrills": 4,
+    "lastTime": 1612173895,
     "lastResult": true
   },
   "to hold over (hold sth over sb)-[de.verb]-\u00fcberlegen": {
     "priorParams": [
-      1.2253551214787577,
-      0.9999999999999855,
-      74100.15138339873
+      1.2489766377172742,
+      0.9999999999999651,
+      182287.63703387318
     ],
-    "numDrills": 3,
-    "lastTime": 1612037043,
+    "numDrills": 4,
+    "lastTime": 1612173917,
     "lastResult": true
   },
   "to lay over/consider-[de.verb]-\u00fcberlegen": {
     "priorParams": [
-      1.2250580694465643,
-      1.0000000000000933,
-      74045.46956780957
+      1.249076087257859,
+      1.000000000000086,
+      182251.50759211055
     ],
-    "numDrills": 3,
-    "lastTime": 1612036988,
+    "numDrills": 4,
+    "lastTime": 1612173924,
     "lastResult": true
   },
   "to lean over-[de.verb]-\u00fcberlegen sich": {
@@ -9549,12 +9549,12 @@
   },
   "to mention-[de.verb]-erw\u00e4hnen": {
     "priorParams": [
-      9.123545248732368,
-      8.734668174782568,
-      8014.544792704176
+      9.076322473794185,
+      8.910730120769927,
+      12134.369584765505
     ],
-    "numDrills": 17,
-    "lastTime": 1612124902,
+    "numDrills": 18,
+    "lastTime": 1612172351,
     "lastResult": true
   },
   "to grab-[de.verb]-greifen": {
@@ -9569,13 +9569,13 @@
   },
   "to do without-[de.verb]-verzichten": {
     "priorParams": [
-      5.499478619469818,
-      5.502888579562843,
-      6462.75181713432
+      5.86906845497884,
+      5.635041926616869,
+      12562.186171232635
     ],
-    "numDrills": 10,
-    "lastTime": 1612124882,
-    "lastResult": false
+    "numDrills": 11,
+    "lastTime": 1612172344,
+    "lastResult": true
   },
   "to give up-[de.verb]-aufgeben": {
     "priorParams": [
@@ -9599,72 +9599,72 @@
   },
   "to behave-[de.verb]-betragen sich": {
     "priorParams": [
-      1.2265542729054015,
-      0.9999999999998662,
-      73598.04779462764
+      1.249791514411867,
+      0.999999999999865,
+      181856.73160611678
     ],
-    "numDrills": 3,
-    "lastTime": 1612036873,
+    "numDrills": 4,
+    "lastTime": 1612173884,
     "lastResult": true
   },
   "to declare-[de.verb]-angeben": {
     "priorParams": [
-      4.586535054977426,
-      4.3478744210010225,
-      25856.17457241327
+      5.218004776917778,
+      5.2188103208189895,
+      24041.89660415937
     ],
-    "numDrills": 10,
-    "lastTime": 1612124928,
+    "numDrills": 12,
+    "lastTime": 1612172984,
     "lastResult": true
   },
   "to brag-[de.verb]-angeben": {
     "priorParams": [
-      1.2259858487219482,
-      0.9999999999999847,
-      73630.53993984035
+      1.2497237027474635,
+      1.000000000000006,
+      181869.80010087515
     ],
-    "numDrills": 3,
-    "lastTime": 1612036891,
+    "numDrills": 4,
+    "lastTime": 1612173908,
     "lastResult": true
   },
   "to serve (ball)-[de.verb]-angeben": {
     "priorParams": [
-      3.840863059135511,
-      3.5797526837419924,
-      34137.469039047406
+      3.744721160940561,
+      3.6260313076147646,
+      45691.58808690994
     ],
-    "numDrills": 7,
-    "lastTime": 1612124930,
+    "numDrills": 8,
+    "lastTime": 1612173935,
     "lastResult": true
   },
   "to substantiate/justify-[de.verb]-begr\u00fcnden": {
     "priorParams": [
-      4.912576509698473,
-      4.681441887797336,
-      24864.25717506762
+      4.863052339621991,
+      4.745951595645613,
+      32969.3009647014
     ],
-    "numDrills": 10,
-    "lastTime": 1612125019,
+    "numDrills": 11,
+    "lastTime": 1612172390,
     "lastResult": true
   },
   "to furnish-[de.verb]-einrichten": {
     "priorParams": [
-      2.311652449068816,
-      2.002171620909032,
-      41623.75184984191
+      2.1798155942741593,
+      2.024843937562353,
+      63547.46996703844
     ],
-    "numDrills": 6,
-    "lastTime": 1612125312,
+    "numDrills": 7,
+    "lastTime": 1612174124,
     "lastResult": true
   },
   "to hold-[de.verb]-festhalten": {
     "priorParams": [
-      1.22667189520506,
-      1.0000000000000688,
-      73556.75168943002
+      1.2498587747273926,
+      1.0000000000000848,
+      181821.34221489792
     ],
-    "numDrills": 3,
-    "lastTime": 1612036878,
+    "numDrills": 4,
+    "lastTime": 1612173899,
     "lastResult": true
   },
   "to detain-[de.verb]-festhalten": {
@@ -9679,52 +9679,52 @@
   },
   "to come into-[de.verb]-geraten": {
     "priorParams": [
-      4.53099725340146,
-      4.098773123977405,
-      14839.05731680104
+      4.359603231321417,
+      4.176221012859054,
+      24175.714350292335
     ],
-    "numDrills": 8,
-    "lastTime": 1612124906,
+    "numDrills": 9,
+    "lastTime": 1612172367,
     "lastResult": true
   },
   "to turn out-[de.verb]-geraten": {
     "priorParams": [
-      4.048682128316153,
-      3.7681663885644405,
-      24578.822109237648
+      3.9636623007385428,
+      3.8244996948750103,
+      34872.4586304226
     ],
-    "numDrills": 7,
-    "lastTime": 1612124896,
+    "numDrills": 8,
+    "lastTime": 1612172409,
     "lastResult": true
   },
   "to decree-[de.verb]-verf\u00fcgen": {
     "priorParams": [
-      8.12303432915451,
-      7.881800470550591,
-      14346.873828912283
+      9.52890842314226,
+      9.52946331689294,
+      12612.092110447642
     ],
-    "numDrills": 16,
-    "lastTime": 1612124914,
+    "numDrills": 19,
+    "lastTime": 1612173520,
     "lastResult": true
   },
   "to protect-[de.verb]-sch\u00fctzen": {
     "priorParams": [
-      3.0080854229820506,
-      2.7029142229599232,
-      38270.14575626224
+      2.8730913361068118,
+      2.7373796697222166,
+      54252.14357320909
     ],
-    "numDrills": 8,
-    "lastTime": 1612125051,
+    "numDrills": 9,
+    "lastTime": 1612173964,
     "lastResult": true
   },
   "to prepare-[de.verb]-vorbereiten": {
     "priorParams": [
-      1.2270077719786907,
-      0.9999999999998589,
-      73416.81288189988
+      1.2500492200831206,
+      0.999999999999874,
+      181664.04678441855
     ],
-    "numDrills": 3,
-    "lastTime": 1612036887,
+    "numDrills": 4,
+    "lastTime": 1612173893,
     "lastResult": true
   },
   "to disturb-[de.verb]-st\u00f6ren": {
@@ -9739,12 +9739,12 @@
   },
   "to celebrate-[de.verb]-feiern": {
     "priorParams": [
-      1.2269762326501572,
-      1.0000000000000486,
-      73421.96010221029
+      1.2500260497700482,
+      1.000000000000032,
+      181653.81436792063
     ],
-    "numDrills": 3,
-    "lastTime": 1612036880,
+    "numDrills": 4,
+    "lastTime": 1612173865,
     "lastResult": true
   },
   "to mediate-[de.verb]-vermitteln": {
@@ -9759,32 +9759,32 @@
   },
   "to consider-[de.verb]-ber\u00fccksichtigen": {
     "priorParams": [
-      2.4354176407692987,
-      2.117818408593084,
-      46463.02673782849
+      2.9917099032558623,
+      3.0753791261006076,
+      39269.48220797513
     ],
-    "numDrills": 5,
-    "lastTime": 1612125061,
-    "lastResult": true
+    "numDrills": 6,
+    "lastTime": 1612174134,
+    "lastResult": false
   },
   "to exclude/rule out-[de.verb]-ausschlie\u00dfen": {
     "priorParams": [
-      1.227223819256299,
-      1.000000000000086,
-      72934.53614210684
+      1.2506859292943675,
+      1.0000000000000742,
+      181099.82266114416
     ],
-    "numDrills": 3,
-    "lastTime": 1612036869,
+    "numDrills": 4,
+    "lastTime": 1612173861,
     "lastResult": true
   },
   "to function/work-[de.verb]-funktionieren": {
     "priorParams": [
-      1.2272367715143957,
-      1.0000000000000118,
-      72914.21026244028
+      1.2507176869941707,
+      1.0000000000000182,
+      181080.83251328865
     ],
-    "numDrills": 3,
-    "lastTime": 1612036856,
+    "numDrills": 4,
+    "lastTime": 1612173854,
     "lastResult": true
   },
   "to found/establish-[de.verb]-gr\u00fcnden": {
@@ -9799,63 +9799,63 @@
   },
   "to reign/prevail-[de.verb]-herrschen": {
     "priorParams": [
-      1.227109701074372,
-      0.999999999999914,
-      72894.86825968367
+      1.2507888083060552,
+      0.9999999999999252,
+      181103.31536047376
     ],
-    "numDrills": 3,
-    "lastTime": 1612036803,
+    "numDrills": 4,
+    "lastTime": 1612173875,
     "lastResult": true
   },
   "to push-[de.verb]-schieben": {
     "priorParams": [
-      3.002396397153027,
-      2.723653679859467,
-      41535.8759622766
+      2.8841834923360423,
+      2.7568281350867077,
+      57409.175120666834
     ],
-    "numDrills": 8,
-    "lastTime": 1612125064,
+    "numDrills": 9,
+    "lastTime": 1612174084,
     "lastResult": true
   },
   "to slide-[de.verb]-schieben": {
     "priorParams": [
-      1.2272625649753894,
-      1.0000000000000722,
-      72917.56674888654
+      1.2507300526342002,
+      1.0000000000001046,
+      181101.42913968375
     ],
-    "numDrills": 3,
-    "lastTime": 1612036858,
+    "numDrills": 4,
+    "lastTime": 1612173878,
     "lastResult": true
   },
   "to assert/maintain-[de.verb]-behaupten": {
     "priorParams": [
-      3.5599780768555083,
-      3.2693622688731963,
-      33286.68601092718
+      3.4430039491567817,
+      3.3132990426852844,
+      46088.1857485014
     ],
-    "numDrills": 7,
-    "lastTime": 1612124935,
+    "numDrills": 8,
+    "lastTime": 1612173927,
     "lastResult": true
   },
   "to raise-[de.verb]-erheben": {
     "priorParams": [
-      3.1706904849106596,
-      2.905304505748803,
-      41265.35720270481
+      3.062326649795969,
+      2.9405664444086983,
+      56001.65457618742
     ],
-    "numDrills": 6,
-    "lastTime": 1612125071,
+    "numDrills": 7,
+    "lastTime": 1612174097,
     "lastResult": true
   },
   "to pursue-[de.verb]-verfolgen": {
     "priorParams": [
-      3.6711417120096526,
-      3.6656967818617874,
-      14739.053605632214
+      3.9134671235751353,
+      3.7320013959792404,
+      23946.47880926917
     ],
-    "numDrills": 8,
-    "lastTime": 1612124923,
-    "lastResult": false
+    "numDrills": 9,
+    "lastTime": 1612172355,
+    "lastResult": true
   },
   "to return-[de.verb]-zur\u00fcckkommen": {
     "priorParams": [
@@ -9869,75 +9869,191 @@
   },
   "to force-[de.verb]-zwingen": {
     "priorParams": [
-      4.522233172912871,
-      4.282074013596479,
-      26077.178503427214
+      4.462905086722981,
+      4.341547276457308,
+      35043.596317789415
     ],
-    "numDrills": 10,
-    "lastTime": 1612124938,
+    "numDrills": 11,
+    "lastTime": 1612172447,
     "lastResult": true
   },
   "to decline-[de.verb]-ablehnen": {
     "priorParams": [
-      6.988740726052677,
-      6.71118350161765,
-      14592.443136699078
+      6.952253749630906,
+      6.820260216022687,
+      20070.514424884816
     ],
-    "numDrills": 14,
-    "lastTime": 1612124884,
+    "numDrills": 15,
+    "lastTime": 1612172357,
     "lastResult": true
   },
-  "to employ/apply-[de.verb]-anwenden": {},
-  "to turn up/emerge/surface-[de.verb]-auftauchen": {},
-  "to influence-[de.verb]-beeinflussen": {},
-  "to occur/remind-[de.verb]-einfallen": {},
+  "to employ/apply-[de.verb]-anwenden": {
+    "priorParams": [
+      1.0288882428402508,
+      1.000000000000003,
+      3887.691425997822
+    ],
+    "numDrills": 1,
+    "lastTime": 1612172861,
+    "lastResult": true
+  },
+  "to turn up/emerge/surface-[de.verb]-auftauchen": {
+    "priorParams": [
+      1.9898244485365206,
+      2.042725939394474,
+      1672.8445164701939
+    ],
+    "numDrills": 2,
+    "lastTime": 1612173650,
+    "lastResult": true
+  },
+  "to influence-[de.verb]-beeinflussen": {
+    "priorParams": [
+      1.0062549194712134,
+      1.0000000000000073,
+      3659.1125456906243
+    ],
+    "numDrills": 1,
+    "lastTime": 1612173828,
+    "lastResult": true
+  },
+  "to occur/remind-[de.verb]-einfallen": {
+    "priorParams": [
+      1.6512355439763746,
+      2.058573714731448,
+      1810.3943959618764
+    ],
+    "numDrills": 1,
+    "lastTime": 1612173820,
+    "lastResult": false
+  },
   "to come in/invade-[de.verb]-einfallen": {
     "priorParams": [
-      1.3054643288963041,
-      1.0000000000000315,
-      44957.183969645776
+      1.2985580827828687,
+      1.000000000000038,
+      150577.78515456402
     ],
-    "numDrills": 2,
-    "lastTime": 1612035556,
+    "numDrills": 3,
+    "lastTime": 1612172400,
     "lastResult": true
   },
-  "to exist-[de.verb]-existieren": {},
-  "to promote/support-[de.verb]-f\u00f6rdern": {},
-  "to address-[de.verb]-ansprechen": {},
-  "to heed/pay attention to-[de.verb]-beachten": {},
-  "to feel-[de.verb]-empfinden": {},
-  "to remove-[de.verb]-entfernen": {},
-  "to leave-[de.verb]-entfernen sich": {},
-  "to secure-[de.verb]-sichern": {
+  "to exist-[de.verb]-existieren": {
     "priorParams": [
-      1.3036049283581717,
-      1.0000000000000373,
-      45115.6625144661
+      1,
+      1,
+      3600
     ],
-    "numDrills": 2,
-    "lastTime": 1612035698,
-    "lastResult": true
+    "numDrills": 0,
+    "lastTime": 1612173764
   },
-  "to turn-[de.verb]-wenden": {},
-  "to grasp-[de.verb]-fassen": {
+  "to promote/support-[de.verb]-f\u00f6rdern": {
     "priorParams": [
-      1.304085375611766,
-      0.9999999999998904,
-      44996.28712764881
-    ],
-    "numDrills": 2,
-    "lastTime": 1612035562,
-    "lastResult": true
-  },
-  "to inform-[de.verb]-informieren": {},
-  "to concern-[de.verb]-k\u00fcmmern": {
-    "priorParams": [
-      2.760357788663494,
-      2.4407016722020676,
-      40284.334776087846
+      3.969769261818969,
+      3.971545685310462,
+      773.6929113557071
     ],
     "numDrills": 4,
-    "lastTime": 1612125067,
+    "lastTime": 1612173477,
+    "lastResult": true
+  },
+  "to address-[de.verb]-ansprechen": {
+    "priorParams": [
+      1.9784393963887972,
+      2.0439104591940187,
+      1579.6281787197147
+    ],
+    "numDrills": 2,
+    "lastTime": 1612173687,
+    "lastResult": true
+  },
+  "to heed/pay attention to-[de.verb]-beachten": {
+    "priorParams": [
+      1.9783237355611965,
+      2.039525340623233,
+      1654.5862377576793
+    ],
+    "numDrills": 2,
+    "lastTime": 1612173033,
+    "lastResult": true
+  },
+  "to feel-[de.verb]-empfinden": {
+    "priorParams": [
+      1.6511653840100151,
+      2.0585790803803383,
+      1810.2162783650097
+    ],
+    "numDrills": 1,
+    "lastTime": 1612173795,
+    "lastResult": false
+  },
+  "to remove-[de.verb]-entfernen": {
+    "priorParams": [
+      1.00330282365095,
+      0.9999999999999922,
+      3631.00742280716
+    ],
+    "numDrills": 1,
+    "lastTime": 1612173776,
+    "lastResult": true
+  },
+  "to leave-[de.verb]-entfernen sich": {
+    "priorParams": [
+      2.965122579614158,
+      3.003651000599979,
+      953.6827456116754
+    ],
+    "numDrills": 3,
+    "lastTime": 1612173713,
+    "lastResult": true
+  },
+  "to secure-[de.verb]-sichern": {
+    "priorParams": [
+      1.2981047266473023,
+      1.00000000000006,
+      150617.2776251876
+    ],
+    "numDrills": 3,
+    "lastTime": 1612172402,
+    "lastResult": true
+  },
+  "to turn-[de.verb]-wenden": {
+    "priorParams": [
+      1.6515155428717065,
+      2.058551886711169,
+      1811.1064846425816
+    ],
+    "numDrills": 1,
+    "lastTime": 1612173789,
+    "lastResult": false
+  },
+  "to grasp-[de.verb]-fassen": {
+    "priorParams": [
+      1.7235789648056363,
+      1.7304537732368077,
+      39543.486626667705
+    ],
+    "numDrills": 4,
+    "lastTime": 1612172962,
+    "lastResult": true
+  },
+  "to inform-[de.verb]-informieren": {
+    "priorParams": [
+      1.02746799911966,
+      0.9999999999999933,
+      3872.626693395026
+    ],
+    "numDrills": 1,
+    "lastTime": 1612172843,
+    "lastResult": true
+  },
+  "to concern-[de.verb]-k\u00fcmmern": {
+    "priorParams": [
+      2.6124648766653626,
+      2.470949079955469,
+      58353.70771040389
+    ],
+    "numDrills": 5,
+    "lastTime": 1612174087,
     "lastResult": true
   },
   "to nod-[de.verb]-nicken": {
@@ -9950,18 +10066,126 @@
     "lastTime": 1612125381,
     "lastResult": true
   },
-  "to organize-[de.verb]-organisieren": {},
-  "to emboss/mint/shape-[de.verb]-pr\u00e4gen": {},
-  "to coin (a word)-[de.verb]-pr\u00e4gen": {},
-  "to sink-[de.verb]-sinken": {},
-  "to fall/decrease-[de.verb]-sinken": {},
-  "to avoid-[de.verb]-vermeiden": {},
-  "to announce/herald-[de.verb]-ank\u00fcndigen": {},
-  "to stand up-[de.verb]-aufstehen": {},
-  "to strengthen/reinforce-[de.verb]-verst\u00e4rken": {},
-  "to forsee/plan-[de.verb]-vorsehen": {},
-  "to restrict/limit-[de.verb]-beschr\u00e4nken": {},
-  "to injure-[de.verb]-verletzen": {},
+  "to organize-[de.verb]-organisieren": {
+    "priorParams": [
+      1.021685710779647,
+      1.0000000000000033,
+      3812.3269797203548
+    ],
+    "numDrills": 1,
+    "lastTime": 1612173355,
+    "lastResult": true
+  },
+  "to emboss/mint/shape-[de.verb]-pr\u00e4gen": {
+    "priorParams": [
+      1.0221041998932285,
+      1.0000000000000024,
+      3816.6363081254526
+    ],
+    "numDrills": 1,
+    "lastTime": 1612173366,
+    "lastResult": true
+  },
+  "to coin (a word)-[de.verb]-pr\u00e4gen": {
+    "priorParams": [
+      1.005652688275228,
+      0.999999999999996,
+      3653.348758308575
+    ],
+    "numDrills": 1,
+    "lastTime": 1612173803,
+    "lastResult": true
+  },
+  "to sink-[de.verb]-sinken": {
+    "priorParams": [
+      1.0282131792723905,
+      1.0000000000000127,
+      3880.518243136662
+    ],
+    "numDrills": 1,
+    "lastTime": 1612172855,
+    "lastResult": true
+  },
+  "to fall/decrease-[de.verb]-sinken": {
+    "priorParams": [
+      1.0058787249515662,
+      1.0000000000000082,
+      3655.51026062022
+    ],
+    "numDrills": 1,
+    "lastTime": 1612173690,
+    "lastResult": true
+  },
+  "to avoid-[de.verb]-vermeiden": {
+    "priorParams": [
+      1.6516551583366461,
+      2.0585407538424225,
+      1811.4623001535608
+    ],
+    "numDrills": 1,
+    "lastTime": 1612173823,
+    "lastResult": false
+  },
+  "to announce/herald-[de.verb]-ank\u00fcndigen": {
+    "priorParams": [
+      3.0054020623146607,
+      3.0138317028476105,
+      1070.9136847052919
+    ],
+    "numDrills": 3,
+    "lastTime": 1612173291,
+    "lastResult": true
+  },
+  "to stand up-[de.verb]-aufstehen": {
+    "priorParams": [
+      1.005275425941669,
+      0.9999999999999998,
+      3649.7460350860083
+    ],
+    "numDrills": 1,
+    "lastTime": 1612173825,
+    "lastResult": true
+  },
+  "to strengthen/reinforce-[de.verb]-verst\u00e4rken": {
+    "priorParams": [
+      1.0180227195704536,
+      0.9999999999999926,
+      3774.964866817012
+    ],
+    "numDrills": 1,
+    "lastTime": 1612173297,
+    "lastResult": true
+  },
+  "to forsee/plan-[de.verb]-vorsehen": {
+    "priorParams": [
+      1.0215460246446535,
+      1.0000000000000073,
+      3810.890460225943
+    ],
+    "numDrills": 1,
+    "lastTime": 1612173360,
+    "lastResult": true
+  },
+  "to restrict/limit-[de.verb]-beschr\u00e4nken": {
+    "priorParams": [
+      5.782692342832259,
+      5.890784953829266,
+      444.09076050679903
+    ],
+    "numDrills": 5,
+    "lastTime": 1612173841,
+    "lastResult": false
+  },
+  "to injure-[de.verb]-verletzen": {
+    "priorParams": [
+      1.9758545639399279,
+      2.0436746082825565,
+      1562.8001604114058
+    ],
+    "numDrills": 2,
+    "lastTime": 1612173684,
+    "lastResult": true
+  },
   "to serve out-[de.verb]-servieren": {
     "priorParams": [
       1.2600960066089666,
@@ -9972,7 +10196,16 @@
     "lastTime": 1612125379,
     "lastResult": true
   },
-  "to fill-[de.verb]-f\u00fcllen": {},
+  "to fill-[de.verb]-f\u00fcllen": {
+    "priorParams": [
+      1.0317655440354017,
+      0.9999999999999973,
+      3918.525893186117
+    ],
+    "numDrills": 1,
+    "lastTime": 1612173522,
+    "lastResult": true
+  },
   "to take on/challenge-[de.verb]-aufnehmen": {
     "priorParams": [
       2.2283734888141065,
@@ -10003,7 +10236,34 @@
     "lastTime": 1611690524,
     "lastResult": true
   },
-  "to average-[de.verb]-mitteln": {},
-  "to prepare-[de.verb]-bereiten": {},
-  "to think/imagine-[de.verb]-w\u00e4hnen": {}
+  "to average-[de.verb]-mitteln": {
+    "priorParams": [
+      1.0059540171440335,
+      0.9999999999999931,
+      3656.2307394944874
+    ],
+    "numDrills": 1,
+    "lastTime": 1612173831,
+    "lastResult": true
+  },
+  "to prepare-[de.verb]-bereiten": {
+    "priorParams": [
+      1.0069303949840283,
+      1.0000000000000138,
+      3665.5959720618057
+    ],
+    "numDrills": 1,
+    "lastTime": 1612173618,
+    "lastResult": true
+  },
+  "to think/imagine-[de.verb]-w\u00e4hnen": {
+    "priorParams": [
+      1.0059540171440335,
+      0.9999999999999931,
+      3656.2307394944874
+    ],
+    "numDrills": 1,
+    "lastTime": 1612173801,
+    "lastResult": true
+  }
 }
