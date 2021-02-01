@@ -945,14 +945,97 @@ de.verb --
  -- mitteln         -- to average
  -- bereiten        -- to prepare
  -- wähnen          -- to think/imagine         # but mistakenly?
+
+
+# # #
+# Numbers
+#
+
+de.num.card --
+ -- null            -- zero
+ -- eins            -- one
+ -- zwei            -- two
+ -- drei            -- three
+ -- vier            -- four
+ -- fünf            -- five
+ -- sechs           -- six
+ -- sieben          -- seven
+ -- acht            -- eight
+ -- neun            -- nine
+ -- zehn            -- ten
+ -- elf             -- eleven
+ -- zwölf           -- twelve
+ -- dreizehn        -- thirteen
+ -- vierzehn        -- fourteen
+ -- fünfzehn        -- fifteen
+ -- sechzehn        -- sixteen
+ -- siebzehn        -- seventeen
+ -- achtzehn        -- eighteen
+ -- neunzehn        -- nineteen
+ -- zwanzig         -- twenty
+ -- dreißig         -- thirty
+ -- vierzig         -- forty
+ -- fünfzig         -- fifty
+ -- sechzig         -- sixty
+ -- siebzig         -- seventy
+ -- achtzig         -- eighty
+ -- neunzig         -- ninety
+ -- hundert         -- hundred
+ -- tausend         -- thousand
+ -- hunderttausend  -- hundredthousand
+
+de.num.ord --
+ -- erste           -- first
+ -- zweite          -- second
+ -- dritte          -- third
+ -- vierte          -- fourth
+ -- fünfte          -- fifth
+ -- sechste         -- sixth
+ -- siebte          -- seventh                  # also 'siebente'; poetic
+ -- achte           -- eighth
+ -- neunte          -- ninth
+ -- zehnte          -- tenth
+ -- elfte           -- eleventh
+ -- zwölfte         -- twelfth
+ -- dreizehnte      -- thirteenth
+ -- vierzehnte      -- fourteenth
+ -- fünfzehnte      -- fifteenth
+ -- sechzehnte      -- sixteenth
+ -- siebzehnte      -- seventeenth
+ -- achtzehnte      -- eighteenth
+ -- neunzehnte      -- nineteenth
+ -- zwanzigste      -- twentieth
+ -- dreißigste      -- thirtieth
+ -- vierzigste      -- fortieth
+ -- fünfzigste      -- fiftieth
+ -- sechzigste      -- sixtieth
+ -- siebzigste      -- seventieth
+ -- achtzigste      -- eightieth
+ -- neunzigste      -- ninetieth
+ -- hundertste      -- hundredth
+ -- tausendste      -- thousandth
+ -- hunderttausendste   -- hundredthousandth
+ -- millionste      -- millionth
+ -- milliardste     -- billionth
 """
 
-"""
 # TODO: Could add nouns with genders as topic, like so:
+"""
 de.noun.das -- Jahr -- year
 de.noun.das -- Mal  -- time/occurrence
-# but then how to quick noun-to-topic?
 """
+# but then how to quiz noun-to-topic?
+# what are the alternatives, an extra layer?
+"""
+de.noun --
+ -- das -- Jahr     -- year
+ -- das -- Mal      -- time/occurrence
+"""
+# this way don't ned to add 'the' and can easily create two quizzes, and
+# doesn't screw up formatting since genders are always 3 characters :)
+#
+# either way will prolly still need to special case the loop
+
 
 NOUNS = """art de -- the en                 # notes (ignored)
 das Jahr        -- the year
@@ -1065,4 +1148,79 @@ die Regierung   -- the rule/government
 das Stück       -- the piece/bit/part
 die Wohnung     -- the apartment
 das Gespräch    -- the conversation
+"""
+
+# TODO: Add calendar dates (remove duplicates)
+"""
+de.noun.cal --
+ -- die Zeit        -- the time
+ -- der Morgen      -- the morning
+ -- der Vormittag   -- the beforemidday
+ -- der Mittag      -- the midday
+ -- der Nachmittag  -- the afternoon
+ -- der Abend       -- the evening
+ -- die Nacht       -- the night
+ -- die Mitternacht -- the midnight
+ -- der Tag         -- the day
+ -- der Sonntag     -- the Sunday
+ -- der Montag      -- the Monday
+ -- der Dienstag    -- the Tuesday
+ -- der Mittwoch    -- the Wednesday
+ -- der Donnerstag  -- the Thursday
+ -- der Freitag     -- the Friday
+ -- der Samstag     -- the Saturday
+ -- das Wochenende  -- the Weekend
+ -- die Woche       -- the Week
+ -- der Wochentag   -- the Weekday
+ -- der Monat       -- the Month
+ -- der Januar      -- the January
+ -- der Februar     -- the February
+ -- der März        -- the March
+ -- der April       -- the April
+ -- der Mai         -- the May
+ -- der Juni        -- the June
+ -- der Juli        -- the July
+ -- der August      -- the August
+ -- der September   -- the September
+ -- der Oktober     -- the October
+ -- der November    -- the November
+ -- der Dezember    -- the December
+ -- die Jahreszeit  -- the Season
+ -- der Sommer      -- the Summer
+ -- der Herbst      -- the Autumn
+ -- der Winter      -- the Winter
+ -- der Frühling    -- the Spring
+ -- das Semester    -- the semester
+ -- das Wintersemester      -- the Winter semester  # WS, Okt--Mär, [de]
+ -- das Sommersemester      -- the Summer semester  # SS, Apr--Sep, [de]
+ -- das Herbstsemester      -- the Autumn semester  # HS, Sep--Dez, [ch]
+ -- das Frühlingsemester    -- the Spring semester  # FS, Feb--Jun, [ch]
+ -- das Jahr        -- the year
+ -- das Morgen      -- the future
+ -- das Morgen      -- the tomorrow (vague)
+ -- das Datum       -- the date
+"""
+# where do these go? are they adverbs or?
+"""
+ -- heute
+ -- gestern
+ -- morgen
+ -- vor Christus (v.C.)
+ -- nach Christus (n.C.)
+"""
+# don't forget the holidays too
+
+# TODO: Add colours to adjectives (remove duplicates)
+"""
+de.adj.colour --
+ -- rot             -- red
+ -- blutrot         -- blood red
+ -- weinrot         -- wine red
+ -- rosa            -- pink                     # no declension
+ -- altrosa         -- old pink                 # no declension
+ # some are special ones...?
+ -- das Morgenrot   -- the morning red sky
+ -- das Abendrot    -- the evening red sky
+ -- rot werden      -- to become red/blush
+ -- rotsehen        -- to see red
 """

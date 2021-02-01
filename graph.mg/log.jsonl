@@ -5208,3 +5208,72 @@
 {'id': 'to furnish-[de.verb]-einrichten', 'time': 1612174124, 'event': 'DRILL', 'data': {'got': True}}
 {'id': 'to consider-[de.verb]-berücksichtigen', 'time': 1612174134, 'event': 'DRILL', 'data': {'got': False}}
 {'id': 'to surprise-[de.verb]-überraschen', 'time': 1612174137, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'hundred-[de.num.card]-hundert', 'time': 1612175578, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'sixty-[de.num.card]-sechzig', 'time': 1612175580, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'seven-[de.num.card]-sieben', 'time': 1612175582, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'five-[de.num.card]-fünf', 'time': 1612175585, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'seventeen-[de.num.card]-siebzehn', 'time': 1612175587, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'ten-[de.num.card]-zehn', 'time': 1612175589, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'forty-[de.num.card]-vierzig', 'time': 1612175593, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'eight-[de.num.card]-acht', 'time': 1612175595, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'zero-[de.num.card]-null', 'time': 1612175597, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'three-[de.num.card]-drei', 'time': 1612175600, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'one-[de.num.card]-eins', 'time': 1612175603, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'fifty-[de.num.card]-fünfzig', 'time': 1612175608, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'twelve-[de.num.card]-zwölf', 'time': 1612175612, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'six-[de.num.card]-sechs', 'time': 1612175615, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'nine-[de.num.card]-neun', 'time': 1612175617, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'eleven-[de.num.card]-elf', 'time': 1612175619, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'ninety-[de.num.card]-neunzig', 'time': 1612175623, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'eighty-[de.num.card]-achtzig', 'time': 1612175626, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'nineteen-[de.num.card]-neunzehn', 'time': 1612175629, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'fifteen-[de.num.card]-fünfzehn', 'time': 1612175633, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'two-[de.num.card]-zwei', 'time': 1612175635, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'seventy-[de.num.card]-siebzig', 'time': 1612175641, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'fourteen-[de.num.card]-vierzehn', 'time': 1612175647, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'hundredthousand-[de.num.card]-hunderttausend', 'time': 1612175650, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'thousand-[de.num.card]-tausend', 'time': 1612175653, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'eighteen-[de.num.card]-achtzehn', 'time': 1612175656, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'twenty-[de.num.card]-zwanzig', 'time': 1612175659, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'thirty-[de.num.card]-dreißig', 'time': 1612175664, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'four-[de.num.card]-vier', 'time': 1612175667, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'thirteen-[de.num.card]-dreizehn', 'time': 1612175670, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'sixteen-[de.num.card]-sechzehn', 'time': 1612175678, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'to restrict/limit-[de.verb]-beschränken', 'time': 1612175706, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to promote/support-[de.verb]-fördern', 'time': 1612175745, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'in place (of)-[de.prep.gen]-anstelle', 'time': 1612175752, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to heed/pay attention to-[de.verb]-beachten', 'time': 1612175756, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to leave-[de.verb]-entfernen sich', 'time': 1612175772, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to announce/herald-[de.verb]-ankündigen', 'time': 1612175779, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'seventeenth-[de.num.ord]-siebzehnte', 'time': 1612175925, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'fifteenth-[de.num.ord]-fünfzehnte', 'time': 1612175930, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'eighth-[de.num.ord]-achte', 'time': 1612175933, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'eleventh-[de.num.ord]-elfte', 'time': 1612176023, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'fortieth-[de.num.ord]-vierzigste', 'time': 1612176031, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'fourth-[de.num.ord]-vierte', 'time': 1612176035, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'ninetieth-[de.num.ord]-neunzigste', 'time': 1612176042, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'seventieth-[de.num.ord]-siebzigste', 'time': 1612176047, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'twentieth-[de.num.ord]-zwanzigste', 'time': 1612176052, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'hundredthousandth-[de.num.ord]-hunderttausendste', 'time': 1612176057, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'thirtieth-[de.num.ord]-dreißigste', 'time': 1612176065, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'twelfth-[de.num.ord]-zwölfte', 'time': 1612176073, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'sixteenth-[de.num.ord]-sechzehnte', 'time': 1612176113, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'thirteenth-[de.num.ord]-dreizehnte', 'time': 1612176118, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'ninth-[de.num.ord]-neunte', 'time': 1612176123, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'hundredth-[de.num.ord]-hundertste', 'time': 1612176127, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'seventh-[de.num.ord]-siebte', 'time': 1612176138, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'first-[de.num.ord]-erste', 'time': 1612176150, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'second-[de.num.ord]-zweite', 'time': 1612176158, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'thousandth-[de.num.ord]-tausendste', 'time': 1612176163, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'fourteenth-[de.num.ord]-vierzehnte', 'time': 1612176172, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'sixtieth-[de.num.ord]-sechzigste', 'time': 1612176184, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'tenth-[de.num.ord]-zehnte', 'time': 1612176190, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'sixth-[de.num.ord]-sechste', 'time': 1612176201, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'millionth-[de.num.ord]-millionste', 'time': 1612176207, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'nineteenth-[de.num.ord]-neunzehnte', 'time': 1612176212, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'fifth-[de.num.ord]-fünfte', 'time': 1612176216, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'eighteenth-[de.num.ord]-achtzehnte', 'time': 1612176220, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'third-[de.num.ord]-dritte', 'time': 1612176223, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'billionth-[de.num.ord]-milliardste', 'time': 1612176227, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'fiftieth-[de.num.ord]-fünfzigste', 'time': 1612176232, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}
+{'id': 'eightieth-[de.num.ord]-achtzigste', 'time': 1612176236, 'event': 'LEARN', 'data': {'prior': [1, 1, 172800]}}

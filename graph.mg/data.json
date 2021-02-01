@@ -5349,12 +5349,12 @@
   },
   "in place (of)-[de.prep.gen]-anstelle": {
     "priorParams": [
-      3.7418294312534215,
-      3.607464988527946,
-      192593.71011657518
+      3.7763167895827214,
+      3.655053752670134,
+      259625.0683188974
     ],
-    "numDrills": 12,
-    "lastTime": 1611862941,
+    "numDrills": 13,
+    "lastTime": 1612175752,
     "lastResult": true
   },
   "on the part (of)-[de.prep.gen]-seitens": {
@@ -9948,13 +9948,13 @@
   },
   "to promote/support-[de.verb]-f\u00f6rdern": {
     "priorParams": [
-      3.969769261818969,
-      3.971545685310462,
-      773.6929113557071
+      4.637176832517688,
+      4.676884818500794,
+      713.8884267954554
     ],
-    "numDrills": 4,
-    "lastTime": 1612173477,
-    "lastResult": true
+    "numDrills": 5,
+    "lastTime": 1612175745,
+    "lastResult": false
   },
   "to address-[de.verb]-ansprechen": {
     "priorParams": [
@@ -9968,12 +9968,12 @@
   },
   "to heed/pay attention to-[de.verb]-beachten": {
     "priorParams": [
-      1.9783237355611965,
-      2.039525340623233,
-      1654.5862377576793
+      2.2238764962460595,
+      2.063598623797667,
+      2568.7949540740474
     ],
-    "numDrills": 2,
-    "lastTime": 1612173033,
+    "numDrills": 3,
+    "lastTime": 1612175756,
     "lastResult": true
   },
   "to feel-[de.verb]-empfinden": {
@@ -9998,13 +9998,13 @@
   },
   "to leave-[de.verb]-entfernen sich": {
     "priorParams": [
-      2.965122579614158,
-      3.003651000599979,
-      953.6827456116754
+      3.727120676671638,
+      3.7986236455810407,
+      826.9507939174746
     ],
-    "numDrills": 3,
-    "lastTime": 1612173713,
-    "lastResult": true
+    "numDrills": 4,
+    "lastTime": 1612175772,
+    "lastResult": false
   },
   "to secure-[de.verb]-sichern": {
     "priorParams": [
@@ -10128,13 +10128,13 @@
   },
   "to announce/herald-[de.verb]-ank\u00fcndigen": {
     "priorParams": [
-      3.0054020623146607,
-      3.0138317028476105,
-      1070.9136847052919
+      3.7273754060827144,
+      3.791447659231944,
+      941.6879327597511
     ],
-    "numDrills": 3,
-    "lastTime": 1612173291,
-    "lastResult": true
+    "numDrills": 4,
+    "lastTime": 1612175779,
+    "lastResult": false
   },
   "to stand up-[de.verb]-aufstehen": {
     "priorParams": [
@@ -10168,12 +10168,12 @@
   },
   "to restrict/limit-[de.verb]-beschr\u00e4nken": {
     "priorParams": [
-      5.782692342832259,
-      5.890784953829266,
-      444.09076050679903
+      6.401555977386505,
+      6.424932484762839,
+      423.52576154407734
     ],
-    "numDrills": 5,
-    "lastTime": 1612173841,
+    "numDrills": 6,
+    "lastTime": 1612175706,
     "lastResult": false
   },
   "to injure-[de.verb]-verletzen": {
@@ -10265,5 +10265,572 @@
     "numDrills": 1,
     "lastTime": 1612173801,
     "lastResult": true
+  },
+  "zero-[de.num.card]-null": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175597
+  },
+  "one-[de.num.card]-eins": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175603
+  },
+  "two-[de.num.card]-zwei": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175635
+  },
+  "three-[de.num.card]-drei": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175600
+  },
+  "four-[de.num.card]-vier": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175667
+  },
+  "five-[de.num.card]-f\u00fcnf": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175585
+  },
+  "six-[de.num.card]-sechs": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175615
+  },
+  "seven-[de.num.card]-sieben": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175582
+  },
+  "eight-[de.num.card]-acht": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175595
+  },
+  "nine-[de.num.card]-neun": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175617
+  },
+  "ten-[de.num.card]-zehn": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175589
+  },
+  "eleven-[de.num.card]-elf": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175619
+  },
+  "twelve-[de.num.card]-zw\u00f6lf": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175612
+  },
+  "thirteen-[de.num.card]-dreizehn": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175670
+  },
+  "fourteen-[de.num.card]-vierzehn": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175647
+  },
+  "fifteen-[de.num.card]-f\u00fcnfzehn": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175633
+  },
+  "sixteen-[de.num.card]-sechzehn": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175678
+  },
+  "seventeen-[de.num.card]-siebzehn": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175587
+  },
+  "eighteen-[de.num.card]-achtzehn": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175656
+  },
+  "nineteen-[de.num.card]-neunzehn": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175629
+  },
+  "twenty-[de.num.card]-zwanzig": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175659
+  },
+  "thirty-[de.num.card]-drei\u00dfig": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175664
+  },
+  "forty-[de.num.card]-vierzig": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175593
+  },
+  "fifty-[de.num.card]-f\u00fcnfzig": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175608
+  },
+  "sixty-[de.num.card]-sechzig": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175580
+  },
+  "seventy-[de.num.card]-siebzig": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175641
+  },
+  "eighty-[de.num.card]-achtzig": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175626
+  },
+  "ninety-[de.num.card]-neunzig": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175623
+  },
+  "hundred-[de.num.card]-hundert": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175578
+  },
+  "thousand-[de.num.card]-tausend": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175653
+  },
+  "hundredthousand-[de.num.card]-hunderttausend": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175650
+  },
+  "first-[de.num.ord]-erste": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176150
+  },
+  "second-[de.num.ord]-zweite": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176158
+  },
+  "third-[de.num.ord]-dritte": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176223
+  },
+  "fourth-[de.num.ord]-vierte": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176035
+  },
+  "fifth-[de.num.ord]-f\u00fcnfte": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176216
+  },
+  "sixth-[de.num.ord]-sechste": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176201
+  },
+  "seventh-[de.num.ord]-siebte": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176138
+  },
+  "eighth-[de.num.ord]-achte": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175933
+  },
+  "ninth-[de.num.ord]-neunte": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176123
+  },
+  "tenth-[de.num.ord]-zehnte": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176190
+  },
+  "eleventh-[de.num.ord]-elfte": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176023
+  },
+  "twelfth-[de.num.ord]-zw\u00f6lfte": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176073
+  },
+  "fourteenth-[de.num.ord]-vierzehnte": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176172
+  },
+  "fifteenth-[de.num.ord]-f\u00fcnfzehnte": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175930
+  },
+  "sixteenth-[de.num.ord]-sechzehnte": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176113
+  },
+  "seventeenth-[de.num.ord]-siebzehnte": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612175925
+  },
+  "eighteenth-[de.num.ord]-achtzehnte": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176220
+  },
+  "twentieth-[de.num.ord]-zwanzigste": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176052
+  },
+  "thirtieth-[de.num.ord]-drei\u00dfigste": {
+    "priorParams": [
+      1,
+      1,
+      3600
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176065
+  },
+  "fortieth-[de.num.ord]-vierzigste": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176031
+  },
+  "fiftieth-[de.num.ord]-f\u00fcnfzigste": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176232
+  },
+  "sixtieth-[de.num.ord]-sechzigste": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176184
+  },
+  "seventieth-[de.num.ord]-siebzigste": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176047
+  },
+  "eightieth-[de.num.ord]-achtzigste": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176236
+  },
+  "ninetieth-[de.num.ord]-neunzigste": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176042
+  },
+  "hundredth-[de.num.ord]-hundertste": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176127
+  },
+  "thousandth-[de.num.ord]-tausendste": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176163
+  },
+  "hundredthousandth-[de.num.ord]-hunderttausendste": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176057
+  },
+  "millionth-[de.num.ord]-millionste": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176207
+  },
+  "billionth-[de.num.ord]-milliardste": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176227
+  },
+  "thirteenth-[de.num.ord]-dreizehnte": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176118
+  },
+  "nineteenth-[de.num.ord]-neunzehnte": {
+    "priorParams": [
+      1,
+      1,
+      172800
+    ],
+    "numDrills": 0,
+    "lastTime": 1612176212
   }
 }
