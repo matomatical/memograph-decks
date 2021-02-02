@@ -6,7 +6,6 @@ def graph():
     for topic, *args in parse(LINKS):
         # treat nouns specially
         if topic.startswith("de.noun"):
-            print(topic, *args, sep=" -- ")
             der, de, en = args
             der_de = f"{der} {de}"
             the_en = f"the {en}"
