@@ -1271,7 +1271,7 @@ de.noun --
  -- der -- Kontakt      -- contact
  -- die -- Menge        -- set (math)
  -- die -- Menge        -- amount/quantity
- -- der -- Sommer       -- summer
+ -- der -- Sommer       -- Summer
  -- der -- Unterschied  -- difference
  -- der -- Anspruch     -- claim
  -- die -- Antwort      -- answer
