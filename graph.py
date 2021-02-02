@@ -6,6 +6,7 @@ def graph():
     for topic, *args in parse(LINKS):
         # treat nouns specially
         if topic.startswith("de.noun"):
+            print(topic, *args, sep=" -- ")
             der, de, en = args
             der_de = f"{der} {de}"
             the_en = f"the {en}"
@@ -13,13 +14,13 @@ def graph():
             yield (
                 Node(en, print_str=the_en,speak_str=the_en,speak_voice="en"),
                 Node(de, print_str=der_de,speak_str=der_de,speak_voice="de"),
-                "de.noun.en"
+                topic + ".en",
             )
             # one for the gender itself (note: duplicates removed by mg TODO)
             yield (
                 Node(de,  speak_str=de,     speak_voice="de"),
                 Node(der, speak_str=der_de, speak_voice="de"),
-                "de.noun.gender"
+                topic + ".gender",
             )
         # all others have standard format (so far)
         else:
@@ -37,10 +38,11 @@ def parse(links_text, sep="--", skip_header=True):
     utility functions for parsing lists of links
     """
     for line in links_text.splitlines()[skip_header:]:
-        if sep not in line:
-            continue
         # remove comments, whitespace
         line = line.split("#", maxsplit=1)[0].strip()
+        if sep not in line:
+            continue
+        # split and process remaining line
         fields = tuple(map(str.strip, line.split(sep)))
         if fields[0] == "":
             fields = prefix + fields[1:]
@@ -1140,228 +1142,252 @@ de.noun --
  -- das -- Stück        -- piece/bit/part
  -- die -- Wohnung      -- apartment
  -- das -- Gespräch     -- conversation
-"""
 
-# TODO: Add nouns 101--200
-"""
  -- der -- Meter        -- metre
  -- der -- Punkt        -- dot/point/period
  -- die -- Situation    -- situation
  -- der -- Lehrer       -- teacher 
  -- der -- Preis        -- price
  -- der -- Preis        -- prize
+ -- der -- Preis        -- praise
  -- die -- Abbildung    -- illustration         # Abbreviated 'Abb.'
- # ...
- -- der -- Begriff -- concept, idea, term
- -- die -- Funktion -- function
- -- der -- Boden -- ground, floor, bottom
- -- das -- Jahrhundert -- century
- -- der -- Sohn -- son
- -- das -- Werk -- work
- -- die -- Stimme -- voice, vote
- -- der -- Rahmen -- frame, framework
- -- die -- Richtung -- direction
- -- das -- Programm -- programme
- -- die -- Angst -- fear, anxiety
- -- die -- Information -- information
- -- die -- Kunst -- art
- -- die -- Musik -- music
- -- die -- Politik -- politics
- -- der -- Beruf -- occupation, job, profession
- -- die -- Regel -- rule
- -- der -- Schritt -- step
- -- der -- Absatz, Abs. -- sales, paragraph, heel
- -- der -- Gott -- god
- -- das -- Auto -- automobile, car
- -- die -- Beziehung -- relation, relationship
- -- die -- Erfahrung -- experience
- -- der -- Tisch -- table
- -- die -- Zukunft -- future
- -- das -- Spiel -- game
- -- das -- Gefühl -- feeling
- -- das -- Licht -- light
- -- der -- Präsident -- president
- -- der -- Markt -- market
- -- die -- Bank -- bank
- -- die -- Partei -- (political) party
- -- die -- Tochter -- daughter
- -- das -- Verhältnis -- relationship
- -- die -- Kirche -- church
- -- der -- Film -- film
- -- der -- Gedanke -- thought
- -- der -- Doktor, Dr. -- doctor
- -- das -- Mädchen -- girl
+ -- der -- Begriff      -- concept/idea
+ -- die -- Funktion     -- function
+ -- der -- Boden        -- bottom/ground
+ -- das -- Jahrhundert  -- century
+ -- der -- Sohn         -- son
+ -- das -- Werk         -- work
+ -- die -- Stimme       -- voice
+ -- die -- Stimme       -- vote
+ -- der -- Rahmen       -- frame
+ -- der -- Rahmen       -- framework
+ -- die -- Richtung     -- direction
+ -- das -- Programm     -- programme
+ -- die -- Angst        -- fear/anxiety
+ -- die -- Information  -- information
+ -- die -- Kunst        -- art
+ -- die -- Musik        -- music
+ -- die -- Politik      -- politics
+ -- der -- Beruf        -- occupation/profession
+ -- die -- Regel        -- rule
+ -- die -- Regel        -- period/menstruation
+ -- der -- Schritt      -- (foot) step
+ -- der -- Absatz       -- turn (of heel, a line break/paragraph)
+ -- der -- Gott         -- god
+ -- das -- Auto         -- automobile/car
+ -- die -- Beziehung    -- relationship
+ -- die -- Erfahrung    -- experience
+ -- der -- Tisch        -- table
+ -- die -- Zukunft      -- future
+ -- das -- Spiel        -- game
+ -- das -- Gefühl       -- feeling
+ -- das -- Licht        -- light
+ -- der -- Präsident    -- president
+ -- der -- Markt        -- market
+ -- die -- Bank         -- bank
+ -- die -- Partei       -- (political) party
+ -- die -- Tochter      -- daughter
+ -- das -- Verhältnis   -- relationship
+ -- die -- Kirche       -- church
+ -- der -- Film         -- film
+ -- der -- Gedanke      -- thought
+ -- der -- Doktor       -- doctor               # abbr. 'Dr.'
+ -- das -- Mädchen      -- girl                 # 'little maid'
  -- die -- Entscheidung -- decision
- -- der -- Prozess -- trial, process
- -- der -- Betrieb -- business, operation
- -- der -- Zusammenhang -- connection, context
- -- das -- Gesetz -- law
- -- der -- Arm -- arm
- -- die -- Firma -- firm, company
- -- die -- Kraft -- strength, power
- -- der -- September -- September
- -- der -- Student -- student
- -- das -- Zuhause -- home
- -- die -- Chance -- chance
- -- die -- Zeitung -- newspaper
- -- der -- Erfolg -- success
- -- die -- Grenze -- border, frontier
- -- der -- Satz -- sentence
- -- das -- Angebot -- offer
- -- das -- Internet -- internet
- -- die -- Kultur -- culture
- -- die -- Lage -- situation, location
- -- die -- Leistung -- performance
- -- das -- Mitglied -- member
- -- das -- Projekt -- project
- -- das -- Zimmer -- room
- -- der -- Chef -- head, leader, boss
- -- der -- Zug -- train
- -- der -- Arzt -- physician, doctor
- -- der -- Fuß -- foot
- -- der -- Körper -- body
- -- die -- Klasse -- class
- -- die -- Lösung -- solution
- -- die -- Höhe -- height, altitude
- -- der -- Junge -- boy
- -- das -- Fenster -- window
- -- die -- Luft -- air
- -- die -- Meinung -- opinion
- -- die -- Idee -- idea
- -- das -- Produkt -- product
- -- das -- Studium -- study, studies
- -- der -- Vergleich -- comparison
- -- das -- Mittel -- means
- -- das -- Modell -- model
- -- die -- Natur -- nature
- -- das -- Bett -- bed
- -- der -- Kunde -- customer, client
- -- der -- Mitarbeiter -- employee, co-worker
- -- der -- Tod -- death
- -- das -- Geschäft -- business
- -- der -- Spaß -- fun
- -- die -- Wirtschaft -- economy, commerce
- -- das -- Tier -- animal
- -- die -- Bewegung -- movement, motion
- -- der -- Gast -- guest
- -- die -- Sicherheit -- security, safety
- -- der -- Einsatz -- inset, deployment
+ -- der -- Prozess      -- (court) trial
+ -- der -- Prozess      -- process
+ -- der -- Betrieb      -- operation/business
+ -- der -- Zusammenhang -- connection/context
+ -- das -- Gesetz       -- law/statute
+ -- der -- Arm          -- arm
+ -- die -- Firma        -- firm/company
+ -- die -- Kraft        -- strength/power
+ -- der -- September    -- September
+ -- der -- Student      -- student
+ -- das -- Zuhause      -- home
+ -- die -- Chance       -- chance
+ -- die -- Zeitung      -- newspaper
+ -- der -- Erfolg       -- success
+ -- die -- Grenze       -- border/frontier/limit
+
+#-- der -- Satz -- sentence
+#-- das -- Angebot -- offer
+#-- das -- Internet -- internet
+#-- die -- Kultur -- culture
+#-- die -- Lage -- situation, location
+#-- die -- Leistung -- performance
+#-- das -- Mitglied -- member
+#-- das -- Projekt -- project
+#-- das -- Zimmer -- room
+#-- der -- Chef -- head, leader, boss
+#-- der -- Zug -- train
+#-- der -- Arzt -- physician, doctor
+#-- der -- Fuß -- foot
+#-- der -- Körper -- body
+#-- die -- Klasse -- class
+#-- die -- Lösung -- solution
+#-- die -- Höhe -- height, altitude
+#-- der -- Junge -- boy
+#-- das -- Fenster -- window
+#-- die -- Luft -- air
+#-- die -- Meinung -- opinion
+#-- die -- Idee -- idea
+#-- das -- Produkt -- product
+#-- das -- Studium -- study, studies
+#-- der -- Vergleich -- comparison
+#-- das -- Mittel -- means
+#-- das -- Modell -- model
+#-- die -- Natur -- nature
+#-- das -- Bett -- bed
+#-- der -- Kunde -- customer, client
+#-- der -- Mitarbeiter -- employee, co-worker
+#-- der -- Tod -- death
+#-- das -- Geschäft -- business
+#-- der -- Spaß -- fun
+#-- die -- Wirtschaft -- economy, commerce
+#-- das -- Tier -- animal
+#-- die -- Bewegung -- movement, motion
+#-- der -- Gast -- guest
+#-- die -- Sicherheit -- security, safety
+#-- der -- Einsatz -- inset, deployment
+
+# TODO: Translate nouns 201--300
+
+#-- das -- Gebiet -- region, area
+#-- der -- Dank -- gratefulness
+#-- das -- Dorf -- village
+#-- der -- Kollege -- colleague
+#-- die -- Angabe -- information, statement
+#-- der -- Bruder -- brother
+#-- die -- Verfügung -- disposal
+#-- das -- Fach -- compartment, subject
+#-- das -- Herz -- heart
+#-- der -- Kontakt -- contact
+#-- die -- Menge -- quantity, amount
+#-- der -- Sommer -- summer
+#-- der -- Unterschied -- difference
+#-- der -- Anspruch -- claim
+#-- die -- Antwort -- answer, reply
+#-- die -- Verbindung -- connection, link
+#-- die -- Vorstellung -- idea, introduction, performance
+#-- die -- Anwendung -- application, use
+#-- das -- Alter -- age
+#-- die -- Kosten -- costs, expenses
+#-- der -- Patient -- patient
+#-- die -- Polizei -- police
+#-- das -- Theater -- theatre
+#-- die -- Ausbildung -- training, development
+#-- die -- Gefahr -- danger
+#-- das -- Gerät -- tool, piece of equipment, appliance
+#-- der -- Kilometer -- kilometer
+#-- die -- Hilfe -- help
+#-- der -- Computer -- computer
+#-- der -- Dollar -- dollar
+#-- das -- Verfahren -- method, process, technique
+#-- der -- Vertrag -- contract
+#-- die -- Maßnahme -- measure
+#-- die -- Mitte -- middle
+#-- der -- Oktober -- October
+#-- die -- Ordnung -- order, tidiness
+#-- der -- Stoff -- material, substance
+#-- der -- Beginn -- beginning
+#-- das -- Glück -- luck, fortune
+#-- das -- Wochenende -- weekend
+#-- der -- Professor -- professor
+#-- die -- Reihe -- row, line
+#-- der -- Westen, West -- west
+#-- die -- Bevölkerung -- population, people
+#-- das -- Institut -- institute
+#-- der -- Osten, Ost -- east
+#-- die -- Schwester -- sister
+#-- die -- Erde -- earth, ground, soil
+#-- die -- Ebene -- plane, level
+#-- die -- Reise -- journey, trip
+#-- die -- Einheit -- unity, unit
+#-- das -- Haar -- hair
+#-- der -- Montag -- Monday
+#-- die -- Nähe -- vicinity, proximity
+#-- das -- Prinzip -- principle
+#-- der -- Vorteil -- advantage
+#-- die -- Struktur -- structure
+#-- der -- Autor -- author
+#-- die -- Bedingung -- condition, stipulation
+#-- das -- Risiko -- risk
+#-- die -- Wahl -- choice, election
+#-- die -- Wirkung -- effect
+#-- der -- Brief -- letter
+#-- die -- Größe -- size, height
+#-- die -- Medien -- (pl) media
+#-- der -- Sonntag -- Sunday
+#-- die -- Macht -- power, strength
+#-- die -- Untersuchung -- examination, investigation
+#-- die -- Veränderung -- change
+#-- die -- Daten -- (pl) data
+#-- der -- Einfluss -- influence
+#-- die -- Methode -- method
+#-- die -- Organisation -- organization
+#-- die -- Liebe -- love
+#-- die -- Rede -- speech, talk
+#-- der -- Sport -- sport
+#-- der -- Augenblick -- moment
+#-- die -- Diskussion -- discussion, debate
+#-- die -- Forderung -- demand, claim
+#-- der -- Kreis -- circle, district
+#-- die -- Technik -- technology, technique
+#-- der -- Versuch -- attempt, experiment
+#-- die -- Krankheit -- illness, disease
+#-- die -- Schwierigkeit -- difficulty
+#-- die -- Tätigkeit -- activity
+#-- die -- Voraussetzung -- condition, requirement
+#-- der -- Kampf -- fight, struggle
+#-- der -- Künstler -- artist
+#-- die -- Region -- region
+#-- der -- Eindruck -- impression
+#-- die -- Reaktion -- reaction
+#-- der -- Beitrag -- contribution
+#-- das -- Konzept -- draft, plan
+#-- die -- Linie -- line
+#-- der -- Mund -- mouth
+#-- der -- Wunsch -- wish
+#-- der -- Artikel -- article
+#-- der -- Gegensatz -- opposite, contrast
+#-- das -- Kapitel -- chapter
+#-- die -- Literatur -- literature
+
+# # #
+# ABBREVIATIONS
+#
+
+de.abbr -- 
+ -- bzw.            -- beziehungsweise          # correspondingly (resp.)
+ -- z.B.            -- zum Beispiel             # for example (e.g.)
+ -- usw.            -- und so weiter            # and so forth (etc.)
+ -- d.h.            -- das heißt                # that is (i.e.)
+ -- u.a.            -- unter anderem            # among others (etc.)
+ -- vgl.            -- vergleiche               # compare with (cf.?)
+ -- ca.             -- zirka                    # circa (around)
+ -- v.C.            -- vor Christus             # before Christ (BC)
+ -- n.C.            -- nach Christus            # after Christ (AC)
 """
 
-# TODO: Add nouns 201--300
+# WAIT! IT WONT PICK UP DUPLICATES BECAUSE OF THE DIFFERENT TAGS!?
+# SHOULD THE TAGS GET POOLED? SHOULD THEY EVEN BE PART OF THE ID?
+# IT MAKES IT HARD TO CHANGE TAGS BUT SOMETIMES IT IS NECESSARY TO
+# DISTINGUISH?
 """
- -- das -- Gebiet -- region, area
- -- der -- Dank -- gratefulness
- -- das -- Dorf -- village
- -- der -- Kollege -- colleague
- -- die -- Angabe -- information, statement
- -- der -- Bruder -- brother
- -- die -- Verfügung -- disposal
- -- das -- Fach -- compartment, subject
- -- das -- Herz -- heart
- -- der -- Kontakt -- contact
- -- die -- Menge -- quantity, amount
- -- der -- Sommer -- summer
- -- der -- Unterschied -- difference
- -- der -- Anspruch -- claim
- -- die -- Antwort -- answer, reply
- -- die -- Verbindung -- connection, link
- -- die -- Vorstellung -- idea, introduction, performance
- -- die -- Anwendung -- application, use
- -- das -- Alter -- age
- -- die -- Kosten -- costs, expenses
- -- der -- Patient -- patient
- -- die -- Polizei -- police
- -- das -- Theater -- theatre
- -- die -- Ausbildung -- training, development
- -- die -- Gefahr -- danger
- -- das -- Gerät -- tool, piece of equipment, appliance
- -- der -- Kilometer -- kilometer
- -- die -- Hilfe -- help
- -- der -- Computer -- computer
- -- der -- Dollar -- dollar
- -- das -- Verfahren -- method, process, technique
- -- der -- Vertrag -- contract
- -- die -- Maßnahme -- measure
- -- die -- Mitte -- middle
- -- der -- Oktober -- October
- -- die -- Ordnung -- order, tidiness
- -- der -- Stoff -- material, substance
- -- der -- Beginn -- beginning
- -- das -- Glück -- luck, fortune
- -- das -- Wochenende -- weekend
- -- der -- Professor -- professor
- -- die -- Reihe -- row, line
- -- der -- Westen, West -- west
- -- die -- Bevölkerung -- population, people
- -- das -- Institut -- institute
- -- der -- Osten, Ost -- east
- -- die -- Schwester -- sister
- -- die -- Erde -- earth, ground, soil
- -- die -- Ebene -- plane, level
- -- die -- Reise -- journey, trip
- -- die -- Einheit -- unity, unit
- -- das -- Haar -- hair
- -- der -- Montag -- Monday
- -- die -- Nähe -- vicinity, proximity
- -- das -- Prinzip -- principle
- -- der -- Vorteil -- advantage
- -- die -- Struktur -- structure
- -- der -- Autor -- author
- -- die -- Bedingung -- condition, stipulation
- -- das -- Risiko -- risk
- -- die -- Wahl -- choice, election
- -- die -- Wirkung -- effect
- -- der -- Brief -- letter
- -- die -- Größe -- size, height
- -- die -- Medien -- (pl) media
- -- der -- Sonntag -- Sunday
- -- die -- Macht -- power, strength
- -- die -- Untersuchung -- examination, investigation
- -- die -- Veränderung -- change
- -- die -- Daten -- (pl) data
- -- der -- Einfluss -- influence
- -- die -- Methode -- method
- -- die -- Organisation -- organization
- -- die -- Liebe -- love
- -- die -- Rede -- speech, talk
- -- der -- Sport -- sport
- -- der -- Augenblick -- moment
- -- die -- Diskussion -- discussion, debate
- -- die -- Forderung -- demand, claim
- -- der -- Kreis -- circle, district
- -- die -- Technik -- technology, technique
- -- der -- Versuch -- attempt, experiment
- -- die -- Krankheit -- illness, disease
- -- die -- Schwierigkeit -- difficulty
- -- die -- Tätigkeit -- activity
- -- die -- Voraussetzung -- condition, requirement
- -- der -- Kampf -- fight, struggle
- -- der -- Künstler -- artist
- -- die -- Region -- region
- -- der -- Eindruck -- impression
- -- die -- Reaktion -- reaction
- -- der -- Beitrag -- contribution
- -- das -- Konzept -- draft, plan
- -- die -- Linie -- line
- -- der -- Mund -- mouth
- -- der -- Wunsch -- wish
- -- der -- Artikel -- article
- -- der -- Gegensatz -- opposite, contrast
- -- das -- Kapitel -- chapter
- -- die -- Literatur -- literature
-"""
+# # #
+# SPECIAL TOPICS 
+#
+# NOTE: Contains some duplicates with above, but these are
+# meant to be ignored by the script. Watch out for forks!
 
+# Calendar words
 
-
-
-
-
-# TODO: Add calendar dates (remove duplicates)
-"""
-de.noun.cal --
+de.noun.calendar --
  -- die -- Zeit         -- time
  -- der -- Morgen       -- morning
+ -- das -- Morgen       -- future
+ -- das -- Morgen       -- tomorrow (vague)
  -- der -- Vormittag    -- beforemidday
  -- der -- Mittag       -- midday
  -- der -- Nachmittag   -- afternoon
@@ -1403,23 +1429,16 @@ de.noun.cal --
  -- das -- Herbstsemester   -- Autumn semester  # HS, Sep--Dez, switzerland
  -- das -- Frühlingsemester -- Spring semester  # FS, Feb--Jun, switzerland
  -- das -- Jahr         -- year
- -- das -- Morgen       -- future
- -- das -- Morgen       -- tomorrow (vague)
  -- das -- Datum        -- date
+de.adv --
+ -- heute           -- today
+ -- gestern         -- yesterday
+ -- morgen          -- tomorrow
 
-de.adv -- heute     -- today
-de.adv -- gestern   -- yesterday
-de.adv -- morgen    -- tomorrow
-"""
-# where do these go? are they adverbs or?
-"""
-de.??? -- vor Christus (v.C.)
-de.??? -- nach Christus (n.C.)
-"""
-# don't forget the holidays too!
+# TODO: Add the many holidays
 
-# TODO: Add colours to adjectives (remove duplicates)
-"""
+# Colours and related words
+
 de.adj.colour --
  -- rot             -- red
  -- rosa            -- pink                     # no declension
@@ -1437,11 +1456,7 @@ de.adj.colour --
  -- silber          -- silver
  -- weiß            -- white
  -- schwarz         -- black
-# TODO: Probably unnecessary, but consider adding colour mixes?
-"""
-# some are special ones, not necessarily adjectives: these need
-# their own category?
-"""
+
 de.noun -- das -- Morgenrot     -- the morning red sky
 de.noun -- das -- Abendrot      -- the evening red sky
 de.verb -- rot werden           -- to become red/blush
@@ -1457,4 +1472,7 @@ de.noun -- der -- Schwarzseher      -- 'black seer' (pessimist) (m)
 de.noun -- die -- Schwarzseherin    -- 'black seer' (pessimist) (f)
 de.verb -- schwarzmalen             -- to 'paint black' (be pessimistic)
 de.verb -- schwarzärgern sich       -- to turn black (with anger)
+
+
+
 """
