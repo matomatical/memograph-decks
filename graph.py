@@ -1026,7 +1026,7 @@ de.num.ord --
 
 
 # # #
-# Nouns (and their genders)
+# NOUNS (and their genders)
 # 
 
 de.noun --
@@ -1049,7 +1049,7 @@ de.noun --
  -- die -- Hand         -- hand
  -- die -- Stadt        -- town
  -- der -- Herr         -- gentleman            # also title 'Mr.'
- -- der -- Teil         -- part/section
+ -- der -- Teil         -- part/section         # also das?
  -- das -- Problem      -- problem
  -- die -- Welt         -- world
  -- das -- Recht        -- right/law
@@ -1145,208 +1145,211 @@ de.noun --
 # TODO: Add nouns 101--200
 """
  -- der -- Meter        -- metre
- -- der -- Punkt        -- dot, point, period
+ -- der -- Punkt        -- dot/point/period
  -- die -- Situation    -- situation
- -- der -- Lehrer       -- teacher
- -- der -- Preis        -- price, prize
- -- die -- Abbildung    -- illustration # abbreviated to 'Abb.'
- -- der -- Begriff      -- concept, idea, term
-Funktion die function
-Boden der ground, floor, bottom
-Jahrhundert das century
-Sohn der son
-Werk das work
-Stimme die voice, vote 457
-Rahmen der frame, framework 460
-Richtung die direction 461
-Programm das programme 464
-Angst die fear, anxiety 465
-Information die information 467
-Kunst die art 468
-Musik die music 469
-Politik die politics 472
-Beruf der occupation, job, profession 477
-Regel die rule 484
-Schritt der step 485
-Absatz, Abs. der sales, paragraph, heel 487
-Gott der god 489
-Auto das automobile, car 490
-Beziehung die relation, relationship 492
-Erfahrung die experience 493
-Tisch der table 494
-Zukunft die future 498
-Spiel das game 500
-Gefühl das feeling 502
-Licht das light 503
-Präsident der president 505
-Markt der market 508
-Bank die bank 509
-Partei die (political) party 512
-Tochter die daughter 514
-Verhältnis das relationship 517
-Kirche die church 519
-Film der film 524
-Gedanke der thought 529
-Doktor, Dr. der doctor 534
-Mädchen das girl 537
-Entscheidung die decision 542
-Prozess der trial, process 543
-Betrieb der business, operation 546
-Zusammenhang der connection, context 551
-Gesetz das law 552
-Arm der arm 554
-Firma die firm, company 555
-Kraft die strength, power 558
-September der September 560
-Student der student 561
-Zuhause das home 565
-Chance die chance 566
-Zeitung die newspaper 572
-Erfolg der success 577
-Grenze die border, frontier 579
-Satz der sentence 582
-Angebot das offer 584
-Internet das internet 588
-Kultur die culture 593
-Lage die situation, location 596
-Leistung die performance 597
-Mitglied das member 598
-Projekt das project 605
-Zimmer das room 609
-Chef der head, leader, boss 610
-Zug der train 613
-Arzt der physician, doctor 614
-Fuß der foot 616
-Körper der body 617
-Klasse die class 619
-Lösung die solution 620
-Höhe die height, altitude 629
-Junge der boy 630
-Fenster das window 634
-Luft die air 635
-Meinung die opinion 636
-Idee die idea 641
-Produkt das product 643
-Studium das study, studies 647
-Vergleich der comparison 648
-Mittel das means 649
-Modell das model 650
-Natur die nature 653
-Bett das bed 654
-Kunde der customer, client 656
-Mitarbeiter der employee, co-worker 657
-sterben verb to die 659
-Tod der death 660
-Geschäft das business 663
-Spaß der fun 666
-Wirtschaft die economy, commerce 668
-Tier das animal 670
-Bewegung die movement, motion 673
-Gast der guest 675
-Sicherheit die security, safety 676
+ -- der -- Lehrer       -- teacher 
+ -- der -- Preis        -- price
+ -- der -- Preis        -- prize
+ -- die -- Abbildung    -- illustration         # Abbreviated 'Abb.'
+ # ...
+ -- der -- Begriff -- concept, idea, term
+ -- die -- Funktion -- function
+ -- der -- Boden -- ground, floor, bottom
+ -- das -- Jahrhundert -- century
+ -- der -- Sohn -- son
+ -- das -- Werk -- work
+ -- die -- Stimme -- voice, vote
+ -- der -- Rahmen -- frame, framework
+ -- die -- Richtung -- direction
+ -- das -- Programm -- programme
+ -- die -- Angst -- fear, anxiety
+ -- die -- Information -- information
+ -- die -- Kunst -- art
+ -- die -- Musik -- music
+ -- die -- Politik -- politics
+ -- der -- Beruf -- occupation, job, profession
+ -- die -- Regel -- rule
+ -- der -- Schritt -- step
+ -- der -- Absatz, Abs. -- sales, paragraph, heel
+ -- der -- Gott -- god
+ -- das -- Auto -- automobile, car
+ -- die -- Beziehung -- relation, relationship
+ -- die -- Erfahrung -- experience
+ -- der -- Tisch -- table
+ -- die -- Zukunft -- future
+ -- das -- Spiel -- game
+ -- das -- Gefühl -- feeling
+ -- das -- Licht -- light
+ -- der -- Präsident -- president
+ -- der -- Markt -- market
+ -- die -- Bank -- bank
+ -- die -- Partei -- (political) party
+ -- die -- Tochter -- daughter
+ -- das -- Verhältnis -- relationship
+ -- die -- Kirche -- church
+ -- der -- Film -- film
+ -- der -- Gedanke -- thought
+ -- der -- Doktor, Dr. -- doctor
+ -- das -- Mädchen -- girl
+ -- die -- Entscheidung -- decision
+ -- der -- Prozess -- trial, process
+ -- der -- Betrieb -- business, operation
+ -- der -- Zusammenhang -- connection, context
+ -- das -- Gesetz -- law
+ -- der -- Arm -- arm
+ -- die -- Firma -- firm, company
+ -- die -- Kraft -- strength, power
+ -- der -- September -- September
+ -- der -- Student -- student
+ -- das -- Zuhause -- home
+ -- die -- Chance -- chance
+ -- die -- Zeitung -- newspaper
+ -- der -- Erfolg -- success
+ -- die -- Grenze -- border, frontier
+ -- der -- Satz -- sentence
+ -- das -- Angebot -- offer
+ -- das -- Internet -- internet
+ -- die -- Kultur -- culture
+ -- die -- Lage -- situation, location
+ -- die -- Leistung -- performance
+ -- das -- Mitglied -- member
+ -- das -- Projekt -- project
+ -- das -- Zimmer -- room
+ -- der -- Chef -- head, leader, boss
+ -- der -- Zug -- train
+ -- der -- Arzt -- physician, doctor
+ -- der -- Fuß -- foot
+ -- der -- Körper -- body
+ -- die -- Klasse -- class
+ -- die -- Lösung -- solution
+ -- die -- Höhe -- height, altitude
+ -- der -- Junge -- boy
+ -- das -- Fenster -- window
+ -- die -- Luft -- air
+ -- die -- Meinung -- opinion
+ -- die -- Idee -- idea
+ -- das -- Produkt -- product
+ -- das -- Studium -- study, studies
+ -- der -- Vergleich -- comparison
+ -- das -- Mittel -- means
+ -- das -- Modell -- model
+ -- die -- Natur -- nature
+ -- das -- Bett -- bed
+ -- der -- Kunde -- customer, client
+ -- der -- Mitarbeiter -- employee, co-worker
+ -- der -- Tod -- death
+ -- das -- Geschäft -- business
+ -- der -- Spaß -- fun
+ -- die -- Wirtschaft -- economy, commerce
+ -- das -- Tier -- animal
+ -- die -- Bewegung -- movement, motion
+ -- der -- Gast -- guest
+ -- die -- Sicherheit -- security, safety
+ -- der -- Einsatz -- inset, deployment
 """
+
 # TODO: Add nouns 201--300
 """
-Einsatz der inset, deployment 677
-Gebiet das region, area 678
-Dank der gratefulness 681
-Dorf das village 682
-Kollege der colleague 683
-Angabe die information, statement 685
-Bruder der brother 687
-Verfügung die disposal 694
-Fach das compartment, subject 698
-Herz das heart 699
-Kontakt der contact 700
-Menge die quantity, amount 701
-Sommer der summer 704
-Unterschied der difference 705
-Anspruch der claim 707
-Antwort die answer, reply 708
-Verbindung die connection, link 712
-Vorstellung die idea, introduction, performance 713
-Anwendung die application, use 715
-Alter das age 720
-Kosten die costs, expenses 722
-Patient der patient 723
-Polizei die police 724
-Theater das theatre 725
-Ausbildung die training, development 727
-Gefahr die danger 732
-Gerät das tool, piece of equipment, appliance 733
-Kilometer der kilometer 735
-Hilfe die help 737
-Computer der computer 739
-Dollar der dollar 740
-Verfahren das method, process, technique 743
-Vertrag der contract 744
-Maßnahme die measure 755
-Mitte die middle 756
-Oktober der October 757
-Ordnung die order, tidiness 758
-Stoff der material, substance 760
-Beginn der beginning 762
-Glück das luck, fortune 763
-Wochenende das weekend 764
-Professor der professor 765
-Reihe die row, line 766
-Westen, West der west 767
-Bevölkerung die population, people 769
-Institut das institute 771
-Osten, Ost der east 774
-Schwester die sister 776
-Erde die earth, ground, soil 781
-Ebene die plane, level 784
-Reise die journey, trip 786
-Einheit die unity, unit 791
-Haar das hair 792
-Montag der Monday 794
-Nähe die vicinity, proximity 795
-Prinzip das principle 796
-Vorteil der advantage 799
-Struktur die structure 803
-Autor der author 805
-Bedingung die condition, stipulation 806
-Risiko das risk 809
-Wahl die choice, election 811
-Wirkung die effect 812
-Brief der letter 813
-Größe die size, height 815
-Medien die (pl) media 817
-Sonntag der Sunday 818
-Macht die power, strength 824
-Untersuchung die examination, investigation 828
-Veränderung die change 829
-Daten die (pl) data 832
-Einfluss der influence 834
-Methode die method 835
-Organisation die organization 836
-Liebe die love 843
-Rede die speech, talk 844
-Sport der sport 845
-Augenblick der moment 848
-Diskussion die discussion, debate 850
-Forderung die demand, claim 854
-Kreis der circle, district 856
-Technik die technology, technique 859
-Versuch der attempt, experiment 860
-Krankheit die illness, disease 865
-Schwierigkeit die difficulty 866
-Tätigkeit die activity 868
-Voraussetzung die condition, requirement 871
-Kampf der fight, struggle 876
-Künstler der artist 877
-Region die region 879
-Eindruck der impression 883
-Reaktion die reaction 888
-Beitrag der contribution 889
-Konzept das draft, plan 893
-Linie die line 897
-Mund der mouth 898
-Wunsch der wish 902
-Artikel der article 903
-Gegensatz der opposite, contrast 910
-Kapitel das chapter 911
+ -- das -- Gebiet -- region, area
+ -- der -- Dank -- gratefulness
+ -- das -- Dorf -- village
+ -- der -- Kollege -- colleague
+ -- die -- Angabe -- information, statement
+ -- der -- Bruder -- brother
+ -- die -- Verfügung -- disposal
+ -- das -- Fach -- compartment, subject
+ -- das -- Herz -- heart
+ -- der -- Kontakt -- contact
+ -- die -- Menge -- quantity, amount
+ -- der -- Sommer -- summer
+ -- der -- Unterschied -- difference
+ -- der -- Anspruch -- claim
+ -- die -- Antwort -- answer, reply
+ -- die -- Verbindung -- connection, link
+ -- die -- Vorstellung -- idea, introduction, performance
+ -- die -- Anwendung -- application, use
+ -- das -- Alter -- age
+ -- die -- Kosten -- costs, expenses
+ -- der -- Patient -- patient
+ -- die -- Polizei -- police
+ -- das -- Theater -- theatre
+ -- die -- Ausbildung -- training, development
+ -- die -- Gefahr -- danger
+ -- das -- Gerät -- tool, piece of equipment, appliance
+ -- der -- Kilometer -- kilometer
+ -- die -- Hilfe -- help
+ -- der -- Computer -- computer
+ -- der -- Dollar -- dollar
+ -- das -- Verfahren -- method, process, technique
+ -- der -- Vertrag -- contract
+ -- die -- Maßnahme -- measure
+ -- die -- Mitte -- middle
+ -- der -- Oktober -- October
+ -- die -- Ordnung -- order, tidiness
+ -- der -- Stoff -- material, substance
+ -- der -- Beginn -- beginning
+ -- das -- Glück -- luck, fortune
+ -- das -- Wochenende -- weekend
+ -- der -- Professor -- professor
+ -- die -- Reihe -- row, line
+ -- der -- Westen, West -- west
+ -- die -- Bevölkerung -- population, people
+ -- das -- Institut -- institute
+ -- der -- Osten, Ost -- east
+ -- die -- Schwester -- sister
+ -- die -- Erde -- earth, ground, soil
+ -- die -- Ebene -- plane, level
+ -- die -- Reise -- journey, trip
+ -- die -- Einheit -- unity, unit
+ -- das -- Haar -- hair
+ -- der -- Montag -- Monday
+ -- die -- Nähe -- vicinity, proximity
+ -- das -- Prinzip -- principle
+ -- der -- Vorteil -- advantage
+ -- die -- Struktur -- structure
+ -- der -- Autor -- author
+ -- die -- Bedingung -- condition, stipulation
+ -- das -- Risiko -- risk
+ -- die -- Wahl -- choice, election
+ -- die -- Wirkung -- effect
+ -- der -- Brief -- letter
+ -- die -- Größe -- size, height
+ -- die -- Medien -- (pl) media
+ -- der -- Sonntag -- Sunday
+ -- die -- Macht -- power, strength
+ -- die -- Untersuchung -- examination, investigation
+ -- die -- Veränderung -- change
+ -- die -- Daten -- (pl) data
+ -- der -- Einfluss -- influence
+ -- die -- Methode -- method
+ -- die -- Organisation -- organization
+ -- die -- Liebe -- love
+ -- die -- Rede -- speech, talk
+ -- der -- Sport -- sport
+ -- der -- Augenblick -- moment
+ -- die -- Diskussion -- discussion, debate
+ -- die -- Forderung -- demand, claim
+ -- der -- Kreis -- circle, district
+ -- die -- Technik -- technology, technique
+ -- der -- Versuch -- attempt, experiment
+ -- die -- Krankheit -- illness, disease
+ -- die -- Schwierigkeit -- difficulty
+ -- die -- Tätigkeit -- activity
+ -- die -- Voraussetzung -- condition, requirement
+ -- der -- Kampf -- fight, struggle
+ -- der -- Künstler -- artist
+ -- die -- Region -- region
+ -- der -- Eindruck -- impression
+ -- die -- Reaktion -- reaction
+ -- der -- Beitrag -- contribution
+ -- das -- Konzept -- draft, plan
+ -- die -- Linie -- line
+ -- der -- Mund -- mouth
+ -- der -- Wunsch -- wish
+ -- der -- Artikel -- article
+ -- der -- Gegensatz -- opposite, contrast
+ -- das -- Kapitel -- chapter
+ -- die -- Literatur -- literature
 """
 
 
