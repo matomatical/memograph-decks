@@ -5565,3 +5565,45 @@
 {'id': 'just as (sth as sth)-[de.adv]-ebenso', 'time': 1612219728, 'event': 'DRILL', 'data': {'got': True}}
 {'id': '(to) herself/itself (f)-[de.pron.reflexive]-sich', 'time': 1612219731, 'event': 'DRILL', 'data': {'got': True}}
 {'id': 'first-[de.adv]-erst', 'time': 1612219739, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to leave-[de.verb]-entfernen sich', 'time': 1612230549, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to avoid-[de.verb]-vermeiden', 'time': 1612230560, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to promote/support-[de.verb]-fördern', 'time': 1612230562, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to occur/remind-[de.verb]-einfallen', 'time': 1612230566, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to restrict/limit-[de.verb]-beschränken', 'time': 1612230576, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to announce/herald-[de.verb]-ankündigen', 'time': 1612230581, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to injure-[de.verb]-verletzen', 'time': 1612230597, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to decree-[de.verb]-verfügen', 'time': 1612230601, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to feel-[de.verb]-empfinden', 'time': 1612230607, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to mention-[de.verb]-erwähnen', 'time': 1612230614, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to turn-[de.verb]-wenden', 'time': 1612230617, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to employ/apply-[de.verb]-anwenden', 'time': 1612230637, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to turn up/emerge/surface-[de.verb]-auftauchen', 'time': 1612230651, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to assert/maintain-[de.verb]-behaupten', 'time': 1612230656, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to heed/pay attention to-[de.verb]-beachten', 'time': 1612230661, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to address-[de.verb]-ansprechen', 'time': 1612230666, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to do without-[de.verb]-verzichten', 'time': 1612230678, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to serve (ball)-[de.verb]-angeben', 'time': 1612230685, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'because (of)-[de.prep.gen]-wegen', 'time': 1612230691, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to declare-[de.verb]-angeben', 'time': 1612230697, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'while/during-[de.conj.sub]-indem', 'time': 1612230703, 'event': 'REVIEW', 'data': {}}
+{'id': 'to remove-[de.verb]-entfernen', 'time': 1612230709, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Moment-[de.noun.gender]-der', 'time': 1612230713, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to protect-[de.verb]-schützen', 'time': 1612230716, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'ninetieth-[de.num.ord]-neunzigste', 'time': 1612230726, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to avoid-[de.verb]-vermeiden', 'time': 1612230738, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'before/until-[de.conj.sub]-ehe', 'time': 1612230741, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'sometimes-[de.adv]-manchmal', 'time': 1612230744, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'hundredthousand-[de.num.card]-hunderttausend', 'time': 1612230748, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'thousand-[de.num.card]-tausend', 'time': 1612230750, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'finally-[de.adv]-endlich', 'time': 1612230760, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'in all/in total-[de.adv]-insgesamt', 'time': 1612230762, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'firstly-[de.adv]-zunächst', 'time': 1612230767, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'no-[de.art.ein]-kein', 'time': 1612230769, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'just/exactly-[de.adv]-eben', 'time': 1612230773, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'mostly-[de.adv]-meist', 'time': 1612230776, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to feel-[de.verb]-empfinden', 'time': 1612230800, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Stadt-[de.noun.gender]-die', 'time': 1612230804, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to injure-[de.verb]-verletzen', 'time': 1612230819, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to declare-[de.verb]-angeben', 'time': 1612230826, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to avoid-[de.verb]-vermeiden', 'time': 1612230832, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'to do without-[de.verb]-verzichten', 'time': 1612230836, 'event': 'DRILL', 'data': {'got': False}}
