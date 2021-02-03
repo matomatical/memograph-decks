@@ -15,7 +15,7 @@ def graph():
                 Node(de, print_str=der_de,speak_str=der_de,speak_voice="de"),
                 topic + ".en",
             )
-            # one for the gender itself (note: duplicates removed by mg TODO)
+            # one for the gender itself (note: duplicates removed by mg)
             yield (
                 Node(de,  speak_str=de,     speak_voice="de"),
                 Node(der, speak_str=der_de, speak_voice="de"),
