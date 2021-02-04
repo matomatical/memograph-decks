@@ -2,7 +2,6 @@ from mg.node import Node
 
 
 def graph():
-    # most words
     for topic, *args in parse(LINKS):
         # treat nouns specially
         if topic.startswith("de.noun"):
@@ -20,6 +19,16 @@ def graph():
                 Node(de,  speak_str=de,     speak_voice="de"),
                 Node(der, speak_str=der_de, speak_voice="de"),
                 topic + ".gender",
+            )
+        elif topic.startswith("de.abbr"):
+            # abbreviations map spelling to german
+            # also, make sure the speaker spells out the abbreviation!
+            abbr, full = args
+            dotted_abbr = ".".join(abbr.replace(".", ""))
+            yield (
+                Node(abbr, speak_str=dotted_abbr, speak_voice="de"),
+                Node(full, speak_str=full, speak_voice="de"),
+                topic,
             )
         # all others have standard format (so far)
         else:
@@ -1145,7 +1154,8 @@ de.noun --
  -- der -- Meter        -- metre
  -- der -- Punkt        -- dot/point/period
  -- die -- Situation    -- situation
- -- der -- Lehrer       -- teacher 
+ -- der -- Lehrer       -- teacher (m)
+ -- die -- Lehrerin     -- teacher (f)
  -- der -- Preis        -- price
  -- der -- Preis        -- prize
  -- der -- Preis        -- praise
@@ -1446,6 +1456,7 @@ de.noun --
  -- das -- Frühlingsemester -- Spring semester  # FS, Feb--Jun, switzerland
  -- das -- Jahr         -- year
  -- das -- Datum        -- date
+
 de.adv --
  -- heute           -- today
  -- gestern         -- yesterday
@@ -1473,12 +1484,12 @@ de.adj --
  -- weiß            -- white
  -- schwarz         -- black
 
-de.noun -- das -- Morgenrot     -- the morning red sky
-de.noun -- das -- Abendrot      -- the evening red sky
+de.noun -- das -- Morgenrot     -- morning red sky
+de.noun -- das -- Abendrot      -- evening red sky
 de.verb -- rot werden           -- to become red/blush
 de.verb -- rotsehen             -- to see red
 de.adj  -- blau                 -- drunk
-de.adj  -- baluäugig            -- blue-eyed/naive
+de.adj  -- blauäugig            -- blue-eyed/naive
 de.verb -- blaumachen           -- to 'make blue' (skip work)
 de.verb -- bräunen              -- to brown/tan
 de.noun -- die -- Grauzone          -- grey area
