@@ -671,12 +671,12 @@
   },
   "similar-[de.adj]-\u00e4hnlich": {
     "priorParams": [
-      4.927777720086675,
-      4.901878380867513,
-      709027.7456847844
+      5.000629479998779,
+      4.939999497164462,
+      812499.3328582991
     ],
-    "numDrills": 32,
-    "lastTime": 1611785628,
+    "numDrills": 33,
+    "lastTime": 1612473971,
     "lastResult": true
   },
   "frequent-[de.adj]-h\u00e4ufig": {
@@ -1271,12 +1271,12 @@
   },
   "widely-[de.adv]-weit": {
     "priorParams": [
-      2.95175489056372,
-      2.8589237092833937,
-      522025.3237934287
+      3.7909022576135762,
+      3.7994974808993875,
+      425090.0993225813
     ],
-    "numDrills": 11,
-    "lastTime": 1611949772,
+    "numDrills": 13,
+    "lastTime": 1612474146,
     "lastResult": true
   },
   "just/exactly-[de.adv]-eben": {
@@ -1871,12 +1871,12 @@
   },
   "just/only-[de.adv]-blo\u00df": {
     "priorParams": [
-      3.3118543110661927,
-      3.2161944366308557,
-      521886.6112917875
+      3.339749881968482,
+      3.2482890642039473,
+      649646.533165498
     ],
-    "numDrills": 16,
-    "lastTime": 1611949791,
+    "numDrills": 17,
+    "lastTime": 1612473973,
     "lastResult": true
   },
   "any/each time-[de.adv]-jeweils": {
@@ -2071,12 +2071,12 @@
   },
   "again-[de.adv]-nochmal": {
     "priorParams": [
-      13.043191656729734,
-      13.014595211146483,
-      88784.75808855894
+      13.956836343189932,
+      13.957444810845981,
+      84202.80933835534
     ],
-    "numDrills": 31,
-    "lastTime": 1612386685,
+    "numDrills": 33,
+    "lastTime": 1612474138,
     "lastResult": true
   },
   "thank you-[de.adv]-danke": {
@@ -2751,12 +2751,12 @@
   },
   "Mal-[de.noun.gender]-das": {
     "priorParams": [
-      7.628341869127493,
-      7.579065472686504,
-      500836.48029832816
+      7.631405789143072,
+      7.6062575639238315,
+      528290.1866190503
     ],
-    "numDrills": 30,
-    "lastTime": 1612208026,
+    "numDrills": 31,
+    "lastTime": 1612472394,
     "lastResult": true
   },
   "example-[de.noun.en]-Beispiel": {
@@ -3051,12 +3051,12 @@
   },
   "Hand-[de.noun.gender]-die": {
     "priorParams": [
-      4.890318451841659,
-      4.81803963103128,
-      602835.1974105465
+      4.8730603026379145,
+      4.839464920047534,
+      648713.9734477821
     ],
-    "numDrills": 16,
-    "lastTime": 1612208606,
+    "numDrills": 17,
+    "lastTime": 1612472331,
     "lastResult": true
   },
   "town-[de.noun.en]-Stadt": {
@@ -3321,12 +3321,12 @@
   },
   "Leben-[de.noun.gender]-das": {
     "priorParams": [
-      10.750363715960882,
-      10.724649387800655,
-      366724.455772887
+      10.76275941530251,
+      10.748056555708972,
+      378104.33657085674
     ],
-    "numDrills": 39,
-    "lastTime": 1612312426,
+    "numDrills": 40,
+    "lastTime": 1612472389,
     "lastResult": true
   },
   "mother-[de.noun.en]-Mutter": {
@@ -3401,12 +3401,12 @@
   },
   "Wort-[de.noun.gender]-das": {
     "priorParams": [
-      2.557433200597171,
-      2.3773675266998127,
-      1606791.7357574017
+      2.470332924032423,
+      2.394634401403107,
+      1929512.2028366202
     ],
-    "numDrills": 15,
-    "lastTime": 1611691005,
+    "numDrills": 16,
+    "lastTime": 1612472379,
     "lastResult": true
   },
   "money-[de.noun.en]-Geld": {
@@ -3441,12 +3441,12 @@
   },
   "Sache-[de.noun.gender]-die": {
     "priorParams": [
-      1.972239762602722,
-      2.041548226340074,
-      2026156.8576580514
+      2.094096336977593,
+      2.049704362539047,
+      2251621.2285228404
     ],
-    "numDrills": 12,
-    "lastTime": 1611691190,
+    "numDrills": 13,
+    "lastTime": 1612472272,
     "lastResult": true
   },
   "type/kind-[de.noun.en]-Art": {
@@ -3466,7 +3466,7 @@
       2380180.2003048104
     ],
     "numDrills": 20,
-    "lastTime": 1611691141,
+    "lastTime": 1612473687,
     "lastResult": true
   },
   "area/region-[de.noun.en]-Bereich": {
@@ -3561,12 +3561,12 @@
   },
   "Geschichte-[de.noun.gender]-die": {
     "priorParams": [
-      1.9723060222875963,
-      2.0416710545828414,
-      2025930.1699049983
+      2.0942253817074428,
+      2.049828879116139,
+      2251392.8947941572
     ],
-    "numDrills": 12,
-    "lastTime": 1611691048,
+    "numDrills": 13,
+    "lastTime": 1612472263,
     "lastResult": true
   },
   "society/company-[de.noun.en]-Gesellschaft": {
@@ -3761,12 +3761,12 @@
   },
   "Form-[de.noun.gender]-die": {
     "priorParams": [
-      1.9533013415955962,
-      2.0756049981474645,
-      2065447.8599276824
+      2.118676372048471,
+      2.082541948043919,
+      2248577.5322791603
     ],
-    "numDrills": 13,
-    "lastTime": 1611691069,
+    "numDrills": 14,
+    "lastTime": 1612472327,
     "lastResult": true
   },
   "mark (currency)-[de.noun.en]-Mark": {
@@ -4051,13 +4051,13 @@
   },
   "Thema-[de.noun.gender]-das": {
     "priorParams": [
-      5.89399075610356,
-      5.8543883963410694,
-      426195.6961363684
+      7.7091637598341025,
+      7.786862642266838,
+      320222.6628494998
     ],
-    "numDrills": 16,
-    "lastTime": 1612312393,
-    "lastResult": true
+    "numDrills": 18,
+    "lastTime": 1612474144,
+    "lastResult": false
   },
   "person-[de.noun.en]-Person": {
     "priorParams": [
@@ -4151,12 +4151,12 @@
   },
   "Raum-[de.noun.gender]-der": {
     "priorParams": [
-      2.200472225241678,
-      2.020915893232412,
-      1873935.92983237
+      2.9963146372308884,
+      3.0133620615588503,
+      1357097.775626595
     ],
-    "numDrills": 20,
-    "lastTime": 1611691067,
+    "numDrills": 22,
+    "lastTime": 1612472416,
     "lastResult": true
   },
   "look/glance/view-[de.noun.en]-Blick": {
@@ -4171,12 +4171,12 @@
   },
   "Blick-[de.noun.gender]-der": {
     "priorParams": [
-      1.2080035166977787,
-      0.9999999999999944,
-      3454749.876397994
+      1.1161462146463954,
+      0.9999999999999822,
+      4856857.398129802
     ],
-    "numDrills": 12,
-    "lastTime": 1611226082,
+    "numDrills": 13,
+    "lastTime": 1612473695,
     "lastResult": true
   },
   "place-[de.noun.en]-Platz": {
@@ -4191,12 +4191,12 @@
   },
   "Platz-[de.noun.gender]-der": {
     "priorParams": [
-      1.2080098847420149,
-      0.9999999999999315,
-      3454749.876397994
+      1.1161464747480985,
+      0.9999999999999416,
+      4856861.641948539
     ],
-    "numDrills": 12,
-    "lastTime": 1611226092,
+    "numDrills": 13,
+    "lastTime": 1612473689,
     "lastResult": true
   },
   "public square-[de.noun.en]-Platz": {
@@ -4241,12 +4241,12 @@
   },
   "System-[de.noun.gender]-das": {
     "priorParams": [
-      1.2080078585461131,
-      0.9999999999999672,
-      3454749.876397994
+      1.116146041245003,
+      0.9999999999999662,
+      4856854.568917514
     ],
-    "numDrills": 13,
-    "lastTime": 1611226110,
+    "numDrills": 14,
+    "lastTime": 1612473704,
     "lastResult": true
   },
   "clock/watch-[de.noun.en]-Uhr": {
@@ -4391,12 +4391,12 @@
   },
   "language-[de.noun.en]-Sprache": {
     "priorParams": [
-      1.9550942744342745,
-      2.072410797803503,
-      2084369.554481055
+      2.1157551685976994,
+      2.0793728676717924,
+      2270588.157000849
     ],
-    "numDrills": 14,
-    "lastTime": 1611691082,
+    "numDrills": 15,
+    "lastTime": 1612472361,
     "lastResult": true
   },
   "Sprache-[de.noun.gender]-die": {
@@ -4441,22 +4441,22 @@
   },
   "Ort-[de.noun.gender]-der": {
     "priorParams": [
-      1.9559956927065512,
-      2.0792157045781527,
-      2062105.7473710687
+      2.1222083877200566,
+      2.086159285725257,
+      2244430.3269787035
     ],
-    "numDrills": 13,
-    "lastTime": 1611691000,
+    "numDrills": 14,
+    "lastTime": 1612472326,
     "lastResult": true
   },
   "town-[de.noun.en]-Ort": {
     "priorParams": [
-      1.676814624346088,
-      1.7385451356701989,
-      2373116.669635357
+      1.7875778221166587,
+      1.7442825912448374,
+      2636035.960030057
     ],
-    "numDrills": 14,
-    "lastTime": 1611690985,
+    "numDrills": 15,
+    "lastTime": 1612473668,
     "lastResult": true
   },
   "moment-[de.noun.en]-Moment": {
@@ -4471,12 +4471,12 @@
   },
   "Moment-[de.noun.gender]-der": {
     "priorParams": [
-      7.029354355685919,
-      6.986461417959986,
-      603720.6010048194
+      7.028460889441953,
+      7.007384722026225,
+      631296.055241097
     ],
-    "numDrills": 37,
-    "lastTime": 1612230713,
+    "numDrills": 38,
+    "lastTime": 1612472358,
     "lastResult": true
   },
   "result/consequence-[de.noun.en]-Folge": {
@@ -4651,12 +4651,12 @@
   },
   "Text-[de.noun.gender]-der": {
     "priorParams": [
-      1.0712562011291025,
-      1.0000000000000495,
-      3895665.6639199127
+      1.0871455633114964,
+      1.000000000000054,
+      4986317.548395056
     ],
-    "numDrills": 13,
-    "lastTime": 1611226096,
+    "numDrills": 14,
+    "lastTime": 1612473693,
     "lastResult": true
   },
   "result-[de.noun.en]-Ergebnis": {
@@ -4751,12 +4751,12 @@
   },
   "St\u00fcck-[de.noun.gender]-das": {
     "priorParams": [
-      10.616248340525463,
-      10.582891644931493,
-      312556.35627261
+      13.461820788887069,
+      13.462932342706354,
+      244095.66407060504
     ],
-    "numDrills": 41,
-    "lastTime": 1612296066,
+    "numDrills": 45,
+    "lastTime": 1612472447,
     "lastResult": true
   },
   "apartment-[de.noun.en]-Wohnung": {
@@ -8481,12 +8481,12 @@
   },
   "to succeed-[de.verb]-gelingen": {
     "priorParams": [
-      2.0489625520948795,
-      1.9731474694774376,
-      512898.6243231806
+      2.893924319372577,
+      2.9092787301839675,
+      384289.0580717604
     ],
-    "numDrills": 11,
-    "lastTime": 1611950840,
+    "numDrills": 13,
+    "lastTime": 1612472428,
     "lastResult": true
   },
   "to find out/hear-[de.verb]-erfahren": {
@@ -8691,12 +8691,12 @@
   },
   "to wish-[de.verb]-w\u00fcnschen": {
     "priorParams": [
-      2.051864386674691,
-      1.9717270037679626,
-      512283.18639659294
+      2.1177080527255727,
+      1.9906909282260168,
+      715789.5563469881
     ],
-    "numDrills": 9,
-    "lastTime": 1611950647,
+    "numDrills": 10,
+    "lastTime": 1612472192,
     "lastResult": true
   },
   "to build-[de.verb]-bauen": {
@@ -9081,32 +9081,32 @@
   },
   "to stop/cease-[de.verb]-einstellen": {
     "priorParams": [
-      1.8259058744305032,
-      1.6860339895886836,
-      494198.5346586511
+      1.8488214062370323,
+      1.7011163854242322,
+      743800.0980931643
     ],
-    "numDrills": 10,
-    "lastTime": 1611950079,
+    "numDrills": 11,
+    "lastTime": 1612472211,
     "lastResult": true
   },
   "to carry through-[de.verb]-durchf\u00fchren": {
     "priorParams": [
-      1.2392585856734852,
-      0.9999999999999841,
-      658456.6041610604
+      1.2082545899161776,
+      0.9999999999999767,
+      1323778.9563133016
     ],
-    "numDrills": 8,
-    "lastTime": 1611690504,
+    "numDrills": 9,
+    "lastTime": 1612473968,
     "lastResult": true
   },
   "to suffice/be enough-[de.verb]-gen\u00fcgen": {
     "priorParams": [
-      6.1025515903175425,
-      6.048877338945896,
-      159434.82029858136
+      6.145495766745419,
+      6.092164151911137,
+      179343.52074193992
     ],
-    "numDrills": 22,
-    "lastTime": 1612314839,
+    "numDrills": 23,
+    "lastTime": 1612473965,
     "lastResult": true
   },
   "to build up/erect-[de.verb]-aufbauen": {
@@ -9191,12 +9191,12 @@
   },
   "to remain silent-[de.verb]-schweigen": {
     "priorParams": [
-      1.49852002237786,
-      1.299071787701839,
-      460689.58725195186
+      2.2119815850430378,
+      2.232931835744769,
+      333319.79300046194
     ],
-    "numDrills": 8,
-    "lastTime": 1611949761,
+    "numDrills": 10,
+    "lastTime": 1612472415,
     "lastResult": true
   },
   "to treat/handle-[de.verb]-behandeln": {
@@ -11201,12 +11201,12 @@
   },
   "Rahmen-[de.noun.gender]-der": {
     "priorParams": [
-      1.382907752373455,
-      1.3480271265454284,
-      3463.307843873011
+      1.4897910207778575,
+      1.355236172171042,
+      5062.733194348609
     ],
-    "numDrills": 3,
-    "lastTime": 1612469490,
+    "numDrills": 4,
+    "lastTime": 1612472396,
     "lastResult": true
   },
   "framework-[de.noun.en]-Rahmen": {
@@ -11251,12 +11251,12 @@
   },
   "Programm-[de.noun.gender]-das": {
     "priorParams": [
-      2.227465843622931,
-      2.1494912472477914,
-      1829.294222740248
+      2.273497277620789,
+      2.1913801068,
+      3407.6761909764905
     ],
-    "numDrills": 4,
-    "lastTime": 1612469461,
+    "numDrills": 6,
+    "lastTime": 1612473665,
     "lastResult": true
   },
   "fear/anxiety-[de.noun.en]-Angst": {
@@ -11271,12 +11271,12 @@
   },
   "Angst-[de.noun.gender]-die": {
     "priorParams": [
-      2.484455768984236,
-      2.0793422126430885,
-      12187.748758870903
+      2.1948578041628597,
+      2.0964455484409497,
+      15622.649398009347
     ],
-    "numDrills": 3,
-    "lastTime": 1612468622,
+    "numDrills": 4,
+    "lastTime": 1612473673,
     "lastResult": true
   },
   "information-[de.noun.en]-Information": {
@@ -11291,12 +11291,12 @@
   },
   "Information-[de.noun.gender]-die": {
     "priorParams": [
-      2.4847104145872385,
-      2.080586634095424,
-      12145.421213426403
+      3.080695524574651,
+      3.0871716709377446,
+      9692.58324843208
     ],
-    "numDrills": 3,
-    "lastTime": 1612468500,
+    "numDrills": 5,
+    "lastTime": 1612474132,
     "lastResult": true
   },
   "art-[de.noun.en]-Kunst": {
@@ -11411,12 +11411,12 @@
   },
   "(foot) step-[de.noun.en]-Schritt": {
     "priorParams": [
-      1.3919143138618786,
-      1.3517272964138183,
-      3519.270061337111
+      1.490204918692263,
+      1.3588842424187244,
+      5088.7684183280935
     ],
-    "numDrills": 3,
-    "lastTime": 1612469487,
+    "numDrills": 4,
+    "lastTime": 1612472323,
     "lastResult": true
   },
   "Schritt-[de.noun.gender]-der": {
@@ -11431,222 +11431,222 @@
   },
   "turn (of heel, a line break/paragraph)-[de.noun.en]-Absatz": {
     "priorParams": [
-      1.003226589135165,
-      0.999999999999999,
-      3630.2865568381676
+      1.1289648559022014,
+      0.9999999999999797,
+      5332.31833438165
     ],
-    "numDrills": 1,
-    "lastTime": 1612470025,
+    "numDrills": 2,
+    "lastTime": 1612472403,
     "lastResult": true
   },
   "Absatz-[de.noun.gender]-der": {
     "priorParams": [
-      1.0039117227067613,
-      1.000000000000005,
-      3636.77394876528
+      1.1242324907137904,
+      0.9999999999999909,
+      5255.1407727496435
     ],
-    "numDrills": 1,
-    "lastTime": 1612470036,
+    "numDrills": 2,
+    "lastTime": 1612472293,
     "lastResult": true
   },
   "god-[de.noun.en]-Gott": {
     "priorParams": [
-      1.003226589135165,
-      0.999999999999999,
-      3630.2865568381676
+      1.1260467266103484,
+      1.0000000000000138,
+      5278.644180151255
     ],
-    "numDrills": 1,
-    "lastTime": 1612470031,
+    "numDrills": 2,
+    "lastTime": 1612472333,
     "lastResult": true
   },
   "Gott-[de.noun.gender]-der": {
     "priorParams": [
-      1.004367260212911,
-      1.000000000000003,
-      3641.0983759315086
+      1.1242705978112428,
+      0.9999999999999929,
+      5262.078374652288
     ],
-    "numDrills": 1,
-    "lastTime": 1612470044,
+    "numDrills": 2,
+    "lastTime": 1612472303,
     "lastResult": true
   },
   "automobile/car-[de.noun.en]-Auto": {
     "priorParams": [
-      1.0033790309910458,
-      1.0000000000000069,
-      3631.72827759896
+      1.126690058424114,
+      1.000000000000019,
+      5292.493667992834
     ],
-    "numDrills": 1,
-    "lastTime": 1612470021,
+    "numDrills": 2,
+    "lastTime": 1612472340,
     "lastResult": true
   },
   "Auto-[de.noun.gender]-das": {
     "priorParams": [
-      1.0045946647069088,
-      1.000000000000005,
-      3643.260439839014
+      1.1258827901254982,
+      1.0000000000000067,
+      5294.512050704303
     ],
-    "numDrills": 1,
-    "lastTime": 1612470034,
+    "numDrills": 2,
+    "lastTime": 1612472335,
     "lastResult": true
   },
   "relationship-[de.noun.en]-Beziehung": {
     "priorParams": [
-      1.0019264299335735,
-      1.0000000000000113,
-      3618.03011847923
+      2.0759115969720523,
+      1.9991313906728527,
+      2374.5650613680777
     ],
-    "numDrills": 1,
-    "lastTime": 1612470029,
+    "numDrills": 4,
+    "lastTime": 1612473636,
     "lastResult": true
   },
   "Beziehung-[de.noun.gender]-die": {
     "priorParams": [
-      1.003531364203886,
-      0.9999999999999977,
-      3633.169953678933
+      1.1271765267376315,
+      1.0000000000000047,
+      5303.517113953814
     ],
-    "numDrills": 1,
-    "lastTime": 1612470042,
+    "numDrills": 2,
+    "lastTime": 1612472374,
     "lastResult": true
   },
   "experience-[de.noun.en]-Erfahrung": {
     "priorParams": [
-      1.0033790309910458,
-      1.0000000000000069,
-      3631.72827759896
+      1.1230995080780681,
+      1.0000000000000215,
+      5227.497615101801
     ],
-    "numDrills": 1,
-    "lastTime": 1612470051,
+    "numDrills": 2,
+    "lastTime": 1612472278,
     "lastResult": true
   },
   "Erfahrung-[de.noun.gender]-die": {
     "priorParams": [
-      1.003226589135165,
-      0.999999999999999,
-      3630.2865568381676
+      1.1273205365033578,
+      1.0000000000000018,
+      5301.952556048556
     ],
-    "numDrills": 1,
-    "lastTime": 1612470041,
+    "numDrills": 2,
+    "lastTime": 1612472376,
     "lastResult": true
   },
   "table-[de.noun.en]-Tisch": {
     "priorParams": [
-      1.0029977223837785,
-      1.000000000000005,
-      3628.1238917984565
+      1.1259125247135882,
+      1.0000000000000182,
+      5273.056183037286
     ],
-    "numDrills": 1,
-    "lastTime": 1612470048,
+    "numDrills": 2,
+    "lastTime": 1612472346,
     "lastResult": true
   },
   "Tisch-[de.noun.gender]-der": {
     "priorParams": [
-      1.0027686105114157,
-      1.0000000000000093,
-      3625.9611259128533
+      1.1237829767129686,
+      1.0,
+      5231.437138508605
     ],
-    "numDrills": 1,
-    "lastTime": 1612470038,
+    "numDrills": 2,
+    "lastTime": 1612472281,
     "lastResult": true
   },
   "future-[de.noun.en]-Zukunft": {
     "priorParams": [
-      1.0222435068313347,
-      1.000000000000007,
-      3818.0726743848163
+      1.1118508015685222,
+      1.0000000000000182,
+      5291.177549812231
     ],
-    "numDrills": 1,
-    "lastTime": 1612470371,
+    "numDrills": 2,
+    "lastTime": 1612472351,
     "lastResult": true
   },
   "Zukunft-[de.noun.gender]-die": {
     "priorParams": [
-      1.0187322085609296,
-      1.00000000000001,
-      3782.151941031516
+      1.1117429211091223,
+      1.0000000000000067,
+      5239.520656617945
     ],
-    "numDrills": 1,
-    "lastTime": 1612470375,
+    "numDrills": 2,
+    "lastTime": 1612472347,
     "lastResult": true
   },
   "game-[de.noun.en]-Spiel": {
     "priorParams": [
-      1.0195098440971746,
-      1.000000000000015,
-      3790.056586870743
+      1.1092399810640778,
+      1.0000000000000149,
+      5207.168961273132
     ],
-    "numDrills": 1,
-    "lastTime": 1612470392,
+    "numDrills": 2,
+    "lastTime": 1612472304,
     "lastResult": true
   },
   "Spiel-[de.noun.gender]-das": {
     "priorParams": [
-      1.0190153239625452,
-      0.9999999999999928,
-      3785.026494990895
+      1.1139868281558796,
+      0.9999999999999781,
+      5282.827275203996
     ],
-    "numDrills": 1,
-    "lastTime": 1612470377,
+    "numDrills": 2,
+    "lastTime": 1612472405,
     "lastResult": true
   },
   "light-[de.noun.en]-Licht": {
     "priorParams": [
-      1.0178805294378952,
-      1.0000000000000036,
-      3773.527333429918
+      1.1086671340760124,
+      1.0000000000000118,
+      5174.682123847216
     ],
-    "numDrills": 1,
-    "lastTime": 1612470373,
+    "numDrills": 2,
+    "lastTime": 1612472269,
     "lastResult": true
   },
   "Licht-[de.noun.gender]-das": {
     "priorParams": [
-      1.0219647983046445,
-      0.999999999999998,
-      3815.1999036249595
+      1.1103698572185714,
+      0.9999999999999785,
+      5261.30996984538
     ],
-    "numDrills": 1,
-    "lastTime": 1612470358,
+    "numDrills": 2,
+    "lastTime": 1612472301,
     "lastResult": true
   },
   "president (m)-[de.noun.en]-Pr\u00e4sident": {
     "priorParams": [
-      1.0185196172510889,
-      0.9999999999999938,
-      3779.995922308149
+      1.1104480837975461,
+      0.9999999999999994,
+      5214.1113884398665
     ],
-    "numDrills": 1,
-    "lastTime": 1612470380,
+    "numDrills": 2,
+    "lastTime": 1612472320,
     "lastResult": true
   },
   "Pr\u00e4sident-[de.noun.gender]-der": {
     "priorParams": [
-      1.0206357435216618,
-      1.0000000000000016,
-      3801.552144952541
+      1.1114236697446493,
+      1.0000000000000084,
+      5260.820116727772
     ],
-    "numDrills": 1,
-    "lastTime": 1612470362,
+    "numDrills": 2,
+    "lastTime": 1612472329,
     "lastResult": true
   },
   "market-[de.noun.en]-Markt": {
     "priorParams": [
-      1.021895061985482,
-      1.0000000000000016,
-      3814.481687020216
+      1.1095582343093044,
+      0.9999999999999918,
+      5246.232076880115
     ],
-    "numDrills": 1,
-    "lastTime": 1612470384,
+    "numDrills": 2,
+    "lastTime": 1612472307,
     "lastResult": true
   },
   "Markt-[de.noun.gender]-der": {
     "priorParams": [
-      2.0470913529676817,
-      2.055421005517914,
-      1806.6394755154179
+      2.1671543637388484,
+      2.0859188801490185,
+      2794.839170719586
     ],
-    "numDrills": 2,
-    "lastTime": 1612470997,
+    "numDrills": 4,
+    "lastTime": 1612473647,
     "lastResult": true
   },
   "September-[de.noun.en]-September": {
@@ -11979,7 +11979,7 @@
     "lastTime": 1612468933,
     "lastResult": true
   },
-  "Weekend-[de.noun.en]-Wochenende": {
+  "weekend-[de.noun.en]-Wochenende": {
     "priorParams": [
       1.3765100241006445,
       1.000000000000085,
@@ -11989,17 +11989,7 @@
     "lastTime": 1612468531,
     "lastResult": true
   },
-  "Week-[de.noun.en]-Woche": {
-    "priorParams": [
-      1.3768146939625527,
-      0.9999999999999698,
-      30734.709751106107
-    ],
-    "numDrills": 2,
-    "lastTime": 1612468429,
-    "lastResult": true
-  },
-  "Weekday-[de.noun.en]-Wochentag": {
+  "weekday-[de.noun.en]-Wochentag": {
     "priorParams": [
       1.3770129392414485,
       1.000000000000013,
@@ -12017,16 +12007,6 @@
     ],
     "numDrills": 3,
     "lastTime": 1612468906,
-    "lastResult": true
-  },
-  "Month-[de.noun.en]-Monat": {
-    "priorParams": [
-      1.3749797110022302,
-      1.3350992970070044,
-      4042.464231435499
-    ],
-    "numDrills": 3,
-    "lastTime": 1612469472,
     "lastResult": true
   },
   "January-[de.noun.en]-Januar": {
@@ -12229,14 +12209,14 @@
     "lastTime": 1612468850,
     "lastResult": true
   },
-  "Season-[de.noun.en]-Jahreszeit": {
+  "season-[de.noun.en]-Jahreszeit": {
     "priorParams": [
-      2.4745658817790046,
-      2.0745423045824287,
-      12581.07724358617
+      2.1882621373664994,
+      2.0913547763889966,
+      16059.641036818171
     ],
-    "numDrills": 3,
-    "lastTime": 1612468643,
+    "numDrills": 4,
+    "lastTime": 1612473701,
     "lastResult": true
   },
   "Jahreszeit-[de.noun.gender]-die": {
@@ -12881,169 +12861,394 @@
   },
   "president (f)-[de.noun.en]-Pr\u00e4sidentin": {
     "priorParams": [
-      1.003226589135165,
-      0.999999999999999,
-      3630.2865568381676
+      1.1136767797159577,
+      1.000000000000005,
+      5061.612222388035
     ],
-    "numDrills": 1,
-    "lastTime": 1612470389,
+    "numDrills": 2,
+    "lastTime": 1612472384,
     "lastResult": true
   },
   "Pr\u00e4sidentin-[de.noun.gender]-die": {
     "priorParams": [
-      1.0025392531123507,
-      0.9999999999999961,
-      3623.7982589923135
+      1.1133438634893125,
+      1.0000000000000022,
+      5046.9582527626435
     ],
-    "numDrills": 1,
-    "lastTime": 1612470382,
+    "numDrills": 2,
+    "lastTime": 1612472368,
     "lastResult": true
   },
   "feeling-[de.noun.en]-Gef\u00fchl": {
     "priorParams": [
-      1.0140765734797847,
-      0.9999999999999981,
-      3735.418112462196
+      1.0857164071142136,
+      0.999999999999975,
+      4759.990699354158
     ],
-    "numDrills": 1,
-    "lastTime": 1612470985,
+    "numDrills": 2,
+    "lastTime": 1612472365,
     "lastResult": true
   },
   "Gef\u00fchl-[de.noun.gender]-das": {
     "priorParams": [
-      1.0149439550845454,
-      0.999999999999996,
-      3744.049098438585
+      1.0859108649545475,
+      0.9999999999999931,
+      4773.8724855810015
     ],
-    "numDrills": 1,
-    "lastTime": 1612470972,
+    "numDrills": 2,
+    "lastTime": 1612472356,
     "lastResult": true
   },
   "bank-[de.noun.en]-Bank": {
     "priorParams": [
-      1.0161665986818846,
-      1.0000000000000138,
-      3756.2738284758198
+      1.097362479131704,
+      1.0000000000000009,
+      6245.885138539873
     ],
-    "numDrills": 1,
-    "lastTime": 1612471002,
+    "numDrills": 3,
+    "lastTime": 1612474039,
     "lastResult": true
   },
   "Bank-[de.noun.gender]-die": {
     "priorParams": [
-      1.017382094021189,
-      0.9999999999999974,
-      3768.4956542198997
+      1.0860607165685316,
+      0.9999999999999758,
+      4807.28187692479
     ],
-    "numDrills": 1,
-    "lastTime": 1612471000,
+    "numDrills": 2,
+    "lastTime": 1612472387,
     "lastResult": true
   },
   "(political) party-[de.noun.en]-Partei": {
     "priorParams": [
-      1.0137140982215356,
-      0.999999999999991,
-      3731.821434304671
+      1.0858594742759642,
+      0.999999999999993,
+      4757.5216889317835
     ],
-    "numDrills": 1,
-    "lastTime": 1612470990,
+    "numDrills": 2,
+    "lastTime": 1612472373,
     "lastResult": true
   },
   "Partei-[de.noun.gender]-die": {
     "priorParams": [
-      2.9639946791330414,
-      3.002922011172322,
-      968.0819850651143
+      3.1751527624638514,
+      3.0683743200068787,
+      1608.9836516231153
     ],
-    "numDrills": 3,
-    "lastTime": 1612471016,
+    "numDrills": 5,
+    "lastTime": 1612473637,
     "lastResult": true
   },
   "daughter-[de.noun.en]-Tochter": {
     "priorParams": [
-      1.0142213876515287,
-      1.000000000000008,
-      3736.856712099054
+      1.0979554799873144,
+      0.9999999999999992,
+      6207.901981671169
     ],
-    "numDrills": 1,
-    "lastTime": 1612470992,
+    "numDrills": 3,
+    "lastTime": 1612474018,
     "lastResult": true
   },
   "Tochter-[de.noun.gender]-die": {
     "priorParams": [
-      1.0158077425531309,
-      1.0000000000000082,
-      3752.678622451686
+      1.0958989489472764,
+      0.9999999999999948,
+      6235.976416041565
     ],
-    "numDrills": 1,
-    "lastTime": 1612471005,
+    "numDrills": 3,
+    "lastTime": 1612474027,
     "lastResult": true
   },
   "relationship-[de.noun.en]-Verh\u00e4ltnis": {
     "priorParams": [
-      1.014004128721185,
-      1.0000000000000042,
-      3734.698797307659
+      1.096607016603146,
+      0.9999999999999774,
+      6232.861815139522
     ],
-    "numDrills": 1,
-    "lastTime": 1612470977,
+    "numDrills": 3,
+    "lastTime": 1612474025,
     "lastResult": true
   },
   "Verh\u00e4ltnis-[de.noun.gender]-das": {
     "priorParams": [
-      1.9733739681898739,
-      2.041960056661748,
-      1590.0878864120718
+      3.1130282549491834,
+      3.0199072669419698,
+      1433.765891004606
     ],
-    "numDrills": 2,
-    "lastTime": 1612471014,
+    "numDrills": 5,
+    "lastTime": 1612473653,
     "lastResult": true
   },
   "church-[de.noun.en]-Kirche": {
     "priorParams": [
-      1.0163816154430276,
-      0.9999999999999969,
-      3758.430831449951
+      1.0962230541463038,
+      0.9999999999999887,
+      6262.411626934952
     ],
-    "numDrills": 1,
-    "lastTime": 1612471007,
+    "numDrills": 3,
+    "lastTime": 1612474052,
     "lastResult": true
   },
   "Kirche-[de.noun.gender]-die": {
     "priorParams": [
-      1.0152322824539253,
-      1.0000000000000115,
-      3746.9257683624596
+      1.084904040021719,
+      1.0000000000000047,
+      4762.633200164463
     ],
-    "numDrills": 1,
-    "lastTime": 1612471003,
+    "numDrills": 2,
+    "lastTime": 1612472366,
     "lastResult": true
   },
-  "film-[de.noun.en]-Film": {},
-  "Film-[de.noun.gender]-der": {},
-  "thought-[de.noun.en]-Gedanke": {},
-  "Gedanke-[de.noun.gender]-der": {},
-  "doctor-[de.noun.en]-Doktor": {},
-  "Doktor-[de.noun.gender]-der": {},
-  "girl-[de.noun.en]-M\u00e4dchen": {},
-  "M\u00e4dchen-[de.noun.gender]-das": {},
-  "decision-[de.noun.en]-Entscheidung": {},
-  "Entscheidung-[de.noun.gender]-die": {},
-  "(court) trial-[de.noun.en]-Prozess": {},
-  "Prozess-[de.noun.gender]-der": {},
-  "process-[de.noun.en]-Prozess": {},
-  "operation/business-[de.noun.en]-Betrieb": {},
-  "Betrieb-[de.noun.gender]-der": {},
-  "connection/context-[de.noun.en]-Zusammenhang": {},
-  "Zusammenhang-[de.noun.gender]-der": {},
-  "law/statute-[de.noun.en]-Gesetz": {},
-  "Gesetz-[de.noun.gender]-das": {},
-  "arm-[de.noun.en]-Arm": {},
-  "Arm-[de.noun.gender]-der": {},
-  "firm/company-[de.noun.en]-Firma": {},
-  "Firma-[de.noun.gender]-die": {},
-  "strength/power-[de.noun.en]-Kraft": {},
-  "Kraft-[de.noun.gender]-die": {},
+  "film-[de.noun.en]-Film": {
+    "priorParams": [
+      1.082134910096545,
+      1.0000000000000215,
+      4717.526393769749
+    ],
+    "numDrills": 2,
+    "lastTime": 1612474015,
+    "lastResult": true
+  },
+  "Film-[de.noun.gender]-der": {
+    "priorParams": [
+      1.08208468548185,
+      0.9999999999999966,
+      4667.841683528463
+    ],
+    "numDrills": 2,
+    "lastTime": 1612473984,
+    "lastResult": true
+  },
+  "thought-[de.noun.en]-Gedanke": {
+    "priorParams": [
+      1.0830073227258588,
+      0.9999999999999902,
+      4722.95975536511
+    ],
+    "numDrills": 2,
+    "lastTime": 1612474038,
+    "lastResult": true
+  },
+  "Gedanke-[de.noun.gender]-der": {
+    "priorParams": [
+      1.9742800080495768,
+      2.0223580483253234,
+      1894.7653570694247
+    ],
+    "numDrills": 3,
+    "lastTime": 1612474135,
+    "lastResult": true
+  },
+  "doctor (m)-[de.noun.en]-Doktor": {
+    "priorParams": [
+      1.0822080318596645,
+      1.0000000000000238,
+      4694.106724813929
+    ],
+    "numDrills": 2,
+    "lastTime": 1612474009,
+    "lastResult": true
+  },
+  "Doktor-[de.noun.gender]-der": {
+    "priorParams": [
+      1.0828834068563882,
+      1.0000000000000016,
+      4690.255634024672
+    ],
+    "numDrills": 2,
+    "lastTime": 1612473996,
+    "lastResult": true
+  },
+  "girl-[de.noun.en]-M\u00e4dchen": {
+    "priorParams": [
+      1.0829196738193638,
+      1.0000000000000089,
+      4675.32368503684
+    ],
+    "numDrills": 2,
+    "lastTime": 1612473994,
+    "lastResult": true
+  },
+  "M\u00e4dchen-[de.noun.gender]-das": {
+    "priorParams": [
+      1.083393568705679,
+      1.000000000000011,
+      4724.0450265128375
+    ],
+    "numDrills": 2,
+    "lastTime": 1612474004,
+    "lastResult": true
+  },
+  "decision-[de.noun.en]-Entscheidung": {
+    "priorParams": [
+      1.082133971448623,
+      1.0000000000000102,
+      4716.606385776316
+    ],
+    "numDrills": 2,
+    "lastTime": 1612474012,
+    "lastResult": true
+  },
+  "Entscheidung-[de.noun.gender]-die": {
+    "priorParams": [
+      1.0826773091598658,
+      1.0000000000000162,
+      4730.864826173019
+    ],
+    "numDrills": 2,
+    "lastTime": 1612474028,
+    "lastResult": true
+  },
+  "(court) trial-[de.noun.en]-Prozess": {
+    "priorParams": [
+      1.0823072223623318,
+      1.0000000000000053,
+      4696.448378959746
+    ],
+    "numDrills": 2,
+    "lastTime": 1612473986,
+    "lastResult": true
+  },
+  "Prozess-[de.noun.gender]-der": {
+    "priorParams": [
+      1.976985094276327,
+      2.0224760545826523,
+      1888.909623336305
+    ],
+    "numDrills": 3,
+    "lastTime": 1612474131,
+    "lastResult": true
+  },
+  "process-[de.noun.en]-Prozess": {
+    "priorParams": [
+      1.0829099320505,
+      1.0000000000000073,
+      4663.361052047808
+    ],
+    "numDrills": 2,
+    "lastTime": 1612473989,
+    "lastResult": true
+  },
+  "operation/business-[de.noun.en]-Betrieb": {
+    "priorParams": [
+      1.0803904951323828,
+      1.0000000000000135,
+      4566.86727829413
+    ],
+    "numDrills": 2,
+    "lastTime": 1612474114,
+    "lastResult": true
+  },
+  "Betrieb-[de.noun.gender]-der": {
+    "priorParams": [
+      3.9947846309793404,
+      3.9676188264051153,
+      808.7277119449875
+    ],
+    "numDrills": 5,
+    "lastTime": 1612473991,
+    "lastResult": true
+  },
+  "connection/context-[de.noun.en]-Zusammenhang": {
+    "priorParams": [
+      1.078173931543149,
+      0.9999999999999875,
+      4525.243893642298
+    ],
+    "numDrills": 2,
+    "lastTime": 1612474064,
+    "lastResult": true
+  },
+  "Zusammenhang-[de.noun.gender]-der": {
+    "priorParams": [
+      1.080798452782171,
+      0.9999999999999883,
+      4574.395889699123
+    ],
+    "numDrills": 2,
+    "lastTime": 1612474119,
+    "lastResult": true
+  },
+  "law/statute-[de.noun.en]-Gesetz": {
+    "priorParams": [
+      1.9717093038281943,
+      2.023058734489355,
+      1806.398509399422
+    ],
+    "numDrills": 3,
+    "lastTime": 1612474127,
+    "lastResult": true
+  },
+  "Gesetz-[de.noun.gender]-das": {
+    "priorParams": [
+      2.1138371503437203,
+      2.054295069605287,
+      1807.520063023664
+    ],
+    "numDrills": 3,
+    "lastTime": 1612473659,
+    "lastResult": true
+  },
+  "arm-[de.noun.en]-Arm": {
+    "priorParams": [
+      1.0776348369640345,
+      0.9999999999999976,
+      4506.164642635869
+    ],
+    "numDrills": 2,
+    "lastTime": 1612474056,
+    "lastResult": true
+  },
+  "Arm-[de.noun.gender]-der": {
+    "priorParams": [
+      1.079760094290208,
+      0.9999999999999871,
+      4544.528016869894
+    ],
+    "numDrills": 2,
+    "lastTime": 1612474109,
+    "lastResult": true
+  },
+  "firm/company-[de.noun.en]-Firma": {
+    "priorParams": [
+      3.0517193196006596,
+      3.0275961266814018,
+      1150.0841242308877
+    ],
+    "numDrills": 4,
+    "lastTime": 1612474112,
+    "lastResult": true
+  },
+  "Firma-[de.noun.gender]-die": {
+    "priorParams": [
+      1.9650541953543663,
+      2.0213087914372303,
+      1794.7225412901953
+    ],
+    "numDrills": 3,
+    "lastTime": 1612474129,
+    "lastResult": true
+  },
+  "strength/power-[de.noun.en]-Kraft": {
+    "priorParams": [
+      1.0798675453876434,
+      1.0000000000000109,
+      4549.632055324342
+    ],
+    "numDrills": 2,
+    "lastTime": 1612474108,
+    "lastResult": true
+  },
+  "Kraft-[de.noun.gender]-die": {
+    "priorParams": [
+      1.0780854449004327,
+      1.00000000000002,
+      4504.2811986470815
+    ],
+    "numDrills": 2,
+    "lastTime": 1612474054,
+    "lastResult": true
+  },
   "student-[de.noun.en]-Student": {},
   "Student-[de.noun.gender]-der": {},
   "home-[de.noun.en]-Zuhause": {},
@@ -13232,7 +13437,6 @@
   "Beginn-[de.noun.gender]-der": {},
   "luck/fortune-[de.noun.en]-Gl\u00fcck": {},
   "Gl\u00fcck-[de.noun.gender]-das": {},
-  "weekend-[de.noun.en]-Wochenende": {},
   "professor (m)-[de.noun.en]-Professor": {},
   "Professor-[de.noun.gender]-der": {},
   "professor (f)-[de.noun.en]-Professorin": {},
@@ -13358,5 +13562,25 @@
   "chapter-[de.noun.en]-Kapitel": {},
   "Kapitel-[de.noun.gender]-das": {},
   "literature-[de.noun.en]-Literatur": {},
-  "Literatur-[de.noun.gender]-die": {}
+  "Literatur-[de.noun.gender]-die": {},
+  "doctor (f)-[de.noun.en]-Doktorin": {
+    "priorParams": [
+      1.0790760421528087,
+      0.9999999999999897,
+      4554.822651973896
+    ],
+    "numDrills": 2,
+    "lastTime": 1612474059,
+    "lastResult": true
+  },
+  "Doktorin-[de.noun.gender]-die": {
+    "priorParams": [
+      1.0079022993182403,
+      1.000000000000005,
+      3674.9593710674676
+    ],
+    "numDrills": 1,
+    "lastTime": 1612472846,
+    "lastResult": true
+  }
 }

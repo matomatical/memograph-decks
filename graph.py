@@ -1201,7 +1201,8 @@ de.noun --
  -- die -- Kirche       -- church
  -- der -- Film         -- film
  -- der -- Gedanke      -- thought
- -- der -- Doktor       -- doctor               # abbr. 'Dr.'
+ -- der -- Doktor       -- doctor (m)           # abbr. 'Dr.'
+ -- die -- Doktorin     -- doctor (f)
  -- das -- Mädchen      -- girl                 # 'little maid'
  -- die -- Entscheidung -- decision
  -- der -- Prozess      -- (court) trial
@@ -1429,10 +1430,10 @@ de.noun --
  -- der -- Donnerstag   -- Thursday
  -- der -- Freitag      -- Friday
  -- der -- Samstag      -- Saturday
- -- das -- Wochenende   -- Weekend
- -- die -- Woche        -- Week
- -- der -- Wochentag    -- Weekday
- -- der -- Monat        -- Month
+ -- das -- Wochenende   -- weekend
+ -- die -- Woche        -- week
+ -- der -- Wochentag    -- weekday
+ -- der -- Monat        -- month
  -- der -- Januar       -- January
  -- der -- Februar      -- February
  -- der -- März         -- March
@@ -1445,7 +1446,7 @@ de.noun --
  -- der -- Oktober      -- October
  -- der -- November     -- November
  -- der -- Dezember     -- December
- -- die -- Jahreszeit   -- Season
+ -- die -- Jahreszeit   -- season
  -- der -- Sommer       -- Summer
  -- der -- Herbst       -- Autumn
  -- der -- Winter       -- Winter
