@@ -1189,19 +1189,20 @@ de.noun --
  -- der -- Tisch        -- table
  -- die -- Zukunft      -- future
  -- das -- Spiel        -- game
- -- das -- Gefühl       -- feeling
+ -- das -- Gefühl       -- feeling
  -- das -- Licht        -- light
- -- der -- Präsident    -- president
+ -- der -- Präsident    -- president (m)
+ -- die -- Präsidentin  -- president (f)
  -- der -- Markt        -- market
  -- die -- Bank         -- bank
  -- die -- Partei       -- (political) party
  -- die -- Tochter      -- daughter
- -- das -- Verhältnis   -- relationship
+ -- das -- Verhältnis   -- relationship
  -- die -- Kirche       -- church
  -- der -- Film         -- film
  -- der -- Gedanke      -- thought
  -- der -- Doktor       -- doctor               # abbr. 'Dr.'
- -- das -- Mädchen      -- girl                 # 'little maid'
+ -- das -- Mädchen      -- girl                 # 'little maid'
  -- die -- Entscheidung -- decision
  -- der -- Prozess      -- (court) trial
  -- der -- Prozess      -- process
@@ -1233,10 +1234,10 @@ de.noun --
  -- der -- Arzt         -- doctor (m)
  -- der -- Ärztin       -- doctor (f)
  -- der -- Fuß          -- foot
- -- der -- Körper       -- body
+ -- der -- Körper       -- body
  -- die -- Klasse       -- class (school, social)
- -- die -- Lösung       -- solution
- -- die -- Höhe         -- height (altitude, limit)
+ -- die -- Lösung       -- solution
+ -- die -- Höhe         -- height (altitude, limit)
  -- der -- Junge        -- boy
  -- das -- Fenster      -- window
  -- die -- Luft         -- air
@@ -1257,7 +1258,7 @@ de.noun --
  -- der -- Mitarbeiter      -- collaborator (m)
  -- die -- Mitarbeiterin    -- collaborator (f)
  -- der -- Tod          -- death
- -- das -- Geschäft     -- business             # all of the english senses
+ -- das -- Geschäft     -- business             # all of the english senses
  -- der -- Spaß         -- fun
  -- die -- Wirtschaft   -- economy/commerce
  -- das -- Tier         -- animal
@@ -1274,7 +1275,7 @@ de.noun --
  -- die -- Kollegin     -- colleague (f)
  -- die -- Angabe       -- statement
  -- der -- Bruder       -- brother
- -- die -- Verfügung    -- decree
+ -- die -- Verfügung    -- decree
  -- das -- Fach         -- compartment
  -- das -- Fach         -- field/subject        # is it related to faculty?
  -- das -- Herz         -- heart
@@ -1298,7 +1299,7 @@ de.noun --
  -- das -- Theater      -- theatre
  -- die -- Ausbildung   -- training
  -- die -- Gefahr       -- danger
- -- das -- Gerät        -- piece of equipment
+ -- das -- Gerät        -- piece of equipment
  -- der -- Kilometer    -- kilometre
  -- die -- Hilfe        -- help
  -- der -- Computer     -- computer
@@ -1311,14 +1312,14 @@ de.noun --
  -- die -- Ordnung      -- order (tidiness, structure)
  -- der -- Stoff        -- substance
  -- der -- Beginn       -- beginning
- -- das -- Glück        -- luck/fortune
+ -- das -- Glück        -- luck/fortune
  -- das -- Wochenende   -- weekend
  -- der -- Professor    -- professor (m)
  -- der -- Professorin  -- professor (f)
  -- die -- Reihe        -- row
  -- die -- Reihe        -- series (math)
  -- der -- Westen       -- west                 # also just 'West' will do
- -- die -- Bevölkerung  -- population/people
+ -- die -- Bevölkerung  -- population/people
  -- das -- Institut     -- institute
  -- der -- Osten        -- east                 # also just 'Ost' will do
  -- die -- Schwester    -- sister
@@ -1330,7 +1331,7 @@ de.noun --
  -- die -- Einheit      -- unity
  -- das -- Haar         -- hair
  -- der -- Montag       -- Monday
- -- die -- Nähe         -- neighbourhood/vicinity
+ -- die -- Nähe         -- neighbourhood/vicinity
  -- das -- Prinzip      -- principle
  -- der -- Vorteil      -- advantage
  -- die -- Struktur     -- structure
@@ -1341,12 +1342,12 @@ de.noun --
  -- die -- Wahl         -- election
  -- die -- Wirkung      -- effect
  -- der -- Brief        -- letter
- -- die -- Größe        -- size/height
+ -- die -- Größe        -- size/height
  -- plu -- Medien       -- media
  -- der -- Sonntag      -- Sunday
  -- die -- Macht        -- might/strength
  -- die -- Untersuchung -- investigation/examination
- -- die -- Veränderung  -- change
+ -- die -- Veränderung  -- change
  -- das -- Datum        -- data                 # used in plural (die Daten)
  -- der -- Einfluss     -- influence
  -- die -- Methode      -- method
@@ -1365,10 +1366,10 @@ de.noun --
  -- der -- Versuch      -- attempt              # also experiment/test
  -- die -- Krankheit        -- illness
  -- die -- Schwierigkeit    -- difficulty
- -- die -- Tätigkeit        -- activity
+ -- die -- Tätigkeit        -- activity
  -- die -- Voraussetzung    -- prerequisite
  -- der -- Kampf        -- fight/struggle
- -- der -- Künstler     -- artist (m)
+ -- der -- Künstler     -- artist (m)
  -- die -- Künstlerin   -- artist (f)
  -- die -- Region       -- region
  -- der -- Eindruck     -- impression
