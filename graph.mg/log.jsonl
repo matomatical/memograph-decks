@@ -7136,3 +7136,357 @@
 {'id': 'music-[de.noun.en]-Musik', 'time': 1612551658, 'event': 'DRILL', 'data': {'got': True}}
 {'id': 'Frühling-[de.noun.gender]-der', 'time': 1612551662, 'event': 'DRILL', 'data': {'got': False}}
 {'id': 'politics-[de.noun.en]-Politik', 'time': 1612551669, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'January-[de.noun.en]-Januar', 'time': 1612552973, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'praise-[de.noun.en]-Preis', 'time': 1612552976, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Preis-[de.noun.gender]-der', 'time': 1612552978, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Samstag-[de.noun.gender]-der', 'time': 1612552980, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Morgen-[de.noun.gender]-das', 'time': 1612552983, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Sohn-[de.noun.gender]-der', 'time': 1612552985, 'event': 'DRILL', 'data': {'got': True}}
+{'id': '(foot) step-[de.noun.en]-Schritt', 'time': 1612552987, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Schwarzseherin-[de.noun.gender]-die', 'time': 1612552991, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'tomorrow (vague)-[de.noun.en]-Morgen', 'time': 1612552994, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Vormittag-[de.noun.gender]-der', 'time': 1612552996, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Dienstag-[de.noun.gender]-der', 'time': 1612552997, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Abbildung-[de.noun.gender]-die', 'time': 1612552999, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'April-[de.noun.en]-April', 'time': 1612553003, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'ochre-[de.adj]-ocker', 'time': 1612553005, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to turn black (with anger)-[de.verb]-schwarzärgern sich', 'time': 1612553014, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Monday-[de.noun.en]-Montag', 'time': 1612553017, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'May-[de.noun.en]-Mai', 'time': 1612553019, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Rahmen-[de.noun.gender]-der', 'time': 1612553023, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'weekday-[de.noun.en]-Wochentag', 'time': 1612553029, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Oktober-[de.noun.gender]-der', 'time': 1612553031, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Begriff-[de.noun.gender]-der', 'time': 1612553035, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'grey area-[de.noun.en]-Grauzone', 'time': 1612553038, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'function-[de.noun.en]-Funktion', 'time': 1612553043, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'voice-[de.noun.en]-Stimme', 'time': 1612553046, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Thursday-[de.noun.en]-Donnerstag', 'time': 1612553053, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'midday-[de.noun.en]-Mittag', 'time': 1612553055, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Saturday-[de.noun.en]-Samstag', 'time': 1612553058, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'date-[de.noun.en]-Datum', 'time': 1612553061, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Friday-[de.noun.en]-Freitag', 'time': 1612553064, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Wochenende-[de.noun.gender]-das', 'time': 1612553067, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'November-[de.noun.en]-November', 'time': 1612553071, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'November-[de.noun.gender]-der', 'time': 1612553074, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'work-[de.noun.en]-Werk', 'time': 1612553078, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'semester-[de.noun.en]-Semester', 'time': 1612553081, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Lehrer-[de.noun.gender]-der', 'time': 1612553084, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'teacher (f)-[de.noun.en]-Lehrerin', 'time': 1612553087, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Morgenrot-[de.noun.gender]-das', 'time': 1612553091, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'drunk-[de.adj]-blau', 'time': 1612553093, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Juli-[de.noun.gender]-der', 'time': 1612553095, 'event': 'DRILL', 'data': {'got': True}}
+{'id': "'black rider' (fare evader) (f)-[de.noun.en]-Schwarzfahrerin", 'time': 1612553101, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'teacher (m)-[de.noun.en]-Lehrer', 'time': 1612553104, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to become red/blush-[de.verb]-rot werden', 'time': 1612553108, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'afternoon-[de.noun.en]-Nachmittag', 'time': 1612553113, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'August-[de.noun.gender]-der', 'time': 1612553116, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'June-[de.noun.en]-Juni', 'time': 1612553118, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'midnight-[de.noun.en]-Mitternacht', 'time': 1612553121, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Summer semester-[de.noun.en]-Sommersemester', 'time': 1612553125, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Werk-[de.noun.gender]-das', 'time': 1612553128, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'Winter semester-[de.noun.en]-Wintersemester', 'time': 1612553131, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'brown-[de.adj]-braun', 'time': 1612553133, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Tuesday-[de.noun.en]-Dienstag', 'time': 1612553140, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Frühlingsemester-[de.noun.gender]-das', 'time': 1612553145, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Januar-[de.noun.gender]-der', 'time': 1612553150, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'gray-[de.adj]-grau', 'time': 1612553153, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Freitag-[de.noun.gender]-der', 'time': 1612553155, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Semester-[de.noun.gender]-das', 'time': 1612553157, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'metre-[de.noun.en]-Meter', 'time': 1612553159, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'December-[de.noun.en]-Dezember', 'time': 1612553162, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Schwarzfahrer-[de.noun.gender]-der', 'time': 1612553165, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Spring semester-[de.noun.en]-Frühlingsemester', 'time': 1612553176, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Juni-[de.noun.gender]-der', 'time': 1612553177, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'blue-eyed/naive-[de.adj]-blauäugig', 'time': 1612553182, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'lilac-[de.adj]-lila', 'time': 1612553184, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Herbst-[de.noun.gender]-der', 'time': 1612553188, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'Donnerstag-[de.noun.gender]-der', 'time': 1612553190, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'turquoise-[de.adj]-türkis', 'time': 1612553192, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Begriff-[de.noun.gender]-der', 'time': 1612553207, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Beruf-[de.noun.gender]-der', 'time': 1612553210, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'experience-[de.noun.en]-Erfahrung', 'time': 1612553216, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Absatz-[de.noun.gender]-der', 'time': 1612553218, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Frühling-[de.noun.gender]-der', 'time': 1612553220, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Herbst-[de.noun.gender]-der', 'time': 1612553221, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Werk-[de.noun.gender]-das', 'time': 1612553223, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to announce/herald-[de.verb]-ankündigen', 'time': 1612553227, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Gesetz-[de.noun.gender]-das', 'time': 1612553232, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'Gesetz-[de.noun.gender]-das', 'time': 1612553235, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'operation/business-[de.noun.en]-Betrieb', 'time': 1612605062, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Absatz-[de.noun.gender]-der', 'time': 1612605066, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Betrieb-[de.noun.gender]-der', 'time': 1612605068, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'experience-[de.noun.en]-Erfahrung', 'time': 1612605075, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Gesetz-[de.noun.gender]-das', 'time': 1612605079, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to avoid-[de.verb]-vermeiden', 'time': 1612605082, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Partei-[de.noun.gender]-die', 'time': 1612605085, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to turn-[de.verb]-wenden', 'time': 1612605089, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Gedanke-[de.noun.gender]-der', 'time': 1612605095, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Verhältnis-[de.noun.gender]-das', 'time': 1612605097, 'event': 'DRILL', 'data': {'got': True}}
+{'id': "to 'paint black' (be pessimistic)-[de.verb]-schwarzmalen", 'time': 1612605102, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'firm/company-[de.noun.en]-Firma', 'time': 1612605104, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Stimme-[de.noun.gender]-die', 'time': 1612605108, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Jahrhundert-[de.noun.gender]-das', 'time': 1612605111, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to substantiate/justify-[de.verb]-begründen', 'time': 1612605117, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to brown/tan-[de.verb]-bräunen', 'time': 1612605120, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'son-[de.noun.en]-Sohn', 'time': 1612605123, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'beige-[de.adj]-beige', 'time': 1612605125, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Spring-[de.noun.en]-Frühling', 'time': 1612605141, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Februar-[de.noun.gender]-der', 'time': 1612605144, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'July-[de.noun.en]-Juli', 'time': 1612605146, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Schwarzfahrerin-[de.noun.gender]-die', 'time': 1612605148, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Abendrot-[de.noun.gender]-das', 'time': 1612605150, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Winter-[de.noun.gender]-der', 'time': 1612605152, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Wochentag-[de.noun.gender]-der', 'time': 1612605153, 'event': 'DRILL', 'data': {'got': True}}
+{'id': "'black rider' (fare evader) (m)-[de.noun.en]-Schwarzfahrer", 'time': 1612605157, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Mitternacht-[de.noun.gender]-die', 'time': 1612605158, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'future-[de.noun.en]-Morgen', 'time': 1612605167, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Datum-[de.noun.gender]-das', 'time': 1612605169, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'April-[de.noun.gender]-der', 'time': 1612605171, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Autumn semester-[de.noun.en]-Herbstsemester', 'time': 1612605175, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Mittag-[de.noun.gender]-der', 'time': 1612605177, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'pink-[de.adj]-rosa', 'time': 1612605179, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'März-[de.noun.gender]-der', 'time': 1612605180, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'prize-[de.noun.en]-Preis', 'time': 1612605182, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'March-[de.noun.en]-März', 'time': 1612605185, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'gold-[de.adj]-gold', 'time': 1612605188, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'illustration-[de.noun.en]-Abbildung', 'time': 1612605195, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Winter-[de.noun.en]-Winter', 'time': 1612605198, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Mittwoch-[de.noun.gender]-der', 'time': 1612605200, 'event': 'DRILL', 'data': {'got': True}}
+{'id': "'black seer' (pessimist) (m)-[de.noun.en]-Schwarzseher", 'time': 1612605208, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'weekend-[de.noun.en]-Wochenende', 'time': 1612605211, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to assert/maintain-[de.verb]-behaupten', 'time': 1612605216, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'concept/idea-[de.noun.en]-Begriff', 'time': 1612605219, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Wednesday-[de.noun.en]-Mittwoch', 'time': 1612605223, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'morning red sky-[de.noun.en]-Morgenrot', 'time': 1612605226, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to see red-[de.verb]-rotsehen', 'time': 1612605229, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Sommer-[de.noun.gender]-der', 'time': 1612605231, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'yellow-[de.adj]-gelb', 'time': 1612605233, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'dot/point/period-[de.noun.en]-Punkt', 'time': 1612605236, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Wintersemester-[de.noun.gender]-das', 'time': 1612605239, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Lehrerin-[de.noun.gender]-die', 'time': 1612605240, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'silver-[de.adj]-silber', 'time': 1612605242, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'according to-[de.prep.dat]-zufolge', 'time': 1612605247, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'September-[de.noun.en]-September', 'time': 1612605255, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'September-[de.noun.gender]-der', 'time': 1612605257, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'February-[de.noun.en]-Februar', 'time': 1612605260, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Summer-[de.noun.en]-Sommer', 'time': 1612605261, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Sonntag-[de.noun.gender]-der', 'time': 1612605264, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'price-[de.noun.en]-Preis', 'time': 1612605266, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Nachmittag-[de.noun.gender]-der', 'time': 1612605270, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to turn/shift/spin-[de.verb]-drehen', 'time': 1612605273, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Dezember-[de.noun.gender]-der', 'time': 1612605275, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'August-[de.noun.en]-August', 'time': 1612605279, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'situation-[de.noun.en]-Situation', 'time': 1612605281, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Montag-[de.noun.gender]-der', 'time': 1612605312, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'beforemidday-[de.noun.en]-Vormittag', 'time': 1612605315, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'bottom/ground-[de.noun.en]-Boden', 'time': 1612605318, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Autumn-[de.noun.en]-Herbst', 'time': 1612605321, 'event': 'DRILL', 'data': {'got': True}}
+{'id': "to 'make blue' (skip work)-[de.verb]-blaumachen", 'time': 1612605324, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Jahreszeit-[de.noun.gender]-die', 'time': 1612605327, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'century-[de.noun.en]-Jahrhundert', 'time': 1612605334, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to press/push-[de.verb]-drücken', 'time': 1612605341, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'October-[de.noun.en]-Oktober', 'time': 1612605346, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Sunday-[de.noun.en]-Sonntag', 'time': 1612605349, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'violet-[de.adj]-violett', 'time': 1612605351, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Schwarzseher-[de.noun.gender]-der', 'time': 1612605354, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Mai-[de.noun.gender]-der', 'time': 1612605355, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'blue-[de.adj]-blau', 'time': 1612605358, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to do without-[de.verb]-verzichten', 'time': 1612605365, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'Zuhause-[de.noun.gender]-das', 'time': 1612605391, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'chance-[de.noun.en]-Chance', 'time': 1612605394, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'home-[de.noun.en]-Zuhause', 'time': 1612605396, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Chance-[de.noun.gender]-die', 'time': 1612605398, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'student (m)-[de.noun.en]-Student', 'time': 1612605401, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Student-[de.noun.gender]-der', 'time': 1612605403, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'border/frontier/limit-[de.noun.en]-Grenze', 'time': 1612605408, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Zeitung-[de.noun.gender]-die', 'time': 1612605411, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Erfolg-[de.noun.gender]-der', 'time': 1612605413, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'success-[de.noun.en]-Erfolg', 'time': 1612605416, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'newspaper-[de.noun.en]-Zeitung', 'time': 1612605419, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Grenze-[de.noun.gender]-die', 'time': 1612605423, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'sentence-[de.noun.en]-Satz', 'time': 1612605428, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Satz-[de.noun.gender]-der', 'time': 1612605430, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'offer-[de.noun.en]-Angebot', 'time': 1612605433, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Internet-[de.noun.gender]-das', 'time': 1612605436, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Angebot-[de.noun.gender]-das', 'time': 1612605439, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'internet-[de.noun.en]-Internet', 'time': 1612605443, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'culture-[de.noun.en]-Kultur', 'time': 1612605452, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Leistung-[de.noun.gender]-die', 'time': 1612605455, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Kultur-[de.noun.gender]-die', 'time': 1612605456, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Lage-[de.noun.gender]-die', 'time': 1612605459, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'achievement/performance-[de.noun.en]-Leistung', 'time': 1612605462, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'position (situation, location)-[de.noun.en]-Lage', 'time': 1612605466, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'success-[de.noun.en]-Erfolg', 'time': 1612605479, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Zuhause-[de.noun.gender]-das', 'time': 1612605484, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'student (m)-[de.noun.en]-Student', 'time': 1612605487, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'achievement/performance-[de.noun.en]-Leistung', 'time': 1612605493, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Student-[de.noun.gender]-der', 'time': 1612605495, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'position (situation, location)-[de.noun.en]-Lage', 'time': 1612605501, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'culture-[de.noun.en]-Kultur', 'time': 1612605503, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'internet-[de.noun.en]-Internet', 'time': 1612605505, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Grenze-[de.noun.gender]-die', 'time': 1612605508, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Lage-[de.noun.gender]-die', 'time': 1612605509, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'home-[de.noun.en]-Zuhause', 'time': 1612605512, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'chance-[de.noun.en]-Chance', 'time': 1612605514, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Zeitung-[de.noun.gender]-die', 'time': 1612605518, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'sentence-[de.noun.en]-Satz', 'time': 1612605520, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Leistung-[de.noun.gender]-die', 'time': 1612605523, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Satz-[de.noun.gender]-der', 'time': 1612605525, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Kultur-[de.noun.gender]-die', 'time': 1612605526, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Erfolg-[de.noun.gender]-der', 'time': 1612605528, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'border/frontier/limit-[de.noun.en]-Grenze', 'time': 1612605530, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'newspaper-[de.noun.en]-Zeitung', 'time': 1612605533, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Internet-[de.noun.gender]-das', 'time': 1612605535, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'offer-[de.noun.en]-Angebot', 'time': 1612605537, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Chance-[de.noun.gender]-die', 'time': 1612605539, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Angebot-[de.noun.gender]-das', 'time': 1612605545, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'student (f)-[de.noun.en]-Studentin', 'time': 1612605618, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Projekt-[de.noun.gender]-das', 'time': 1612605622, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Mitglied-[de.noun.gender]-das', 'time': 1612605625, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Studentin-[de.noun.gender]-die', 'time': 1612605627, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'project-[de.noun.en]-Projekt', 'time': 1612605630, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'member-[de.noun.en]-Mitglied', 'time': 1612605632, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'chief/boss (f)-[de.noun.en]-Chefin', 'time': 1612605637, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'room-[de.noun.en]-Zimmer', 'time': 1612605641, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Chefin-[de.noun.gender]-die', 'time': 1612605643, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'chief/boss (m)-[de.noun.en]-Chef', 'time': 1612605646, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Chef-[de.noun.gender]-der', 'time': 1612605648, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Zimmer-[de.noun.gender]-das', 'time': 1612605650, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'doctor (m)-[de.noun.en]-Arzt', 'time': 1612605716, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Arzt-[de.noun.gender]-der', 'time': 1612605718, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Ärztin-[de.noun.gender]-die', 'time': 1612605721, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'train-[de.noun.en]-Zug', 'time': 1612605726, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Zug-[de.noun.gender]-der', 'time': 1612605728, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'doctor (f)-[de.noun.en]-Ärztin', 'time': 1612605729, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'foot-[de.noun.en]-Fuß', 'time': 1612605732, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'class (school, social)-[de.noun.en]-Klasse', 'time': 1612605733, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'body-[de.noun.en]-Körper', 'time': 1612605734, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Klasse-[de.noun.gender]-die', 'time': 1612605735, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Körper-[de.noun.gender]-der', 'time': 1612605736, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Fuß-[de.noun.gender]-der', 'time': 1612605737, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Angebot-[de.noun.gender]-das', 'time': 1612605893, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Zimmer-[de.noun.gender]-das', 'time': 1612605895, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Studentin-[de.noun.gender]-die', 'time': 1612605896, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Chefin-[de.noun.gender]-die', 'time': 1612605897, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'member-[de.noun.en]-Mitglied', 'time': 1612605900, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'doctor (f)-[de.noun.en]-Ärztin', 'time': 1612605907, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Körper-[de.noun.gender]-der', 'time': 1612605908, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'room-[de.noun.en]-Zimmer', 'time': 1612605911, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'class (school, social)-[de.noun.en]-Klasse', 'time': 1612605913, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'student (f)-[de.noun.en]-Studentin', 'time': 1612605915, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to do without-[de.verb]-verzichten', 'time': 1612605922, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'Chef-[de.noun.gender]-der', 'time': 1612605923, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Klasse-[de.noun.gender]-die', 'time': 1612605925, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'chief/boss (f)-[de.noun.en]-Chefin', 'time': 1612605928, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Projekt-[de.noun.gender]-das', 'time': 1612605931, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'project-[de.noun.en]-Projekt', 'time': 1612605933, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Zug-[de.noun.gender]-der', 'time': 1612605937, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'foot-[de.noun.en]-Fuß', 'time': 1612605942, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'chief/boss (m)-[de.noun.en]-Chef', 'time': 1612605946, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Arzt-[de.noun.gender]-der', 'time': 1612605948, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'doctor (m)-[de.noun.en]-Arzt', 'time': 1612605951, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Ärztin-[de.noun.gender]-die', 'time': 1612605953, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'body-[de.noun.en]-Körper', 'time': 1612605955, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Mitglied-[de.noun.gender]-das', 'time': 1612605960, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'train-[de.noun.en]-Zug', 'time': 1612605962, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Fuß-[de.noun.gender]-der', 'time': 1612605964, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'idea-[de.noun.en]-Idee', 'time': 1612606035, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'opinion-[de.noun.en]-Meinung', 'time': 1612606037, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'window-[de.noun.en]-Fenster', 'time': 1612606039, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Höhe-[de.noun.gender]-die', 'time': 1612606042, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'product-[de.noun.en]-Produkt', 'time': 1612606044, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Lösung-[de.noun.gender]-die', 'time': 1612606046, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'boy-[de.noun.en]-Junge', 'time': 1612606049, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'height (altitude, limit)-[de.noun.en]-Höhe', 'time': 1612606052, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Meinung-[de.noun.gender]-die', 'time': 1612606055, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Idee-[de.noun.gender]-die', 'time': 1612606056, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'solution-[de.noun.en]-Lösung', 'time': 1612606059, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Junge-[de.noun.gender]-der', 'time': 1612606061, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Luft-[de.noun.gender]-die', 'time': 1612606063, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Produkt-[de.noun.gender]-das', 'time': 1612606065, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'air-[de.noun.en]-Luft', 'time': 1612606068, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Fenster-[de.noun.gender]-das', 'time': 1612606070, 'event': 'LEARN', 'data': {'prior': [1, 1, 3600]}}
+{'id': 'Mitglied-[de.noun.gender]-das', 'time': 1612606083, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'window-[de.noun.en]-Fenster', 'time': 1612606085, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'product-[de.noun.en]-Produkt', 'time': 1612606088, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'idea-[de.noun.en]-Idee', 'time': 1612606089, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'opinion-[de.noun.en]-Meinung', 'time': 1612606092, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Höhe-[de.noun.gender]-die', 'time': 1612606094, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'height (altitude, limit)-[de.noun.en]-Höhe', 'time': 1612606099, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Idee-[de.noun.gender]-die', 'time': 1612606101, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'solution-[de.noun.en]-Lösung', 'time': 1612606103, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'boy-[de.noun.en]-Junge', 'time': 1612606105, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Meinung-[de.noun.gender]-die', 'time': 1612606108, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Lösung-[de.noun.gender]-die', 'time': 1612606110, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'air-[de.noun.en]-Luft', 'time': 1612606114, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Junge-[de.noun.gender]-der', 'time': 1612606117, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Fenster-[de.noun.gender]-das', 'time': 1612606119, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Luft-[de.noun.gender]-die', 'time': 1612606121, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Produkt-[de.noun.gender]-das', 'time': 1612606123, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to do without-[de.verb]-verzichten', 'time': 1612606159, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Beruf-[de.noun.gender]-der', 'time': 1612606169, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'doctor (m)-[de.noun.en]-Doktor', 'time': 1612606173, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'process-[de.noun.en]-Prozess', 'time': 1612606176, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Frühling-[de.noun.gender]-der', 'time': 1612606178, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'in accordance with-[de.prep.dat]-gemäß', 'time': 1612606181, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'doctor (f)-[de.noun.en]-Doktorin', 'time': 1612606185, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Doktorin-[de.noun.gender]-die', 'time': 1612606187, 'event': 'DRILL', 'data': {'got': True}}
+{'id': '(court) trial-[de.noun.en]-Prozess', 'time': 1612606191, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'connection/context-[de.noun.en]-Zusammenhang', 'time': 1612606203, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'arm-[de.noun.en]-Arm', 'time': 1612606207, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Kraft-[de.noun.gender]-die', 'time': 1612606208, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Bank-[de.noun.gender]-die', 'time': 1612606210, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'girl-[de.noun.en]-Mädchen', 'time': 1612606214, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Kirche-[de.noun.gender]-die', 'time': 1612606215, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to prevent-[de.verb]-verhindern', 'time': 1612606221, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'decision-[de.noun.en]-Entscheidung', 'time': 1612606226, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'film-[de.noun.en]-Film', 'time': 1612606228, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to represent-[de.verb]-vertreten', 'time': 1612606238, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'Gefühl-[de.noun.gender]-das', 'time': 1612606243, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to grasp-[de.verb]-fassen', 'time': 1612606246, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Arm-[de.noun.gender]-der', 'time': 1612606248, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to strengthen/reinforce-[de.verb]-verstärken', 'time': 1612606256, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to proceed with-[de.verb]-betreiben', 'time': 1612606263, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'strength/power-[de.noun.en]-Kraft', 'time': 1612606267, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to concern-[de.verb]-kümmern', 'time': 1612606271, 'event': 'DRILL', 'data': {'got': True}}
+{'id': '(political) party-[de.noun.en]-Partei', 'time': 1612606273, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Doktor-[de.noun.gender]-der', 'time': 1612606275, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Information-[de.noun.gender]-die', 'time': 1612606278, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'feeling-[de.noun.en]-Gefühl', 'time': 1612606284, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Werk-[de.noun.gender]-das', 'time': 1612606286, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to force-[de.verb]-zwingen', 'time': 1612606294, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'relationship-[de.noun.en]-Beziehung', 'time': 1612606300, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to turn out-[de.verb]-geraten', 'time': 1612606303, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to raise-[de.verb]-erheben', 'time': 1612606306, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'law/statute-[de.noun.en]-Gesetz', 'time': 1612606309, 'event': 'DRILL', 'data': {'got': True}}
+{'id': '(to) herself/itself (f)-[de.pron.reflexive]-sich', 'time': 1612606318, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to come into-[de.verb]-geraten', 'time': 1612606320, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Film-[de.noun.gender]-der', 'time': 1612606338, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Markt-[de.noun.gender]-der', 'time': 1612606341, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to serve (ball)-[de.verb]-angeben', 'time': 1612606344, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Begriff-[de.noun.gender]-der', 'time': 1612606347, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to remove-[de.verb]-entfernen', 'time': 1612606351, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Zusammenhang-[de.noun.gender]-der', 'time': 1612606355, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Firma-[de.noun.gender]-die', 'time': 1612606357, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'before/until-[de.conj.sub]-ehe', 'time': 1612606362, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to consider-[de.verb]-berücksichtigen', 'time': 1612606374, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to pursue-[de.verb]-verfolgen', 'time': 1612606383, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'first-[de.adv]-erst', 'time': 1612606388, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to announce/herald-[de.verb]-ankündigen', 'time': 1612606392, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to mention-[de.verb]-erwähnen', 'time': 1612606398, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to feel-[de.verb]-empfinden', 'time': 1612606404, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Herbst-[de.noun.gender]-der', 'time': 1612606406, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to advocate-[de.verb]-vertreten', 'time': 1612606410, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Prozess-[de.noun.gender]-der', 'time': 1612606418, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'concerning-[de.prep.gen]-bezüglich', 'time': 1612606426, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'in accordance (of)-[de.prep.gen]-laut*', 'time': 1612606429, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to distinguish-[de.verb]-unterscheiden', 'time': 1612606464, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to restrict/limit-[de.verb]-beschränken', 'time': 1612606468, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Programm-[de.noun.gender]-das', 'time': 1612606473, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'again-[de.adv]-nochmal', 'time': 1612606481, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to pursue-[de.verb]-verfolgen', 'time': 1612606493, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'to represent-[de.verb]-vertreten', 'time': 1612606498, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Programm-[de.noun.gender]-das', 'time': 1612606499, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Prozess-[de.noun.gender]-der', 'time': 1612606503, 'event': 'DRILL', 'data': {'got': False}}
+{'id': 'Information-[de.noun.gender]-die', 'time': 1612606505, 'event': 'DRILL', 'data': {'got': True}}
+{'id': 'Prozess-[de.noun.gender]-der', 'time': 1612606509, 'event': 'DRILL', 'data': {'got': True}}

@@ -1214,7 +1214,8 @@ de.noun --
  -- die -- Firma        -- firm/company
  -- die -- Kraft        -- strength/power
  -- der -- September    -- September
- -- der -- Student      -- student
+ -- der -- Student      -- student (m)
+ -- die -- Studentin    -- student (f)
  -- das -- Zuhause      -- home
  -- die -- Chance       -- chance
  -- die -- Zeitung      -- newspaper
@@ -1233,7 +1234,7 @@ de.noun --
  -- die -- Chefin       -- chief/boss (f)
  -- der -- Zug          -- train
  -- der -- Arzt         -- doctor (m)
- -- der -- Ärztin       -- doctor (f)
+ -- die -- Ärztin       -- doctor (f)
  -- der -- Fuß          -- foot
  -- der -- Körper       -- body
  -- die -- Klasse       -- class (school, social)
