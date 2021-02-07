@@ -8057,3 +8057,63 @@
 {"id": "some/few a-[de.art.der]-einiger", "time": 1612684079, "event": "DRILL", "data": {"got": true}}
 {"id": "that/those-[de.art.der]-jener", "time": 1612684082, "event": "DRILL", "data": {"got": true}}
 {"id": "in favour (of)-[de.prep.gen]-zugunsten", "time": 1612684085, "event": "DRILL", "data": {"got": true}}
+{"id": "Bewegung-[de.noun.gender]-die", "time": 1612685094, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "animal-[de.noun.en]-Tier", "time": 1612685097, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "economy/commerce-[de.noun.en]-Wirtschaft", "time": 1612685100, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "motion-[de.noun.en]-Bewegung", "time": 1612685103, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Tier-[de.noun.gender]-das", "time": 1612685106, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Wirtschaft-[de.noun.gender]-die", "time": 1612685108, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Gast-[de.noun.gender]-der", "time": 1612685111, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "guest-[de.noun.en]-Gast", "time": 1612685112, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "security/safety-[de.noun.en]-Sicherheit", "time": 1612685115, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "inset/compartment-[de.noun.en]-Einsatz", "time": 1612685119, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Sicherheit-[de.noun.gender]-die", "time": 1612685124, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Einsatz-[de.noun.gender]-der", "time": 1612685127, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "vgl.-[de.abbr]-vergleiche", "time": 1612685142, "event": "DRILL", "data": {"got": true}}
+{"id": "bzw.-[de.abbr]-beziehungsweise", "time": 1612685151, "event": "DRILL", "data": {"got": true}}
+{"id": "v.C.-[de.abbr]-vor Christus", "time": 1612685154, "event": "DRILL", "data": {"got": true}}
+{"id": "besides/as well-[de.adv]-au\u00dferdem", "time": 1612685158, "event": "DRILL", "data": {"got": true}}
+{"id": "d.h.-[de.abbr]-das hei\u00dft", "time": 1612685160, "event": "DRILL", "data": {"got": true}}
+{"id": "additional-[de.adj]-zus\u00e4tzlich", "time": 1612685164, "event": "DRILL", "data": {"got": false}}
+{"id": "tomorrow-[de.adv]-morgen", "time": 1612685169, "event": "DRILL", "data": {"got": true}}
+{"id": "ca.-[de.abbr]-zirka", "time": 1612685171, "event": "DRILL", "data": {"got": true}}
+{"id": "u.a.-[de.abbr]-unter anderem", "time": 1612685179, "event": "DRILL", "data": {"got": false}}
+{"id": "usw.-[de.abbr]-und so weiter", "time": 1612685183, "event": "DRILL", "data": {"got": true}}
+{"id": "z.B.-[de.abbr]-zum Beispiel", "time": 1612685187, "event": "DRILL", "data": {"got": true}}
+{"id": "n.C.-[de.abbr]-nach Christus", "time": 1612685190, "event": "DRILL", "data": {"got": true}}
+{"id": "instead (of)-[de.prep.gen]-statt*", "time": 1612685199, "event": "DRILL", "data": {"got": true}}
+{"id": "earlier-[de.adv]-eher", "time": 1612685202, "event": "DRILL", "data": {"got": true}}
+{"id": "them-[de.pron.personal.akk]-sie", "time": 1612685207, "event": "DRILL", "data": {"got": true}}
+{"id": "one-[de.pron.personal.akk]-einen", "time": 1612685209, "event": "DRILL", "data": {"got": true}}
+{"id": "whom-[de.pron.relative]-wen", "time": 1612685212, "event": "DRILL", "data": {"got": false}}
+{"id": "neither - nor-[de.conj.coo]-weder* - noch*", "time": 1612685219, "event": "DRILL", "data": {"got": true}}
+{"id": "animal-[de.noun.en]-Tier", "time": 1612685234, "event": "DRILL", "data": {"got": true}}
+{"id": "Sicherheit-[de.noun.gender]-die", "time": 1612685236, "event": "DRILL", "data": {"got": true}}
+{"id": "Gast-[de.noun.gender]-der", "time": 1612685238, "event": "DRILL", "data": {"got": true}}
+{"id": "economy/commerce-[de.noun.en]-Wirtschaft", "time": 1612685242, "event": "DRILL", "data": {"got": true}}
+{"id": "u.a.-[de.abbr]-unter anderem", "time": 1612685246, "event": "DRILL", "data": {"got": false}}
+{"id": "Wirtschaft-[de.noun.gender]-die", "time": 1612685249, "event": "DRILL", "data": {"got": true}}
+{"id": "security/safety-[de.noun.en]-Sicherheit", "time": 1612685253, "event": "DRILL", "data": {"got": true}}
+{"id": "Einsatz-[de.noun.gender]-der", "time": 1612685256, "event": "DRILL", "data": {"got": true}}
+{"id": "inset/compartment-[de.noun.en]-Einsatz", "time": 1612685259, "event": "DRILL", "data": {"got": true}}
+{"id": "motion-[de.noun.en]-Bewegung", "time": 1612685262, "event": "DRILL", "data": {"got": true}}
+{"id": "Bewegung-[de.noun.gender]-die", "time": 1612685263, "event": "DRILL", "data": {"got": true}}
+{"id": "whom-[de.pron.relative]-wen", "time": 1612685265, "event": "DRILL", "data": {"got": true}}
+{"id": "additional-[de.adj]-zus\u00e4tzlich", "time": 1612685269, "event": "DRILL", "data": {"got": true}}
+{"id": "to; at-[de.prep.wex]-an", "time": 1612685272, "event": "DRILL", "data": {"got": true}}
+{"id": "Tier-[de.noun.gender]-das", "time": 1612685273, "event": "DRILL", "data": {"got": true}}
+{"id": "guest-[de.noun.en]-Gast", "time": 1612685275, "event": "DRILL", "data": {"got": true}}
+{"id": "u.a.-[de.abbr]-unter anderem", "time": 1612685300, "event": "DRILL", "data": {"got": true}}
+{"id": "village-[de.noun.en]-Dorf", "time": 1612685312, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "gratefulness-[de.noun.en]-Dank", "time": 1612685315, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Gebiet-[de.noun.gender]-das", "time": 1612685317, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "stake-[de.noun.en]-Einsatz", "time": 1612685320, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "area/region-[de.noun.en]-Gebiet", "time": 1612685323, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Dank-[de.noun.gender]-der", "time": 1612685324, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "stake-[de.noun.en]-Einsatz", "time": 1612685339, "event": "DRILL", "data": {"got": true}}
+{"id": "Dank-[de.noun.gender]-der", "time": 1612685340, "event": "DRILL", "data": {"got": true}}
+{"id": "village-[de.noun.en]-Dorf", "time": 1612685342, "event": "DRILL", "data": {"got": true}}
+{"id": "gratefulness-[de.noun.en]-Dank", "time": 1612685345, "event": "DRILL", "data": {"got": true}}
+{"id": "area/region-[de.noun.en]-Gebiet", "time": 1612685349, "event": "DRILL", "data": {"got": false}}
+{"id": "Gebiet-[de.noun.gender]-das", "time": 1612685350, "event": "DRILL", "data": {"got": true}}
+{"id": "area/region-[de.noun.en]-Gebiet", "time": 1612685356, "event": "DRILL", "data": {"got": true}}
