@@ -1317,7 +1317,7 @@ de.noun --
  -- das -- Glück        -- luck/fortune
  -- das -- Wochenende   -- weekend
  -- der -- Professor    -- professor (m)
- -- der -- Professorin  -- professor (f)
+ -- die -- Professorin  -- professor (f)
  -- die -- Reihe        -- row
  -- die -- Reihe        -- series (math)
  -- der -- Westen       -- west                 # also just 'West' will do
@@ -1337,7 +1337,8 @@ de.noun --
  -- das -- Prinzip      -- principle
  -- der -- Vorteil      -- advantage
  -- die -- Struktur     -- structure
- -- der -- Autor        -- author
+ -- der -- Autor        -- author (m)
+ -- die -- Autorin      -- author (f)
  -- die -- Bedingung    -- condition
  -- das -- Risiko       -- risk
  -- die -- Wahl         -- choice
