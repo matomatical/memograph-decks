@@ -9519,3 +9519,101 @@
 {"id": "claim-[de.noun.en]-Anspruch", "time": 1612888240, "event": "DRILL", "data": {"got": true}}
 {"id": "Wert-[de.noun.gender]-der", "time": 1612888242, "event": "DRILL", "data": {"got": true}}
 {"id": "Bereich-[de.noun.gender]-der", "time": 1612888246, "event": "DRILL", "data": {"got": true}}
+{"id": "Einfluss-[de.noun.gender]-der", "time": 1612900363, "event": "DRILL", "data": {"got": true}}
+{"id": "Verfahren-[de.noun.gender]-das", "time": 1612900365, "event": "DRILL", "data": {"got": true}}
+{"id": "contract-[de.noun.en]-Vertrag", "time": 1612900368, "event": "DRILL", "data": {"got": true}}
+{"id": "Stoff-[de.noun.gender]-der", "time": 1612900374, "event": "DRILL", "data": {"got": false}}
+{"id": "Unterschied-[de.noun.gender]-der", "time": 1612900378, "event": "DRILL", "data": {"got": false}}
+{"id": "discussion-[de.noun.en]-Diskussion", "time": 1612900392, "event": "DRILL", "data": {"got": true}}
+{"id": "Struktur-[de.noun.gender]-die", "time": 1612900396, "event": "DRILL", "data": {"got": true}}
+{"id": "influence-[de.noun.en]-Einfluss", "time": 1612900399, "event": "DRILL", "data": {"got": true}}
+{"id": "love-[de.noun.en]-Liebe", "time": 1612900402, "event": "DRILL", "data": {"got": true}}
+{"id": "Medien-[de.noun.gender]-plu", "time": 1612900409, "event": "DRILL", "data": {"got": true}}
+{"id": "Augenblick-[de.noun.gender]-der", "time": 1612900432, "event": "DRILL", "data": {"got": true}}
+{"id": "Kreis-[de.noun.gender]-der", "time": 1612900434, "event": "DRILL", "data": {"got": true}}
+{"id": "statement-[de.noun.en]-Angabe", "time": 1612900444, "event": "DRILL", "data": {"got": true}}
+{"id": "Ger\u00e4t-[de.noun.gender]-das", "time": 1612900447, "event": "DRILL", "data": {"got": true}}
+{"id": "Computer-[de.noun.gender]-der", "time": 1612900449, "event": "DRILL", "data": {"got": true}}
+{"id": "danger-[de.noun.en]-Gefahr", "time": 1612900455, "event": "DRILL", "data": {"got": true}}
+{"id": "Dollar-[de.noun.gender]-der", "time": 1612900457, "event": "DRILL", "data": {"got": true}}
+{"id": "claim-[de.noun.en]-Anspruch", "time": 1612900493, "event": "DRILL", "data": {"got": false}}
+{"id": "Vertrag-[de.noun.gender]-der", "time": 1612900524, "event": "DRILL", "data": {"got": true}}
+{"id": "Gl\u00fcck-[de.noun.gender]-das", "time": 1612900526, "event": "DRILL", "data": {"got": true}}
+{"id": "Gefahr-[de.noun.gender]-die", "time": 1612900527, "event": "DRILL", "data": {"got": true}}
+{"id": "Angabe-[de.noun.gender]-die", "time": 1612900530, "event": "DRILL", "data": {"got": false}}
+{"id": "process-[de.noun.en]-Verfahren", "time": 1612900534, "event": "DRILL", "data": {"got": true}}
+{"id": "Alter-[de.noun.gender]-das", "time": 1612900556, "event": "DRILL", "data": {"got": true}}
+{"id": "plain-[de.noun.en]-Ebene", "time": 1612900589, "event": "DRILL", "data": {"got": true}}
+{"id": "Organisation-[de.noun.gender]-die", "time": 1612900594, "event": "DRILL", "data": {"got": true}}
+{"id": "structure-[de.noun.en]-Struktur", "time": 1612900597, "event": "DRILL", "data": {"got": true}}
+{"id": "moment-[de.noun.en]-Augenblick", "time": 1612900603, "event": "DRILL", "data": {"got": true}}
+{"id": "size/height-[de.noun.en]-Gr\u00f6\u00dfe", "time": 1612900610, "event": "DRILL", "data": {"got": true}}
+{"id": "author (f)-[de.noun.en]-Autorin", "time": 1612900613, "event": "DRILL", "data": {"got": true}}
+{"id": "N\u00e4he-[de.noun.gender]-die", "time": 1612900617, "event": "DRILL", "data": {"got": true}}
+{"id": "earth/ground-[de.noun.en]-Erde", "time": 1612900622, "event": "DRILL", "data": {"got": true}}
+{"id": "risk-[de.noun.en]-Risiko", "time": 1612900624, "event": "DRILL", "data": {"got": true}}
+{"id": "sister-[de.noun.en]-Schwester", "time": 1612900629, "event": "DRILL", "data": {"got": true}}
+{"id": "neighbourhood/vicinity-[de.noun.en]-N\u00e4he", "time": 1612900656, "event": "DRILL", "data": {"got": true}}
+{"id": "plane-[de.noun.en]-Ebene", "time": 1612900659, "event": "DRILL", "data": {"got": true}}
+{"id": "might/strength-[de.noun.en]-Macht", "time": 1612900662, "event": "DRILL", "data": {"got": true}}
+{"id": "circuit-[de.noun.en]-Kreis", "time": 1612900664, "event": "DRILL", "data": {"got": true}}
+{"id": "organization-[de.noun.en]-Organisation", "time": 1612900668, "event": "DRILL", "data": {"got": true}}
+{"id": "method-[de.noun.en]-Methode", "time": 1612900674, "event": "DRILL", "data": {"got": true}}
+{"id": "demand-[de.noun.en]-Forderung", "time": 1612900683, "event": "DRILL", "data": {"got": false}}
+{"id": "Forderung-[de.noun.gender]-die", "time": 1612900685, "event": "DRILL", "data": {"got": true}}
+{"id": "principle-[de.noun.en]-Prinzip", "time": 1612900687, "event": "DRILL", "data": {"got": true}}
+{"id": "Risiko-[de.noun.gender]-das", "time": 1612900693, "event": "DRILL", "data": {"got": true}}
+{"id": "Autorin-[de.noun.gender]-die", "time": 1612900694, "event": "DRILL", "data": {"got": true}}
+{"id": "choice-[de.noun.en]-Wahl", "time": 1612900700, "event": "DRILL", "data": {"got": true}}
+{"id": "Gr\u00f6\u00dfe-[de.noun.gender]-die", "time": 1612900701, "event": "DRILL", "data": {"got": true}}
+{"id": "Earth-[de.noun.en]-Erde", "time": 1612900703, "event": "DRILL", "data": {"got": true}}
+{"id": "Macht-[de.noun.gender]-die", "time": 1612900705, "event": "DRILL", "data": {"got": true}}
+{"id": "Wirkung-[de.noun.gender]-die", "time": 1612900706, "event": "DRILL", "data": {"got": true}}
+{"id": "Erde-[de.noun.gender]-die", "time": 1612900707, "event": "DRILL", "data": {"got": true}}
+{"id": "Bedingung-[de.noun.gender]-die", "time": 1612900708, "event": "DRILL", "data": {"got": true}}
+{"id": "author (m)-[de.noun.en]-Autor", "time": 1612900719, "event": "DRILL", "data": {"got": true}}
+{"id": "talk/dialogue-[de.noun.en]-Rede", "time": 1612900723, "event": "DRILL", "data": {"got": false}}
+{"id": "Haar-[de.noun.gender]-das", "time": 1612900724, "event": "DRILL", "data": {"got": true}}
+{"id": "Untersuchung-[de.noun.gender]-die", "time": 1612900732, "event": "DRILL", "data": {"got": true}}
+{"id": "letter-[de.noun.en]-Brief", "time": 1612900734, "event": "DRILL", "data": {"got": true}}
+{"id": "advantage-[de.noun.en]-Vorteil", "time": 1612900741, "event": "DRILL", "data": {"got": true}}
+{"id": "sport-[de.noun.en]-Sport", "time": 1612900747, "event": "DRILL", "data": {"got": true}}
+{"id": "unity-[de.noun.en]-Einheit", "time": 1612900749, "event": "DRILL", "data": {"got": true}}
+{"id": "speech (talk, rhetoric)-[de.noun.en]-Rede", "time": 1612900751, "event": "DRILL", "data": {"got": true}}
+{"id": "Autor-[de.noun.gender]-der", "time": 1612900753, "event": "DRILL", "data": {"got": true}}
+{"id": "Brief-[de.noun.gender]-der", "time": 1612900755, "event": "DRILL", "data": {"got": true}}
+{"id": "data-[de.noun.en]-Datum", "time": 1612900758, "event": "DRILL", "data": {"got": true}}
+{"id": "media-[de.noun.en]-Medien", "time": 1612900764, "event": "DRILL", "data": {"got": true}}
+{"id": "Methode-[de.noun.gender]-die", "time": 1612900768, "event": "DRILL", "data": {"got": true}}
+{"id": "circle (of sth)-[de.noun.en]-Kreis", "time": 1612900771, "event": "DRILL", "data": {"got": true}}
+{"id": "change-[de.noun.en]-Ver\u00e4nderung", "time": 1612900775, "event": "DRILL", "data": {"got": true}}
+{"id": "Ver\u00e4nderung-[de.noun.gender]-die", "time": 1612900777, "event": "DRILL", "data": {"got": true}}
+{"id": "election-[de.noun.en]-Wahl", "time": 1612900779, "event": "DRILL", "data": {"got": true}}
+{"id": "Vorteil-[de.noun.gender]-der", "time": 1612900782, "event": "DRILL", "data": {"got": true}}
+{"id": "hair-[de.noun.en]-Haar", "time": 1612900785, "event": "DRILL", "data": {"got": true}}
+{"id": "Prinzip-[de.noun.gender]-das", "time": 1612900787, "event": "DRILL", "data": {"got": true}}
+{"id": "Diskussion-[de.noun.gender]-die", "time": 1612900797, "event": "DRILL", "data": {"got": false}}
+{"id": "investigation/examination-[de.noun.en]-Untersuchung", "time": 1612900801, "event": "DRILL", "data": {"got": true}}
+{"id": "Einheit-[de.noun.gender]-die", "time": 1612900805, "event": "DRILL", "data": {"got": true}}
+{"id": "effect-[de.noun.en]-Wirkung", "time": 1612900807, "event": "DRILL", "data": {"got": true}}
+{"id": "condition-[de.noun.en]-Bedingung", "time": 1612900819, "event": "DRILL", "data": {"got": true}}
+{"id": "Wahl-[de.noun.gender]-die", "time": 1612900824, "event": "DRILL", "data": {"got": true}}
+{"id": "Sport-[de.noun.gender]-der", "time": 1612900828, "event": "DRILL", "data": {"got": true}}
+{"id": "Reise-[de.noun.gender]-die", "time": 1612900831, "event": "DRILL", "data": {"got": true}}
+{"id": "Ebene-[de.noun.gender]-die", "time": 1612900834, "event": "DRILL", "data": {"got": true}}
+{"id": "trip/journey-[de.noun.en]-Reise", "time": 1612900837, "event": "DRILL", "data": {"got": true}}
+{"id": "Schwester-[de.noun.gender]-die", "time": 1612900841, "event": "DRILL", "data": {"got": true}}
+{"id": "Liebe-[de.noun.gender]-die", "time": 1612900844, "event": "DRILL", "data": {"got": true}}
+{"id": "Rede-[de.noun.gender]-die", "time": 1612900848, "event": "DRILL", "data": {"got": true}}
+{"id": "your (plural)-[de.art.ein]-euer", "time": 1612900876, "event": "DRILL", "data": {"got": true}}
+{"id": "on the basis (of)-[de.prep.gen]-anhand", "time": 1612900883, "event": "DRILL", "data": {"got": false}}
+{"id": "before/until-[de.conj.sub]-ehe", "time": 1612900898, "event": "DRILL", "data": {"got": false}}
+{"id": "so that-[de.conj.sub]-damit", "time": 1612900901, "event": "DRILL", "data": {"got": true}}
+{"id": "from on-[de.prep.dat]-ab", "time": 1612900903, "event": "DRILL", "data": {"got": true}}
+{"id": "in the face (of)-[de.prep.gen]-angesichts", "time": 1612900910, "event": "DRILL", "data": {"got": true}}
+{"id": "Hilfe-[de.noun.gender]-die", "time": 1612900923, "event": "DRILL", "data": {"got": true}}
+{"id": "Kost-[de.noun.gender]-die", "time": 1612900926, "event": "DRILL", "data": {"got": true}}
+{"id": "business-[de.noun.en]-Gesch\u00e4ft", "time": 1612900936, "event": "DRILL", "data": {"got": false}}
+{"id": "Antwort-[de.noun.gender]-die", "time": 1612900937, "event": "DRILL", "data": {"got": true}}
+{"id": "Wirtschaft-[de.noun.gender]-die", "time": 1612900941, "event": "DRILL", "data": {"got": false}}
+{"id": "Spa\u00df-[de.noun.gender]-der", "time": 1612900943, "event": "DRILL", "data": {"got": false}}
