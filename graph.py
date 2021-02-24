@@ -1387,6 +1387,129 @@ de.noun --
  -- das -- Kapitel      -- chapter              # false friend? watch out!
  -- die -- Literatur    -- literature
 
+ -- der -- Rücken       -- back
+ -- die -- Zelle        -- cell
+ -- die -- Aussage      -- statement
+ -- der -- Bürger       -- citizen (m)
+ -- die -- Bürgerin     -- citizen (f)
+ -- der -- Himmel       -- sky
+ -- der -- Himmel       -- heaven
+ -- der -- Inhalt       -- content/s
+ -- der -- Inhalt       -- volume (math)
+ -- die -- Wand         -- wall/screen
+ -- die -- Bibliothek   -- library
+ -- die -- Farbe        -- colour
+ -- die -- Jugendliche  -- youth/jouvenile (f)
+ -- der -- Jugendliche  -- youth/jouvenile (m)
+ -- das -- Maß          -- measure
+ -- der -- Ansatz       -- beginnings/initial stages
+ -- der -- Ansatz       -- approach/attack
+ -- der -- Aspekt       -- aspect
+ -- das -- Bein         -- leg
+ -- die -- Erinnerung   -- memory
+ -- die -- Kenntnis     -- knowledge
+ -- der -- Kurs         -- course/heading
+ -- der -- Kurs         -- course (of study)
+ -- der -- Kurs         -- exchange rate
+ -- das -- Papier       -- paper
+ -- die -- Sekunde      -- second
+ -- die -- Sonne        -- sun
+ -- der -- Umstand      -- circumstance
+ -- die -- Wissenschaft -- science
+ -- der -- Garten       -- garden
+ -- die -- Küche        -- kitchen
+ -- die -- Küche        -- cuisine
+ -- die -- Wirklichkeit -- reality
+ -- der -- Druck        -- pressure                 # plu Drücke
+ -- der -- Druck        -- print (in)               # plu Drucke
+ -- das -- Essen        -- food/meal
+ -- die -- Grundlage    -- basis/foundation
+ -- der -- Zustand      -- condition/state
+ -- die -- Hälfte       -- half
+ -- das -- Meer         -- sea/ocean
+ -- der -- Dienst       -- duty
+ -- der -- Dienst       -- service
+ -- der -- Dienst       -- post/position
+ -- der -- Gegenstand   -- object
+ -- der -- Plan         -- plan
+ -- der -- Zeitpunkt    -- time point/moment
+ -- der -- Auftrag      -- instructions/order
+ -- der -- Baum         -- tree
+ -- die -- Freude       -- joy
+ -- die -- Gemeinde     -- community/municipality
+ -- der -- Hinweis      -- hint
+ -- das -- Netz         -- net
+ -- das -- Netz         -- network
+ -- der -- November     -- November
+ -- die -- Position     -- position
+ -- der -- Schluss      -- end/conclusion
+ -- die -- Bundesrepublik   -- Federal Republic
+ -- die -- Forschung    -- research
+ -- das -- Glas         -- glass
+ -- die -- Haut         -- skin
+ -- die -- Praxis       -- practice (cf. theory)
+ -- die -- Praxis       -- practice (doctor's)
+ -- der -- Wald         -- woods/forest
+ -- der -- Ausdruck     -- expression/term
+ -- der -- Dienstag     -- Tuesday
+ -- der -- Finger       -- finger
+ -- der -- Roman        -- novel
+ -- die -- Sicht        -- sight/view
+ -- die -- Sicht        -- sight/visibility
+ -- die -- Theorie      -- theory
+ -- die -- Umwelt       -- environment
+ -- der -- Haushalt     -- household
+ -- der -- Haushalt     -- (state) budget
+ -- der -- Hund         -- dog
+ -- die -- Maschine     -- machine
+ -- die -- Nummer       -- number
+ -- der -- Politiker    -- politician (m)
+ -- die -- Politikerin  -- politician (f)
+ -- das -- Team         -- team
+ -- der -- Titel        -- title
+ -- der -- Verein       -- association/club
+ -- das -- Fernsehen    -- television
+ -- die -- Schulter     -- shoulder
+ -- die -- Unterstützung    -- support
+ -- das -- Zeichen      -- sign/symbol/signal
+ -- das -- Material     -- material
+ -- die -- Produktion   -- production
+ -- der -- Rest         -- rest/remainder/remains
+ -- die -- Ruhe         -- rest/silence/peace
+ -- der -- Schaden      -- harm/damage/injury
+ -- der -- Soldat       -- soldier
+ -- die -- Sorge        -- worry
+ -- die -- Tatsache     -- fact/actuality
+ -- die -- Umgebung     -- surroundings
+ -- das -- Volk         -- people
+ -- der -- Wagen        -- wagon/car/coach
+ -- der -- Wind         -- wind
+ -- der -- Zweck        -- purpose
+ -- der -- Angriff      -- attack/offense
+ -- der -- Antrag       -- application/request
+ -- das -- Grad         -- degree (unit)
+ -- der -- Grad         -- grade/degree/extent      # also goes by das?
+ -- der -- Grad         -- degree (graduation)      # also goes by das?
+ -- der -- Job          -- job
+ -- der -- Mittwoch     -- Wednesday
+ -- die -- Öffentlichkeit   -- public
+ -- der -- Schutz       -- protection
+ -- der -- Anteil       -- share/portion
+ -- der -- Beschäftigte -- employee (m)
+ -- die -- Beschäftigte -- employee (f)
+ -- der -- Besuch       -- visit
+ -- die -- Energie      -- energy
+ -- die -- Erklärung    -- explanation
+ -- der -- Gang         -- gait/running/course/errands
+ -- der -- Gang         -- gear (motor)
+ -- der -- Gang         -- corridor/aisle
+ -- der -- Lauf         -- course/running
+ -- der -- Unterricht   -- instruction/class
+ -- das -- Zentrum      -- centre
+ -- das -- Amt          -- post/position
+ -- das -- Amt          -- office/department
+
+
 
 # # #
 # ABBREVIATIONS
@@ -1503,4 +1626,109 @@ de.noun -- der -- Schwarzseher      -- 'black seer' (pessimist) (m)
 de.noun -- die -- Schwarzseherin    -- 'black seer' (pessimist) (f)
 de.verb -- schwarzmalen             -- to 'paint black' (be pessimistic)
 de.verb -- schwarzärgern sich       -- to turn black (with anger)
+"""
+
+
+"""
+ -- der -- Anschlag     -- attack+              # and other senses
+ -- das -- Ausland      -- foreign countries
+ -- die -- Behandlung   -- treatment
+ -- die -- Einrichtung  -- institution, furnishings
+ -- das -- Feld         -- field
+ -- die -- Hochschule   -- college, university
+ -- das -- Hotel        -- hotel
+ -- das -- Publikum     -- public, audience
+ -- die -- Studie       -- study
+ -- die -- Vorsitzende  -- chair person (f)
+ -- der -- Votsitzende  -- chair person (m)
+ -- die -- Analyse      -- analysis
+ -- die -- Spur         -- track, lane
+ -- der -- Berg         -- hill, mountain
+ -- die -- Erkenntnis   -- realization, discovery
+ -- der -- Faktor       -- factor
+ -- der -- Fehler       -- mistake, error
+ -- die -- Freiheit     -- freedom
+ -- die -- Freizeit     -- spare time
+ -- die -- Gegend       -- area, region
+ -- die -- Kritik       -- criticism, review
+ -- der -- Partner      -- partner
+ -- der -- See          -- lake
+ -- der -- Typ          -- type
+ -- das -- Ereignis     -- event
+ -- die -- GmbH         -- limited liability company, Ltd
+ -- die -- Kontrolle    -- inspection
+ -- das -- Objekt       -- object
+ -- das -- Opfer        -- sacrifice, victim
+ -- der -- Sprecher     -- speaker
+ -- der -- Arbeitsplatz -- workplace, job
+ -- die -- Aufnahme     -- reception, recording, snapshot
+ -- die -- Fähigkeit    -- ability, capability
+ -- die -- Karte        -- card, ticket, menu
+ -- der -- Urlaub       -- vacation, holiday
+ -- die -- Verantwortung    -- responsibility
+ -- die -- Wahrheit     -- truth
+ -- das -- Gebäude      -- building
+ -- der -- Gesellschafter   -- associate, shareholder
+ -- das -- Jahrzehnt    -- decade
+ -- der -- Norden, Nord -- north
+ -- das -- Ohr          -- ear
+ -- die -- Prüfung      -- examination, test
+ -- die -- Regelung     -- regulation, settlement
+ -- das -- Schiff       -- ship
+ -- die -- Ausstellung  -- exhibition
+ -- der -- Bezug        -- reference, cover
+ -- die -- Bitte        -- request
+ -- die -- Hoffnung     -- hope
+ -- der -- Band         -- volume, tome
+ -- der -- Bericht      -- report
+ -- die -- Einstellung  -- attitude, employment
+ -- das -- Gericht      -- court, dish
+ -- der -- Gewinn       -- profit
+ -- der -- König        -- king
+ -- der -- Mai          -- May
+ -- der -- Sieg         -- victory
+ -- die -- Tat          -- deed
+ -- der -- Traum        -- dream
+ -- die -- Union        -- union
+ -- der -- Amerikaner   -- American
+ -- der -- Besucher     -- visitor
+ -- der -- Bund         -- association, alliance
+ -- der -- Direktor     -- director
+ -- die -- Geographie   -- geography
+ -- der -- Hintergrund  -- background
+ -- die -- Qualität     -- quality
+ -- der -- Rand         -- edge
+ -- die -- Vergangenheit    -- past
+ -- der -- Abschnitt    -- portion, section
+ -- die -- Aktiengesellschaft, AG   -- incorporated company, inc.
+ -- der -- Bauer        -- farmer
+ -- die -- Ehe          -- marriage
+ -- der -- Freitag      -- Friday
+ -- die -- Ursache      -- cause
+ -- der -- Verlust      -- loss
+ -- der -- Winter       -- winter
+ -- der -- Zuschauer    -- spectator
+ -- die -- Anzahl       -- number
+ -- die -- Insel        -- island
+ -- das -- Instrument   -- instrument
+ -- der -- Januar       -- January
+ -- die -- Nachricht    -- news, message
+ -- die -- Pflanze      -- plant
+ -- der -- Samstag      -- Saturday
+ -- die -- Störung      -- disturbance, interruption
+ -- der -- Vertreter    -- representative
+ -- der -- Vorschlag    -- suggestion, proposal
+ -- der -- Zentimeter   -- centimetre
+ -- der -- Abstand      -- distance
+ -- die -- Bildung      -- education
+ -- die -- Eigenschaft  -- quality
+ -- die -- Generation   -- generation
+ -- der -- Leiter       -- leader
+ -- der -- Abschluss    -- end, conclusion
+ -- das -- Blatt        -- sheet, leaf
+ -- der -- Dezember     -- December
+ -- der -- Donnerstag   -- Thursday
+ -- der -- Geist        -- mind, spirit
+ -- das -- Interview    -- interview
+ -- das -- Semester     -- semester
 """
