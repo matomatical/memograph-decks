@@ -17119,61 +17119,556 @@
     "lastTime": 1614711002,
     "lastResult": true
   },
-  "condition/state-[de.noun.en]-Zustand": {},
-  "Zustand-[de.noun.gender]-der": {},
-  "half-[de.noun.en]-H\u00e4lfte": {},
-  "H\u00e4lfte-[de.noun.gender]-die": {},
-  "sea/ocean-[de.noun.en]-Meer": {},
-  "Meer-[de.noun.gender]-das": {},
-  "duty-[de.noun.en]-Dienst": {},
-  "Dienst-[de.noun.gender]-der": {},
-  "service-[de.noun.en]-Dienst": {},
-  "post/position-[de.noun.en]-Dienst": {},
-  "object-[de.noun.en]-Gegenstand": {},
-  "Gegenstand-[de.noun.gender]-der": {},
-  "plan-[de.noun.en]-Plan": {},
-  "Plan-[de.noun.gender]-der": {},
-  "time point/moment-[de.noun.en]-Zeitpunkt": {},
-  "Zeitpunkt-[de.noun.gender]-der": {},
-  "instructions/order-[de.noun.en]-Auftrag": {},
-  "Auftrag-[de.noun.gender]-der": {},
-  "tree-[de.noun.en]-Baum": {},
-  "Baum-[de.noun.gender]-der": {},
-  "joy-[de.noun.en]-Freude": {},
-  "Freude-[de.noun.gender]-die": {},
-  "community/municipality-[de.noun.en]-Gemeinde": {},
-  "Gemeinde-[de.noun.gender]-die": {},
-  "hint-[de.noun.en]-Hinweis": {},
-  "Hinweis-[de.noun.gender]-der": {},
-  "net-[de.noun.en]-Netz": {},
-  "Netz-[de.noun.gender]-das": {},
-  "network-[de.noun.en]-Netz": {},
-  "position-[de.noun.en]-Position": {},
-  "Position-[de.noun.gender]-die": {},
-  "end/conclusion-[de.noun.en]-Schluss": {},
-  "Schluss-[de.noun.gender]-der": {},
-  "Federal Republic-[de.noun.en]-Bundesrepublik": {},
-  "Bundesrepublik-[de.noun.gender]-die": {},
-  "research-[de.noun.en]-Forschung": {},
-  "Forschung-[de.noun.gender]-die": {},
-  "glass-[de.noun.en]-Glas": {},
-  "Glas-[de.noun.gender]-das": {},
-  "skin-[de.noun.en]-Haut": {},
-  "Haut-[de.noun.gender]-die": {},
-  "practice (cf. theory)-[de.noun.en]-Praxis": {},
-  "Praxis-[de.noun.gender]-die": {},
-  "practice (doctor's)-[de.noun.en]-Praxis": {},
-  "woods/forest-[de.noun.en]-Wald": {},
-  "Wald-[de.noun.gender]-der": {},
-  "expression/term-[de.noun.en]-Ausdruck": {},
-  "Ausdruck-[de.noun.gender]-der": {},
-  "finger-[de.noun.en]-Finger": {},
-  "Finger-[de.noun.gender]-der": {},
-  "novel-[de.noun.en]-Roman": {},
-  "Roman-[de.noun.gender]-der": {},
-  "sight/view-[de.noun.en]-Sicht": {},
-  "Sicht-[de.noun.gender]-die": {},
-  "sight/visibility-[de.noun.en]-Sicht": {},
+  "condition/state-[de.noun.en]-Zustand": {
+    "priorParams": [
+      1.0110120985684365,
+      1.0000000000000067,
+      3705.197994469348
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803444,
+    "lastResult": true
+  },
+  "Zustand-[de.noun.gender]-der": {
+    "priorParams": [
+      1.0040636766091369,
+      1.0000000000000056,
+      3638.215468900062
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803414,
+    "lastResult": true
+  },
+  "half-[de.noun.en]-H\u00e4lfte": {
+    "priorParams": [
+      1.0102758197210635,
+      0.9999999999999999,
+      3698.0000184815917
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803441,
+    "lastResult": true
+  },
+  "H\u00e4lfte-[de.noun.gender]-die": {
+    "priorParams": [
+      1.0048218268942442,
+      1.0000000000000073,
+      3645.4224042105325
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803415,
+    "lastResult": true
+  },
+  "sea/ocean-[de.noun.en]-Meer": {
+    "priorParams": [
+      1.0116725524154973,
+      0.9999999999999996,
+      3711.6752757939835
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803450,
+    "lastResult": true
+  },
+  "Meer-[de.noun.gender]-das": {
+    "priorParams": [
+      1.0048218268942442,
+      1.0000000000000073,
+      3645.4224042105325
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803417,
+    "lastResult": true
+  },
+  "duty-[de.noun.en]-Dienst": {
+    "priorParams": [
+      1.011965422085322,
+      1.000000000000002,
+      3714.5537959725643
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803459,
+    "lastResult": true
+  },
+  "Dienst-[de.noun.gender]-der": {
+    "priorParams": [
+      1.0040636766091369,
+      1.0000000000000056,
+      3638.215468900062
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803427,
+    "lastResult": true
+  },
+  "service-[de.noun.en]-Dienst": {
+    "priorParams": [
+      1.0105706404594155,
+      1.00000000000001,
+      3700.8793351643394
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803449,
+    "lastResult": true
+  },
+  "post/position-[de.noun.en]-Dienst": {
+    "priorParams": [
+      1.0115992711116817,
+      0.9999999999999967,
+      3710.955619683846
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803457,
+    "lastResult": true
+  },
+  "object-[de.noun.en]-Gegenstand": {
+    "priorParams": [
+      1.0129872569967504,
+      1.000000000000004,
+      3724.627307934748
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803488,
+    "lastResult": true
+  },
+  "Gegenstand-[de.noun.gender]-der": {
+    "priorParams": [
+      1.0034552111703607,
+      0.999999999999995,
+      3632.4491212205694
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803422,
+    "lastResult": true
+  },
+  "plan-[de.noun.en]-Plan": {
+    "priorParams": [
+      1.0116725524154973,
+      0.9999999999999996,
+      3711.6752757939835
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803467,
+    "lastResult": true
+  },
+  "Plan-[de.noun.gender]-der": {
+    "priorParams": [
+      1.0042914047999987,
+      1.0000000000000067,
+      3640.377665811151
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803413,
+    "lastResult": true
+  },
+  "time point/moment-[de.noun.en]-Zeitpunkt": {
+    "priorParams": [
+      1.0113058899379916,
+      0.9999999999999909,
+      3708.0768907910683
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803471,
+    "lastResult": true
+  },
+  "Zeitpunkt-[de.noun.gender]-der": {
+    "priorParams": [
+      1.0039117227067613,
+      1.000000000000005,
+      3636.77394876528
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803418,
+    "lastResult": true
+  },
+  "instructions/order-[de.noun.en]-Auftrag": {
+    "priorParams": [
+      1.9732107295789616,
+      2.0425148837614446,
+      1576.7587522196852
+    ],
+    "numDrills": 2,
+    "lastTime": 1614803503,
+    "lastResult": true
+  },
+  "Auftrag-[de.noun.gender]-der": {
+    "priorParams": [
+      1.0040636766091369,
+      1.0000000000000056,
+      3638.215468900062
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803423,
+    "lastResult": true
+  },
+  "tree-[de.noun.en]-Baum": {
+    "priorParams": [
+      1.011232480586015,
+      1.0000000000000029,
+      3707.3571824230153
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803466,
+    "lastResult": true
+  },
+  "Baum-[de.noun.gender]-der": {
+    "priorParams": [
+      1.0036074901065524,
+      1.0000000000000107,
+      3633.8907749810082
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803411,
+    "lastResult": true
+  },
+  "joy-[de.noun.en]-Freude": {
+    "priorParams": [
+      1.0129872569967504,
+      1.000000000000004,
+      3724.627307934748
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803497,
+    "lastResult": true
+  },
+  "Freude-[de.noun.gender]-die": {
+    "priorParams": [
+      1.0036074901065524,
+      1.0000000000000107,
+      3633.8907749810082
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803426,
+    "lastResult": true
+  },
+  "community/municipality-[de.noun.en]-Gemeinde": {
+    "priorParams": [
+      1.9945376941316186,
+      2.046851667266624,
+      1626.6124786976236
+    ],
+    "numDrills": 2,
+    "lastTime": 1614803692,
+    "lastResult": true
+  },
+  "Gemeinde-[de.noun.gender]-die": {
+    "priorParams": [
+      1.0030740385165644,
+      1.0000000000000049,
+      3628.844791340796
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803425,
+    "lastResult": true
+  },
+  "hint-[de.noun.en]-Hinweis": {
+    "priorParams": [
+      1.0082749241960673,
+      0.999999999999996,
+      3678.5601932501677
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803505,
+    "lastResult": true
+  },
+  "Hinweis-[de.noun.gender]-der": {
+    "priorParams": [
+      1.0020798001067706,
+      1.0000000000000033,
+      3619.4722212877273
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803429,
+    "lastResult": true
+  },
+  "net-[de.noun.en]-Netz": {
+    "priorParams": [
+      1.010423281697691,
+      1.000000000000009,
+      3699.4396979051476
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803703,
+    "lastResult": true
+  },
+  "Netz-[de.noun.gender]-das": {
+    "priorParams": [
+      1.0051998931622532,
+      1.0000000000000093,
+      3649.0254574748233
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803674,
+    "lastResult": true
+  },
+  "network-[de.noun.en]-Netz": {
+    "priorParams": [
+      1.0132055746307957,
+      1.0000000000000002,
+      3726.785653914258
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803727,
+    "lastResult": true
+  },
+  "position-[de.noun.en]-Position": {
+    "priorParams": [
+      1.011819038332,
+      1.0000000000000029,
+      3713.1145567229955
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803714,
+    "lastResult": true
+  },
+  "Position-[de.noun.gender]-die": {
+    "priorParams": [
+      1.0018497036841931,
+      1.0000000000000049,
+      3617.3090501231422
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803652,
+    "lastResult": true
+  },
+  "end/conclusion-[de.noun.en]-Schluss": {
+    "priorParams": [
+      1.012038575685125,
+      1.0000000000000004,
+      3715.273399983371
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803701,
+    "lastResult": true
+  },
+  "Schluss-[de.noun.gender]-der": {
+    "priorParams": [
+      1.004215522404937,
+      0.9999999999999947,
+      3639.65694460372
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803663,
+    "lastResult": true
+  },
+  "Federal Republic-[de.noun.en]-Bundesrepublik": {
+    "priorParams": [
+      1.0107914853176996,
+      0.9999999999999885,
+      3703.0387121073663
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803720,
+    "lastResult": true
+  },
+  "Bundesrepublik-[de.noun.gender]-die": {
+    "priorParams": [
+      1.0029977223837785,
+      1.000000000000005,
+      3628.1238917984565
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803660,
+    "lastResult": true
+  },
+  "research-[de.noun.en]-Forschung": {
+    "priorParams": [
+      1.0102758197210635,
+      0.9999999999999999,
+      3698.0000184815917
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803711,
+    "lastResult": true
+  },
+  "Forschung-[de.noun.gender]-die": {
+    "priorParams": [
+      1.0045188901515718,
+      1.0000000000000047,
+      3642.539762938562
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803676,
+    "lastResult": true
+  },
+  "glass-[de.noun.en]-Glas": {
+    "priorParams": [
+      1.0093888740889863,
+      1.0000000000000033,
+      3689.361053598964
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803694,
+    "lastResult": true
+  },
+  "Glas-[de.noun.gender]-das": {
+    "priorParams": [
+      1.0037596605789274,
+      1.0000000000000082,
+      3635.3323841440674
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803664,
+    "lastResult": true
+  },
+  "skin-[de.noun.en]-Haut": {
+    "priorParams": [
+      1.0111590455829755,
+      1.0000000000000024,
+      3706.63746358431
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803697,
+    "lastResult": true
+  },
+  "Haut-[de.noun.gender]-die": {
+    "priorParams": [
+      1.0031503274287097,
+      1.0000000000000155,
+      3629.565679685042
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803666,
+    "lastResult": true
+  },
+  "practice (cf. theory)-[de.noun.en]-Praxis": {
+    "priorParams": [
+      1.0126228876475492,
+      0.9999999999999986,
+      3721.0298581671777
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803722,
+    "lastResult": true
+  },
+  "Praxis-[de.noun.gender]-die": {
+    "priorParams": [
+      1.9721093958614162,
+      2.042953081409939,
+      1552.7584466169792
+    ],
+    "numDrills": 2,
+    "lastTime": 1614803682,
+    "lastResult": true
+  },
+  "practice (doctor's)-[de.noun.en]-Praxis": {
+    "priorParams": [
+      1.010938586529241,
+      1.0000000000000067,
+      3704.4782441803727
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803705,
+    "lastResult": true
+  },
+  "woods/forest-[de.noun.en]-Wald": {
+    "priorParams": [
+      1.012111703785312,
+      0.9999999999999941,
+      3715.9929935932855
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803728,
+    "lastResult": true
+  },
+  "Wald-[de.noun.gender]-der": {
+    "priorParams": [
+      1.0045188901515718,
+      1.0000000000000047,
+      3642.539762938562
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803670,
+    "lastResult": true
+  },
+  "expression/term-[de.noun.en]-Ausdruck": {
+    "priorParams": [
+      1.013496310931305,
+      1.0000000000000133,
+      3729.663304375141
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803725,
+    "lastResult": true
+  },
+  "Ausdruck-[de.noun.gender]-der": {
+    "priorParams": [
+      1.002921379015337,
+      1.0000000000000067,
+      3627.402981051015
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803671,
+    "lastResult": true
+  },
+  "finger-[de.noun.en]-Finger": {
+    "priorParams": [
+      1.0105706404594155,
+      1.00000000000001,
+      3700.8793351643394
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803696,
+    "lastResult": true
+  },
+  "Finger-[de.noun.gender]-der": {
+    "priorParams": [
+      1.002921379015337,
+      1.0000000000000067,
+      3627.402981051015
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803673,
+    "lastResult": true
+  },
+  "novel-[de.noun.en]-Roman": {
+    "priorParams": [
+      1.0118922429721813,
+      0.9999999999999958,
+      3713.8341815545477
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803716,
+    "lastResult": true
+  },
+  "Roman-[de.noun.gender]-der": {
+    "priorParams": [
+      1.0034552111703607,
+      0.999999999999995,
+      3632.4491212205694
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803677,
+    "lastResult": true
+  },
+  "sight/view-[de.noun.en]-Sicht": {
+    "priorParams": [
+      1.0115259642258176,
+      1.0000000000000022,
+      3710.2359531348357
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803732,
+    "lastResult": true
+  },
+  "Sicht-[de.noun.gender]-die": {
+    "priorParams": [
+      1.0013887689523862,
+      1.0000000000000133,
+      3612.982402214336
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803654,
+    "lastResult": true
+  },
+  "sight/visibility-[de.noun.en]-Sicht": {
+    "priorParams": [
+      1.010938586529241,
+      1.0000000000000067,
+      3704.4782441803727
+    ],
+    "numDrills": 1,
+    "lastTime": 1614803707,
+    "lastResult": true
+  },
   "theory-[de.noun.en]-Theorie": {},
   "Theorie-[de.noun.gender]-die": {},
   "environment-[de.noun.en]-Umwelt": {},

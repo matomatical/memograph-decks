@@ -13184,3 +13184,116 @@
 {"id": "bad-[de.adj]-schlecht", "time": 1614803238, "event": "DRILL", "data": {"got": true}}
 {"id": "to you (formal)-[de.pron.personal.dat]-Ihnen", "time": 1614803250, "event": "DRILL", "data": {"got": true}}
 {"id": "on the basis (of)-[de.prep.gen]-anhand", "time": 1614803253, "event": "DRILL", "data": {"got": true}}
+{"id": "sea/ocean-[de.noun.en]-Meer", "time": 1614803295, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "condition/state-[de.noun.en]-Zustand", "time": 1614803298, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "duty-[de.noun.en]-Dienst", "time": 1614803300, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "post/position-[de.noun.en]-Dienst", "time": 1614803303, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "half-[de.noun.en]-H\u00e4lfte", "time": 1614803305, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "service-[de.noun.en]-Dienst", "time": 1614803309, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "plan-[de.noun.en]-Plan", "time": 1614803312, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "object-[de.noun.en]-Gegenstand", "time": 1614803315, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "tree-[de.noun.en]-Baum", "time": 1614803317, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "time point/moment-[de.noun.en]-Zeitpunkt", "time": 1614803321, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "joy-[de.noun.en]-Freude", "time": 1614803324, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "instructions/order-[de.noun.en]-Auftrag", "time": 1614803328, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "H\u00e4lfte-[de.noun.gender]-die", "time": 1614803352, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Meer-[de.noun.gender]-das", "time": 1614803354, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Plan-[de.noun.gender]-der", "time": 1614803357, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Zustand-[de.noun.gender]-der", "time": 1614803361, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Baum-[de.noun.gender]-der", "time": 1614803364, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Zeitpunkt-[de.noun.gender]-der", "time": 1614803367, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Auftrag-[de.noun.gender]-der", "time": 1614803370, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Dienst-[de.noun.gender]-der", "time": 1614803374, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Gegenstand-[de.noun.gender]-der", "time": 1614803377, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Freude-[de.noun.gender]-die", "time": 1614803379, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Gemeinde-[de.noun.gender]-die", "time": 1614803385, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "community/municipality-[de.noun.en]-Gemeinde", "time": 1614803392, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "hint-[de.noun.en]-Hinweis", "time": 1614803396, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Hinweis-[de.noun.gender]-der", "time": 1614803402, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Baum-[de.noun.gender]-der", "time": 1614803411, "event": "DRILL", "data": {"got": true}}
+{"id": "Plan-[de.noun.gender]-der", "time": 1614803413, "event": "DRILL", "data": {"got": true}}
+{"id": "Zustand-[de.noun.gender]-der", "time": 1614803414, "event": "DRILL", "data": {"got": true}}
+{"id": "H\u00e4lfte-[de.noun.gender]-die", "time": 1614803415, "event": "DRILL", "data": {"got": true}}
+{"id": "Meer-[de.noun.gender]-das", "time": 1614803417, "event": "DRILL", "data": {"got": true}}
+{"id": "Zeitpunkt-[de.noun.gender]-der", "time": 1614803418, "event": "DRILL", "data": {"got": true}}
+{"id": "Gegenstand-[de.noun.gender]-der", "time": 1614803422, "event": "DRILL", "data": {"got": true}}
+{"id": "Auftrag-[de.noun.gender]-der", "time": 1614803423, "event": "DRILL", "data": {"got": true}}
+{"id": "Gemeinde-[de.noun.gender]-die", "time": 1614803425, "event": "DRILL", "data": {"got": true}}
+{"id": "Freude-[de.noun.gender]-die", "time": 1614803426, "event": "DRILL", "data": {"got": true}}
+{"id": "Dienst-[de.noun.gender]-der", "time": 1614803427, "event": "DRILL", "data": {"got": true}}
+{"id": "Hinweis-[de.noun.gender]-der", "time": 1614803429, "event": "DRILL", "data": {"got": true}}
+{"id": "half-[de.noun.en]-H\u00e4lfte", "time": 1614803441, "event": "DRILL", "data": {"got": true}}
+{"id": "condition/state-[de.noun.en]-Zustand", "time": 1614803444, "event": "DRILL", "data": {"got": true}}
+{"id": "service-[de.noun.en]-Dienst", "time": 1614803449, "event": "DRILL", "data": {"got": true}}
+{"id": "sea/ocean-[de.noun.en]-Meer", "time": 1614803450, "event": "DRILL", "data": {"got": true}}
+{"id": "post/position-[de.noun.en]-Dienst", "time": 1614803457, "event": "DRILL", "data": {"got": true}}
+{"id": "duty-[de.noun.en]-Dienst", "time": 1614803459, "event": "DRILL", "data": {"got": true}}
+{"id": "tree-[de.noun.en]-Baum", "time": 1614803466, "event": "DRILL", "data": {"got": true}}
+{"id": "plan-[de.noun.en]-Plan", "time": 1614803467, "event": "DRILL", "data": {"got": true}}
+{"id": "time point/moment-[de.noun.en]-Zeitpunkt", "time": 1614803471, "event": "DRILL", "data": {"got": true}}
+{"id": "instructions/order-[de.noun.en]-Auftrag", "time": 1614803482, "event": "DRILL", "data": {"got": false}}
+{"id": "object-[de.noun.en]-Gegenstand", "time": 1614803488, "event": "DRILL", "data": {"got": true}}
+{"id": "joy-[de.noun.en]-Freude", "time": 1614803497, "event": "DRILL", "data": {"got": true}}
+{"id": "instructions/order-[de.noun.en]-Auftrag", "time": 1614803503, "event": "DRILL", "data": {"got": true}}
+{"id": "hint-[de.noun.en]-Hinweis", "time": 1614803505, "event": "DRILL", "data": {"got": true}}
+{"id": "community/municipality-[de.noun.en]-Gemeinde", "time": 1614803511, "event": "DRILL", "data": {"got": false}}
+{"id": "end/conclusion-[de.noun.en]-Schluss", "time": 1614803541, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "expression/term-[de.noun.en]-Ausdruck", "time": 1614803545, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "skin-[de.noun.en]-Haut", "time": 1614803549, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "network-[de.noun.en]-Netz", "time": 1614803551, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "practice (cf. theory)-[de.noun.en]-Praxis", "time": 1614803554, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "finger-[de.noun.en]-Finger", "time": 1614803556, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "position-[de.noun.en]-Position", "time": 1614803557, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "novel-[de.noun.en]-Roman", "time": 1614803558, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "practice (doctor's)-[de.noun.en]-Praxis", "time": 1614803560, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "sight/visibility-[de.noun.en]-Sicht", "time": 1614803562, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "net-[de.noun.en]-Netz", "time": 1614803565, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "woods/forest-[de.noun.en]-Wald", "time": 1614803567, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "glass-[de.noun.en]-Glas", "time": 1614803570, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "research-[de.noun.en]-Forschung", "time": 1614803575, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Federal Republic-[de.noun.en]-Bundesrepublik", "time": 1614803577, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "sight/view-[de.noun.en]-Sicht", "time": 1614803579, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Netz-[de.noun.gender]-das", "time": 1614803606, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Schluss-[de.noun.gender]-der", "time": 1614803608, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Wald-[de.noun.gender]-der", "time": 1614803611, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Glas-[de.noun.gender]-das", "time": 1614803615, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Forschung-[de.noun.gender]-die", "time": 1614803617, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Bundesrepublik-[de.noun.gender]-die", "time": 1614803621, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Haut-[de.noun.gender]-die", "time": 1614803625, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Position-[de.noun.gender]-die", "time": 1614803628, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Praxis-[de.noun.gender]-die", "time": 1614803630, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Roman-[de.noun.gender]-der", "time": 1614803632, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Ausdruck-[de.noun.gender]-der", "time": 1614803633, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Finger-[de.noun.gender]-der", "time": 1614803635, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Sicht-[de.noun.gender]-die", "time": 1614803636, "event": "LEARN", "data": {"prior": [1, 1, 3600]}}
+{"id": "Position-[de.noun.gender]-die", "time": 1614803652, "event": "DRILL", "data": {"got": true}}
+{"id": "Sicht-[de.noun.gender]-die", "time": 1614803654, "event": "DRILL", "data": {"got": true}}
+{"id": "Praxis-[de.noun.gender]-die", "time": 1614803658, "event": "DRILL", "data": {"got": false}}
+{"id": "Bundesrepublik-[de.noun.gender]-die", "time": 1614803660, "event": "DRILL", "data": {"got": true}}
+{"id": "Schluss-[de.noun.gender]-der", "time": 1614803663, "event": "DRILL", "data": {"got": true}}
+{"id": "Glas-[de.noun.gender]-das", "time": 1614803664, "event": "DRILL", "data": {"got": true}}
+{"id": "Haut-[de.noun.gender]-die", "time": 1614803666, "event": "DRILL", "data": {"got": true}}
+{"id": "Wald-[de.noun.gender]-der", "time": 1614803670, "event": "DRILL", "data": {"got": true}}
+{"id": "Ausdruck-[de.noun.gender]-der", "time": 1614803671, "event": "DRILL", "data": {"got": true}}
+{"id": "Finger-[de.noun.gender]-der", "time": 1614803673, "event": "DRILL", "data": {"got": true}}
+{"id": "Netz-[de.noun.gender]-das", "time": 1614803674, "event": "DRILL", "data": {"got": true}}
+{"id": "Forschung-[de.noun.gender]-die", "time": 1614803676, "event": "DRILL", "data": {"got": true}}
+{"id": "Roman-[de.noun.gender]-der", "time": 1614803677, "event": "DRILL", "data": {"got": true}}
+{"id": "Praxis-[de.noun.gender]-die", "time": 1614803682, "event": "DRILL", "data": {"got": true}}
+{"id": "community/municipality-[de.noun.en]-Gemeinde", "time": 1614803692, "event": "DRILL", "data": {"got": true}}
+{"id": "glass-[de.noun.en]-Glas", "time": 1614803694, "event": "DRILL", "data": {"got": true}}
+{"id": "finger-[de.noun.en]-Finger", "time": 1614803696, "event": "DRILL", "data": {"got": true}}
+{"id": "skin-[de.noun.en]-Haut", "time": 1614803697, "event": "DRILL", "data": {"got": true}}
+{"id": "end/conclusion-[de.noun.en]-Schluss", "time": 1614803701, "event": "DRILL", "data": {"got": true}}
+{"id": "net-[de.noun.en]-Netz", "time": 1614803703, "event": "DRILL", "data": {"got": true}}
+{"id": "practice (doctor's)-[de.noun.en]-Praxis", "time": 1614803705, "event": "DRILL", "data": {"got": true}}
+{"id": "sight/visibility-[de.noun.en]-Sicht", "time": 1614803707, "event": "DRILL", "data": {"got": true}}
+{"id": "research-[de.noun.en]-Forschung", "time": 1614803711, "event": "DRILL", "data": {"got": true}}
+{"id": "position-[de.noun.en]-Position", "time": 1614803714, "event": "DRILL", "data": {"got": true}}
+{"id": "novel-[de.noun.en]-Roman", "time": 1614803716, "event": "DRILL", "data": {"got": true}}
+{"id": "Federal Republic-[de.noun.en]-Bundesrepublik", "time": 1614803720, "event": "DRILL", "data": {"got": true}}
+{"id": "practice (cf. theory)-[de.noun.en]-Praxis", "time": 1614803722, "event": "DRILL", "data": {"got": true}}
+{"id": "expression/term-[de.noun.en]-Ausdruck", "time": 1614803725, "event": "DRILL", "data": {"got": true}}
+{"id": "network-[de.noun.en]-Netz", "time": 1614803727, "event": "DRILL", "data": {"got": true}}
+{"id": "woods/forest-[de.noun.en]-Wald", "time": 1614803728, "event": "DRILL", "data": {"got": true}}
+{"id": "sight/view-[de.noun.en]-Sicht", "time": 1614803732, "event": "DRILL", "data": {"got": true}}
