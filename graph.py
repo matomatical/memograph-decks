@@ -1477,7 +1477,8 @@ de.noun --
  -- der -- Rest         -- rest/remainder/remains
  -- die -- Ruhe         -- rest/silence/peace
  -- der -- Schaden      -- harm/damage/injury
- -- der -- Soldat       -- soldier
+ -- der -- Soldat       -- soldier (m)
+ -- die -- Soldatin     -- soldier (f)
  -- die -- Sorge        -- worry
  -- die -- Tatsache     -- fact/actuality
  -- die -- Umgebung     -- surroundings
