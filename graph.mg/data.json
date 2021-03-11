@@ -801,12 +801,12 @@
   },
   "additional-[de.adj]-zus\u00e4tzlich": {
     "priorParams": [
-      9.1095672293591,
-      9.110594671800342,
-      309513.9757131348
+      9.306430365301145,
+      9.218562134730336,
+      377591.56664431444
     ],
-    "numDrills": 26,
-    "lastTime": 1614627380,
+    "numDrills": 27,
+    "lastTime": 1615493707,
     "lastResult": true
   },
   "American-[de.adj]-amerikanisch": {
@@ -5031,12 +5031,12 @@
   },
   "from on-[de.prep.dat]-ab": {
     "priorParams": [
-      9.802664731029886,
-      9.71871963352913,
-      271404.0088342112
+      10.40295639231175,
+      10.403319639446188,
+      264825.6834177528
     ],
-    "numDrills": 32,
-    "lastTime": 1614627069,
+    "numDrills": 34,
+    "lastTime": 1615493892,
     "lastResult": true
   },
   "aside from/except-[de.prep.dat]-au\u00dfer": {
@@ -5051,12 +5051,12 @@
   },
   "in accordance with-[de.prep.dat]-gem\u00e4\u00df": {
     "priorParams": [
-      9.291786869075052,
-      9.222536223811646,
-      296839.2079246799
+      9.943353553097147,
+      9.943846896054108,
+      287847.78939443285
     ],
-    "numDrills": 33,
-    "lastTime": 1614627238,
+    "numDrills": 35,
+    "lastTime": 1615493884,
     "lastResult": true
   },
   "corresponding with-[de.prep.dat]-entsprechend": {
@@ -5071,12 +5071,12 @@
   },
   "according to-[de.prep.dat]-zufolge": {
     "priorParams": [
-      14.868677531844861,
-      14.809992208724024,
-      182692.42763013626
+      14.998510865547923,
+      14.938271612962142,
+      208181.37173680702
     ],
-    "numDrills": 43,
-    "lastTime": 1614978607,
+    "numDrills": 44,
+    "lastTime": 1615493754,
     "lastResult": true
   },
   "together with-[de.prep.dat]-samt": {
@@ -5251,12 +5251,12 @@
   },
   "in the face (of)-[de.prep.gen]-angesichts": {
     "priorParams": [
-      6.407296350187949,
-      6.412377508151505,
-      299543.0431567649
+      6.637702397270787,
+      6.511875889298511,
+      405142.08922768594
     ],
-    "numDrills": 27,
-    "lastTime": 1614543600,
+    "numDrills": 28,
+    "lastTime": 1615493633,
     "lastResult": true
   },
   "with the help (of)-[de.prep.gen]-mithilfe": {
@@ -5351,12 +5351,12 @@
   },
   "in place (of)-[de.prep.gen]-anstelle": {
     "priorParams": [
-      5.682598072644404,
-      5.521085819421759,
-      374785.3243233409
+      5.7504880109676,
+      5.611642380572451,
+      527195.699296714
     ],
-    "numDrills": 19,
-    "lastTime": 1614374278,
+    "numDrills": 20,
+    "lastTime": 1615493782,
     "lastResult": true
   },
   "on the part (of)-[de.prep.gen]-seitens": {
@@ -9331,12 +9331,12 @@
   },
   "to proceed with-[de.verb]-betreiben": {
     "priorParams": [
-      13.43839447808306,
-      13.438540945017955,
-      128894.85895008419
+      13.651856791144992,
+      13.578151514665732,
+      151644.8895210047
     ],
-    "numDrills": 36,
-    "lastTime": 1615067261,
+    "numDrills": 37,
+    "lastTime": 1615493645,
     "lastResult": true
   },
   "to fly-[de.verb]-fliegen": {
@@ -13211,13 +13211,13 @@
   },
   "firm/company-[de.noun.en]-Firma": {
     "priorParams": [
-      4.399490054626699,
-      4.403486294052981,
-      308920.7904087939
+      5.057091594312621,
+      5.091445177044728,
+      288135.3920504941
     ],
-    "numDrills": 14,
-    "lastTime": 1614544194,
-    "lastResult": true
+    "numDrills": 15,
+    "lastTime": 1615493759,
+    "lastResult": false
   },
   "Firma-[de.noun.gender]-die": {
     "priorParams": [
@@ -13951,12 +13951,12 @@
   },
   "Modell-[de.noun.gender]-das": {
     "priorParams": [
-      4.458708022553273,
-      4.335957918977547,
-      317209.1460683016
+      4.582737946271219,
+      4.414226685451599,
+      491164.4874272723
     ],
-    "numDrills": 12,
-    "lastTime": 1614472105,
+    "numDrills": 13,
+    "lastTime": 1615493660,
     "lastResult": true
   },
   "nature-[de.noun.en]-Natur": {
@@ -14191,12 +14191,12 @@
   },
   "Wirtschaft-[de.noun.gender]-die": {
     "priorParams": [
-      3.826322666714722,
-      3.686287614625991,
-      324163.741891841
+      3.9368021642449103,
+      3.7535588110243117,
+      529766.8322917398
     ],
-    "numDrills": 13,
-    "lastTime": 1614472101,
+    "numDrills": 14,
+    "lastTime": 1615493775,
     "lastResult": true
   },
   "animal-[de.noun.en]-Tier": {
@@ -14281,12 +14281,12 @@
   },
   "inset/compartment-[de.noun.en]-Einsatz": {
     "priorParams": [
-      3.6541345364925495,
-      3.555466587020257,
-      227729.4933824337
+      3.817385542155178,
+      3.6223489943756273,
+      388361.79368944594
     ],
-    "numDrills": 10,
-    "lastTime": 1614711245,
+    "numDrills": 11,
+    "lastTime": 1615493682,
     "lastResult": true
   },
   "Einsatz-[de.noun.gender]-der": {
@@ -14451,13 +14451,13 @@
   },
   "decree-[de.noun.en]-Verf\u00fcgung": {
     "priorParams": [
-      2.511768384188051,
-      2.3952188711748166,
-      223756.8414356299
+      3.0075794158430447,
+      3.0463197899574745,
+      206419.41595645028
     ],
-    "numDrills": 8,
-    "lastTime": 1614711624,
-    "lastResult": true
+    "numDrills": 9,
+    "lastTime": 1615493810,
+    "lastResult": false
   },
   "Verf\u00fcgung-[de.noun.gender]-die": {
     "priorParams": [
@@ -14471,12 +14471,12 @@
   },
   "compartment-[de.noun.en]-Fach": {
     "priorParams": [
-      2.5118780206993505,
-      2.395357434733738,
-      223732.22057950805
+      2.6745659284181107,
+      2.4367766006351443,
+      462192.6676498899
     ],
-    "numDrills": 8,
-    "lastTime": 1614711560,
+    "numDrills": 9,
+    "lastTime": 1615493801,
     "lastResult": true
   },
   "Fach-[de.noun.gender]-das": {
@@ -14691,13 +14691,13 @@
   },
   "application (of)-[de.noun.en]-Anwendung": {
     "priorParams": [
-      6.329959281910386,
-      6.1876538226423135,
-      145369.69731557052
+      6.894659319276908,
+      6.912381041630563,
+      140219.56151665826
     ],
-    "numDrills": 15,
-    "lastTime": 1615066821,
-    "lastResult": true
+    "numDrills": 16,
+    "lastTime": 1615493798,
+    "lastResult": false
   },
   "Anwendung-[de.noun.gender]-die": {
     "priorParams": [
@@ -14991,12 +14991,12 @@
   },
   "contract-[de.noun.en]-Vertrag": {
     "priorParams": [
-      7.1250168867556685,
-      7.002561652126623,
-      149213.9379671882
+      7.216027477178336,
+      7.103034768319345,
+      194659.94193583354
     ],
-    "numDrills": 21,
-    "lastTime": 1615066833,
+    "numDrills": 22,
+    "lastTime": 1615493853,
     "lastResult": true
   },
   "Vertrag-[de.noun.gender]-der": {
@@ -15521,12 +15521,12 @@
   },
   "condition-[de.noun.en]-Bedingung": {
     "priorParams": [
-      6.461786751181729,
-      6.46353208315617,
-      138994.1158289582
+      7.153898648989895,
+      7.154964645517698,
+      132276.71638375768
     ],
-    "numDrills": 17,
-    "lastTime": 1615067234,
+    "numDrills": 19,
+    "lastTime": 1615493878,
     "lastResult": true
   },
   "Bedingung-[de.noun.gender]-die": {
@@ -15571,12 +15571,12 @@
   },
   "Wahl-[de.noun.gender]-die": {
     "priorParams": [
-      7.67495360823673,
-      7.675916984831298,
-      139126.2516910503
+      7.890614077925124,
+      7.782861548336368,
+      178833.27401952186
     ],
-    "numDrills": 18,
-    "lastTime": 1615067275,
+    "numDrills": 19,
+    "lastTime": 1615493686,
     "lastResult": true
   },
   "election-[de.noun.en]-Wahl": {
@@ -16621,12 +16621,12 @@
   },
   "Wand-[de.noun.gender]-die": {
     "priorParams": [
-      4.76232519809644,
-      4.610019947167939,
-      81081.10555661628
+      4.85600222142025,
+      4.692626364313457,
+      123310.13216972235
     ],
-    "numDrills": 10,
-    "lastTime": 1615232413,
+    "numDrills": 11,
+    "lastTime": 1615493651,
     "lastResult": true
   },
   "library-[de.noun.en]-Bibliothek": {
@@ -16831,13 +16831,13 @@
   },
   "Kenntnis-[de.noun.gender]-die": {
     "priorParams": [
-      3.6943370082348084,
-      3.862303284433952,
-      84779.93283029203
+      3.952642293767166,
+      3.8910852468556154,
+      97562.43485506077
     ],
-    "numDrills": 10,
-    "lastTime": 1615410851,
-    "lastResult": false
+    "numDrills": 11,
+    "lastTime": 1615493890,
+    "lastResult": true
   },
   "course/heading-[de.noun.en]-Kurs": {
     "priorParams": [
@@ -16931,12 +16931,12 @@
   },
   "Sonne-[de.noun.gender]-die": {
     "priorParams": [
-      2.6973921840905315,
-      2.4721993902384294,
-      104797.72207086788
+      2.772497378928531,
+      2.5175573197664876,
+      233348.27975721902
     ],
-    "numDrills": 7,
-    "lastTime": 1615066855,
+    "numDrills": 8,
+    "lastTime": 1615493611,
     "lastResult": true
   },
   "circumstance-[de.noun.en]-Umstand": {
@@ -17101,12 +17101,12 @@
   },
   "basis/foundation-[de.noun.en]-Grundlage": {
     "priorParams": [
-      3.525106079646025,
-      3.297767341564689,
-      124100.92480645879
+      3.5675542537619895,
+      3.360441724556339,
+      221929.92061100577
     ],
-    "numDrills": 11,
-    "lastTime": 1615066782,
+    "numDrills": 12,
+    "lastTime": 1615493741,
     "lastResult": true
   },
   "Grundlage-[de.noun.gender]-die": {
@@ -17341,12 +17341,12 @@
   },
   "community/municipality-[de.noun.en]-Gemeinde": {
     "priorParams": [
-      2.4298759901667553,
-      2.119306317368736,
-      95063.13942704066
+      2.437202482717388,
+      2.1552912620435007,
+      246633.62111009876
     ],
-    "numDrills": 4,
-    "lastTime": 1615066786,
+    "numDrills": 5,
+    "lastTime": 1615493626,
     "lastResult": true
   },
   "Gemeinde-[de.noun.gender]-die": {
@@ -17471,12 +17471,12 @@
   },
   "research-[de.noun.en]-Forschung": {
     "priorParams": [
-      1.5813597807714672,
-      1.5787055827581316,
-      66041.8813820548
+      2.1481930953859227,
+      2.158820021288539,
+      55465.195334241114
     ],
-    "numDrills": 4,
-    "lastTime": 1615232498,
+    "numDrills": 6,
+    "lastTime": 1615493873,
     "lastResult": true
   },
   "Forschung-[de.noun.gender]-die": {
@@ -17571,12 +17571,12 @@
   },
   "Wald-[de.noun.gender]-der": {
     "priorParams": [
-      1.5811893038744502,
-      1.5784721298394322,
-      66009.22083298862
+      2.147729035039255,
+      2.1583954632255864,
+      55436.87428616338
     ],
-    "numDrills": 4,
-    "lastTime": 1615232495,
+    "numDrills": 6,
+    "lastTime": 1615493868,
     "lastResult": true
   },
   "expression/term-[de.noun.en]-Ausdruck": {
@@ -18311,12 +18311,12 @@
   },
   "Grad-[de.noun.gender]-der": {
     "priorParams": [
-      1.3795210844928625,
-      1.3571212253672353,
-      3680.331671310665
+      1.7841879552850184,
+      1.3688166660864107,
+      46116.67821992735
     ],
-    "numDrills": 7,
-    "lastTime": 1615410881,
+    "numDrills": 8,
+    "lastTime": 1615493622,
     "lastResult": true
   },
   "degree (graduation)-[de.noun.en]-Grad": {
