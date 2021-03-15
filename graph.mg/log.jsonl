@@ -14254,3 +14254,40 @@
 {"id": "necessary-[de.adj]-notwendig", "time": 1615674637, "event": "DRILL", "data": {"got": true}}
 {"id": "entire-[de.adj]-gesamt", "time": 1615674642, "event": "DRILL", "data": {"got": false}}
 {"id": "entire-[de.adj]-gesamt", "time": 1615674644, "event": "DRILL", "data": {"got": true}}
+{"id": "Sicht-[de.noun.gender]-die", "time": 1615844016, "event": "DRILL", "data": {"got": false}}
+{"id": "Zeichen-[de.noun.gender]-das", "time": 1615844024, "event": "DRILL", "data": {"got": false}}
+{"id": "Praxis-[de.noun.gender]-die", "time": 1615844025, "event": "DRILL", "data": {"got": true}}
+{"id": "instructions/order-[de.noun.en]-Auftrag", "time": 1615844030, "event": "DRILL", "data": {"got": false}}
+{"id": "Angabe-[de.noun.gender]-die", "time": 1615844036, "event": "DRILL", "data": {"got": true}}
+{"id": "to press/push-[de.verb]-dr\u00fccken", "time": 1615844044, "event": "DRILL", "data": {"got": true}}
+{"id": "to surprise-[de.verb]-\u00fcberraschen", "time": 1615844080, "event": "DRILL", "data": {"got": true}}
+{"id": "to proceed with-[de.verb]-betreiben", "time": 1615844088, "event": "DRILL", "data": {"got": true}}
+{"id": "to take on/accept-[de.verb]-\u00fcbernehmen", "time": 1615844272, "event": "DRILL", "data": {"got": true}}
+{"id": "to decree-[de.verb]-verf\u00fcgen", "time": 1615844277, "event": "DRILL", "data": {"got": true}}
+{"id": "to grasp-[de.verb]-fassen", "time": 1615844285, "event": "DRILL", "data": {"got": false}}
+{"id": "to send-[de.verb]-schicken", "time": 1615844287, "event": "DRILL", "data": {"got": true}}
+{"id": "to promote/support-[de.verb]-f\u00f6rdern", "time": 1615844290, "event": "DRILL", "data": {"got": true}}
+{"id": "to set up/prepare-[de.verb]-einstellen", "time": 1615844299, "event": "DRILL", "data": {"got": false}}
+{"id": "to tell-[de.verb]-erz\u00e4hlen", "time": 1615844306, "event": "DRILL", "data": {"got": false}}
+{"id": "to succeed-[de.verb]-gelingen", "time": 1615844316, "event": "DRILL", "data": {"got": false}}
+{"id": "to raise-[de.verb]-erheben", "time": 1615844320, "event": "DRILL", "data": {"got": false}}
+{"id": "to restrict/limit-[de.verb]-beschr\u00e4nken", "time": 1615844326, "event": "DRILL", "data": {"got": true}}
+{"id": "to suffice-[de.verb]-ausreichen", "time": 1615844330, "event": "DRILL", "data": {"got": true}}
+{"id": "to turn out-[de.verb]-geraten", "time": 1615844335, "event": "DRILL", "data": {"got": true}}
+{"id": "to avoid-[de.verb]-vermeiden", "time": 1615844337, "event": "DRILL", "data": {"got": true}}
+{"id": "to substantiate/justify-[de.verb]-begr\u00fcnden", "time": 1615844345, "event": "DRILL", "data": {"got": false}}
+{"id": "to prevent-[de.verb]-verhindern", "time": 1615844349, "event": "DRILL", "data": {"got": false}}
+{"id": "to occur/remind-[de.verb]-einfallen", "time": 1615844354, "event": "DRILL", "data": {"got": true}}
+{"id": "to thrust/push/punch-[de.verb]-sto\u00dfen", "time": 1615844358, "event": "DRILL", "data": {"got": true}}
+{"id": "to consider-[de.verb]-ber\u00fccksichtigen", "time": 1615844364, "event": "DRILL", "data": {"got": true}}
+{"id": "to announce/herald-[de.verb]-ank\u00fcndigen", "time": 1615844367, "event": "DRILL", "data": {"got": true}}
+{"id": "to found/establish-[de.verb]-gr\u00fcnden", "time": 1615844372, "event": "DRILL", "data": {"got": true}}
+{"id": "to distinguish-[de.verb]-unterscheiden", "time": 1615844377, "event": "DRILL", "data": {"got": false}}
+{"id": "to turn-[de.verb]-wenden", "time": 1615844380, "event": "DRILL", "data": {"got": true}}
+{"id": "to heed/pay attention to-[de.verb]-beachten", "time": 1615844385, "event": "DRILL", "data": {"got": true}}
+{"id": "to get-[de.verb]-bekommen", "time": 1615844389, "event": "DRILL", "data": {"got": false}}
+{"id": "to protect-[de.verb]-sch\u00fctzen", "time": 1615844393, "event": "DRILL", "data": {"got": true}}
+{"id": "to occupy/employ-[de.verb]-besch\u00e4ftigen", "time": 1615844397, "event": "DRILL", "data": {"got": true}}
+{"id": "to advocate-[de.verb]-vertreten", "time": 1615844403, "event": "DRILL", "data": {"got": true}}
+{"id": "to report-[de.verb]-berichten", "time": 1615844407, "event": "DRILL", "data": {"got": true}}
+{"id": "to suffice/be enough-[de.verb]-gen\u00fcgen", "time": 1615844410, "event": "DRILL", "data": {"got": true}}
